@@ -1,0 +1,355 @@
+comp:
+  compName: 2018 XC Dalmatian Paragliding Open
+  location: Hrvace, Croatia
+  from: '2018-05-24'
+  to: '2018-05-27'
+  civilId: '12859'
+  utcOffset:
+    timeZoneMinutes: 120
+nominal:
+  launch: 0.95999999
+  goal: 0.2
+  distance: 25.0 km
+  free: 1.0 km
+  time: 1.0 h
+tasks:
+- taskName: Task 1
+  zones:
+  - zoneName: GS1
+    lat: 43.82972999
+    lng: 16.64243
+    radius: 400.0 m
+  - zoneName: G35
+    lat: 43.84411
+    lng: 16.6599
+    radius: 3000.0 m
+  - zoneName: G44
+    lat: 43.82292999
+    lng: 16.61628999
+    radius: 400.0 m
+  - zoneName: G10
+    lat: 43.78045
+    lng: 16.65744
+    radius: 400.0 m
+  - zoneName: G36
+    lat: 43.82341999
+    lng: 16.58681999
+    radius: 1000.0 m
+  - zoneName: G17
+    lat: 43.72863
+    lng: 16.69474999
+    radius: 1000.0 m
+  - zoneName: G39
+    lat: 43.75677
+    lng: 16.62018
+    radius: 1000.0 m
+  - zoneName: G39
+    lat: 43.75677
+    lng: 16.62018
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 7
+  zoneTimes:
+  - open: 2018-05-24T10:00:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  startGates:
+  - 2018-05-24T10:30:00Z
+  absent:
+  - Josip Osmann
+  - Konstantin Rakić
+  - Slava Jelić
+  - Stjepan Zjacic
+  - Stojan Kranjc
+- taskName: Task 2
+  zones:
+  - zoneName: GS1
+    lat: 43.82972999
+    lng: 16.64243
+    radius: 400.0 m
+  - zoneName: G35
+    lat: 43.84411
+    lng: 16.6599
+    radius: 3000.0 m
+  - zoneName: G44
+    lat: 43.82292999
+    lng: 16.61628999
+    radius: 400.0 m
+  - zoneName: G27
+    lat: 43.79605
+    lng: 16.67222999
+    radius: 400.0 m
+  - zoneName: G41
+    lat: 43.92137
+    lng: 16.46695
+    radius: 14000.0 m
+  - zoneName: G10
+    lat: 43.78045
+    lng: 16.65744
+    radius: 400.0 m
+  - zoneName: G39
+    lat: 43.75677
+    lng: 16.62018
+    radius: 400.0 m
+  - zoneName: G44
+    lat: 43.82292999
+    lng: 16.61628999
+    radius: 1000.0 m
+  - zoneName: G25
+    lat: 43.72975
+    lng: 16.69563
+    radius: 400.0 m
+  speedSection:
+  - 2
+  - 9
+  zoneTimes:
+  - open: 2018-05-26T10:00:00Z
+    close: 2018-05-26T14:00:00Z
+  - open: 2018-05-26T11:00:00Z
+    close: 2018-05-26T14:00:00Z
+  - open: 2018-05-26T11:00:00Z
+    close: 2018-05-26T14:00:00Z
+  - open: 2018-05-26T11:00:00Z
+    close: 2018-05-26T14:00:00Z
+  - open: 2018-05-26T11:00:00Z
+    close: 2018-05-26T14:00:00Z
+  - open: 2018-05-26T11:00:00Z
+    close: 2018-05-26T14:00:00Z
+  - open: 2018-05-26T11:00:00Z
+    close: 2018-05-26T14:00:00Z
+  - open: 2018-05-26T11:00:00Z
+    close: 2018-05-26T14:00:00Z
+  - open: 2018-05-26T11:00:00Z
+    close: 2018-05-26T14:00:00Z
+  startGates:
+  - 2018-05-26T11:00:00Z
+  absent:
+  - David Šiljeg
+  - Josip Osmann
+  - Konstantin Rakić
+  - Richard Edlinger
+  - Stjepan Zjacic
+  - Tomislav Gomerčić
+- taskName: Task 3
+  zones:
+  - zoneName: GS1
+    lat: 43.82972999
+    lng: 16.64243
+    radius: 400.0 m
+  - zoneName: G35
+    lat: 43.84411
+    lng: 16.6599
+    radius: 3000.0 m
+  - zoneName: G44
+    lat: 43.82292999
+    lng: 16.61628999
+    radius: 400.0 m
+  - zoneName: G41
+    lat: 43.92137
+    lng: 16.46695
+    radius: 14000.0 m
+  - zoneName: G27
+    lat: 43.79605
+    lng: 16.67222999
+    radius: 400.0 m
+  - zoneName: G41
+    lat: 43.92137
+    lng: 16.46695
+    radius: 14000.0 m
+  - zoneName: G39
+    lat: 43.75677
+    lng: 16.62018
+    radius: 600.0 m
+  speedSection:
+  - 2
+  - 7
+  zoneTimes:
+  - open: 2018-05-27T09:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  startGates:
+  - 2018-05-27T11:00:00Z
+  absent:
+  - Balazs Szatmari
+  - Josip Osmann
+  - Konstantin Rakić
+  - Richard Edlinger
+  - Sandi Krč
+  - Sandor Roza
+  - Stjepan Zjacic
+  - Tomislav Gomerčić
+  - Zsolt Sandor
+taskFolders:
+- - Task 1
+- - Task 2
+- - Task 3
+pilots:
+- - - Alojz Tovornik
+    - Alojz_Tovornik.20180524-101956.4376.4.igc
+  - - Antoni Buljan
+    - Antoni_Buljan.20180524-102340.4203.9.igc
+  - - Balazs Szatmari
+    - Balazs_Szatmari.20180524-161022.59013.13.igc
+  - - Bruno Matos
+    - Bruno_Matos.20180524-153526.25456.16.igc
+  - - Damir Kalinger
+    - Damir_Kalinger.20180524-162116.52999.21.igc
+  - - David Šiljeg
+    - David__iljeg.20180524-102710.[CIVLID].23.igc
+  - - Dušan Durkovič
+    - Du_an_Durkovi_.20180524-091106.5512.26.igc
+  - - Igor Eržen
+    - Igor_Er_en.20180524-044128.10699.37.igc
+  - - Ivica Huljek
+    - Ivica_Huljek.20180524-163437.10107.40.igc
+  - - Ivo Duarte
+    - Ivo_Duarte.20180524-155755.9281.41.igc
+  - - Jerko Odžak
+    - Jerko_Od_ak.20180524-164140.12915.46.igc
+  - - Joan Brito
+    - Juan_Britpo.20180524-160006.71320.114.igc
+  - - Krešo  Kovačič
+    - Kre_o__Kova_i_.20180524-163512.11315.54.igc
+  - - Lara Leban
+    - Lara_Leban.20180524-091444.39789.57.igc
+  - - Marketa Tomaskova
+    - Marketa_Tomaskova.20180524-142817.8382.63.igc
+  - - Mitja Jančič
+    - Mitja_Jan_i_.20180524-092120.17659.72.igc
+  - - Mitja Jug
+    - Mitja_Jug.20180524-102318.36030.73.igc
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - Nuno_Filipe_da_Fonseca_Bastos_Gomes.20180524-155855.2130.74.igc
+  - - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - Ricardo_Nicolau_Soares_Terra_de_Oliveira_Figueiredo.20180524-155645.70252.80.igc
+  - - Richard Edlinger
+    - null
+  - - Sandi Krč
+    - Sandi_Kr_.20180524-092550.13245.86.igc
+  - - Sandor Roza
+    - null
+  - - Tomas Svoboda
+    - Tomas_Svoboda.20180524-161316.[CIVLID].98.igc
+  - - Tomaž Toplak
+    - Toma__Toplak.20180524-114228.12671.101.IGC
+  - - Tomislav Gomerčić
+    - Tomislav_Gomer_i_.20180524-163357.28441.102.igc
+  - - Zsolt Sandor
+    - null
+- - - Alojz Tovornik
+    - Alojz_Tovornik.20180526-111200.4376.4.igc
+  - - Antoni Buljan
+    - Antoni_Buljan.20180526-095650.4203.9.igc
+  - - Balazs Szatmari
+    - Balazs_Szatmari.20180526-170112.59013.13.igc
+  - - Bruno Matos
+    - Bruno_Matos.20180526-163128.25456.16.igc
+  - - Damir Kalinger
+    - Damir_Kalinger.20180526-164423.52999.21.igc
+  - - Dušan Durkovič
+    - Du_an_Durkovi_.20180526-101614.5512.26.igc
+  - - Igor Eržen
+    - Igor_Er_en.20180526-050342.10699.37.igc
+  - - Ivica Huljek
+    - Ivica_Huljek.20180526-164659.10107.40.igc
+  - - Ivo Duarte
+    - Ivo_Duarte.20180526-163513.9281.41.igc
+  - - Jerko Odžak
+    - Jerko_Od_ak.20180526-165352.12915.46.igc
+  - - Joan Brito
+    - Joan_Brito.20180526-163027.71320.114.igc
+  - - Krešo  Kovačič
+    - Kre_o__Kova_i_.20180526-174656.11315.54.igc
+  - - Lara Leban
+    - Lara_Leban.20180526-100038.39789.57.igc
+  - - Marketa Tomaskova
+    - Marketa_Tomaskova.20180526-141113.8382.63.igc
+  - - Mitja Jančič
+    - Mitja_Jan_i_.20180526-101536.17659.72.igc
+  - - Mitja Jug
+    - Mitja_Jug.20180526-141026.36030.73.igc
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - Nuno_Filipe_da_Fonseca_Bastos_Gomes.20180526-163717.2130.74.igc
+  - - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - null
+  - - Sandi Krč
+    - Sandi_Kr_.20180526-095616.13245.86.igc
+  - - Slava Jelić
+    - null
+  - - Stojan Kranjc
+    - Stojan_Kranjc.20180526-100804.748.95.igc
+  - - Tomas Svoboda
+    - Tomas_Svoboda.20180526-162901.[CIVLID].98.igc
+  - - Tomaž Toplak
+    - Toma__Toplak.20180526-122526.12671.101.IGC
+  - - Zsolt Sandor
+    - Zsolt_Sandor.20180526-165119.5920.113.igc
+- - - Alojz Tovornik
+    - Alojz_Tovornik.20180527-104248.4376.4.igc
+  - - Antoni Buljan
+    - Antoni_Buljan.20180527-152310.4203.9.igc
+  - - Bruno Matos
+    - Bruno_Matos.20180527-152149.25456.16.igc
+  - - Damir Kalinger
+    - null
+  - - David Šiljeg
+    - David__iljeg.20180527-113456.[CIVLID].23.igc
+  - - Dušan Durkovič
+    - Du_an_Durkovi_.20180527-151834.5512.26.igc
+  - - Igor Eržen
+    - Igor_Er_en.20180527-103150.10699.37.igc
+  - - Ivica Huljek
+    - Ivica_Huljek.20180527-151629.10107.40.igc
+  - - Ivo Duarte
+    - Ivo_Duarte.20180527-152231.9281.41.igc
+  - - Jerko Odžak
+    - Jerko_Od_ak.20180527-165116.12915.46.igc
+  - - Joan Brito
+    - Joan_Brito.20180527-152006.71320.114.igc
+  - - Krešo  Kovačič
+    - Kre_o__Kova_i_.20180527-151748.11315.54.igc
+  - - Lara Leban
+    - Lara_Leban.20180527-103214.39789.57.igc
+  - - Marketa Tomaskova
+    - Marketa_Tomaskova.20180527-151350.8382.63.igc
+  - - Mitja Jančič
+    - Mitja_Jan_i_.20180527-152426.17659.72.igc
+  - - Mitja Jug
+    - Mitja_Jug.20180527-150238.36030.73.igc
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - Nuno_Filipe_da_Fonseca_Bastos_Gomes.20180527-152054.2130.74.igc
+  - - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - Ricardo_Nicolau_Soares_Terra_de_Oliveira_Figueiredo.20180527-163705.70252.80.igc
+  - - Slava Jelić
+    - null
+  - - Stojan Kranjc
+    - Stojan_Kranjc.20180527-104840.748.95.igc
+  - - Tomas Svoboda
+    - Tomas_Svoboda.20180527-151251.[CIVLID].98.igc
+  - - Tomaž Toplak
+    - Toma__Toplak.20180527-123522.12671.101.IGC
