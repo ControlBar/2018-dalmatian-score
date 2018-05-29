@@ -1,0 +1,72 @@
+pilotsAtEss:
+- 0
+- 0
+- 0
+raceTime:
+- openTask: 2018-05-24T10:30:00Z
+  closeTask: 2018-05-24T14:00:00Z
+  firstStart: 2018-05-24T10:40:42Z
+  firstLead: 2018-05-24T10:40:42Z
+  lastArrival: null
+  leadArrival: null
+  leadClose: 11958
+  openClose: 12600
+  tickClose: 11958
+- openTask: 2018-05-26T11:00:00Z
+  closeTask: 2018-05-26T14:00:00Z
+  firstStart: 2018-05-26T11:06:52Z
+  firstLead: 2018-05-26T11:06:52Z
+  lastArrival: null
+  leadArrival: null
+  leadClose: 10388
+  openClose: 10800
+  tickClose: 10388
+- openTask: 2018-05-27T11:00:00Z
+  closeTask: 2018-05-27T14:00:00Z
+  firstStart: 2018-05-27T10:59:55Z
+  firstLead: 2018-05-27T10:59:55Z
+  lastArrival: 2018-05-27T12:37:57Z
+  leadArrival: 5882
+  leadClose: 10805
+  openClose: 10800
+  tickClose: 10805
+bestTime:
+- null
+- null
+- null
+taskDistance:
+- null
+- null
+- null
+bestDistance:
+- null
+- null
+- null
+sumDistance:
+- null
+- null
+- null
+minLead:
+- null
+- null
+- null
+lead:
+- []
+- []
+- []
+arrival:
+- []
+- []
+- []
+speed:
+- []
+- []
+- []
+nigh:
+- []
+- []
+- []
+land:
+- []
+- []
+- []
