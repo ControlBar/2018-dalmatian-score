@@ -11,7 +11,7 @@ Extracting tasks completed in 307.94 ms
 
 > ../../bin/task-length "--file=2018 XC Dalmatian Paragliding Open"
 2018 XC Dalmatian Paragliding Open.comp-input.yaml
-Measuring task lengths completed in 300.10 ms
+Measuring task lengths completed in 2.50 m
 
 > ../../bin/cross-zone "--file=2018 XC Dalmatian Paragliding Open"
 Reading competition from '2018 XC Dalmatian Paragliding Open.comp-input.yaml'
