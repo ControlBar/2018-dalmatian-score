@@ -1,7 +1,7 @@
 pilotsAtEss:
 - 0
 - 0
-- 0
+- 8
 raceTime:
 - openTask: 2018-05-24T10:30:00Z
   closeTask: 2018-05-24T14:00:00Z
@@ -33,40 +33,829 @@ raceTime:
 bestTime:
 - null
 - null
-- null
+- 1.058611 h
 taskDistance:
-- null
-- null
-- null
+- 31.095258
+- 44.063042
+- 30.940083
 bestDistance:
-- null
-- null
-- null
+- 12.620258
+- 26.939042
+- 30.940083
 sumDistance:
 - null
 - null
-- null
+- 298.57207900000003
 minLead:
-- null
-- null
-- null
+- 1.0e-8
+- 0.0
+- 6.7e-7
 lead:
-- []
-- []
-- []
+- - - Jerko Odžak
+    - coef: 1.0e-8
+      frac: 1
+  - - Krešo  Kovačič
+    - coef: 2.2e-7
+      frac: 0.98382447
+  - - Tomaž Toplak
+    - coef: 5.5e-7
+      frac: 0.96992809
+- - - Alojz Tovornik
+    - coef: 0.0
+      frac: 1
+  - - Ivica Huljek
+    - coef: 3.0e-8
+      frac: 0.99334048
+  - - Damir Kalinger
+    - coef: 5.0e-8
+      frac: 0.99098363
+  - - Mitja Jug
+    - coef: 1.9e-7
+      frac: 0.97855833
+  - - Jerko Odžak
+    - coef: 2.4e-7
+      frac: 0.9744741
+  - - Krešo  Kovačič
+    - coef: 7.2e-7
+      frac: 0.94746195
+  - - Ivo Duarte
+    - coef: 7.5e-7
+      frac: 0.94613707
+  - - Tomaž Toplak
+    - coef: 7.6e-7
+      frac: 0.94571128
+  - - Tomas Svoboda
+    - coef: 7.7e-7
+      frac: 0.94501709
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - coef: 8.2e-7
+      frac: 0.94248691
+  - - Bruno Matos
+    - coef: 8.6e-7
+      frac: 0.94064653
+  - - Joan Brito
+    - coef: 9.1e-7
+      frac: 0.9383736
+- - - Dušan Durkovič
+    - coef: 6.7e-7
+      frac: 1
+  - - Bruno Matos
+    - coef: 6.8e-7
+      frac: 0.99943042
+  - - Tomas Svoboda
+    - coef: 6.8e-7
+      frac: 0.99925189
+  - - Joan Brito
+    - coef: 8.8e-7
+      frac: 0.99594727
+  - - Mitja Jug
+    - coef: 1.03e-6
+      frac: 0.99420301
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - coef: 1.09e-6
+      frac: 0.99352286
+  - - Tomaž Toplak
+    - coef: 1.13e-6
+      frac: 0.99320711
+  - - Antoni Buljan
+    - coef: 1.22e-6
+      frac: 0.99227319
+  - - Krešo  Kovačič
+    - coef: 17340.65949894
+      frac: 0
+  - - Ivo Duarte
+    - coef: 106443.70711279
+      frac: 0
+  - - Jerko Odžak
+    - coef: 4773632.05900811
+      frac: 0
+  - - Ivica Huljek
+    - coef: 5297682.831722
+      frac: 0
+  - - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - coef: 7005294.32404755
+      frac: 0
 arrival:
 - []
 - []
-- []
+- - - Bruno Matos
+    - rank: 1
+      frac: 1
+  - - Tomas Svoboda
+    - rank: 2
+      frac: 0.75596679
+  - - Dušan Durkovič
+    - rank: 3
+      frac: 0.56792187
+  - - Tomaž Toplak
+    - rank: 4
+      frac: 0.42844726
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - rank: 5
+      frac: 0.330125
+  - - Mitja Jug
+    - rank: 6
+      frac: 0.2655371
+  - - Antoni Buljan
+    - rank: 7
+      frac: 0.22726562
+  - - Joan Brito
+    - rank: 8
+      frac: 0.20789257
 speed:
 - []
 - []
-- []
+- - - Bruno Matos
+    - time: 1.058611 h
+      frac: 1
+  - - Tomas Svoboda
+    - time: 1.092222 h
+      frac: 0.89780967
+  - - Tomaž Toplak
+    - time: 1.135833 h
+      frac: 0.82206991
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - time: 1.273055 h
+      frac: 0.64846838
+  - - Dušan Durkovič
+    - time: 1.285277 h
+      frac: 0.63523517
+  - - Antoni Buljan
+    - time: 1.311666 h
+      frac: 0.60744687
+  - - Mitja Jug
+    - time: 1.519166 h
+      frac: 0.41483833
+  - - Joan Brito
+    - time: 1.619444 h
+      frac: 0.33271648
 nigh:
-- []
-- []
-- []
+- - - Tomaž Toplak
+    - togo:
+        distance: 18.475155
+        legs:
+        - 1.301903
+        - 11.647186
+        - 5.526066
+        legsSum:
+        - 1.301903
+        - 12.949089
+        - 18.475155
+        waypoints:
+        - lat: 43.81288299
+          lng: 16.60972999
+        - lat: 43.81614441
+          lng: 16.59414641
+        - lat: 43.73566477
+          lng: 16.68699634
+        - lat: 43.76282694
+          lng: 16.62938409
+      made: 12.620258
+  - - Krešo  Kovačič
+    - togo:
+        distance: 27.510228
+        legs:
+        - 4.289474
+        - 6.047502
+        - 11.647186
+        - 5.526066
+        legsSum:
+        - 4.289474
+        - 10.336976
+        - 21.984162
+        - 27.510228
+        waypoints:
+        - lat: 43.815516
+          lng: 16.62529999
+        - lat: 43.78284909
+          lng: 16.65372751
+        - lat: 43.81614441
+          lng: 16.59414641
+        - lat: 43.73566477
+          lng: 16.68699634
+        - lat: 43.76282694
+          lng: 16.62938409
+      made: 3.585258
+  - - Mitja Jug
+    - togo:
+        distance: 29.092999
+        legs:
+        - 0.593548
+        - 5.278697
+        - 6.047502
+        - 11.647186
+        - 5.526066
+        legsSum:
+        - 0.593548
+        - 5.872245
+        - 11.919747
+        - 23.566933
+        - 29.092999
+        waypoints:
+        - lat: 43.828983
+          lng: 16.62383
+        - lat: 43.82404151
+          lng: 16.62103191
+        - lat: 43.78284909
+          lng: 16.65372751
+        - lat: 43.81614441
+          lng: 16.59414641
+        - lat: 43.73566477
+          lng: 16.68699634
+        - lat: 43.76282694
+          lng: 16.62938409
+      made: 2.002258
+  - - Jerko Odžak
+    - togo:
+        distance: 29.743187
+        legs:
+        - 1.470794
+        - 5.04091
+        - 6.058231
+        - 11.647186
+        - 5.526066
+        legsSum:
+        - 1.470794
+        - 6.511704
+        - 12.569935
+        - 24.217121
+        - 29.743187
+        waypoints:
+        - lat: 43.82058299
+          lng: 16.63923
+        - lat: 43.82166806
+          lng: 16.62095904
+        - lat: 43.78326385
+          lng: 16.65433598
+        - lat: 43.81614441
+          lng: 16.59414641
+        - lat: 43.73566477
+          lng: 16.68699634
+        - lat: 43.76282694
+          lng: 16.62938409
+      made: 1.352258
+  - - Tomislav Gomerčić
+    - togo:
+        distance: 29.75025
+        legs:
+        - 1.477857
+        - 5.04091
+        - 6.058231
+        - 11.647186
+        - 5.526066
+        legsSum:
+        - 1.477857
+        - 6.518767
+        - 12.576998
+        - 24.224184
+        - 29.75025
+        waypoints:
+        - lat: 43.81989999
+          lng: 16.639216
+        - lat: 43.82166806
+          lng: 16.62095904
+        - lat: 43.78326385
+          lng: 16.65433598
+        - lat: 43.81614441
+          lng: 16.59414641
+        - lat: 43.73566477
+          lng: 16.68699634
+        - lat: 43.76282694
+          lng: 16.62938409
+      made: 1.345258
+  - - Alojz Tovornik
+    - togo:
+        distance: 28.827803
+        legs:
+        - 0.328352
+        - 5.278697
+        - 6.047502
+        - 11.647186
+        - 5.526066
+        legsSum:
+        - 0.328352
+        - 5.60705
+        - 11.654552
+        - 23.301738
+        - 28.827803
+        waypoints:
+        - lat: 43.82658299
+          lng: 16.62311599
+        - lat: 43.82404151
+          lng: 16.62103191
+        - lat: 43.78284909
+          lng: 16.65372751
+        - lat: 43.81614441
+          lng: 16.59414641
+        - lat: 43.73566477
+          lng: 16.68699634
+        - lat: 43.76282694
+          lng: 16.62938409
+      made: 2.267258
+- - - Nuno Filipe da Fonseca Bastos Gomes
+    - togo:
+        distance: 17.123663
+        legs:
+        - 6.028378
+        - 11.095284
+        legsSum:
+        - 6.028378
+        - 17.123663
+        waypoints:
+        - lat: 43.76155
+          lng: 16.62839999
+        - lat: 43.81565441
+          lng: 16.62361635
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 26.939042
+  - - Tomaž Toplak
+    - togo:
+        distance: 17.220541
+        legs:
+        - 5.9723
+        - 11.248241
+        legsSum:
+        - 5.9723
+        - 17.220541
+        waypoints:
+        - lat: 43.760316
+          lng: 16.620916
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 26.843042
+  - - Tomas Svoboda
+    - togo:
+        distance: 17.182515
+        legs:
+        - 5.934274
+        - 11.248241
+        legsSum:
+        - 5.934274
+        - 17.182515
+        waypoints:
+        - lat: 43.76069999
+          lng: 16.62184999
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 26.880042
+  - - Krešo  Kovačič
+    - togo:
+        distance: 17.480406
+        legs:
+        - 0.268506
+        - 5.963659
+        - 11.248241
+        legsSum:
+        - 0.268506
+        - 6.232165
+        - 17.480406
+        waypoints:
+        - lat: 43.7627
+          lng: 16.619316
+        - lat: 43.76036728
+          lng: 16.62018
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 26.583042
+  - - Joan Brito
+    - togo:
+        distance: 20.745017
+        legs:
+        - 0.176674
+        - 3.276382
+        - 6.04372
+        - 11.248241
+        legsSum:
+        - 0.176674
+        - 3.453056
+        - 9.496776
+        - 20.745017
+        waypoints:
+        - lat: 43.78028299
+          lng: 16.6503
+        - lat: 43.78008444
+          lng: 16.65248339
+        - lat: 43.7597709
+          lng: 16.62292634
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 23.321042
+  - - Bruno Matos
+    - togo:
+        distance: 20.72673
+        legs:
+        - 0.227561
+        - 3.207208
+        - 6.04372
+        - 11.248241
+        legsSum:
+        - 0.227561
+        - 3.434768
+        - 9.478489
+        - 20.72673
+        waypoints:
+        - lat: 43.778716
+          lng: 16.6503
+        - lat: 43.77864212
+          lng: 16.65313257
+        - lat: 43.7597709
+          lng: 16.62292634
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 23.339042
+  - - Ivo Duarte
+    - togo:
+        distance: 21.378217
+        legs:
+        - 0.682301
+        - 3.403954
+        - 6.04372
+        - 11.248241
+        legsSum:
+        - 0.682301
+        - 4.086256
+        - 10.129976
+        - 21.378217
+        waypoints:
+        - lat: 43.78761599
+          lng: 16.65408299
+        - lat: 43.78156152
+          lng: 16.65270144
+        - lat: 43.7597709
+          lng: 16.62292634
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 22.685042
+  - - Jerko Odžak
+    - togo:
+        distance: 37.471238
+        legs:
+        - 0.689765
+        - 8.236912
+        - 8.012238
+        - 3.240362
+        - 6.04372
+        - 11.248241
+        legsSum:
+        - 0.689765
+        - 8.926677
+        - 16.938915
+        - 20.179277
+        - 26.222998
+        - 37.471238
+        waypoints:
+        - lat: 43.8004
+          lng: 16.66016
+        - lat: 43.79716152
+          lng: 16.66749019
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.7794907
+          lng: 16.65263805
+        - lat: 43.7597709
+          lng: 16.62292634
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 6.592042
+  - - Mitja Jug
+    - togo:
+        distance: 39.537076
+        legs:
+        - 2.684867
+        - 8.307648
+        - 8.012238
+        - 3.240362
+        - 6.04372
+        - 11.248241
+        legsSum:
+        - 2.684867
+        - 10.992515
+        - 19.004753
+        - 22.245115
+        - 28.288835
+        - 39.537076
+        waypoints:
+        - lat: 43.818016
+          lng: 16.64874999
+        - lat: 43.79886385
+          lng: 16.66912516
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.7794907
+          lng: 16.65263805
+        - lat: 43.7597709
+          lng: 16.62292634
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 4.526042
+  - - Damir Kalinger
+    - togo:
+        distance: 40.683759
+        legs:
+        - 3.902286
+        - 8.236912
+        - 8.012238
+        - 3.240362
+        - 6.04372
+        - 11.248241
+        legsSum:
+        - 3.902286
+        - 12.139198
+        - 20.151436
+        - 23.391798
+        - 29.435518
+        - 40.683759
+        waypoints:
+        - lat: 43.82255
+          lng: 16.63391599
+        - lat: 43.79716152
+          lng: 16.66749019
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.7794907
+          lng: 16.65263805
+        - lat: 43.7597709
+          lng: 16.62292634
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 3.379042
+  - - Ivica Huljek
+    - togo:
+        distance: 41.003711
+        legs:
+        - 4.222237
+        - 8.236912
+        - 8.012238
+        - 3.240362
+        - 6.04372
+        - 11.248241
+        legsSum:
+        - 4.222237
+        - 12.459149
+        - 20.471387
+        - 23.71175
+        - 29.75547
+        - 41.003711
+        waypoints:
+        - lat: 43.8125
+          lng: 16.61936
+        - lat: 43.79716152
+          lng: 16.66749019
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.7794907
+          lng: 16.65263805
+        - lat: 43.7597709
+          lng: 16.62292634
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 3.060042
+  - - Alojz Tovornik
+    - togo:
+        distance: 42.576084
+        legs:
+        - 1.18422
+        - 4.61039
+        - 8.236912
+        - 8.012238
+        - 3.240362
+        - 6.04372
+        - 11.248241
+        legsSum:
+        - 1.18422
+        - 5.794611
+        - 14.031523
+        - 22.043761
+        - 25.284123
+        - 31.327843
+        - 42.576084
+        waypoints:
+        - lat: 43.82126
+          lng: 16.63535999
+        - lat: 43.82112211
+          lng: 16.62060047
+        - lat: 43.79716152
+          lng: 16.66749019
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.7794907
+          lng: 16.65263805
+        - lat: 43.7597709
+          lng: 16.62292634
+        - lat: 43.81394557
+          lng: 16.61684132
+        - lat: 43.73217273
+          lng: 16.69930978
+      made: 1.486042
+- - - Krešo  Kovačič
+    - togo:
+        distance: 1.716862
+        legs:
+        - 1.716862
+        legsSum:
+        - 1.716862
+        waypoints:
+        - lat: 43.77575
+          lng: 16.62806
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 29.223083
+  - - Ivo Duarte
+    - togo:
+        distance: 4.253625
+        legs:
+        - 4.253625
+        legsSum:
+        - 4.253625
+        waypoints:
+        - lat: 43.79852999
+          lng: 16.63003
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 26.686083
+  - - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - togo:
+        distance: 27.288613
+        legs:
+        - 2.84778
+        - 8.236912
+        - 5.287829
+        legsSum:
+        - 2.84778
+        - 11.084692
+        - 16.372521
+        waypoints:
+        - lat: 43.83162999
+          lng: 16.600916
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.79716152
+          lng: 16.66749019
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 3.651083
+  - - Alojz Tovornik
+    - togo:
+        distance: 28.902316
+        legs:
+        - 0.956468
+        - 3.505014
+        - 8.236912
+        - 5.287829
+        legsSum:
+        - 0.956468
+        - 4.461483
+        - 12.698395
+        - 17.986224
+        waypoints:
+        - lat: 43.832683
+          lng: 16.61876
+        - lat: 43.82532908
+          lng: 16.61257486
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.79716152
+          lng: 16.66749019
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 2.037083
+  - - Ivica Huljek
+    - togo:
+        distance: 30.010815
+        legs:
+        - 2.061369
+        - 3.508613
+        - 8.236912
+        - 5.287829
+        legsSum:
+        - 2.061369
+        - 5.569982
+        - 13.806894
+        - 19.094723
+        waypoints:
+        - lat: 43.8203
+          lng: 16.63905
+        - lat: 43.82001973
+          lng: 16.61335936
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.79716152
+          lng: 16.66749019
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 0.929083
+  - - Jerko Odžak
+    - togo:
+        distance: 28.48756
+        legs:
+        - 4.046727
+        - 8.236912
+        - 5.287829
+        legsSum:
+        - 4.046727
+        - 12.283639
+        - 17.571468
+        waypoints:
+        - lat: 43.825
+          lng: 16.61949999
+        - lat: 43.81952519
+          lng: 16.56963254
+        - lat: 43.79716152
+          lng: 16.66749019
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 2.452083
 land:
-- []
-- []
-- []
+- - - Tomaž Toplak
+    - togo: 18.476256
+      made: 12.619
+  - - Krešo  Kovačič
+    - togo: 27.510291
+      made: 3.585
+  - - Mitja Jug
+    - togo: 29.11164
+      made: 1.984
+  - - Jerko Odžak
+    - togo: 29.832874
+      made: 1.262
+  - - Tomislav Gomerčić
+    - togo: 30.232176
+      made: 0.863
+  - - Alojz Tovornik
+    - togo: 31.827625
+      made: -0.732
+- - - Nuno Filipe da Fonseca Bastos Gomes
+    - togo: 17.148127
+      made: 26.915
+  - - Tomaž Toplak
+    - togo: 17.391806
+      made: 26.671
+  - - Tomas Svoboda
+    - togo: 17.410861
+      made: 26.652
+  - - Krešo  Kovačič
+    - togo: 17.674356
+      made: 26.389
+  - - Joan Brito
+    - togo: 21.309196
+      made: 22.754
+  - - Bruno Matos
+    - togo: 21.313748
+      made: 22.749
+  - - Ivo Duarte
+    - togo: 21.378294
+      made: 22.685
+  - - Jerko Odžak
+    - togo: 38.515478
+      made: 5.548
+  - - Mitja Jug
+    - togo: 40.091616
+      made: 3.971
+  - - Damir Kalinger
+    - togo: 40.68414
+      made: 3.379
+  - - Ivica Huljek
+    - togo: 41.006094
+      made: 3.057
+  - - Alojz Tovornik
+    - togo: 42.756223
+      made: 1.307
+- - - Krešo  Kovačič
+    - togo: 1.822979
+      made: 29.117
+  - - Ivo Duarte
+    - togo: 4.254016
+      made: 26.686
+  - - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - togo: 27.29089
+      made: 3.649
+  - - Alojz Tovornik
+    - togo: 29.399289
+      made: 1.541
+  - - Ivica Huljek
+    - togo: 30.012887
+      made: 0.927
+  - - Jerko Odžak
+    - togo: 30.103853
+      made: 0.836
