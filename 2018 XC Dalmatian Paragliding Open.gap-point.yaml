@@ -118,6 +118,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-24T10:49:01Z
+        gs: 2018-05-24T10:30:00Z
         es: null
         distance: 2.2 km
         elapsed: null
@@ -133,6 +134,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-24T11:09:05Z
+        gs: 2018-05-24T10:30:00Z
         es: null
         distance: 1.3 km
         elapsed: null
@@ -148,6 +150,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-24T11:28:59Z
+        gs: 2018-05-24T10:30:00Z
         es: null
         distance: 3.5 km
         elapsed: null
@@ -163,6 +166,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-24T10:40:42Z
+        gs: 2018-05-24T10:30:00Z
         es: null
         distance: 2.0 km
         elapsed: null
@@ -178,6 +182,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-24T10:45:22Z
+        gs: 2018-05-24T10:30:00Z
         es: null
         distance: 12.6 km
         elapsed: null
@@ -193,6 +198,7 @@ score:
         time: 0
       velocity:
         ss: null
+        gs: null
         es: null
         distance: 1.3 km
         elapsed: null
@@ -208,6 +214,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T12:06:18Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 1.4 km
         elapsed: null
@@ -223,6 +230,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:11:33Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 23.3 km
         elapsed: null
@@ -238,6 +246,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:24:43Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 3.3 km
         elapsed: null
@@ -253,6 +262,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:21:16Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 3.0 km
         elapsed: null
@@ -268,6 +278,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:11:31Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 22.6 km
         elapsed: null
@@ -283,6 +294,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:25:10Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 6.5 km
         elapsed: null
@@ -298,6 +310,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:11:59Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 23.3 km
         elapsed: null
@@ -313,6 +326,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:06:52Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 26.5 km
         elapsed: null
@@ -328,6 +342,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:52:23Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 4.5 km
         elapsed: null
@@ -343,6 +358,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:12:41Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 26.9 km
         elapsed: null
@@ -358,6 +374,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:09:24Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 26.8 km
         elapsed: null
@@ -373,6 +390,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-26T11:08:57Z
+        gs: 2018-05-26T11:00:00Z
         es: null
         distance: 26.8 km
         elapsed: null
@@ -388,6 +406,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-27T11:16:28Z
+        gs: 2018-05-27T11:00:00Z
         es: null
         distance: 2.0 km
         elapsed: null
@@ -403,6 +422,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-27T12:09:10Z
+        gs: 2018-05-27T11:00:00Z
         es: null
         distance: 2.4 km
         elapsed: null
@@ -418,6 +438,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-27T11:05:06Z
+        gs: 2018-05-27T11:00:00Z
         es: null
         distance: 0.9 km
         elapsed: null
@@ -433,6 +454,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-27T13:10:40Z
+        gs: 2018-05-27T11:00:00Z
         es: null
         distance: 3.6 km
         elapsed: null
@@ -448,6 +470,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-27T11:03:42Z
+        gs: 2018-05-27T11:00:00Z
         es: null
         distance: 29.2 km
         elapsed: null
@@ -463,6 +486,7 @@ score:
         time: 0
       velocity:
         ss: 2018-05-27T11:03:12Z
+        gs: 2018-05-27T11:00:00Z
         es: null
         distance: 26.6 km
         elapsed: null
@@ -478,6 +502,7 @@ score:
         time: 98.0
       velocity:
         ss: 2018-05-27T11:00:47Z
+        gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:37:57Z
         distance: 30.9 km
         elapsed: 1.6325 h
@@ -493,6 +518,7 @@ score:
         time: 110.1
       velocity:
         ss: 2018-05-27T11:16:06Z
+        gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:34:48Z
         distance: 30.9 km
         elapsed: 1.58 h
@@ -508,6 +534,7 @@ score:
         time: 112.1
       velocity:
         ss: 2018-05-27T11:03:09Z
+        gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:34:18Z
         distance: 30.9 km
         elapsed: 1.571666 h
@@ -523,6 +550,7 @@ score:
         time: 140.7
       velocity:
         ss: 2018-05-27T11:10:56Z
+        gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:27:19Z
         distance: 30.9 km
         elapsed: 1.455276 h
@@ -538,6 +566,7 @@ score:
         time: 155.8
       velocity:
         ss: 2018-05-27T11:15:45Z
+        gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:23:54Z
         distance: 30.9 km
         elapsed: 1.398333 h
@@ -553,6 +582,7 @@ score:
         time: 189.2
       velocity:
         ss: 2018-05-27T10:59:55Z
+        gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:17:02Z
         distance: 30.9 km
         elapsed: 1.283887 h
@@ -568,6 +598,7 @@ score:
         time: 254.8
       velocity:
         ss: 2018-05-27T11:01:28Z
+        gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:07:00Z
         distance: 30.9 km
         elapsed: 1.116665 h
@@ -583,6 +614,7 @@ score:
         time: 286.7
       velocity:
         ss: 2018-05-27T11:01:10Z
+        gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:04:41Z
         distance: 30.9 km
         elapsed: 1.078054 h
