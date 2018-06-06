@@ -33,7 +33,7 @@ raceTime:
 bestTime:
 - null
 - null
-- 1.058611 h
+- 1.078055 h
 taskDistance:
 - 31.095258
 - 44.063042
@@ -166,29 +166,29 @@ speed:
 - []
 - []
 - - - Bruno Matos
-    - time: 1.058611 h
+    - time: 1.078055 h
       frac: 1
   - - Tomas Svoboda
-    - time: 1.092222 h
-      frac: 0.89780967
-  - - Tomaž Toplak
-    - time: 1.135833 h
-      frac: 0.82206991
-  - - Nuno Filipe da Fonseca Bastos Gomes
-    - time: 1.273055 h
-      frac: 0.64846838
+    - time: 1.116666 h
+      frac: 0.88858906
   - - Dušan Durkovič
-    - time: 1.285277 h
-      frac: 0.63523517
-  - - Antoni Buljan
-    - time: 1.311666 h
-      frac: 0.60744687
+    - time: 1.283888 h
+      frac: 0.66001212
+  - - Tomaž Toplak
+    - time: 1.398333 h
+      frac: 0.54346842
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - time: 1.455277 h
+      frac: 0.49084368
   - - Mitja Jug
-    - time: 1.519166 h
-      frac: 0.41483833
+    - time: 1.571666 h
+      frac: 0.39087058
+  - - Antoni Buljan
+    - time: 1.58 h
+      frac: 0.38403402
   - - Joan Brito
-    - time: 1.619444 h
-      frac: 0.33271648
+    - time: 1.6325 h
+      frac: 0.34179934
 nigh:
 - - - Tomaž Toplak
     - togo:

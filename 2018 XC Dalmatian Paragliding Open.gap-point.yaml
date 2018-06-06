@@ -36,7 +36,7 @@ validityWorking:
 - time:
     bestDistance: 30.9 km
     nominalTime: 1.0 h
-    bestTime: 1.05861 h
+    bestTime: 1.078054 h
     nominalDistance: 25.0 km
   launch:
     nominalLaunch: 0.95999999
@@ -468,110 +468,110 @@ score:
         elapsed: null
         velocity: null
   - - Joan Brito
-    - total: 541.0
+    - total: 544.0
       breakdown:
         reach: 146.0
         effort: 146.0
         distance: 292.1
         leading: 153.8
         arrival: 0
-        time: 95.4
+        time: 98.0
       velocity:
         ss: 2018-05-27T11:00:47Z
         es: 2018-05-27T12:37:57Z
         distance: 30.9 km
-        elapsed: 1.619444 h
-        velocity: 19.1 km / h
-  - - Mitja Jug
-    - total: 564.0
-      breakdown:
-        reach: 146.0
-        effort: 146.0
-        distance: 292.1
-        leading: 153.5
-        arrival: 0
-        time: 118.9
-      velocity:
-        ss: 2018-05-27T11:03:09Z
-        es: 2018-05-27T12:34:18Z
-        distance: 30.9 km
-        elapsed: 1.519166 h
-        velocity: 20.3 km / h
+        elapsed: 1.6325 h
+        velocity: 18.9 km / h
   - - Antoni Buljan
-    - total: 619.0
+    - total: 555.0
       breakdown:
         reach: 146.0
         effort: 146.0
         distance: 292.1
         leading: 153.2
         arrival: 0
-        time: 174.2
+        time: 110.1
       velocity:
         ss: 2018-05-27T11:16:06Z
         es: 2018-05-27T12:34:48Z
         distance: 30.9 km
-        elapsed: 1.311665 h
-        velocity: 23.5 km / h
-  - - Dušan Durkovič
-    - total: 628.0
+        elapsed: 1.58 h
+        velocity: 19.5 km / h
+  - - Mitja Jug
+    - total: 557.0
       breakdown:
         reach: 146.0
         effort: 146.0
         distance: 292.1
-        leading: 154.4
+        leading: 153.5
         arrival: 0
-        time: 182.1
+        time: 112.1
       velocity:
-        ss: 2018-05-27T10:59:55Z
-        es: 2018-05-27T12:17:02Z
+        ss: 2018-05-27T11:03:09Z
+        es: 2018-05-27T12:34:18Z
         distance: 30.9 km
-        elapsed: 1.285277 h
-        velocity: 24.0 km / h
+        elapsed: 1.571666 h
+        velocity: 19.6 km / h
   - - Nuno Filipe da Fonseca Bastos Gomes
-    - total: 631.0
+    - total: 586.0
       breakdown:
         reach: 146.0
         effort: 146.0
         distance: 292.1
         leading: 153.4
         arrival: 0
-        time: 185.9
+        time: 140.7
       velocity:
         ss: 2018-05-27T11:10:56Z
         es: 2018-05-27T12:27:19Z
         distance: 30.9 km
-        elapsed: 1.273055 h
-        velocity: 24.3 km / h
+        elapsed: 1.455276 h
+        velocity: 21.2 km / h
   - - Tomaž Toplak
-    - total: 681.0
+    - total: 601.0
       breakdown:
         reach: 146.0
         effort: 146.0
         distance: 292.1
         leading: 153.3
         arrival: 0
-        time: 235.7
+        time: 155.8
       velocity:
         ss: 2018-05-27T11:15:45Z
         es: 2018-05-27T12:23:54Z
         distance: 30.9 km
-        elapsed: 1.135833 h
-        velocity: 27.2 km / h
+        elapsed: 1.398333 h
+        velocity: 22.1 km / h
+  - - Dušan Durkovič
+    - total: 635.0
+      breakdown:
+        reach: 146.0
+        effort: 146.0
+        distance: 292.1
+        leading: 154.4
+        arrival: 0
+        time: 189.2
+      velocity:
+        ss: 2018-05-27T10:59:55Z
+        es: 2018-05-27T12:17:02Z
+        distance: 30.9 km
+        elapsed: 1.283887 h
+        velocity: 24.0 km / h
   - - Tomas Svoboda
-    - total: 703.0
+    - total: 701.0
       breakdown:
         reach: 146.0
         effort: 146.0
         distance: 292.1
         leading: 154.3
         arrival: 0
-        time: 257.4
+        time: 254.8
       velocity:
         ss: 2018-05-27T11:01:28Z
         es: 2018-05-27T12:07:00Z
         distance: 30.9 km
-        elapsed: 1.092222 h
-        velocity: 28.3 km / h
+        elapsed: 1.116665 h
+        velocity: 27.7 km / h
   - - Bruno Matos
     - total: 733.0
       breakdown:
@@ -585,5 +585,5 @@ score:
         ss: 2018-05-27T11:01:10Z
         es: 2018-05-27T12:04:41Z
         distance: 30.9 km
-        elapsed: 1.05861 h
-        velocity: 29.2 km / h
+        elapsed: 1.078054 h
+        velocity: 28.6 km / h
