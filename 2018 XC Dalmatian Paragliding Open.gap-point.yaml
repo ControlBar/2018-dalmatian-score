@@ -126,7 +126,8 @@ score:
         distance: 2.2 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Jerko Odžak
     - total: 0
       breakdown:
@@ -143,7 +144,8 @@ score:
         distance: 1.3 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Krešo  Kovačič
     - total: 0
       breakdown:
@@ -160,7 +162,8 @@ score:
         distance: 3.5 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Mitja Jug
     - total: 0
       breakdown:
@@ -177,7 +180,8 @@ score:
         distance: 2.0 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Tomaž Toplak
     - total: 0
       breakdown:
@@ -194,7 +198,8 @@ score:
         distance: 12.6 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Tomislav Gomerčić
     - total: 0
       breakdown:
@@ -211,7 +216,8 @@ score:
         distance: 1.3 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
 - - - Alojz Tovornik
     - total: 0
       breakdown:
@@ -228,7 +234,8 @@ score:
         distance: 1.4 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Bruno Matos
     - total: 0
       breakdown:
@@ -245,7 +252,8 @@ score:
         distance: 23.3 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Damir Kalinger
     - total: 0
       breakdown:
@@ -262,7 +270,8 @@ score:
         distance: 3.3 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Ivica Huljek
     - total: 0
       breakdown:
@@ -279,7 +288,8 @@ score:
         distance: 3.0 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Ivo Duarte
     - total: 0
       breakdown:
@@ -296,7 +306,8 @@ score:
         distance: 22.6 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Jerko Odžak
     - total: 0
       breakdown:
@@ -313,7 +324,8 @@ score:
         distance: 6.5 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Joan Brito
     - total: 0
       breakdown:
@@ -330,7 +342,8 @@ score:
         distance: 23.3 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Krešo  Kovačič
     - total: 0
       breakdown:
@@ -347,7 +360,8 @@ score:
         distance: 26.5 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Mitja Jug
     - total: 0
       breakdown:
@@ -364,7 +378,8 @@ score:
         distance: 4.5 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Nuno Filipe da Fonseca Bastos Gomes
     - total: 0
       breakdown:
@@ -381,7 +396,8 @@ score:
         distance: 26.9 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Tomas Svoboda
     - total: 0
       breakdown:
@@ -398,7 +414,8 @@ score:
         distance: 26.8 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Tomaž Toplak
     - total: 0
       breakdown:
@@ -415,7 +432,8 @@ score:
         distance: 26.8 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
 - - - Alojz Tovornik
     - total: 9.0
       breakdown:
@@ -432,7 +450,8 @@ score:
         distance: 2.0 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Jerko Odžak
     - total: 11.0
       breakdown:
@@ -449,7 +468,8 @@ score:
         distance: 2.4 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Ivica Huljek
     - total: 27.0
       breakdown:
@@ -466,7 +486,8 @@ score:
         distance: 0.9 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - total: 61.0
       breakdown:
@@ -483,7 +504,8 @@ score:
         distance: 3.6 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Krešo  Kovačič
     - total: 137.0
       breakdown:
@@ -500,7 +522,8 @@ score:
         distance: 29.2 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Ivo Duarte
     - total: 184.0
       breakdown:
@@ -517,7 +540,8 @@ score:
         distance: 26.6 km
         ssElapsed: null
         gsElapsed: null
-        velocity: null
+        ssVelocity: null
+        gsVelocity: null
   - - Joan Brito
     - total: 544.0
       breakdown:
@@ -534,7 +558,8 @@ score:
         distance: 30.9 km
         ssElapsed: 1.619444 h
         gsElapsed: 1.6325 h
-        velocity: 18.9 km / h
+        ssVelocity: 19.1 km / h
+        gsVelocity: 18.9 km / h
   - - Antoni Buljan
     - total: 555.0
       breakdown:
@@ -551,7 +576,8 @@ score:
         distance: 30.9 km
         ssElapsed: 1.311665 h
         gsElapsed: 1.58 h
-        velocity: 19.5 km / h
+        ssVelocity: 23.5 km / h
+        gsVelocity: 19.5 km / h
   - - Mitja Jug
     - total: 557.0
       breakdown:
@@ -568,7 +594,8 @@ score:
         distance: 30.9 km
         ssElapsed: 1.519166 h
         gsElapsed: 1.571666 h
-        velocity: 19.6 km / h
+        ssVelocity: 20.3 km / h
+        gsVelocity: 19.6 km / h
   - - Nuno Filipe da Fonseca Bastos Gomes
     - total: 586.0
       breakdown:
@@ -585,7 +612,8 @@ score:
         distance: 30.9 km
         ssElapsed: 1.273055 h
         gsElapsed: 1.455276 h
-        velocity: 21.2 km / h
+        ssVelocity: 24.3 km / h
+        gsVelocity: 21.2 km / h
   - - Tomaž Toplak
     - total: 601.0
       breakdown:
@@ -602,7 +630,8 @@ score:
         distance: 30.9 km
         ssElapsed: 1.135833 h
         gsElapsed: 1.398333 h
-        velocity: 22.1 km / h
+        ssVelocity: 27.2 km / h
+        gsVelocity: 22.1 km / h
   - - Dušan Durkovič
     - total: 635.0
       breakdown:
@@ -619,7 +648,8 @@ score:
         distance: 30.9 km
         ssElapsed: 1.285277 h
         gsElapsed: 1.283887 h
-        velocity: 24.0 km / h
+        ssVelocity: 24.0 km / h
+        gsVelocity: 24.0 km / h
   - - Tomas Svoboda
     - total: 701.0
       breakdown:
@@ -636,7 +666,8 @@ score:
         distance: 30.9 km
         ssElapsed: 1.092222 h
         gsElapsed: 1.116665 h
-        velocity: 27.7 km / h
+        ssVelocity: 28.3 km / h
+        gsVelocity: 27.7 km / h
   - - Bruno Matos
     - total: 733.0
       breakdown:
@@ -653,4 +684,5 @@ score:
         distance: 30.9 km
         ssElapsed: 1.05861 h
         gsElapsed: 1.078054 h
-        velocity: 28.6 km / h
+        ssVelocity: 29.2 km / h
+        gsVelocity: 28.6 km / h
