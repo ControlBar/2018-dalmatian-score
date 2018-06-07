@@ -1,9 +1,10 @@
 validityWorking:
 - time:
-    bestDistance: 12.6 km
     nominalTime: 1.0 h
-    bestTime: null
+    ssBestTime: null
+    gsBestTime: null
     nominalDistance: 25.0 km
+    bestDistance: 12.6 km
   launch:
     nominalLaunch: 0.95999999
     flying: 6
@@ -17,10 +18,11 @@ validityWorking:
     minimumDistance: 5.0 km
     bestDistance: 12.6 km
 - time:
-    bestDistance: 26.9 km
     nominalTime: 1.0 h
-    bestTime: null
+    ssBestTime: null
+    gsBestTime: null
     nominalDistance: 25.0 km
+    bestDistance: 26.9 km
   launch:
     nominalLaunch: 0.95999999
     flying: 12
@@ -34,10 +36,11 @@ validityWorking:
     minimumDistance: 5.0 km
     bestDistance: 26.9 km
 - time:
-    bestDistance: 30.9 km
     nominalTime: 1.0 h
-    bestTime: 1.05861 h
+    ssBestTime: 1.05861 h
+    gsBestTime: 1.05861 h
     nominalDistance: 25.0 km
+    bestDistance: 30.9 km
   launch:
     nominalLaunch: 0.95999999
     flying: 14
