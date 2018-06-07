@@ -76,6 +76,8 @@ tasks:
   - Slava Jelić
   - Stjepan Zjacic
   - Stojan Kranjc
+  stopped:
+    announced: 2018-05-24T12:23:00Z
 - taskName: Task 2
   zones:
   - zoneName: GS1
@@ -145,6 +147,8 @@ tasks:
   - Richard Edlinger
   - Stjepan Zjacic
   - Tomislav Gomerčić
+  stopped:
+    announced: 2018-05-26T12:10:00Z
 - taskName: Task 3
   zones:
   - zoneName: GS1
@@ -205,6 +209,7 @@ tasks:
   - Stjepan Zjacic
   - Tomislav Gomerčić
   - Zsolt Sandor
+  stopped: null
 taskFolders:
 - - Task 1
 - - Task 2
