@@ -38,7 +38,7 @@ validityWorking:
 - time:
     nominalTime: 1.0 h
     ssBestTime: 1.05861 h
-    gsBestTime: 1.05861 h
+    gsBestTime: 1.078054 h
     nominalDistance: 25.0 km
     bestDistance: 30.9 km
   launch:
@@ -532,7 +532,7 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:37:57Z
         distance: 30.9 km
-        ssElapsed: 1.6325 h
+        ssElapsed: 1.619444 h
         gsElapsed: 1.6325 h
         velocity: 18.9 km / h
   - - Antoni Buljan
@@ -549,7 +549,7 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:34:48Z
         distance: 30.9 km
-        ssElapsed: 1.58 h
+        ssElapsed: 1.311665 h
         gsElapsed: 1.58 h
         velocity: 19.5 km / h
   - - Mitja Jug
@@ -566,7 +566,7 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:34:18Z
         distance: 30.9 km
-        ssElapsed: 1.571666 h
+        ssElapsed: 1.519166 h
         gsElapsed: 1.571666 h
         velocity: 19.6 km / h
   - - Nuno Filipe da Fonseca Bastos Gomes
@@ -583,7 +583,7 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:27:19Z
         distance: 30.9 km
-        ssElapsed: 1.455276 h
+        ssElapsed: 1.273055 h
         gsElapsed: 1.455276 h
         velocity: 21.2 km / h
   - - Tomaž Toplak
@@ -600,7 +600,7 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:23:54Z
         distance: 30.9 km
-        ssElapsed: 1.398333 h
+        ssElapsed: 1.135833 h
         gsElapsed: 1.398333 h
         velocity: 22.1 km / h
   - - Dušan Durkovič
@@ -617,7 +617,7 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:17:02Z
         distance: 30.9 km
-        ssElapsed: 1.283887 h
+        ssElapsed: 1.285277 h
         gsElapsed: 1.283887 h
         velocity: 24.0 km / h
   - - Tomas Svoboda
@@ -634,7 +634,7 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:07:00Z
         distance: 30.9 km
-        ssElapsed: 1.116665 h
+        ssElapsed: 1.092222 h
         gsElapsed: 1.116665 h
         velocity: 27.7 km / h
   - - Bruno Matos
@@ -651,6 +651,6 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:04:41Z
         distance: 30.9 km
-        ssElapsed: 1.078054 h
+        ssElapsed: 1.05861 h
         gsElapsed: 1.078054 h
         velocity: 28.6 km / h
