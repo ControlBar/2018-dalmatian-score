@@ -36,7 +36,7 @@ validityWorking:
 - time:
     bestDistance: 30.9 km
     nominalTime: 1.0 h
-    bestTime: 1.078054 h
+    bestTime: 1.05861 h
     nominalDistance: 25.0 km
   launch:
     nominalLaunch: 0.95999999
@@ -121,7 +121,8 @@ score:
         gs: 2018-05-24T10:30:00Z
         es: null
         distance: 2.2 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Jerko Odžak
     - total: 0
@@ -137,7 +138,8 @@ score:
         gs: 2018-05-24T10:30:00Z
         es: null
         distance: 1.3 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Krešo  Kovačič
     - total: 0
@@ -153,7 +155,8 @@ score:
         gs: 2018-05-24T10:30:00Z
         es: null
         distance: 3.5 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Mitja Jug
     - total: 0
@@ -169,7 +172,8 @@ score:
         gs: 2018-05-24T10:30:00Z
         es: null
         distance: 2.0 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Tomaž Toplak
     - total: 0
@@ -185,7 +189,8 @@ score:
         gs: 2018-05-24T10:30:00Z
         es: null
         distance: 12.6 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Tomislav Gomerčić
     - total: 0
@@ -201,7 +206,8 @@ score:
         gs: null
         es: null
         distance: 1.3 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
 - - - Alojz Tovornik
     - total: 0
@@ -217,7 +223,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 1.4 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Bruno Matos
     - total: 0
@@ -233,7 +240,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 23.3 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Damir Kalinger
     - total: 0
@@ -249,7 +257,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 3.3 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Ivica Huljek
     - total: 0
@@ -265,7 +274,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 3.0 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Ivo Duarte
     - total: 0
@@ -281,7 +291,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 22.6 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Jerko Odžak
     - total: 0
@@ -297,7 +308,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 6.5 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Joan Brito
     - total: 0
@@ -313,7 +325,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 23.3 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Krešo  Kovačič
     - total: 0
@@ -329,7 +342,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 26.5 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Mitja Jug
     - total: 0
@@ -345,7 +359,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 4.5 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Nuno Filipe da Fonseca Bastos Gomes
     - total: 0
@@ -361,7 +376,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 26.9 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Tomas Svoboda
     - total: 0
@@ -377,7 +393,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 26.8 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Tomaž Toplak
     - total: 0
@@ -393,7 +410,8 @@ score:
         gs: 2018-05-26T11:00:00Z
         es: null
         distance: 26.8 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
 - - - Alojz Tovornik
     - total: 9.0
@@ -409,7 +427,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: null
         distance: 2.0 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Jerko Odžak
     - total: 11.0
@@ -425,7 +444,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: null
         distance: 2.4 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Ivica Huljek
     - total: 27.0
@@ -441,7 +461,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: null
         distance: 0.9 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - total: 61.0
@@ -457,7 +478,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: null
         distance: 3.6 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Krešo  Kovačič
     - total: 137.0
@@ -473,7 +495,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: null
         distance: 29.2 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Ivo Duarte
     - total: 184.0
@@ -489,7 +512,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: null
         distance: 26.6 km
-        elapsed: null
+        ssElapsed: null
+        gsElapsed: null
         velocity: null
   - - Joan Brito
     - total: 544.0
@@ -505,7 +529,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:37:57Z
         distance: 30.9 km
-        elapsed: 1.6325 h
+        ssElapsed: 1.6325 h
+        gsElapsed: 1.6325 h
         velocity: 18.9 km / h
   - - Antoni Buljan
     - total: 555.0
@@ -521,7 +546,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:34:48Z
         distance: 30.9 km
-        elapsed: 1.58 h
+        ssElapsed: 1.58 h
+        gsElapsed: 1.58 h
         velocity: 19.5 km / h
   - - Mitja Jug
     - total: 557.0
@@ -537,7 +563,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:34:18Z
         distance: 30.9 km
-        elapsed: 1.571666 h
+        ssElapsed: 1.571666 h
+        gsElapsed: 1.571666 h
         velocity: 19.6 km / h
   - - Nuno Filipe da Fonseca Bastos Gomes
     - total: 586.0
@@ -553,7 +580,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:27:19Z
         distance: 30.9 km
-        elapsed: 1.455276 h
+        ssElapsed: 1.455276 h
+        gsElapsed: 1.455276 h
         velocity: 21.2 km / h
   - - Tomaž Toplak
     - total: 601.0
@@ -569,7 +597,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:23:54Z
         distance: 30.9 km
-        elapsed: 1.398333 h
+        ssElapsed: 1.398333 h
+        gsElapsed: 1.398333 h
         velocity: 22.1 km / h
   - - Dušan Durkovič
     - total: 635.0
@@ -585,7 +614,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:17:02Z
         distance: 30.9 km
-        elapsed: 1.283887 h
+        ssElapsed: 1.283887 h
+        gsElapsed: 1.283887 h
         velocity: 24.0 km / h
   - - Tomas Svoboda
     - total: 701.0
@@ -601,7 +631,8 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:07:00Z
         distance: 30.9 km
-        elapsed: 1.116665 h
+        ssElapsed: 1.116665 h
+        gsElapsed: 1.116665 h
         velocity: 27.7 km / h
   - - Bruno Matos
     - total: 733.0
@@ -617,5 +648,6 @@ score:
         gs: 2018-05-27T11:00:00Z
         es: 2018-05-27T12:04:41Z
         distance: 30.9 km
-        elapsed: 1.078054 h
+        ssElapsed: 1.078054 h
+        gsElapsed: 1.078054 h
         velocity: 28.6 km / h

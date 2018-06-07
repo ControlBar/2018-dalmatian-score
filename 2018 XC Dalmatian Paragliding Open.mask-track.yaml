@@ -30,10 +30,14 @@ raceTime:
   leadClose: 10805
   openClose: 10800
   tickClose: 10805
-bestTime:
+ssBestTime:
 - null
 - null
-- 1.078055 h
+- 1.058611 h
+gsBestTime:
+- null
+- null
+- 1.058611 h
 taskDistance:
 - 31.095258
 - 44.063042
@@ -162,7 +166,34 @@ arrival:
   - - Joan Brito
     - rank: 8
       frac: 0.20789257
-speed:
+ssSpeed:
+- []
+- []
+- - - Bruno Matos
+    - time: 1.058611 h
+      frac: 1
+  - - Tomas Svoboda
+    - time: 1.092222 h
+      frac: 0.89780967
+  - - Tomaž Toplak
+    - time: 1.135833 h
+      frac: 0.82206991
+  - - Nuno Filipe da Fonseca Bastos Gomes
+    - time: 1.273055 h
+      frac: 0.64846838
+  - - Dušan Durkovič
+    - time: 1.285277 h
+      frac: 0.63523517
+  - - Antoni Buljan
+    - time: 1.311666 h
+      frac: 0.60744687
+  - - Mitja Jug
+    - time: 1.519166 h
+      frac: 0.41483833
+  - - Joan Brito
+    - time: 1.619444 h
+      frac: 0.33271648
+gsSpeed:
 - []
 - []
 - - - Bruno Matos
