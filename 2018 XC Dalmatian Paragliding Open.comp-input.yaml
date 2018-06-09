@@ -7,6 +7,7 @@ comp:
   civilId: '12859'
   utcOffset:
     timeZoneMinutes: 120
+  scoreBack: 300.0 s
 nominal:
   launch: 0.95999999
   goal: 0.2
