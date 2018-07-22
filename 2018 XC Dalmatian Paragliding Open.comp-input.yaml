@@ -17,81 +17,40 @@ nominal:
 tasks:
 - taskName: Task 1
   zones:
-  - zoneName: GS1
-    lat: 43.82973
-    lng: 16.64243
-    radius: 400.0 m
-  - zoneName: G35
-    lat: 43.84411
-    lng: 16.6599
-    radius: 3000.0 m
-  - zoneName: G44
-    lat: 43.82293
-    lng: 16.61629
-    radius: 400.0 m
-  - zoneName: G10
-    lat: 43.78045
-    lng: 16.65744
-    radius: 400.0 m
-  - zoneName: G36
-    lat: 43.82342
-    lng: 16.58682
-    radius: 1000.0 m
-  - zoneName: G17
-    lat: 43.72863
-    lng: 16.69475
-    radius: 1000.0 m
-  - zoneName: G39
-    lat: 43.75677
-    lng: 16.62018
-    radius: 1000.0 m
-  - zoneName: G39
-    lat: 43.75677
-    lng: 16.62018
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - 43.82973 deg
-      - 16.64243 deg
+    raw:
+    - zoneName: GS1
+      lat: 43.82973
+      lng: 16.64243
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.84411 deg
-      - 16.6599 deg
+    - zoneName: G35
+      lat: 43.84411
+      lng: 16.6599
       radius: 3000.0 m
-  - cylinder:
-      center:
-      - 43.82293 deg
-      - 16.61629 deg
+    - zoneName: G44
+      lat: 43.82293
+      lng: 16.61629
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.78045 deg
-      - 16.65744 deg
+    - zoneName: G10
+      lat: 43.78045
+      lng: 16.65744
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.82342 deg
-      - 16.58682 deg
+    - zoneName: G36
+      lat: 43.82342
+      lng: 16.58682
       radius: 1000.0 m
-  - cylinder:
-      center:
-      - 43.72863 deg
-      - 16.69475 deg
+    - zoneName: G17
+      lat: 43.72863
+      lng: 16.69475
       radius: 1000.0 m
-  - cylinder:
-      center:
-      - 43.75677 deg
-      - 16.62018 deg
+    - zoneName: G39
+      lat: 43.75677
+      lng: 16.62018
       radius: 1000.0 m
-  - circle:
-      center:
-      - 43.75677 deg
-      - 16.62018 deg
+    - zoneName: G39
+      lat: 43.75677
+      lng: 16.62018
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - 43.82973 deg
@@ -127,14 +86,54 @@ tasks:
         - 43.75677 deg
         - 16.62018 deg
         radius: 1000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - 43.75677 deg
         - 16.62018 deg
         radius: 400.0 m
-  stopped:
-    announced: 2018-05-24T12:23:00Z
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - 43.82973 deg
+          - 16.64243 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.84411 deg
+          - 16.6599 deg
+          radius: 3000.0 m
+      - cylinder:
+          center:
+          - 43.82293 deg
+          - 16.61629 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.78045 deg
+          - 16.65744 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.82342 deg
+          - 16.58682 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 43.72863 deg
+          - 16.69475 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 43.75677 deg
+          - 16.62018 deg
+          radius: 1000.0 m
+      goal:
+        circle:
+          center:
+          - 43.75677 deg
+          - 16.62018 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 7
@@ -168,92 +167,48 @@ tasks:
     - Stjepan Zjacic
   - - '95'
     - Stojan Kranjc
+  stopped:
+    announced: 2018-05-24T12:23:00Z
 - taskName: Task 2
   zones:
-  - zoneName: GS1
-    lat: 43.82973
-    lng: 16.64243
-    radius: 400.0 m
-  - zoneName: G35
-    lat: 43.84411
-    lng: 16.6599
-    radius: 3000.0 m
-  - zoneName: G44
-    lat: 43.82293
-    lng: 16.61629
-    radius: 400.0 m
-  - zoneName: G27
-    lat: 43.79605
-    lng: 16.67223
-    radius: 400.0 m
-  - zoneName: G41
-    lat: 43.92137
-    lng: 16.46695
-    radius: 14000.0 m
-  - zoneName: G10
-    lat: 43.78045
-    lng: 16.65744
-    radius: 400.0 m
-  - zoneName: G39
-    lat: 43.75677
-    lng: 16.62018
-    radius: 400.0 m
-  - zoneName: G44
-    lat: 43.82293
-    lng: 16.61629
-    radius: 1000.0 m
-  - zoneName: G25
-    lat: 43.72975
-    lng: 16.69563
-    radius: 400.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - 43.82973 deg
-      - 16.64243 deg
+    raw:
+    - zoneName: GS1
+      lat: 43.82973
+      lng: 16.64243
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.84411 deg
-      - 16.6599 deg
+    - zoneName: G35
+      lat: 43.84411
+      lng: 16.6599
       radius: 3000.0 m
-  - cylinder:
-      center:
-      - 43.82293 deg
-      - 16.61629 deg
+    - zoneName: G44
+      lat: 43.82293
+      lng: 16.61629
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.79605 deg
-      - 16.67223 deg
+    - zoneName: G27
+      lat: 43.79605
+      lng: 16.67223
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.92137 deg
-      - 16.46695 deg
+    - zoneName: G41
+      lat: 43.92137
+      lng: 16.46695
       radius: 14000.0 m
-  - cylinder:
-      center:
-      - 43.78045 deg
-      - 16.65744 deg
+    - zoneName: G10
+      lat: 43.78045
+      lng: 16.65744
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.75677 deg
-      - 16.62018 deg
+    - zoneName: G39
+      lat: 43.75677
+      lng: 16.62018
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.82293 deg
-      - 16.61629 deg
+    - zoneName: G44
+      lat: 43.82293
+      lng: 16.61629
       radius: 1000.0 m
-  - circle:
-      center:
-      - 43.72975 deg
-      - 16.69563 deg
+    - zoneName: G25
+      lat: 43.72975
+      lng: 16.69563
       radius: 400.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - 43.82973 deg
@@ -294,14 +249,59 @@ tasks:
         - 43.82293 deg
         - 16.61629 deg
         radius: 1000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - 43.72975 deg
         - 16.69563 deg
         radius: 400.0 m
-  stopped:
-    announced: 2018-05-26T12:10:00Z
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - 43.82973 deg
+          - 16.64243 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.84411 deg
+          - 16.6599 deg
+          radius: 3000.0 m
+      - cylinder:
+          center:
+          - 43.82293 deg
+          - 16.61629 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.79605 deg
+          - 16.67223 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.92137 deg
+          - 16.46695 deg
+          radius: 14000.0 m
+      - cylinder:
+          center:
+          - 43.78045 deg
+          - 16.65744 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.75677 deg
+          - 16.62018 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.82293 deg
+          - 16.61629 deg
+          radius: 1000.0 m
+      goal:
+        circle:
+          center:
+          - 43.72975 deg
+          - 16.69563 deg
+          radius: 400.0 m
   speedSection:
   - 2
   - 9
@@ -339,74 +339,40 @@ tasks:
     - Stjepan Zjacic
   - - '102'
     - Tomislav Gomerčić
+  stopped:
+    announced: 2018-05-26T12:10:00Z
 - taskName: Task 3
   zones:
-  - zoneName: GS1
-    lat: 43.82973
-    lng: 16.64243
-    radius: 400.0 m
-  - zoneName: G35
-    lat: 43.84411
-    lng: 16.6599
-    radius: 3000.0 m
-  - zoneName: G44
-    lat: 43.82293
-    lng: 16.61629
-    radius: 400.0 m
-  - zoneName: G41
-    lat: 43.92137
-    lng: 16.46695
-    radius: 14000.0 m
-  - zoneName: G27
-    lat: 43.79605
-    lng: 16.67223
-    radius: 400.0 m
-  - zoneName: G41
-    lat: 43.92137
-    lng: 16.46695
-    radius: 14000.0 m
-  - zoneName: G39
-    lat: 43.75677
-    lng: 16.62018
-    radius: 600.0 m
-  strictZones:
-  - cylinder:
-      center:
-      - 43.82973 deg
-      - 16.64243 deg
+    raw:
+    - zoneName: GS1
+      lat: 43.82973
+      lng: 16.64243
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.84411 deg
-      - 16.6599 deg
+    - zoneName: G35
+      lat: 43.84411
+      lng: 16.6599
       radius: 3000.0 m
-  - cylinder:
-      center:
-      - 43.82293 deg
-      - 16.61629 deg
+    - zoneName: G44
+      lat: 43.82293
+      lng: 16.61629
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.92137 deg
-      - 16.46695 deg
+    - zoneName: G41
+      lat: 43.92137
+      lng: 16.46695
       radius: 14000.0 m
-  - cylinder:
-      center:
-      - 43.79605 deg
-      - 16.67223 deg
+    - zoneName: G27
+      lat: 43.79605
+      lng: 16.67223
       radius: 400.0 m
-  - cylinder:
-      center:
-      - 43.92137 deg
-      - 16.46695 deg
+    - zoneName: G41
+      lat: 43.92137
+      lng: 16.46695
       radius: 14000.0 m
-  - circle:
-      center:
-      - 43.75677 deg
-      - 16.62018 deg
+    - zoneName: G39
+      lat: 43.75677
+      lng: 16.62018
       radius: 600.0 m
-  kindZones:
-    turnpoints:
+    strict:
     - cylinder:
         center:
         - 43.82973 deg
@@ -437,13 +403,49 @@ tasks:
         - 43.92137 deg
         - 16.46695 deg
         radius: 14000.0 m
-    goal:
-      circle:
+    - circle:
         center:
         - 43.75677 deg
         - 16.62018 deg
         radius: 600.0 m
-  stopped: null
+    kind:
+      turnpoints:
+      - cylinder:
+          center:
+          - 43.82973 deg
+          - 16.64243 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.84411 deg
+          - 16.6599 deg
+          radius: 3000.0 m
+      - cylinder:
+          center:
+          - 43.82293 deg
+          - 16.61629 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.92137 deg
+          - 16.46695 deg
+          radius: 14000.0 m
+      - cylinder:
+          center:
+          - 43.79605 deg
+          - 16.67223 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.92137 deg
+          - 16.46695 deg
+          radius: 14000.0 m
+      goal:
+        circle:
+          center:
+          - 43.75677 deg
+          - 16.62018 deg
+          radius: 600.0 m
   speedSection:
   - 2
   - 7
@@ -483,6 +485,7 @@ tasks:
     - Tomislav Gomerčić
   - - '113'
     - Zsolt Sandor
+  stopped: null
 taskFolders:
 - - Task 1
 - - Task 2
