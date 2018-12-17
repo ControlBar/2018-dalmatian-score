@@ -21,6 +21,14 @@ difficulty:
     endChunk: 1.0 km
     endAhead: 7.3 km
     down: 2
+    downs:
+    - -0.732 km
+    - 0.863 km
+    downers:
+    - - '4'
+      - Alojz Tovornik
+    - - '102'
+      - Tomislav Gomerčić
     downward: 4
     rel: 0.18181818
     frac: 0.18181818
@@ -29,6 +37,11 @@ difficulty:
     endChunk: 1.3 km
     endAhead: 7.6 km
     down: 1
+    downs:
+    - 1.262 km
+    downers:
+    - - '46'
+      - Jerko Odžak
     downward: 3
     rel: 0.13636364
     frac: 0.31818182
@@ -37,6 +50,11 @@ difficulty:
     endChunk: 2.0 km
     endAhead: 8.3 km
     down: 1
+    downs:
+    - 1.984 km
+    downers:
+    - - '73'
+      - Mitja Jug
     downward: 2
     rel: 9.090909e-2
     frac: 0.40909091
@@ -45,6 +63,11 @@ difficulty:
     endChunk: 3.6 km
     endAhead: 9.9 km
     down: 1
+    downs:
+    - 3.585 km
+    downers:
+    - - '54'
+      - Krešo  Kovačič
     downward: 1
     rel: 4.545455e-2
     frac: 0.45454545
@@ -53,6 +76,11 @@ difficulty:
     endChunk: 12.7 km
     endAhead: 19.0 km
     down: 1
+    downs:
+    - 12.619 km
+    downers:
+    - - '101'
+      - Tomaž Toplak
     downward: 1
     rel: 4.545455e-2
     frac: 0.5
@@ -61,6 +89,8 @@ difficulty:
     endChunk: 1.4 km
     endAhead: 8.1 km
     down: 1
+    downs: []
+    downers: []
     downward: 5
     rel: 8.333333e-2
     frac: 8.333333e-2
@@ -69,6 +99,8 @@ difficulty:
     endChunk: 3.1 km
     endAhead: 9.8 km
     down: 1
+    downs: []
+    downers: []
     downward: 4
     rel: 6.666667e-2
     frac: 0.15
@@ -77,6 +109,8 @@ difficulty:
     endChunk: 3.4 km
     endAhead: 10.1 km
     down: 1
+    downs: []
+    downers: []
     downward: 3
     rel: 5.0e-2
     frac: 0.2
@@ -85,6 +119,8 @@ difficulty:
     endChunk: 4.0 km
     endAhead: 10.7 km
     down: 1
+    downs: []
+    downers: []
     downward: 2
     rel: 3.333333e-2
     frac: 0.23333333
@@ -93,6 +129,8 @@ difficulty:
     endChunk: 5.6 km
     endAhead: 12.3 km
     down: 1
+    downs: []
+    downers: []
     downward: 1
     rel: 1.666667e-2
     frac: 0.25
@@ -101,6 +139,8 @@ difficulty:
     endChunk: 22.7 km
     endAhead: 29.4 km
     down: 1
+    downs: []
+    downers: []
     downward: 5
     rel: 8.333333e-2
     frac: 0.33333333
@@ -109,6 +149,14 @@ difficulty:
     endChunk: 22.8 km
     endAhead: 29.5 km
     down: 2
+    downs:
+    - 22.749 km
+    - 22.754 km
+    downers:
+    - - '4'
+      - Alojz Tovornik
+    - - '102'
+      - Tomislav Gomerčić
     downward: 4
     rel: 6.666667e-2
     frac: 0.4
@@ -117,6 +165,11 @@ difficulty:
     endChunk: 26.4 km
     endAhead: 33.1 km
     down: 1
+    downs:
+    - 26.389 km
+    downers:
+    - - '46'
+      - Jerko Odžak
     downward: 3
     rel: 5.0e-2
     frac: 0.45
@@ -125,6 +178,14 @@ difficulty:
     endChunk: 26.7 km
     endAhead: 33.4 km
     down: 2
+    downs:
+    - 26.652 km
+    - 26.671 km
+    downers:
+    - - '73'
+      - Mitja Jug
+    - - '54'
+      - Krešo  Kovačič
     downward: 2
     rel: 3.333333e-2
     frac: 0.48333333
@@ -133,6 +194,11 @@ difficulty:
     endChunk: 27.0 km
     endAhead: 33.7 km
     down: 1
+    downs:
+    - 26.915 km
+    downers:
+    - - '101'
+      - Tomaž Toplak
     downward: 1
     rel: 1.666667e-2
     frac: 0.5
@@ -141,6 +207,14 @@ difficulty:
     endChunk: 1.0 km
     endAhead: 16.5 km
     down: 2
+    downs:
+    - 0.836 km
+    - 0.927 km
+    downers:
+    - - '4'
+      - Alojz Tovornik
+    - - '102'
+      - Tomislav Gomerčić
     downward: 3
     rel: 0.16666667
     frac: 0.16666667
@@ -149,6 +223,11 @@ difficulty:
     endChunk: 1.6 km
     endAhead: 17.1 km
     down: 1
+    downs:
+    - 1.541 km
+    downers:
+    - - '46'
+      - Jerko Odžak
     downward: 2
     rel: 0.11111111
     frac: 0.27777778
@@ -157,6 +236,11 @@ difficulty:
     endChunk: 3.7 km
     endAhead: 19.2 km
     down: 1
+    downs:
+    - 3.649 km
+    downers:
+    - - '73'
+      - Mitja Jug
     downward: 1
     rel: 5.555556e-2
     frac: 0.33333333
@@ -165,6 +249,11 @@ difficulty:
     endChunk: 26.7 km
     endAhead: 42.2 km
     down: 1
+    downs:
+    - 26.686 km
+    downers:
+    - - '54'
+      - Krešo  Kovačič
     downward: 2
     rel: 0.11111111
     frac: 0.44444444
@@ -173,6 +262,11 @@ difficulty:
     endChunk: 29.2 km
     endAhead: 44.7 km
     down: 1
+    downs:
+    - 29.117 km
+    downers:
+    - - '101'
+      - Tomaž Toplak
     downward: 1
     rel: 5.555556e-2
     frac: 0.5
