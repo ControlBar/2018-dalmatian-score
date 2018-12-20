@@ -2,18 +2,18 @@ comp:
   compName: 2018 XC Dalmatian Paragliding Open
   discipline: pg
   location: Hrvace, Croatia
-  from: '2018-05-24'
-  to: '2018-05-27'
+  from: 2018-05-24
+  to: 2018-05-27
   civilId: '12859'
   utcOffset:
     timeZoneMinutes: 120
-  scoreBack: 300.0 s
+  scoreBack: 300.000 s
 nominal:
   launch: 0.96
   goal: 0.2
   distance: 25.0 km
   free: 1.0 km
-  time: 1.0 h
+  time: 1.000000 h
 tasks:
 - taskName: Task 1
   zones:
@@ -54,47 +54,47 @@ tasks:
       prolog:
       - cylinder:
           center:
-          - 43.82973 deg
-          - 16.64243 deg
+          - 43.82973000 deg
+          - 16.64243000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - 43.84411 deg
-          - 16.6599 deg
+          - 43.84411000 deg
+          - 16.65990000 deg
           radius: 3000.0 m
       - cylinder:
           center:
-          - 43.82293 deg
-          - 16.61629 deg
+          - 43.82293000 deg
+          - 16.61629000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - 43.78045 deg
-          - 16.65744 deg
+          - 43.78045000 deg
+          - 16.65744000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - 43.82342 deg
-          - 16.58682 deg
+          - 43.82342000 deg
+          - 16.58682000 deg
           radius: 1000.0 m
       - cylinder:
           center:
-          - 43.72863 deg
-          - 16.69475 deg
+          - 43.72863000 deg
+          - 16.69475000 deg
           radius: 1000.0 m
       race-ess:
         cylinder:
           center:
-          - 43.75677 deg
-          - 16.62018 deg
+          - 43.75677000 deg
+          - 16.62018000 deg
           radius: 1000.0 m
       epilog: []
       goal:
         circle:
           center:
-          - 43.75677 deg
-          - 16.62018 deg
+          - 43.75677000 deg
+          - 16.62018000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -175,50 +175,50 @@ tasks:
       prolog:
       - cylinder:
           center:
-          - 43.82973 deg
-          - 16.64243 deg
+          - 43.82973000 deg
+          - 16.64243000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - 43.84411 deg
-          - 16.6599 deg
+          - 43.84411000 deg
+          - 16.65990000 deg
           radius: 3000.0 m
       - cylinder:
           center:
-          - 43.82293 deg
-          - 16.61629 deg
+          - 43.82293000 deg
+          - 16.61629000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - 43.79605 deg
-          - 16.67223 deg
+          - 43.79605000 deg
+          - 16.67223000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - 43.92137 deg
-          - 16.46695 deg
+          - 43.92137000 deg
+          - 16.46695000 deg
           radius: 14000.0 m
       - cylinder:
           center:
-          - 43.78045 deg
-          - 16.65744 deg
+          - 43.78045000 deg
+          - 16.65744000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - 43.75677 deg
-          - 16.62018 deg
+          - 43.75677000 deg
+          - 16.62018000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - 43.82293 deg
-          - 16.61629 deg
+          - 43.82293000 deg
+          - 16.61629000 deg
           radius: 1000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - 43.72975 deg
-          - 16.69563 deg
+          - 43.72975000 deg
+          - 16.69563000 deg
           radius: 400.0 m
     openKind: null
   speedSection:
@@ -295,40 +295,40 @@ tasks:
       prolog:
       - cylinder:
           center:
-          - 43.82973 deg
-          - 16.64243 deg
+          - 43.82973000 deg
+          - 16.64243000 deg
           radius: 400.0 m
       race:
       - cylinder:
           center:
-          - 43.84411 deg
-          - 16.6599 deg
+          - 43.84411000 deg
+          - 16.65990000 deg
           radius: 3000.0 m
       - cylinder:
           center:
-          - 43.82293 deg
-          - 16.61629 deg
+          - 43.82293000 deg
+          - 16.61629000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - 43.92137 deg
-          - 16.46695 deg
+          - 43.92137000 deg
+          - 16.46695000 deg
           radius: 14000.0 m
       - cylinder:
           center:
-          - 43.79605 deg
-          - 16.67223 deg
+          - 43.79605000 deg
+          - 16.67223000 deg
           radius: 400.0 m
       - cylinder:
           center:
-          - 43.92137 deg
-          - 16.46695 deg
+          - 43.92137000 deg
+          - 16.46695000 deg
           radius: 14000.0 m
       race-ess-is-goal:
         circle:
           center:
-          - 43.75677 deg
-          - 16.62018 deg
+          - 43.75677000 deg
+          - 16.62018000 deg
           radius: 600.0 m
     openKind: null
   speedSection:
