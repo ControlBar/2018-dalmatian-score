@@ -574,7 +574,7 @@ score:
       landedDistance: 22.754 km
   - - - '41'
       - Ivo Duarte
-    - place: '8'
+    - place: '9'
       total: 700
       breakdown:
         reach: 343.451
@@ -596,7 +596,7 @@ score:
       landedDistance: 22.685 km
   - - - '95'
       - Stojan Kranjc
-    - place: '9'
+    - place: '10'
       total: 634
       breakdown:
         reach: 320.681
@@ -618,7 +618,7 @@ score:
       landedDistance: 20.932 km
   - - - '37'
       - Igor Eržen
-    - place: '10'
+    - place: '11'
       total: 578
       breakdown:
         reach: 289.72
@@ -640,7 +640,7 @@ score:
       landedDistance: 19.135 km
   - - - '57'
       - Lara Leban
-    - place: '11'
+    - place: '12'
       total: 532
       breakdown:
         reach: 278.501
@@ -662,7 +662,7 @@ score:
       landedDistance: 18.395 km
   - - - '86'
       - Sandi Krč
-    - place: '12'
+    - place: '13'
       total: 384
       breakdown:
         reach: 163.694
@@ -684,7 +684,7 @@ score:
       landedDistance: 9.878 km
   - - - '46'
       - Jerko Odžak
-    - place: '13'
+    - place: '14'
       total: 311
       breakdown:
         reach: 99.804
@@ -706,7 +706,7 @@ score:
       landedDistance: 5.548 km
   - - - '73'
       - Mitja Jug
-    - place: '14'
+    - place: '15'
       total: 263
       breakdown:
         reach: 68.524
@@ -728,7 +728,7 @@ score:
       landedDistance: 3.971 km
   - - - '21'
       - Damir Kalinger
-    - place: '15'
+    - place: '16'
       total: 229
       breakdown:
         reach: 51.159
@@ -750,7 +750,7 @@ score:
       landedDistance: 3.379 km
   - - - '40'
       - Ivica Huljek
-    - place: '16'
+    - place: '17'
       total: 198
       breakdown:
         reach: 46.329
@@ -772,7 +772,7 @@ score:
       landedDistance: 3.057 km
   - - - '4'
       - Alojz Tovornik
-    - place: '17'
+    - place: '18'
       total: 140
       breakdown:
         reach: 22.499
@@ -794,7 +794,7 @@ score:
       landedDistance: 1.307 km
   - - - '9'
       - Antoni Buljan
-    - place: '18'
+    - place: '19'
       total: 71
       breakdown:
         reach: 28.509
