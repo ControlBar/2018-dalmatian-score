@@ -1,56 +1,100 @@
 timing:
 - zonesSum:
+  - 10
+  - 12
+  - 8
   - 3
-  - 5
-  - 2
-  - 1
   - 0
   - 0
   - 0
   - 0
   zonesFirst:
-  - 2018-05-24T10:28:50Z
-  - 2018-05-24T10:40:42Z
-  - 2018-05-24T10:46:44Z
-  - 2018-05-24T11:12:47Z
+  - 2018-05-24T10:05:30Z
+  - 2018-05-24T10:34:47Z
+  - 2018-05-24T10:35:56Z
+  - 2018-05-24T11:04:58Z
   - null
   - null
   - null
   - null
   zonesLast:
-  - 2018-05-24T11:22:27Z
-  - 2018-05-24T11:28:59Z
-  - 2018-05-24T11:30:57Z
+  - 2018-05-24T12:17:57Z
+  - 2018-05-24T12:22:01Z
+  - 2018-05-24T12:19:55Z
   - 2018-05-24T11:12:47Z
   - null
   - null
   - null
   - null
   zonesRankTime:
-  - - 2018-05-24T10:28:50Z
+  - - 2018-05-24T10:05:30Z
+    - 2018-05-24T10:22:13Z
+    - 2018-05-24T10:25:35Z
+    - 2018-05-24T10:28:50Z
+    - 2018-05-24T10:33:41Z
     - 2018-05-24T10:57:57Z
     - 2018-05-24T11:22:27Z
-  - - 2018-05-24T10:40:42Z
+    - 2018-05-24T11:27:13Z
+    - 2018-05-24T12:10:02Z
+    - 2018-05-24T12:17:57Z
+  - - 2018-05-24T10:34:47Z
+    - 2018-05-24T10:36:48Z
+    - 2018-05-24T10:37:58Z
+    - 2018-05-24T10:40:42Z
+    - 2018-05-24T10:44:29Z
     - 2018-05-24T10:45:22Z
     - 2018-05-24T10:49:01Z
     - 2018-05-24T11:09:05Z
     - 2018-05-24T11:28:59Z
-  - - 2018-05-24T10:46:44Z
+    - 2018-05-24T11:31:09Z
+    - 2018-05-24T12:17:13Z
+    - 2018-05-24T12:22:01Z
+  - - 2018-05-24T10:35:56Z
+    - 2018-05-24T10:39:40Z
+    - 2018-05-24T10:39:48Z
+    - 2018-05-24T10:46:44Z
+    - 2018-05-24T10:49:15Z
     - 2018-05-24T11:30:57Z
-  - - 2018-05-24T11:12:47Z
+    - 2018-05-24T11:33:25Z
+    - 2018-05-24T12:19:55Z
+  - - 2018-05-24T11:04:58Z
+    - 2018-05-24T11:05:02Z
+    - 2018-05-24T11:12:47Z
   - []
   - []
   - []
   - []
   zonesRankPilot:
-  - - - '101'
+  - - - '72'
+      - Mitja Jančič
+    - - '26'
+      - Dušan Durkovič
+    - - '57'
+      - Lara Leban
+    - - '101'
       - Tomaž Toplak
+    - - '86'
+      - Sandi Krč
     - - '46'
       - Jerko Odžak
     - - '54'
       - Krešo  Kovačič
-  - - - '73'
+    - - '37'
+      - Igor Eržen
+    - - '9'
+      - Antoni Buljan
+    - - '23'
+      - David Šiljeg
+  - - - '72'
+      - Mitja Jančič
+    - - '57'
+      - Lara Leban
+    - - '26'
+      - Dušan Durkovič
+    - - '73'
       - Mitja Jug
+    - - '86'
+      - Sandi Krč
     - - '101'
       - Tomaž Toplak
     - - '4'
@@ -59,76 +103,118 @@ timing:
       - Jerko Odžak
     - - '54'
       - Krešo  Kovačič
-  - - - '101'
+    - - '37'
+      - Igor Eržen
+    - - '9'
+      - Antoni Buljan
+    - - '23'
+      - David Šiljeg
+  - - - '72'
+      - Mitja Jančič
+    - - '26'
+      - Dušan Durkovič
+    - - '57'
+      - Lara Leban
+    - - '101'
       - Tomaž Toplak
+    - - '86'
+      - Sandi Krč
     - - '54'
       - Krešo  Kovačič
-  - - - '101'
+    - - '37'
+      - Igor Eržen
+    - - '9'
+      - Antoni Buljan
+  - - - '57'
+      - Lara Leban
+    - - '72'
+      - Mitja Jančič
+    - - '101'
       - Tomaž Toplak
   - []
   - []
   - []
   - []
 - zonesSum:
-  - 11
+  - 18
+  - 19
+  - 17
+  - 13
   - 12
-  - 11
-  - 7
-  - 7
-  - 4
-  - 3
+  - 6
+  - 5
   - 0
   - 0
   zonesFirst:
-  - 2018-05-26T10:48:00Z
+  - 2018-05-26T10:30:50Z
   - 2018-05-26T11:06:52Z
   - 2018-05-26T11:08:27Z
   - 2018-05-26T11:18:00Z
   - 2018-05-26T11:37:59Z
   - 2018-05-26T12:05:32Z
-  - 2018-05-26T12:13:05Z
+  - 2018-05-26T12:12:20Z
   - null
   - null
   zonesLast:
-  - 2018-05-26T11:37:18Z
+  - 2018-05-26T11:38:43Z
   - 2018-05-26T12:06:18Z
   - 2018-05-26T11:54:45Z
-  - 2018-05-26T11:34:54Z
+  - 2018-05-26T11:40:20Z
   - 2018-05-26T11:56:05Z
   - 2018-05-26T12:07:33Z
   - 2018-05-26T12:13:35Z
   - null
   - null
   zonesRankTime:
-  - - 2018-05-26T10:48:00Z
+  - - 2018-05-26T10:30:50Z
+    - 2018-05-26T10:33:40Z
+    - 2018-05-26T10:39:10Z
+    - 2018-05-26T10:48:00Z
     - 2018-05-26T10:48:26Z
     - 2018-05-26T10:48:28Z
     - 2018-05-26T10:48:55Z
     - 2018-05-26T10:49:00Z
+    - 2018-05-26T10:49:09Z
+    - 2018-05-26T10:49:18Z
     - 2018-05-26T10:51:36Z
     - 2018-05-26T10:52:35Z
+    - 2018-05-26T10:53:16Z
     - 2018-05-26T10:58:18Z
     - 2018-05-26T11:20:12Z
     - 2018-05-26T11:23:21Z
     - 2018-05-26T11:37:18Z
+    - 2018-05-26T11:38:43Z
   - - 2018-05-26T11:06:52Z
     - 2018-05-26T11:08:57Z
     - 2018-05-26T11:09:24Z
+    - 2018-05-26T11:10:34Z
+    - 2018-05-26T11:10:55Z
+    - 2018-05-26T11:11:03Z
+    - 2018-05-26T11:11:13Z
     - 2018-05-26T11:11:31Z
     - 2018-05-26T11:11:33Z
     - 2018-05-26T11:11:59Z
+    - 2018-05-26T11:12:08Z
     - 2018-05-26T11:12:41Z
+    - 2018-05-26T11:12:59Z
     - 2018-05-26T11:21:16Z
     - 2018-05-26T11:24:43Z
     - 2018-05-26T11:25:10Z
     - 2018-05-26T11:52:23Z
+    - 2018-05-26T11:53:01Z
     - 2018-05-26T12:06:18Z
   - - 2018-05-26T11:08:27Z
     - 2018-05-26T11:10:06Z
     - 2018-05-26T11:10:39Z
+    - 2018-05-26T11:12:17Z
+    - 2018-05-26T11:12:20Z
+    - 2018-05-26T11:12:40Z
     - 2018-05-26T11:13:04Z
     - 2018-05-26T11:13:19Z
+    - 2018-05-26T11:13:26Z
     - 2018-05-26T11:14:06Z
+    - 2018-05-26T11:14:20Z
+    - 2018-05-26T11:14:33Z
     - 2018-05-26T11:14:59Z
     - 2018-05-26T11:23:20Z
     - 2018-05-26T11:26:57Z
@@ -136,29 +222,50 @@ timing:
     - 2018-05-26T11:54:45Z
   - - 2018-05-26T11:18:00Z
     - 2018-05-26T11:18:01Z
+    - 2018-05-26T11:18:33Z
+    - 2018-05-26T11:18:43Z
     - 2018-05-26T11:19:11Z
     - 2018-05-26T11:19:39Z
+    - 2018-05-26T11:28:06Z
     - 2018-05-26T11:28:37Z
+    - 2018-05-26T11:31:36Z
+    - 2018-05-26T11:31:38Z
     - 2018-05-26T11:31:46Z
     - 2018-05-26T11:34:54Z
+    - 2018-05-26T11:40:20Z
   - - 2018-05-26T11:37:59Z
+    - 2018-05-26T11:42:01Z
     - 2018-05-26T11:42:02Z
+    - 2018-05-26T11:42:13Z
     - 2018-05-26T11:42:15Z
     - 2018-05-26T11:42:45Z
+    - 2018-05-26T11:47:41Z
     - 2018-05-26T11:47:57Z
+    - 2018-05-26T11:52:32Z
+    - 2018-05-26T11:55:41Z
     - 2018-05-26T11:55:48Z
     - 2018-05-26T11:56:05Z
   - - 2018-05-26T12:05:32Z
+    - 2018-05-26T12:05:37Z
+    - 2018-05-26T12:05:39Z
     - 2018-05-26T12:05:57Z
     - 2018-05-26T12:06:12Z
     - 2018-05-26T12:07:33Z
-  - - 2018-05-26T12:13:05Z
+  - - 2018-05-26T12:12:20Z
+    - 2018-05-26T12:13:05Z
+    - 2018-05-26T12:13:16Z
     - 2018-05-26T12:13:26Z
     - 2018-05-26T12:13:35Z
   - []
   - []
   zonesRankPilot:
-  - - - '114'
+  - - - '72'
+      - Mitja Jančič
+    - - '26'
+      - Dušan Durkovič
+    - - '57'
+      - Lara Leban
+    - - '114'
       - Joan Brito
     - - '101'
       - Tomaž Toplak
@@ -168,10 +275,16 @@ timing:
       - Tomas Svoboda
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
+    - - '86'
+      - Sandi Krč
+    - - '37'
+      - Igor Eržen
     - - '41'
       - Ivo Duarte
     - - '46'
       - Jerko Odžak
+    - - '95'
+      - Stojan Kranjc
     - - '16'
       - Bruno Matos
     - - '40'
@@ -180,20 +293,34 @@ timing:
       - Damir Kalinger
     - - '73'
       - Mitja Jug
+    - - '9'
+      - Antoni Buljan
   - - - '54'
       - Krešo  Kovačič
     - - '101'
       - Tomaž Toplak
     - - '98'
       - Tomas Svoboda
+    - - '26'
+      - Dušan Durkovič
+    - - '72'
+      - Mitja Jančič
+    - - '37'
+      - Igor Eržen
+    - - '95'
+      - Stojan Kranjc
     - - '41'
       - Ivo Duarte
     - - '16'
       - Bruno Matos
     - - '114'
       - Joan Brito
+    - - '57'
+      - Lara Leban
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
+    - - '86'
+      - Sandi Krč
     - - '40'
       - Ivica Huljek
     - - '21'
@@ -202,6 +329,8 @@ timing:
       - Jerko Odžak
     - - '73'
       - Mitja Jug
+    - - '9'
+      - Antoni Buljan
     - - '4'
       - Alojz Tovornik
   - - - '54'
@@ -210,12 +339,24 @@ timing:
       - Tomaž Toplak
     - - '98'
       - Tomas Svoboda
+    - - '72'
+      - Mitja Jančič
+    - - '26'
+      - Dušan Durkovič
+    - - '37'
+      - Igor Eržen
     - - '16'
       - Bruno Matos
     - - '41'
       - Ivo Duarte
+    - - '95'
+      - Stojan Kranjc
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
+    - - '86'
+      - Sandi Krč
+    - - '57'
+      - Lara Leban
     - - '114'
       - Joan Brito
     - - '40'
@@ -230,40 +371,70 @@ timing:
       - Tomaž Toplak
     - - '98'
       - Tomas Svoboda
+    - - '72'
+      - Mitja Jančič
+    - - '26'
+      - Dušan Durkovič
     - - '54'
       - Krešo  Kovačič
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
+    - - '57'
+      - Lara Leban
     - - '41'
       - Ivo Duarte
+    - - '37'
+      - Igor Eržen
+    - - '95'
+      - Stojan Kranjc
     - - '16'
       - Bruno Matos
     - - '114'
       - Joan Brito
+    - - '86'
+      - Sandi Krč
   - - - '54'
       - Krešo  Kovačič
+    - - '26'
+      - Dušan Durkovič
     - - '101'
       - Tomaž Toplak
+    - - '72'
+      - Mitja Jančič
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - - '98'
       - Tomas Svoboda
+    - - '57'
+      - Lara Leban
     - - '41'
       - Ivo Duarte
+    - - '95'
+      - Stojan Kranjc
+    - - '37'
+      - Igor Eržen
     - - '16'
       - Bruno Matos
     - - '114'
       - Joan Brito
   - - - '98'
       - Tomas Svoboda
+    - - '26'
+      - Dušan Durkovič
+    - - '72'
+      - Mitja Jančič
     - - '101'
       - Tomaž Toplak
     - - '54'
       - Krešo  Kovačič
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-  - - - '74'
+  - - - '72'
+      - Mitja Jančič
+    - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
+    - - '26'
+      - Dušan Durkovič
     - - '98'
       - Tomas Svoboda
     - - '101'
@@ -271,13 +442,13 @@ timing:
   - []
   - []
 - zonesSum:
-  - 13
+  - 18
+  - 19
+  - 17
+  - 15
+  - 15
   - 14
-  - 12
   - 10
-  - 10
-  - 10
-  - 8
   zonesFirst:
   - 2018-05-27T10:11:03Z
   - 2018-05-27T10:59:55Z
@@ -290,49 +461,64 @@ timing:
   - 2018-05-27T12:53:25Z
   - 2018-05-27T13:10:40Z
   - 2018-05-27T13:13:44Z
-  - 2018-05-27T11:26:43Z
-  - 2018-05-27T11:49:22Z
+  - 2018-05-27T12:30:30Z
+  - 2018-05-27T12:53:37Z
   - 2018-05-27T12:11:48Z
-  - 2018-05-27T12:37:57Z
+  - 2018-05-27T12:45:49Z
   zonesRankTime:
   - - 2018-05-27T10:11:03Z
     - 2018-05-27T10:19:10Z
     - 2018-05-27T10:19:12Z
     - 2018-05-27T10:36:08Z
+    - 2018-05-27T10:38:18Z
     - 2018-05-27T10:38:31Z
     - 2018-05-27T10:38:43Z
+    - 2018-05-27T10:44:14Z
     - 2018-05-27T10:48:09Z
+    - 2018-05-27T10:51:54Z
     - 2018-05-27T10:54:05Z
     - 2018-05-27T10:57:24Z
     - 2018-05-27T10:58:28Z
+    - 2018-05-27T10:59:27Z
     - 2018-05-27T11:00:22Z
     - 2018-05-27T11:52:16Z
+    - 2018-05-27T11:56:54Z
     - 2018-05-27T12:53:25Z
   - - 2018-05-27T10:59:55Z
     - 2018-05-27T11:00:47Z
     - 2018-05-27T11:01:10Z
+    - 2018-05-27T11:01:26Z
     - 2018-05-27T11:01:28Z
+    - 2018-05-27T11:02:32Z
     - 2018-05-27T11:03:09Z
     - 2018-05-27T11:03:12Z
     - 2018-05-27T11:03:42Z
+    - 2018-05-27T11:04:19Z
     - 2018-05-27T11:05:06Z
     - 2018-05-27T11:10:56Z
     - 2018-05-27T11:15:45Z
     - 2018-05-27T11:16:06Z
+    - 2018-05-27T11:16:12Z
     - 2018-05-27T11:16:28Z
     - 2018-05-27T12:09:10Z
+    - 2018-05-27T12:17:41Z
     - 2018-05-27T13:10:40Z
   - - 2018-05-27T11:01:44Z
     - 2018-05-27T11:02:16Z
     - 2018-05-27T11:03:02Z
     - 2018-05-27T11:03:32Z
     - 2018-05-27T11:05:05Z
+    - 2018-05-27T11:05:16Z
     - 2018-05-27T11:05:26Z
     - 2018-05-27T11:05:43Z
+    - 2018-05-27T11:06:00Z
+    - 2018-05-27T11:06:53Z
     - 2018-05-27T11:13:40Z
     - 2018-05-27T11:17:06Z
     - 2018-05-27T11:17:35Z
+    - 2018-05-27T11:17:46Z
     - 2018-05-27T12:10:56Z
+    - 2018-05-27T12:22:00Z
     - 2018-05-27T13:13:44Z
   - - 2018-05-27T11:05:00Z
     - 2018-05-27T11:06:21Z
@@ -340,29 +526,43 @@ timing:
     - 2018-05-27T11:08:24Z
     - 2018-05-27T11:11:40Z
     - 2018-05-27T11:13:09Z
+    - 2018-05-27T11:13:09Z
     - 2018-05-27T11:15:31Z
     - 2018-05-27T11:22:03Z
     - 2018-05-27T11:23:09Z
+    - 2018-05-27T11:23:10Z
+    - 2018-05-27T11:24:37Z
+    - 2018-05-27T11:24:49Z
     - 2018-05-27T11:26:43Z
+    - 2018-05-27T12:30:30Z
   - - 2018-05-27T11:33:54Z
     - 2018-05-27T11:36:01Z
     - 2018-05-27T11:36:29Z
     - 2018-05-27T11:37:42Z
+    - 2018-05-27T11:41:50Z
     - 2018-05-27T11:43:26Z
     - 2018-05-27T11:45:35Z
+    - 2018-05-27T11:46:01Z
     - 2018-05-27T11:46:26Z
     - 2018-05-27T11:47:19Z
     - 2018-05-27T11:48:51Z
     - 2018-05-27T11:49:22Z
+    - 2018-05-27T11:50:38Z
+    - 2018-05-27T11:55:25Z
+    - 2018-05-27T12:53:37Z
   - - 2018-05-27T11:49:20Z
     - 2018-05-27T11:49:36Z
     - 2018-05-27T11:50:01Z
     - 2018-05-27T11:52:01Z
+    - 2018-05-27T11:54:12Z
     - 2018-05-27T11:57:49Z
     - 2018-05-27T11:59:20Z
     - 2018-05-27T12:00:11Z
+    - 2018-05-27T12:03:18Z
+    - 2018-05-27T12:03:23Z
     - 2018-05-27T12:03:38Z
     - 2018-05-27T12:05:44Z
+    - 2018-05-27T12:11:37Z
     - 2018-05-27T12:11:48Z
   - - 2018-05-27T12:04:41Z
     - 2018-05-27T12:07:00Z
@@ -371,7 +571,9 @@ timing:
     - 2018-05-27T12:27:19Z
     - 2018-05-27T12:34:18Z
     - 2018-05-27T12:34:48Z
+    - 2018-05-27T12:37:26Z
     - 2018-05-27T12:37:57Z
+    - 2018-05-27T12:45:49Z
   zonesRankPilot:
   - - - '26'
       - Dušan Durkovič
@@ -381,22 +583,32 @@ timing:
       - Joan Brito
     - - '16'
       - Bruno Matos
+    - - '37'
+      - Igor Eržen
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - - '54'
       - Krešo  Kovačič
+    - - '95'
+      - Stojan Kranjc
     - - '41'
       - Ivo Duarte
+    - - '72'
+      - Mitja Jančič
     - - '9'
       - Antoni Buljan
     - - '73'
       - Mitja Jug
     - - '101'
       - Tomaž Toplak
+    - - '57'
+      - Lara Leban
     - - '40'
       - Ivica Huljek
     - - '46'
       - Jerko Odžak
+    - - '23'
+      - David Šiljeg
     - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
   - - - '26'
@@ -405,14 +617,20 @@ timing:
       - Joan Brito
     - - '16'
       - Bruno Matos
+    - - '72'
+      - Mitja Jančič
     - - '98'
       - Tomas Svoboda
+    - - '37'
+      - Igor Eržen
     - - '73'
       - Mitja Jug
     - - '41'
       - Ivo Duarte
     - - '54'
       - Krešo  Kovačič
+    - - '57'
+      - Lara Leban
     - - '40'
       - Ivica Huljek
     - - '74'
@@ -421,10 +639,14 @@ timing:
       - Tomaž Toplak
     - - '9'
       - Antoni Buljan
+    - - '95'
+      - Stojan Kranjc
     - - '4'
       - Alojz Tovornik
     - - '46'
       - Jerko Odžak
+    - - '23'
+      - David Šiljeg
     - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
   - - - '26'
@@ -437,18 +659,28 @@ timing:
       - Tomas Svoboda
     - - '41'
       - Ivo Duarte
+    - - '37'
+      - Igor Eržen
     - - '54'
       - Krešo  Kovačič
     - - '73'
       - Mitja Jug
+    - - '72'
+      - Mitja Jančič
+    - - '57'
+      - Lara Leban
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - - '101'
       - Tomaž Toplak
     - - '9'
       - Antoni Buljan
+    - - '95'
+      - Stojan Kranjc
     - - '46'
       - Jerko Odžak
+    - - '23'
+      - David Šiljeg
     - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
   - - - '26'
@@ -461,6 +693,8 @@ timing:
       - Joan Brito
     - - '41'
       - Ivo Duarte
+    - - '37'
+      - Igor Eržen
     - - '54'
       - Krešo  Kovačič
     - - '73'
@@ -469,8 +703,16 @@ timing:
       - Nuno Filipe da Fonseca Bastos Gomes
     - - '9'
       - Antoni Buljan
+    - - '72'
+      - Mitja Jančič
+    - - '57'
+      - Lara Leban
+    - - '95'
+      - Stojan Kranjc
     - - '101'
       - Tomaž Toplak
+    - - '23'
+      - David Šiljeg
   - - - '26'
       - Dušan Durkovič
     - - '98'
@@ -479,10 +721,14 @@ timing:
       - Bruno Matos
     - - '41'
       - Ivo Duarte
+    - - '37'
+      - Igor Eržen
     - - '101'
       - Tomaž Toplak
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
+    - - '72'
+      - Mitja Jančič
     - - '73'
       - Mitja Jug
     - - '54'
@@ -491,6 +737,12 @@ timing:
       - Antoni Buljan
     - - '114'
       - Joan Brito
+    - - '57'
+      - Lara Leban
+    - - '95'
+      - Stojan Kranjc
+    - - '23'
+      - David Šiljeg
   - - - '98'
       - Tomas Svoboda
     - - '26'
@@ -499,16 +751,24 @@ timing:
       - Bruno Matos
     - - '41'
       - Ivo Duarte
+    - - '37'
+      - Igor Eržen
     - - '101'
       - Tomaž Toplak
     - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - - '73'
       - Mitja Jug
+    - - '57'
+      - Lara Leban
+    - - '72'
+      - Mitja Jančič
     - - '114'
       - Joan Brito
     - - '54'
       - Krešo  Kovačič
+    - - '95'
+      - Stojan Kranjc
     - - '9'
       - Antoni Buljan
   - - - '16'
@@ -525,8 +785,12 @@ timing:
       - Mitja Jug
     - - '9'
       - Antoni Buljan
+    - - '72'
+      - Mitja Jančič
     - - '114'
       - Joan Brito
+    - - '95'
+      - Stojan Kranjc
 tagging:
 - - - - '4'
       - Alojz Tovornik
@@ -544,7 +808,24 @@ tagging:
       - null
   - - - '9'
       - Antoni Buljan
-    - null
+    - zonesTag:
+      - fix: 103
+        time: 2018-05-24T12:10:02Z
+        lat: 43.82641667
+        lng: 16.64421667
+      - fix: 534
+        time: 2018-05-24T12:17:13Z
+        lat: 43.83023333
+        lng: 16.62783333
+      - fix: 696
+        time: 2018-05-24T12:19:55Z
+        lat: 43.82326667
+        lng: 16.62115
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '13'
       - Balazs Szatmari
     - null
@@ -556,13 +837,61 @@ tagging:
     - null
   - - - '23'
       - David Šiljeg
-    - null
+    - zonesTag:
+      - fix: 267
+        time: 2018-05-24T12:17:57Z
+        lat: 43.82616667
+        lng: 16.64243333
+      - fix: 511
+        time: 2018-05-24T12:22:01Z
+        lat: 43.81765
+        lng: 16.65273333
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '26'
       - Dušan Durkovič
-    - null
+    - zonesTag:
+      - fix: 163
+        time: 2018-05-24T10:22:13Z
+        lat: 43.82993333
+        lng: 16.63751667
+      - fix: 1108
+        time: 2018-05-24T10:37:58Z
+        lat: 43.83575
+        lng: 16.62438333
+      - fix: 1210
+        time: 2018-05-24T10:39:40Z
+        lat: 43.82605
+        lng: 16.6187
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '37'
       - Igor Eržen
-    - null
+    - zonesTag:
+      - fix: 485
+        time: 2018-05-24T11:27:13Z
+        lat: 43.8326
+        lng: 16.63953333
+      - fix: 721
+        time: 2018-05-24T11:31:09Z
+        lat: 43.8321
+        lng: 16.62648333
+      - fix: 857
+        time: 2018-05-24T11:33:25Z
+        lat: 43.82593333
+        lng: 16.61891667
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '40'
       - Ivica Huljek
     - null
@@ -611,13 +940,53 @@ tagging:
       - null
   - - - '57'
       - Lara Leban
-    - null
+    - zonesTag:
+      - fix: 346
+        time: 2018-05-24T10:25:35Z
+        lat: 43.83228333
+        lng: 16.63906667
+      - fix: 1019
+        time: 2018-05-24T10:36:48Z
+        lat: 43.8318
+        lng: 16.62665
+      - fix: 1199
+        time: 2018-05-24T10:39:48Z
+        lat: 43.82483333
+        lng: 16.62051667
+      - fix: 2709
+        time: 2018-05-24T11:04:58Z
+        lat: 43.78386667
+        lng: 16.65876667
+      - null
+      - null
+      - null
+      - null
   - - - '63'
       - Marketa Tomaskova
     - null
   - - - '72'
       - Mitja Jančič
-    - null
+    - zonesTag:
+      - fix: 124
+        time: 2018-05-24T10:05:30Z
+        lat: 43.8266
+        lng: 16.64466667
+      - fix: 1881
+        time: 2018-05-24T10:34:47Z
+        lat: 43.83126667
+        lng: 16.62706667
+      - fix: 1950
+        time: 2018-05-24T10:35:56Z
+        lat: 43.82396667
+        lng: 16.62098333
+      - fix: 3696
+        time: 2018-05-24T11:05:02Z
+        lat: 43.784
+        lng: 16.65675
+      - null
+      - null
+      - null
+      - null
   - - - '73'
       - Mitja Jug
     - zonesTag:
@@ -643,7 +1012,24 @@ tagging:
     - null
   - - - '86'
       - Sandi Krč
-    - null
+    - zonesTag:
+      - fix: 98
+        time: 2018-05-24T10:33:41Z
+        lat: 43.82651667
+        lng: 16.6445
+      - fix: 746
+        time: 2018-05-24T10:44:29Z
+        lat: 43.8299
+        lng: 16.62816667
+      - fix: 1032
+        time: 2018-05-24T10:49:15Z
+        lat: 43.8254
+        lng: 16.6199
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '88'
       - Sandor Roza
     - null
@@ -704,7 +1090,22 @@ tagging:
       - null
   - - - '9'
       - Antoni Buljan
-    - null
+    - zonesTag:
+      - fix: 199
+        time: 2018-05-26T11:38:43Z
+        lat: 43.82666667
+        lng: 16.64503333
+      - fix: 1057
+        time: 2018-05-26T11:53:01Z
+        lat: 43.8196
+        lng: 16.64435
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '13'
       - Balazs Szatmari
     - null
@@ -758,10 +1159,64 @@ tagging:
       - null
   - - - '26'
       - Dušan Durkovič
-    - null
+    - zonesTag:
+      - fix: 93
+        time: 2018-05-26T10:33:40Z
+        lat: 43.82928333
+        lng: 16.6375
+      - fix: 2307
+        time: 2018-05-26T11:10:34Z
+        lat: 43.83783333
+        lng: 16.6236
+      - fix: 2413
+        time: 2018-05-26T11:12:20Z
+        lat: 43.82465
+        lng: 16.62055
+      - fix: 2796
+        time: 2018-05-26T11:18:43Z
+        lat: 43.7988
+        lng: 16.66913333
+      - fix: 4194
+        time: 2018-05-26T11:42:01Z
+        lat: 43.84698333
+        lng: 16.60788333
+      - fix: 5610
+        time: 2018-05-26T12:05:37Z
+        lat: 43.78365
+        lng: 16.6552
+      - fix: 6069
+        time: 2018-05-26T12:13:16Z
+        lat: 43.75993333
+        lng: 16.6223
+      - null
+      - null
   - - - '37'
       - Igor Eržen
-    - null
+    - zonesTag:
+      - fix: 99
+        time: 2018-05-26T10:49:18Z
+        lat: 43.8266
+        lng: 16.64475
+      - fix: 1404
+        time: 2018-05-26T11:11:03Z
+        lat: 43.82921667
+        lng: 16.6288
+      - fix: 1501
+        time: 2018-05-26T11:12:40Z
+        lat: 43.8262
+        lng: 16.61825
+      - fix: 2637
+        time: 2018-05-26T11:31:36Z
+        lat: 43.79911667
+        lng: 16.66986667
+      - fix: 4082
+        time: 2018-05-26T11:55:41Z
+        lat: 43.83848333
+        lng: 16.59833333
+      - null
+      - null
+      - null
+      - null
   - - - '40'
       - Ivica Huljek
     - zonesTag:
@@ -890,13 +1345,67 @@ tagging:
       - null
   - - - '57'
       - Lara Leban
-    - null
+    - zonesTag:
+      - fix: 101
+        time: 2018-05-26T10:39:10Z
+        lat: 43.82658333
+        lng: 16.6448
+      - fix: 2079
+        time: 2018-05-26T11:12:08Z
+        lat: 43.83495
+        lng: 16.62476667
+      - fix: 2224
+        time: 2018-05-26T11:14:33Z
+        lat: 43.82371667
+        lng: 16.62106667
+      - fix: 3037
+        time: 2018-05-26T11:28:06Z
+        lat: 43.79911667
+        lng: 16.66966667
+      - fix: 4212
+        time: 2018-05-26T11:47:41Z
+        lat: 43.83906667
+        lng: 16.59913333
+      - null
+      - null
+      - null
+      - null
   - - - '63'
       - Marketa Tomaskova
     - null
   - - - '72'
       - Mitja Jančič
-    - null
+    - zonesTag:
+      - fix: 99
+        time: 2018-05-26T10:30:50Z
+        lat: 43.8265
+        lng: 16.64446667
+      - fix: 2504
+        time: 2018-05-26T11:10:55Z
+        lat: 43.8345
+        lng: 16.62498333
+      - fix: 2586
+        time: 2018-05-26T11:12:17Z
+        lat: 43.82466667
+        lng: 16.6205
+      - fix: 2962
+        time: 2018-05-26T11:18:33Z
+        lat: 43.79868333
+        lng: 16.669
+      - fix: 4382
+        time: 2018-05-26T11:42:13Z
+        lat: 43.84796667
+        lng: 16.60875
+      - fix: 5788
+        time: 2018-05-26T12:05:39Z
+        lat: 43.7836
+        lng: 16.65518333
+      - fix: 6189
+        time: 2018-05-26T12:12:20Z
+        lat: 43.76003333
+        lng: 16.62221667
+      - null
+      - null
   - - - '73'
       - Mitja Jug
     - zonesTag:
@@ -956,13 +1465,58 @@ tagging:
     - null
   - - - '86'
       - Sandi Krč
-    - null
+    - zonesTag:
+      - fix: 278
+        time: 2018-05-26T10:49:09Z
+        lat: 43.82665
+        lng: 16.6449
+      - fix: 1708
+        time: 2018-05-26T11:12:59Z
+        lat: 43.83191667
+        lng: 16.62661667
+      - fix: 1789
+        time: 2018-05-26T11:14:20Z
+        lat: 43.82455
+        lng: 16.62073333
+      - fix: 3349
+        time: 2018-05-26T11:40:20Z
+        lat: 43.79941667
+        lng: 16.67061667
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '91'
       - Slava Jelić
     - null
   - - - '95'
       - Stojan Kranjc
-    - null
+    - zonesTag:
+      - fix: 103
+        time: 2018-05-26T10:53:16Z
+        lat: 43.82656667
+        lng: 16.64475
+      - fix: 1180
+        time: 2018-05-26T11:11:13Z
+        lat: 43.83223333
+        lng: 16.62635
+      - fix: 1313
+        time: 2018-05-26T11:13:26Z
+        lat: 43.82566667
+        lng: 16.61941667
+      - fix: 2405
+        time: 2018-05-26T11:31:38Z
+        lat: 43.79898333
+        lng: 16.66953333
+      - fix: 3659
+        time: 2018-05-26T11:52:32Z
+        lat: 43.8428
+        lng: 16.60341667
+      - null
+      - null
+      - null
+      - null
   - - - '98'
       - Tomas Svoboda
     - zonesTag:
@@ -1112,7 +1666,29 @@ tagging:
     - null
   - - - '23'
       - David Šiljeg
-    - null
+    - zonesTag:
+      - fix: 126
+        time: 2018-05-27T11:56:54Z
+        lat: 43.82665
+        lng: 16.64481667
+      - fix: 1373
+        time: 2018-05-27T12:17:41Z
+        lat: 43.82808333
+        lng: 16.62988333
+      - fix: 1632
+        time: 2018-05-27T12:22:00Z
+        lat: 43.82615
+        lng: 16.61825
+      - fix: 2142
+        time: 2018-05-27T12:30:30Z
+        lat: 43.84346667
+        lng: 16.60416667
+      - fix: 3529
+        time: 2018-05-27T12:53:37Z
+        lat: 43.799
+        lng: 16.66951667
+      - null
+      - null
   - - - '26'
       - Dušan Durkovič
     - zonesTag:
@@ -1146,7 +1722,32 @@ tagging:
         lng: 16.62588333
   - - - '37'
       - Igor Eržen
-    - null
+    - zonesTag:
+      - fix: 214
+        time: 2018-05-27T10:38:18Z
+        lat: 43.82666667
+        lng: 16.64498333
+      - fix: 1668
+        time: 2018-05-27T11:02:32Z
+        lat: 43.83181667
+        lng: 16.62661667
+      - fix: 1832
+        time: 2018-05-27T11:05:16Z
+        lat: 43.82613333
+        lng: 16.61835
+      - fix: 2305
+        time: 2018-05-27T11:13:09Z
+        lat: 43.8431
+        lng: 16.60361667
+      - fix: 4026
+        time: 2018-05-27T11:41:50Z
+        lat: 43.79958333
+        lng: 16.67276667
+      - fix: 4768
+        time: 2018-05-27T11:54:12Z
+        lat: 43.84348333
+        lng: 16.60411667
+      - null
   - - - '40'
       - Ivica Huljek
     - zonesTag:
@@ -1271,13 +1872,66 @@ tagging:
       - null
   - - - '57'
       - Lara Leban
-    - null
+    - zonesTag:
+      - fix: 440
+        time: 2018-05-27T10:59:27Z
+        lat: 43.83285
+        lng: 16.64006667
+      - fix: 732
+        time: 2018-05-27T11:04:19Z
+        lat: 43.83331667
+        lng: 16.62571667
+      - fix: 886
+        time: 2018-05-27T11:06:53Z
+        lat: 43.82636667
+        lng: 16.61775
+      - fix: 1950
+        time: 2018-05-27T11:24:37Z
+        lat: 43.84693333
+        lng: 16.60781667
+      - fix: 3511
+        time: 2018-05-27T11:50:38Z
+        lat: 43.79963333
+        lng: 16.67265
+      - fix: 4271
+        time: 2018-05-27T12:03:18Z
+        lat: 43.84481667
+        lng: 16.60553333
+      - null
   - - - '63'
       - Marketa Tomaskova
     - null
   - - - '72'
       - Mitja Jančič
-    - null
+    - zonesTag:
+      - fix: 167
+        time: 2018-05-27T10:51:54Z
+        lat: 43.82685
+        lng: 16.63945
+      - fix: 739
+        time: 2018-05-27T11:01:26Z
+        lat: 43.82936667
+        lng: 16.62868333
+      - fix: 1013
+        time: 2018-05-27T11:06:00Z
+        lat: 43.82615
+        lng: 16.61835
+      - fix: 2043
+        time: 2018-05-27T11:23:10Z
+        lat: 43.84055
+        lng: 16.60081667
+      - fix: 3414
+        time: 2018-05-27T11:46:01Z
+        lat: 43.79931667
+        lng: 16.67423333
+      - fix: 4456
+        time: 2018-05-27T12:03:23Z
+        lat: 43.84658333
+        lng: 16.60741667
+      - fix: 6499
+        time: 2018-05-27T12:37:26Z
+        lat: 43.7609
+        lng: 16.62498333
   - - - '73'
       - Mitja Jug
     - zonesTag:
@@ -1364,7 +2018,35 @@ tagging:
     - null
   - - - '95'
       - Stojan Kranjc
-    - null
+    - zonesTag:
+      - fix: 136
+        time: 2018-05-27T10:44:14Z
+        lat: 43.82663333
+        lng: 16.64485
+      - fix: 2054
+        time: 2018-05-27T11:16:12Z
+        lat: 43.83156667
+        lng: 16.62691667
+      - fix: 2148
+        time: 2018-05-27T11:17:46Z
+        lat: 43.82645
+        lng: 16.61718333
+      - fix: 2571
+        time: 2018-05-27T11:24:49Z
+        lat: 43.84243333
+        lng: 16.60303333
+      - fix: 4407
+        time: 2018-05-27T11:55:25Z
+        lat: 43.79958333
+        lng: 16.67131667
+      - fix: 5379
+        time: 2018-05-27T12:11:37Z
+        lat: 43.8455
+        lng: 16.60625
+      - fix: 7431
+        time: 2018-05-27T12:45:49Z
+        lat: 43.76151667
+        lng: 16.62348333
   - - - '98'
       - Tomas Svoboda
     - zonesTag:

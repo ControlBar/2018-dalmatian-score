@@ -1,17 +1,17 @@
 pilotsAtEss:
 - 0
 - 0
-- 8
+- 10
 raceTime:
 - openTask: 2018-05-24T10:30:00Z
   closeTask: 2018-05-24T14:00:00Z
-  firstStart: 2018-05-24T10:40:42Z
-  firstLead: 2018-05-24T10:40:42Z
+  firstStart: 2018-05-24T10:34:47Z
+  firstLead: 2018-05-24T10:34:47Z
   lastArrival: null
   leadArrival: null
-  leadClose: 11958
+  leadClose: 12313
   openClose: 12600
-  tickClose: 11958
+  tickClose: 12313
 - openTask: 2018-05-26T11:00:00Z
   closeTask: 2018-05-26T14:00:00Z
   firstStart: 2018-05-26T11:06:52Z
@@ -25,8 +25,8 @@ raceTime:
   closeTask: 2018-05-27T14:00:00Z
   firstStart: 2018-05-27T10:59:55Z
   firstLead: 2018-05-27T10:59:55Z
-  lastArrival: 2018-05-27T12:37:57Z
-  leadArrival: 5882
+  lastArrival: 2018-05-27T12:45:49Z
+  leadArrival: 6354
   leadClose: 10805
   openClose: 10800
   tickClose: 10805
@@ -48,12 +48,12 @@ taskSpeedDistance:
 - 18.607538 km
 bestDistance:
 - 12.620260 km
-- 26.939046 km
+- 27.219046 km
 - 30.940084 km
 sumDistance:
-- 17.177560 km
-- 183.633552 km
-- 298.572092 km
+- 50.238380 km
+- 302.052874 km
+- 429.368512 km
 minLead:
 - 1.0e-8
 - 0
@@ -63,14 +63,38 @@ lead:
       - Jerko Odžak
     - coef: 1.0e-8
       frac: 1
+  - - - '26'
+      - Dušan Durkovič
+    - coef: 1.1e-7
+      frac: 0.99120045
+  - - - '86'
+      - Sandi Krč
+    - coef: 2.4e-7
+      frac: 0.98428886
   - - - '54'
       - Krešo  Kovačič
-    - coef: 2.2e-7
-      frac: 0.98382448
+    - coef: 2.5e-7
+      frac: 0.98375703
+  - - - '72'
+      - Mitja Jančič
+    - coef: 2.7e-7
+      frac: 0.9827234
+  - - - '37'
+      - Igor Eržen
+    - coef: 2.9e-7
+      frac: 0.98192111
+  - - - '57'
+      - Lara Leban
+    - coef: 3.1e-7
+      frac: 0.98102305
+  - - - '9'
+      - Antoni Buljan
+    - coef: 4.2e-7
+      frac: 0.97670681
   - - - '101'
       - Tomaž Toplak
-    - coef: 5.5e-7
-      frac: 0.96992809
+    - coef: 6.6e-7
+      frac: 0.96826553
 - - - - '4'
       - Alojz Tovornik
     - coef: 0
@@ -91,6 +115,18 @@ lead:
       - Jerko Odžak
     - coef: 2.5e-7
       frac: 0.9744741
+  - - - '86'
+      - Sandi Krč
+    - coef: 2.6e-7
+      frac: 0.97389927
+  - - - '57'
+      - Lara Leban
+    - coef: 5.4e-7
+      frac: 0.95663458
+  - - - '37'
+      - Igor Eržen
+    - coef: 6.8e-7
+      frac: 0.94986661
   - - - '54'
       - Krešo  Kovačič
     - coef: 7.2e-7
@@ -99,6 +135,10 @@ lead:
       - Ivo Duarte
     - coef: 7.5e-7
       frac: 0.94613708
+  - - - '95'
+      - Stojan Kranjc
+    - coef: 7.6e-7
+      frac: 0.94587969
   - - - '101'
       - Tomaž Toplak
     - coef: 7.6e-7
@@ -107,6 +147,14 @@ lead:
       - Tomas Svoboda
     - coef: 7.8e-7
       frac: 0.9450171
+  - - - '26'
+      - Dušan Durkovič
+    - coef: 7.8e-7
+      frac: 0.94500695
+  - - - '72'
+      - Mitja Jančič
+    - coef: 8.0e-7
+      frac: 0.94372173
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - coef: 8.3e-7
@@ -147,25 +195,45 @@ lead:
       - Tomaž Toplak
     - coef: 1.13e-6
       frac: 0.99320712
+  - - - '72'
+      - Mitja Jančič
+    - coef: 1.14e-6
+      frac: 0.99316015
   - - - '9'
       - Antoni Buljan
     - coef: 1.23e-6
       frac: 0.99227319
+  - - - '95'
+      - Stojan Kranjc
+    - coef: 1.29e-6
+      frac: 0.99170732
   - - - '54'
       - Krešo  Kovačič
-    - coef: 17340.65949895
+    - coef: 18732.15750695
+      frac: 0
+  - - - '37'
+      - Igor Eržen
+    - coef: 70162.9584669
+      frac: 0
+  - - - '57'
+      - Lara Leban
+    - coef: 84883.24485115
       frac: 0
   - - - '41'
       - Ivo Duarte
-    - coef: 106443.7071128
+    - coef: 114985.2626648
+      frac: 0
+  - - - '23'
+      - David Šiljeg
+    - coef: 1226302.54207449
       frac: 0
   - - - '46'
       - Jerko Odžak
-    - coef: 4773632.05900811
+    - coef: 5156691.27897611
       frac: 0
   - - - '40'
       - Ivica Huljek
-    - coef: 5297682.831722
+    - coef: 5722794.408834
       frac: 0
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
@@ -181,31 +249,39 @@ arrival:
   - - - '98'
       - Tomas Svoboda
     - rank: 2
-      frac: 0.7559668
+      frac: 0.800057
   - - - '26'
       - Dušan Durkovič
     - rank: 3
-      frac: 0.56792188
+      frac: 0.636896
   - - - '101'
       - Tomaž Toplak
     - rank: 4
-      frac: 0.42844727
+      frac: 0.506719
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - rank: 5
-      frac: 0.330125
+      frac: 0.405728
   - - - '73'
       - Mitja Jug
     - rank: 6
-      frac: 0.26553711
+      frac: 0.330125
   - - - '9'
       - Antoni Buljan
     - rank: 7
-      frac: 0.22726562
+      frac: 0.276112
+  - - - '72'
+      - Mitja Jančič
+    - rank: 8
+      frac: 0.239891
   - - - '114'
       - Joan Brito
-    - rank: 8
-      frac: 0.20789258
+    - rank: 9
+      frac: 0.217664
+  - - - '95'
+      - Stojan Kranjc
+    - rank: 10
+      frac: 0.205633
 ssSpeed:
 - []
 - []
@@ -233,10 +309,18 @@ ssSpeed:
       - Antoni Buljan
     - time: 1.311667 h
       frac: 0.60744688
+  - - - '95'
+      - Stojan Kranjc
+    - time: 1.493611 h
+      frac: 0.43669014
   - - - '73'
       - Mitja Jug
     - time: 1.519167 h
       frac: 0.41483833
+  - - - '72'
+      - Mitja Jančič
+    - time: 1.600000 h
+      frac: 0.34823044
   - - - '114'
       - Joan Brito
     - time: 1.619444 h
@@ -272,10 +356,18 @@ gsSpeed:
       - Antoni Buljan
     - time: 1.580000 h
       frac: 0.38403403
+  - - - '72'
+      - Mitja Jančič
+    - time: 1.623889 h
+      frac: 0.34863215
   - - - '114'
       - Joan Brito
     - time: 1.632500 h
       frac: 0.34179935
+  - - - '95'
+      - Stojan Kranjc
+    - time: 1.763611 h
+      frac: 0.24174598
 nigh:
 - - - - '101'
       - Tomaž Toplak
@@ -299,6 +391,154 @@ nigh:
         - lat: 43.76282694
           lng: 16.6293841
       made: 12.620260 km
+  - - - '57'
+      - Lara Leban
+    - togo:
+        distance: 21.643099 km
+        legs:
+        - 4.469846 km
+        - 11.647187 km
+        - 5.526066 km
+        legsSum:
+        - 4.469846 km
+        - 16.117033 km
+        - 21.643099 km
+        waypoints:
+        - lat: 43.80183333
+          lng: 16.6462
+        - lat: 43.81614442
+          lng: 16.59414642
+        - lat: 43.73566478
+          lng: 16.68699635
+        - lat: 43.76282694
+          lng: 16.6293841
+      made: 9.452260 km
+  - - - '72'
+      - Mitja Jančič
+    - togo:
+        distance: 21.919780 km
+        legs:
+        - 4.604602 km
+        - 11.789112 km
+        - 5.526066 km
+        legsSum:
+        - 4.604602 km
+        - 16.393714 km
+        - 21.919780 km
+        waypoints:
+        - lat: 43.80208333
+          lng: 16.65005
+        - lat: 43.82026492
+          lng: 16.59849238
+        - lat: 43.73566478
+          lng: 16.68699635
+        - lat: 43.76282694
+          lng: 16.6293841
+      made: 9.175260 km
+  - - - '26'
+      - Dušan Durkovič
+    - togo:
+        distance: 25.126093 km
+        legs:
+        - 1.884254 km
+        - 6.068586 km
+        - 11.647187 km
+        - 5.526066 km
+        legsSum:
+        - 1.884254 km
+        - 7.952840 km
+        - 19.600026 km
+        - 25.126093 km
+        waypoints:
+        - lat: 43.80028333
+          lng: 16.6574
+        - lat: 43.78345091
+          lng: 16.65469256
+        - lat: 43.81614442
+          lng: 16.59414642
+        - lat: 43.73566478
+          lng: 16.68699635
+        - lat: 43.76282694
+          lng: 16.6293841
+      made: 5.969260 km
+  - - - '86'
+      - Sandi Krč
+    - togo:
+        distance: 24.508903 km
+        legs:
+        - 1.267064 km
+        - 6.068586 km
+        - 11.647187 km
+        - 5.526066 km
+        legsSum:
+        - 1.267064 km
+        - 7.335649 km
+        - 18.982836 km
+        - 24.508903 km
+        waypoints:
+        - lat: 43.79483333
+          lng: 16.65543333
+        - lat: 43.78345091
+          lng: 16.65469256
+        - lat: 43.81614442
+          lng: 16.59414642
+        - lat: 43.73566478
+          lng: 16.68699635
+        - lat: 43.76282694
+          lng: 16.6293841
+      made: 6.586260 km
+  - - - '37'
+      - Igor Eržen
+    - togo:
+        distance: 27.060410 km
+        legs:
+        - 3.790378 km
+        - 6.096779 km
+        - 11.647187 km
+        - 5.526066 km
+        legsSum:
+        - 3.790378 km
+        - 9.887157 km
+        - 21.534343 km
+        - 27.060410 km
+        waypoints:
+        - lat: 43.81718333
+          lng: 16.64628333
+        - lat: 43.78374057
+          lng: 16.65542692
+        - lat: 43.81614442
+          lng: 16.59414642
+        - lat: 43.73566478
+          lng: 16.68699635
+        - lat: 43.76282694
+          lng: 16.6293841
+      made: 4.035260 km
+  - - - '9'
+      - Antoni Buljan
+    - togo:
+        distance: 27.338306 km
+        legs:
+        - 4.106822 km
+        - 6.058231 km
+        - 11.647187 km
+        - 5.526066 km
+        legsSum:
+        - 4.106822 km
+        - 10.165053 km
+        - 21.812240 km
+        - 27.338306 km
+        waypoints:
+        - lat: 43.81351667
+          lng: 16.62498333
+        - lat: 43.78326385
+          lng: 16.65433599
+        - lat: 43.81614442
+          lng: 16.59414642
+        - lat: 43.73566478
+          lng: 16.68699635
+        - lat: 43.76282694
+          lng: 16.6293841
+      made: 3.757260 km
   - - - '54'
       - Krešo  Kovačič
     - togo:
@@ -415,6 +655,36 @@ nigh:
         - lat: 43.76282694
           lng: 16.6293841
       made: 1.345260 km
+  - - - '23'
+      - David Šiljeg
+    - togo:
+        distance: 30.010487 km
+        legs:
+        - 1.771815 km
+        - 5.017916 km
+        - 6.047502 km
+        - 11.647187 km
+        - 5.526066 km
+        legsSum:
+        - 1.771815 km
+        - 6.789731 km
+        - 12.837234 km
+        - 24.484421 km
+        - 30.010487 km
+        waypoints:
+        - lat: 43.8272
+          lng: 16.64101667
+        - lat: 43.82112213
+          lng: 16.62060049
+        - lat: 43.78284909
+          lng: 16.65372752
+        - lat: 43.81614442
+          lng: 16.59414642
+        - lat: 43.73566478
+          lng: 16.68699635
+        - lat: 43.76282694
+          lng: 16.6293841
+      made: 1.085260 km
   - - - '4'
       - Alojz Tovornik
     - togo:
@@ -463,6 +733,42 @@ nigh:
         - lat: 43.73217274
           lng: 16.69930979
       made: 26.939046 km
+  - - - '72'
+      - Mitja Jančič
+    - togo:
+        distance: 16.844166 km
+        legs:
+        - 5.595925 km
+        - 11.248241 km
+        legsSum:
+        - 5.595925 km
+        - 16.844166 km
+        waypoints:
+        - lat: 43.76383333
+          lng: 16.62325
+        - lat: 43.81394559
+          lng: 16.61684133
+        - lat: 43.73217274
+          lng: 16.69930979
+      made: 27.219046 km
+  - - - '26'
+      - Dušan Durkovič
+    - togo:
+        distance: 17.270094 km
+        legs:
+        - 6.021853 km
+        - 11.248241 km
+        legsSum:
+        - 6.021853 km
+        - 17.270094 km
+        waypoints:
+        - lat: 43.75993333
+          lng: 16.6223
+        - lat: 43.81394559
+          lng: 16.61684133
+        - lat: 43.73217274
+          lng: 16.69930979
+      made: 26.793046 km
   - - - '101'
       - Tomaž Toplak
     - togo:
@@ -599,6 +905,114 @@ nigh:
         - lat: 43.73217274
           lng: 16.69930979
       made: 22.685046 km
+  - - - '95'
+      - Stojan Kranjc
+    - togo:
+        distance: 22.882483 km
+        legs:
+        - 2.186566 km
+        - 3.403954 km
+        - 6.043721 km
+        - 11.248241 km
+        legsSum:
+        - 2.186566 km
+        - 5.590521 km
+        - 11.634242 km
+        - 22.882483 km
+        waypoints:
+        - lat: 43.79956667
+          lng: 16.64175
+        - lat: 43.78156152
+          lng: 16.65270144
+        - lat: 43.75977091
+          lng: 16.62292635
+        - lat: 43.81394559
+          lng: 16.61684133
+        - lat: 43.73217274
+          lng: 16.69930979
+      made: 21.181046 km
+  - - - '37'
+      - Igor Eržen
+    - togo:
+        distance: 24.927351 km
+        legs:
+        - 4.231434 km
+        - 3.403954 km
+        - 6.043721 km
+        - 11.248241 km
+        legsSum:
+        - 4.231434 km
+        - 7.635388 km
+        - 13.679109 km
+        - 24.927351 km
+        waypoints:
+        - lat: 43.81385
+          lng: 16.6248
+        - lat: 43.78156152
+          lng: 16.65270144
+        - lat: 43.75977091
+          lng: 16.62292635
+        - lat: 43.81394559
+          lng: 16.61684133
+        - lat: 43.73217274
+          lng: 16.69930979
+      made: 19.136046 km
+  - - - '57'
+      - Lara Leban
+    - togo:
+        distance: 25.668312 km
+        legs:
+        - 4.972395 km
+        - 3.403954 km
+        - 6.043721 km
+        - 11.248241 km
+        legsSum:
+        - 4.972395 km
+        - 8.376349 km
+        - 14.420071 km
+        - 25.668312 km
+        waypoints:
+        - lat: 43.82228333
+          lng: 16.6271
+        - lat: 43.78156152
+          lng: 16.65270144
+        - lat: 43.75977091
+          lng: 16.62292635
+        - lat: 43.81394559
+          lng: 16.61684133
+        - lat: 43.73217274
+          lng: 16.69930979
+      made: 18.395046 km
+  - - - '86'
+      - Sandi Krč
+    - togo:
+        distance: 33.250595 km
+        legs:
+        - 4.706033 km
+        - 8.012238 km
+        - 3.240362 km
+        - 6.043721 km
+        - 11.248241 km
+        legsSum:
+        - 4.706033 km
+        - 12.718271 km
+        - 15.958633 km
+        - 22.002354 km
+        - 33.250595 km
+        waypoints:
+        - lat: 43.82715
+          lng: 16.62733333
+        - lat: 43.8195252
+          lng: 16.56963254
+        - lat: 43.7794907
+          lng: 16.65263805
+        - lat: 43.75977091
+          lng: 16.62292635
+        - lat: 43.81394559
+          lng: 16.61684133
+        - lat: 43.73217274
+          lng: 16.69930979
+      made: 10.812046 km
   - - - '46'
       - Jerko Odžak
     - togo:
@@ -773,6 +1187,44 @@ nigh:
         - lat: 43.73217274
           lng: 16.69930979
       made: 1.486046 km
+  - - - '9'
+      - Antoni Buljan
+    - togo:
+        distance: 42.179649 km
+        legs:
+        - 0.620009 km
+        - 4.778164 km
+        - 8.236913 km
+        - 8.012238 km
+        - 3.240362 km
+        - 6.043721 km
+        - 11.248241 km
+        legsSum:
+        - 0.620009 km
+        - 5.398174 km
+        - 13.635087 km
+        - 21.647325 km
+        - 24.887687 km
+        - 30.931408 km
+        - 42.179649 km
+        waypoints:
+        - lat: 43.8291
+          lng: 16.62428333
+        - lat: 43.82404152
+          lng: 16.62103193
+        - lat: 43.79716152
+          lng: 16.6674902
+        - lat: 43.8195252
+          lng: 16.56963254
+        - lat: 43.7794907
+          lng: 16.65263805
+        - lat: 43.75977091
+          lng: 16.62292635
+        - lat: 43.81394559
+          lng: 16.61684133
+        - lat: 43.73217274
+          lng: 16.69930979
+      made: 1.883046 km
 - - - - '54'
       - Krešo  Kovačič
     - togo:
@@ -787,6 +1239,34 @@ nigh:
         - lat: 43.76040406
           lng: 16.62570217
       made: 29.223084 km
+  - - - '37'
+      - Igor Eržen
+    - togo:
+        distance: 3.322797 km
+        legs:
+        - 3.322797 km
+        legsSum:
+        - 3.322797 km
+        waypoints:
+        - lat: 43.78585
+          lng: 16.6474
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 27.617084 km
+  - - - '57'
+      - Lara Leban
+    - togo:
+        distance: 3.655310 km
+        legs:
+        - 3.655310 km
+        legsSum:
+        - 3.655310 km
+        waypoints:
+        - lat: 43.79308333
+          lng: 16.62076667
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 27.285084 km
   - - - '41'
       - Ivo Duarte
     - togo:
@@ -801,6 +1281,24 @@ nigh:
         - lat: 43.76040406
           lng: 16.62570217
       made: 26.686084 km
+  - - - '23'
+      - David Šiljeg
+    - togo:
+        distance: 11.926393 km
+        legs:
+        - 3.959383 km
+        - 7.967009 km
+        legsSum:
+        - 3.959383 km
+        - 11.926393 km
+        waypoints:
+        - lat: 43.82565
+          lng: 16.61825
+        - lat: 43.8195252
+          lng: 16.56963254
+        - lat: 43.76040406
+          lng: 16.62570217
+      made: 19.014084 km
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - togo:
@@ -902,6 +1400,30 @@ land:
       - Tomaž Toplak
     - togo: 18.476257 km
       made: 12.619003 km
+  - - - '57'
+      - Lara Leban
+    - togo: 21.649349 km
+      made: 9.445911 km
+  - - - '72'
+      - Mitja Jančič
+    - togo: 21.955426 km
+      made: 9.139834 km
+  - - - '26'
+      - Dušan Durkovič
+    - togo: 25.292655 km
+      made: 5.802605 km
+  - - - '86'
+      - Sandi Krč
+    - togo: 25.320759 km
+      made: 5.774501 km
+  - - - '37'
+      - Igor Eržen
+    - togo: 27.115031 km
+      made: 3.980229 km
+  - - - '9'
+      - Antoni Buljan
+    - togo: 27.359416 km
+      made: 3.735844 km
   - - - '54'
       - Krešo  Kovačič
     - togo: 27.510292 km
@@ -918,6 +1440,10 @@ land:
       - Tomislav Gomerčić
     - togo: 30.232177 km
       made: 0.863083 km
+  - - - '23'
+      - David Šiljeg
+    - togo: 31.019166 km
+      made: 0.076094 km
   - - - '4'
       - Alojz Tovornik
     - togo: 31.827627 km
@@ -926,6 +1452,14 @@ land:
       - Nuno Filipe da Fonseca Bastos Gomes
     - togo: 17.148129 km
       made: 26.914917 km
+  - - - '72'
+      - Mitja Jančič
+    - togo: 17.375286 km
+      made: 26.687760 km
+  - - - '26'
+      - Dušan Durkovič
+    - togo: 17.385123 km
+      made: 26.677923 km
   - - - '101'
       - Tomaž Toplak
     - togo: 17.391807 km
@@ -950,6 +1484,22 @@ land:
       - Ivo Duarte
     - togo: 21.378296 km
       made: 22.684750 km
+  - - - '95'
+      - Stojan Kranjc
+    - togo: 23.130990 km
+      made: 20.932056 km
+  - - - '37'
+      - Igor Eržen
+    - togo: 24.928059 km
+      made: 19.134987 km
+  - - - '57'
+      - Lara Leban
+    - togo: 25.668312 km
+      made: 18.394734 km
+  - - - '86'
+      - Sandi Krč
+    - togo: 34.184992 km
+      made: 9.878054 km
   - - - '46'
       - Jerko Odžak
     - togo: 38.515481 km
@@ -970,14 +1520,30 @@ land:
       - Alojz Tovornik
     - togo: 42.756226 km
       made: 1.306820 km
+  - - - '9'
+      - Antoni Buljan
+    - togo: 42.966468 km
+      made: 1.096578 km
 - - - - '54'
       - Krešo  Kovačič
     - togo: 1.822979 km
       made: 29.117105 km
+  - - - '37'
+      - Igor Eržen
+    - togo: 3.323674 km
+      made: 27.616410 km
+  - - - '57'
+      - Lara Leban
+    - togo: 3.655311 km
+      made: 27.284773 km
   - - - '41'
       - Ivo Duarte
     - togo: 4.254016 km
       made: 26.686068 km
+  - - - '23'
+      - David Šiljeg
+    - togo: 12.891330 km
+      made: 18.048754 km
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - togo: 27.290891 km
