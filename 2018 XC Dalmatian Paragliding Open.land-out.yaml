@@ -1,25 +1,25 @@
 minDistance: 1.0 km
 bestDistance:
-- 12.6 km
+- 28.1 km
 - 27.2 km
 - 30.9 km
 landout:
-- 13
-- 19
+- 23
+- 22
 - 9
 lookahead:
-- 30
-- 43
+- 37
+- 37
 - 103
 sumOfDifficulty:
-- 34
-- 48
+- 92
+- 57
 - 20
 difficulty:
 - - chunk: 0
     startChunk: 1.0 km
     endChunk: 1.0 km
-    endAhead: 4.0 km
+    endAhead: 4.7 km
     down: 3
     downs:
     - -0.732 km
@@ -32,130 +32,217 @@ difficulty:
       - David Šiljeg
     - - '102'
       - Tomislav Gomerčić
-    downward: 6
-    rel: 8.823529e-2
-    frac: 8.823529e-2
+    downward: 8
+    rel: 4.347826e-2
+    frac: 4.347826e-2
   - chunk: 3
     startChunk: 1.2 km
     endChunk: 1.3 km
-    endAhead: 4.3 km
-    down: 1
+    endAhead: 5.0 km
+    down: 3
     downs:
+    - 1.230 km
     - 1.262 km
+    - 1.264 km
     downers:
+    - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - - '46'
       - Jerko Odžak
-    downward: 5
-    rel: 7.352941e-2
-    frac: 0.16176471
+    - - '40'
+      - Ivica Huljek
+    downward: 7
+    rel: 3.804348e-2
+    frac: 8.152174e-2
+  - chunk: 4
+    startChunk: 1.3 km
+    endChunk: 1.4 km
+    endAhead: 5.1 km
+    down: 1
+    downs:
+    - 1.325 km
+    downers:
+    - - '63'
+      - Marketa Tomaskova
+    downward: 6
+    rel: 3.26087e-2
+    frac: 0.11413043
   - chunk: 10
     startChunk: 1.9 km
     endChunk: 2.0 km
-    endAhead: 5.0 km
+    endAhead: 5.7 km
     down: 1
     downs:
     - 1.984 km
     downers:
     - - '73'
       - Mitja Jug
-    downward: 4
-    rel: 5.882353e-2
-    frac: 0.22058824
+    downward: 5
+    rel: 2.717391e-2
+    frac: 0.14130435
+  - chunk: 25
+    startChunk: 3.4 km
+    endChunk: 3.5 km
+    endAhead: 7.2 km
+    down: 1
+    downs:
+    - 3.421 km
+    downers:
+    - - '21'
+      - Damir Kalinger
+    downward: 8
+    rel: 4.347826e-2
+    frac: 0.18478261
   - chunk: 26
     startChunk: 3.5 km
     endChunk: 3.6 km
-    endAhead: 6.6 km
+    endAhead: 7.3 km
     down: 1
     downs:
     - 3.585 km
     downers:
     - - '54'
       - Krešo  Kovačič
-    downward: 5
-    rel: 7.352941e-2
-    frac: 0.29411765
+    downward: 7
+    rel: 3.804348e-2
+    frac: 0.22282609
   - chunk: 28
     startChunk: 3.7 km
     endChunk: 3.8 km
-    endAhead: 6.8 km
-    down: 1
+    endAhead: 7.5 km
+    down: 2
     downs:
+    - 3.736 km
     - 3.736 km
     downers:
     - - '9'
       - Antoni Buljan
-    downward: 4
-    rel: 5.882353e-2
-    frac: 0.35294118
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    downward: 6
+    rel: 3.26087e-2
+    frac: 0.25543478
   - chunk: 30
     startChunk: 3.9 km
     endChunk: 4.0 km
-    endAhead: 7.0 km
+    endAhead: 7.7 km
     down: 1
     downs:
     - 3.980 km
     downers:
     - - '37'
       - Igor Eržen
-    downward: 3
-    rel: 4.411765e-2
-    frac: 0.39705882
+    downward: 5
+    rel: 2.717391e-2
+    frac: 0.2826087
   - chunk: 48
     startChunk: 5.7 km
     endChunk: 5.8 km
-    endAhead: 8.8 km
+    endAhead: 9.5 km
     down: 1
     downs:
     - 5.775 km
     downers:
     - - '86'
       - Sandi Krč
-    downward: 2
-    rel: 2.941176e-2
-    frac: 0.42647059
+    downward: 7
+    rel: 3.804348e-2
+    frac: 0.32065217
   - chunk: 49
     startChunk: 5.8 km
     endChunk: 5.9 km
-    endAhead: 8.9 km
+    endAhead: 9.6 km
     down: 1
     downs:
     - 5.803 km
     downers:
     - - '26'
       - Dušan Durkovič
-    downward: 1
-    rel: 1.470588e-2
-    frac: 0.44117647
+    downward: 7
+    rel: 3.804348e-2
+    frac: 0.35869565
+  - chunk: 50
+    startChunk: 5.9 km
+    endChunk: 6.0 km
+    endAhead: 9.7 km
+    down: 1
+    downs:
+    - 5.948 km
+    downers:
+    - - '41'
+      - Ivo Duarte
+    downward: 6
+    rel: 3.26087e-2
+    frac: 0.39130435
+  - chunk: 62
+    startChunk: 7.1 km
+    endChunk: 7.2 km
+    endAhead: 10.9 km
+    down: 1
+    downs:
+    - 7.189 km
+    downers:
+    - - '16'
+      - Bruno Matos
+    downward: 5
+    rel: 2.717391e-2
+    frac: 0.41847826
+  - chunk: 74
+    startChunk: 8.3 km
+    endChunk: 8.4 km
+    endAhead: 12.1 km
+    down: 1
+    downs:
+    - 8.383 km
+    downers:
+    - - '114'
+      - Joan Brito
+    downward: 4
+    rel: 2.173913e-2
+    frac: 0.44021739
   - chunk: 82
     startChunk: 9.1 km
     endChunk: 9.2 km
-    endAhead: 12.2 km
+    endAhead: 12.9 km
     down: 1
     downs:
     - 9.140 km
     downers:
     - - '72'
       - Mitja Jančič
-    downward: 2
-    rel: 2.941176e-2
-    frac: 0.47058824
+    downward: 4
+    rel: 2.173913e-2
+    frac: 0.46195652
   - chunk: 85
     startChunk: 9.4 km
     endChunk: 9.5 km
-    endAhead: 12.5 km
+    endAhead: 13.2 km
     down: 1
     downs:
     - 9.446 km
     downers:
     - - '57'
       - Lara Leban
-    downward: 1
-    rel: 1.470588e-2
-    frac: 0.48529412
+    downward: 3
+    rel: 1.630435e-2
+    frac: 0.47826087
+  - chunk: 86
+    startChunk: 9.5 km
+    endChunk: 9.6 km
+    endAhead: 13.3 km
+    down: 1
+    downs:
+    - 9.555 km
+    downers:
+    - - '13'
+      - Balazs Szatmari
+    downward: 2
+    rel: 1.086957e-2
+    frac: 0.48913043
   - chunk: 117
     startChunk: 12.6 km
     endChunk: 12.7 km
-    endAhead: 15.7 km
+    endAhead: 16.4 km
     down: 1
     downs:
     - 12.619 km
@@ -163,166 +250,236 @@ difficulty:
     - - '101'
       - Tomaž Toplak
     downward: 1
-    rel: 1.470588e-2
+    rel: 5.43478e-3
+    frac: 0.49456522
+  - chunk: 271
+    startChunk: 28.0 km
+    endChunk: 28.1 km
+    endAhead: 31.8 km
+    down: 1
+    downs:
+    - 28.099 km
+    downers:
+    - - '98'
+      - Tomas Svoboda
+    downward: 1
+    rel: 5.43478e-3
     frac: 0.5
 - - chunk: 1
     startChunk: 1.0 km
     endChunk: 1.1 km
-    endAhead: 5.4 km
+    endAhead: 4.8 km
     down: 1
-    downs: []
-    downers: []
+    downs:
+    - 1.097 km
+    downers:
+    - - '23'
+      - David Šiljeg
     downward: 5
-    rel: 5.208333e-2
-    frac: 5.208333e-2
+    rel: 4.385965e-2
+    frac: 4.385965e-2
   - chunk: 4
     startChunk: 1.3 km
     endChunk: 1.4 km
-    endAhead: 5.7 km
+    endAhead: 5.1 km
     down: 1
-    downs: []
-    downers: []
+    downs:
+    - 1.307 km
+    downers:
+    - - '102'
+      - Tomislav Gomerčić
     downward: 5
-    rel: 5.208333e-2
-    frac: 0.10416667
+    rel: 4.385965e-2
+    frac: 8.77193e-2
   - chunk: 21
     startChunk: 3.0 km
     endChunk: 3.1 km
-    endAhead: 7.4 km
+    endAhead: 6.8 km
     down: 1
-    downs: []
-    downers: []
-    downward: 4
-    rel: 4.166667e-2
-    frac: 0.14583333
+    downs:
+    - 3.057 km
+    downers:
+    - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    downward: 5
+    rel: 4.385965e-2
+    frac: 0.13157895
   - chunk: 24
     startChunk: 3.3 km
     endChunk: 3.4 km
-    endAhead: 7.7 km
+    endAhead: 7.1 km
     down: 1
-    downs: []
-    downers: []
-    downward: 3
-    rel: 3.125e-2
-    frac: 0.17708333
+    downs:
+    - 3.379 km
+    downers:
+    - - '46'
+      - Jerko Odžak
+    downward: 4
+    rel: 3.508772e-2
+    frac: 0.16666667
   - chunk: 30
     startChunk: 3.9 km
     endChunk: 4.0 km
-    endAhead: 8.3 km
+    endAhead: 7.7 km
     down: 1
-    downs: []
-    downers: []
-    downward: 2
-    rel: 2.083333e-2
-    frac: 0.19791667
+    downs:
+    - 3.971 km
+    downers:
+    - - '40'
+      - Ivica Huljek
+    downward: 4
+    rel: 3.508772e-2
+    frac: 0.20175439
+  - chunk: 41
+    startChunk: 5.0 km
+    endChunk: 5.1 km
+    endAhead: 8.8 km
+    down: 1
+    downs:
+    - 5.001 km
+    downers:
+    - - '63'
+      - Marketa Tomaskova
+    downward: 4
+    rel: 3.508772e-2
+    frac: 0.23684211
   - chunk: 46
     startChunk: 5.5 km
     endChunk: 5.6 km
-    endAhead: 9.9 km
+    endAhead: 9.3 km
     down: 1
-    downs: []
-    downers: []
+    downs:
+    - 5.548 km
+    downers:
+    - - '73'
+      - Mitja Jug
+    downward: 3
+    rel: 2.631579e-2
+    frac: 0.26315789
+  - chunk: 67
+    startChunk: 7.6 km
+    endChunk: 7.7 km
+    endAhead: 11.4 km
+    down: 1
+    downs:
+    - 7.633 km
+    downers:
+    - - '21'
+      - Damir Kalinger
+    downward: 3
+    rel: 2.631579e-2
+    frac: 0.28947368
+  - chunk: 68
+    startChunk: 7.7 km
+    endChunk: 7.8 km
+    endAhead: 11.5 km
+    down: 1
+    downs:
+    - 7.723 km
+    downers:
+    - - '54'
+      - Krešo  Kovačič
     downward: 2
-    rel: 2.083333e-2
-    frac: 0.21875
+    rel: 1.754386e-2
+    frac: 0.30701754
   - chunk: 89
     startChunk: 9.8 km
     endChunk: 9.9 km
-    endAhead: 14.2 km
+    endAhead: 13.6 km
     down: 1
     downs:
     - 9.878 km
     downers:
-    - - '4'
-      - Alojz Tovornik
+    - - '9'
+      - Antoni Buljan
     downward: 1
-    rel: 1.041667e-2
-    frac: 0.22916667
+    rel: 8.77193e-3
+    frac: 0.31578947
   - chunk: 174
     startChunk: 18.3 km
     endChunk: 18.4 km
-    endAhead: 22.7 km
+    endAhead: 22.1 km
     down: 1
     downs:
     - 18.395 km
     downers:
-    - - '23'
-      - David Šiljeg
-    downward: 4
-    rel: 4.166667e-2
-    frac: 0.27083333
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    downward: 3
+    rel: 2.631579e-2
+    frac: 0.34210526
   - chunk: 182
     startChunk: 19.1 km
     endChunk: 19.2 km
-    endAhead: 23.5 km
+    endAhead: 22.9 km
     down: 1
     downs:
     - 19.135 km
     downers:
-    - - '102'
-      - Tomislav Gomerčić
+    - - '37'
+      - Igor Eržen
     downward: 4
-    rel: 4.166667e-2
-    frac: 0.3125
+    rel: 3.508772e-2
+    frac: 0.37719298
   - chunk: 200
     startChunk: 20.9 km
     endChunk: 21.0 km
-    endAhead: 25.3 km
+    endAhead: 24.7 km
     down: 1
     downs:
     - 20.932 km
     downers:
-    - - '46'
-      - Jerko Odžak
+    - - '86'
+      - Sandi Krč
     downward: 3
-    rel: 3.125e-2
-    frac: 0.34375
+    rel: 2.631579e-2
+    frac: 0.40350877
   - chunk: 217
     startChunk: 22.6 km
     endChunk: 22.7 km
-    endAhead: 27.0 km
+    endAhead: 26.4 km
     down: 1
     downs:
     - 22.685 km
     downers:
-    - - '73'
-      - Mitja Jug
-    downward: 5
-    rel: 5.208333e-2
-    frac: 0.39583333
+    - - '26'
+      - Dušan Durkovič
+    downward: 3
+    rel: 2.631579e-2
+    frac: 0.42982456
   - chunk: 218
     startChunk: 22.7 km
     endChunk: 22.8 km
-    endAhead: 27.1 km
+    endAhead: 26.5 km
     down: 2
     downs:
     - 22.749 km
     - 22.754 km
     downers:
-    - - '54'
-      - Krešo  Kovačič
-    - - '9'
-      - Antoni Buljan
-    downward: 4
-    rel: 4.166667e-2
-    frac: 0.4375
+    - - '41'
+      - Ivo Duarte
+    - - '16'
+      - Bruno Matos
+    downward: 2
+    rel: 1.754386e-2
+    frac: 0.44736842
   - chunk: 254
     startChunk: 26.3 km
     endChunk: 26.4 km
-    endAhead: 30.7 km
+    endAhead: 30.1 km
     down: 1
     downs:
     - 26.389 km
     downers:
-    - - '37'
-      - Igor Eržen
+    - - '114'
+      - Joan Brito
     downward: 3
-    rel: 3.125e-2
-    frac: 0.46875
+    rel: 2.631579e-2
+    frac: 0.47368421
   - chunk: 257
     startChunk: 26.6 km
     endChunk: 26.7 km
-    endAhead: 31.0 km
+    endAhead: 30.4 km
     down: 4
     downs:
     - 26.652 km
@@ -330,29 +487,29 @@ difficulty:
     - 26.678 km
     - 26.688 km
     downers:
-    - - '86'
-      - Sandi Krč
-    - - '26'
-      - Dušan Durkovič
     - - '72'
       - Mitja Jančič
     - - '57'
       - Lara Leban
+    - - '13'
+      - Balazs Szatmari
+    - - '101'
+      - Tomaž Toplak
     downward: 2
-    rel: 2.083333e-2
-    frac: 0.48958333
+    rel: 1.754386e-2
+    frac: 0.49122807
   - chunk: 260
     startChunk: 26.9 km
     endChunk: 27.0 km
-    endAhead: 31.3 km
+    endAhead: 30.7 km
     down: 1
     downs:
     - 26.915 km
     downers:
-    - - '101'
-      - Tomaž Toplak
+    - - '98'
+      - Tomas Svoboda
     downward: 1
-    rel: 1.041667e-2
+    rel: 8.77193e-3
     frac: 0.5
 - - chunk: 0
     startChunk: 1.0 km
@@ -363,10 +520,10 @@ difficulty:
     - 0.836 km
     - 0.927 km
     downers:
-    - - '73'
-      - Mitja Jug
-    - - '54'
-      - Krešo  Kovačič
+    - - '26'
+      - Dušan Durkovič
+    - - '41'
+      - Ivo Duarte
     downward: 3
     rel: 7.5e-2
     frac: 7.5e-2
@@ -378,8 +535,8 @@ difficulty:
     downs:
     - 1.541 km
     downers:
-    - - '9'
-      - Antoni Buljan
+    - - '16'
+      - Bruno Matos
     downward: 2
     rel: 5.0e-2
     frac: 0.125
@@ -391,8 +548,8 @@ difficulty:
     downs:
     - 3.649 km
     downers:
-    - - '37'
-      - Igor Eržen
+    - - '114'
+      - Joan Brito
     downward: 1
     rel: 2.5e-2
     frac: 0.15
@@ -404,8 +561,8 @@ difficulty:
     downs:
     - 18.049 km
     downers:
-    - - '86'
-      - Sandi Krč
+    - - '72'
+      - Mitja Jančič
     downward: 4
     rel: 0.1
     frac: 0.25
@@ -417,8 +574,8 @@ difficulty:
     downs:
     - 26.686 km
     downers:
-    - - '26'
-      - Dušan Durkovič
+    - - '57'
+      - Lara Leban
     downward: 4
     rel: 0.1
     frac: 0.35
@@ -430,8 +587,8 @@ difficulty:
     downs:
     - 27.285 km
     downers:
-    - - '72'
-      - Mitja Jančič
+    - - '13'
+      - Balazs Szatmari
     downward: 3
     rel: 7.5e-2
     frac: 0.425
@@ -443,8 +600,8 @@ difficulty:
     downs:
     - 27.616 km
     downers:
-    - - '57'
-      - Lara Leban
+    - - '101'
+      - Tomaž Toplak
     downward: 2
     rel: 5.0e-2
     frac: 0.475
@@ -456,8 +613,8 @@ difficulty:
     downs:
     - 29.117 km
     downers:
-    - - '101'
-      - Tomaž Toplak
+    - - '98'
+      - Tomas Svoboda
     downward: 1
     rel: 2.5e-2
     frac: 0.5
