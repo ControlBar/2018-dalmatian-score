@@ -8,6 +8,9 @@ comp:
   utcOffset:
     timeZoneMinutes: 120
   scoreBack: 300.000 s
+  give:
+    giveFraction: 5.0e-4
+    giveDistance: 5.0 m
 nominal:
   launch: 0.96
   goal: 0.2
@@ -22,50 +25,50 @@ tasks:
       lat: 43.82973
       lng: 16.64243
       radius: 400.0 m
-      give: 395.0 m
       alt: 849.000 m
+      give: 395.0 m
     - zoneName: G35
       lat: 43.84411
       lng: 16.6599
       radius: 3000.0 m
-      give: 2995.0 m
       alt: 933.000 m
+      give: 2995.0 m
     - zoneName: G44
       lat: 43.82293
       lng: 16.61629
       radius: 400.0 m
-      give: 405.0 m
       alt: 567.000 m
+      give: 405.0 m
     - zoneName: G10
       lat: 43.78045
       lng: 16.65744
       radius: 400.0 m
-      give: 405.0 m
       alt: 387.000 m
+      give: 405.0 m
     - zoneName: G36
       lat: 43.82342
       lng: 16.58682
       radius: 1000.0 m
-      give: 1005.0 m
       alt: 431.000 m
+      give: 1005.0 m
     - zoneName: G17
       lat: 43.72863
       lng: 16.69475
       radius: 1000.0 m
-      give: 1005.0 m
       alt: 298.000 m
+      give: 1005.0 m
     - zoneName: G39
       lat: 43.75677
       lng: 16.62018
       radius: 1000.0 m
-      give: 1005.0 m
       alt: 339.000 m
+      give: 1005.0 m
     - zoneName: G39
       lat: 43.75677
       lng: 16.62018
       radius: 400.0 m
-      give: 395.0 m
       alt: 339.000 m
+      give: 395.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -155,56 +158,56 @@ tasks:
       lat: 43.82973
       lng: 16.64243
       radius: 400.0 m
-      give: 395.0 m
       alt: 849.000 m
+      give: 395.0 m
     - zoneName: G35
       lat: 43.84411
       lng: 16.6599
       radius: 3000.0 m
-      give: 2995.0 m
       alt: 933.000 m
+      give: 2995.0 m
     - zoneName: G44
       lat: 43.82293
       lng: 16.61629
       radius: 400.0 m
-      give: 405.0 m
       alt: 567.000 m
+      give: 405.0 m
     - zoneName: G27
       lat: 43.79605
       lng: 16.67223
       radius: 400.0 m
-      give: 405.0 m
       alt: 647.000 m
+      give: 405.0 m
     - zoneName: G41
       lat: 43.92137
       lng: 16.46695
       radius: 14000.0 m
-      give: 14007.0 m
       alt: 388.000 m
+      give: 14007.0 m
     - zoneName: G10
       lat: 43.78045
       lng: 16.65744
       radius: 400.0 m
-      give: 405.0 m
       alt: 387.000 m
+      give: 405.0 m
     - zoneName: G39
       lat: 43.75677
       lng: 16.62018
       radius: 400.0 m
-      give: 405.0 m
       alt: 339.000 m
+      give: 405.0 m
     - zoneName: G44
       lat: 43.82293
       lng: 16.61629
       radius: 1000.0 m
-      give: 1005.0 m
       alt: 567.000 m
+      give: 1005.0 m
     - zoneName: G25
       lat: 43.72975
       lng: 16.69563
       radius: 400.0 m
-      give: 405.0 m
       alt: 301.000 m
+      give: 405.0 m
     raceKind:
       prolog:
       - cylinder:
@@ -301,44 +304,44 @@ tasks:
       lat: 43.82973
       lng: 16.64243
       radius: 400.0 m
-      give: 395.0 m
       alt: 849.000 m
+      give: 395.0 m
     - zoneName: G35
       lat: 43.84411
       lng: 16.6599
       radius: 3000.0 m
-      give: 2995.0 m
       alt: 933.000 m
+      give: 2995.0 m
     - zoneName: G44
       lat: 43.82293
       lng: 16.61629
       radius: 400.0 m
-      give: 405.0 m
       alt: 567.000 m
+      give: 405.0 m
     - zoneName: G41
       lat: 43.92137
       lng: 16.46695
       radius: 14000.0 m
-      give: 14007.0 m
       alt: 388.000 m
+      give: 14007.0 m
     - zoneName: G27
       lat: 43.79605
       lng: 16.67223
       radius: 400.0 m
-      give: 405.0 m
       alt: 647.000 m
+      give: 405.0 m
     - zoneName: G41
       lat: 43.92137
       lng: 16.46695
       radius: 14000.0 m
-      give: 14007.0 m
       alt: 388.000 m
+      give: 14007.0 m
     - zoneName: G39
       lat: 43.75677
       lng: 16.62018
       radius: 600.0 m
-      give: 605.0 m
       alt: 339.000 m
+      give: 605.0 m
     raceKind:
       prolog:
       - cylinder:
