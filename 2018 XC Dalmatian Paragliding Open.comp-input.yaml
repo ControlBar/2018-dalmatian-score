@@ -22,7 +22,7 @@ tasks:
       lat: 43.82973
       lng: 16.64243
       radius: 400.0 m
-      give: 405.0 m
+      give: 395.0 m
       alt: 849.000 m
     - zoneName: G35
       lat: 43.84411
@@ -40,7 +40,7 @@ tasks:
       lat: 43.78045
       lng: 16.65744
       radius: 400.0 m
-      give: 395.0 m
+      give: 405.0 m
       alt: 387.000 m
     - zoneName: G36
       lat: 43.82342
@@ -52,7 +52,7 @@ tasks:
       lat: 43.72863
       lng: 16.69475
       radius: 1000.0 m
-      give: 995.0 m
+      give: 1005.0 m
       alt: 298.000 m
     - zoneName: G39
       lat: 43.75677
@@ -155,7 +155,7 @@ tasks:
       lat: 43.82973
       lng: 16.64243
       radius: 400.0 m
-      give: 405.0 m
+      give: 395.0 m
       alt: 849.000 m
     - zoneName: G35
       lat: 43.84411
@@ -173,7 +173,7 @@ tasks:
       lat: 43.79605
       lng: 16.67223
       radius: 400.0 m
-      give: 395.0 m
+      give: 405.0 m
       alt: 647.000 m
     - zoneName: G41
       lat: 43.92137
@@ -185,7 +185,7 @@ tasks:
       lat: 43.78045
       lng: 16.65744
       radius: 400.0 m
-      give: 395.0 m
+      give: 405.0 m
       alt: 387.000 m
     - zoneName: G39
       lat: 43.75677
@@ -197,7 +197,7 @@ tasks:
       lat: 43.82293
       lng: 16.61629
       radius: 1000.0 m
-      give: 995.0 m
+      give: 1005.0 m
       alt: 567.000 m
     - zoneName: G25
       lat: 43.72975
@@ -301,7 +301,7 @@ tasks:
       lat: 43.82973
       lng: 16.64243
       radius: 400.0 m
-      give: 405.0 m
+      give: 395.0 m
       alt: 849.000 m
     - zoneName: G35
       lat: 43.84411
@@ -319,7 +319,7 @@ tasks:
       lat: 43.92137
       lng: 16.46695
       radius: 14000.0 m
-      give: 13993.0 m
+      give: 14007.0 m
       alt: 388.000 m
     - zoneName: G27
       lat: 43.79605
@@ -331,7 +331,7 @@ tasks:
       lat: 43.92137
       lng: 16.46695
       radius: 14000.0 m
-      give: 13993.0 m
+      give: 14007.0 m
       alt: 388.000 m
     - zoneName: G39
       lat: 43.75677
