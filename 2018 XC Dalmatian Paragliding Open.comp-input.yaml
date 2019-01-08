@@ -121,6 +121,13 @@ tasks:
           - 16.62018000 deg
           radius: 400.0 m
     openKind: null
+  didFlyNoTracklog:
+  - - '82'
+    - Richard Edlinger
+  - - '88'
+    - Sandor Roza
+  - - '113'
+    - Zsolt Sandor
   speedSection:
   - 2
   - 7
@@ -263,6 +270,9 @@ tasks:
           - 16.69563000 deg
           radius: 400.0 m
     openKind: null
+  didFlyNoTracklog:
+  - - '91'
+    - Slava Jelić
   speedSection:
   - 2
   - 9
@@ -387,6 +397,9 @@ tasks:
           - 16.62018000 deg
           radius: 600.0 m
     openKind: null
+  didFlyNoTracklog:
+  - - '91'
+    - Slava Jelić
   speedSection:
   - 2
   - 7
