@@ -1,18 +1,7 @@
 dnf:
-- - - '82'
-    - Richard Edlinger
-  - - '88'
-    - Sandor Roza
-  - - '113'
-    - Zsolt Sandor
-- - - '80'
-    - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-  - - '91'
-    - Slava Jelić
-- - - '21'
-    - Damir Kalinger
-  - - '91'
-    - Slava Jelić
+- []
+- []
+- []
 flying:
 - - - - '4'
       - Alojz Tovornik
