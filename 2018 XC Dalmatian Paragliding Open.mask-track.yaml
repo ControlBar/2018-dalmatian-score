@@ -1874,6 +1874,18 @@ land:
       - Mitja Jug
     - togo: 28.346149 km
       made: 1.316503 km
+  - - - '82'
+      - Richard Edlinger
+    - togo: 28.662652 km
+      made: 1.000000 km
+  - - - '88'
+      - Sandor Roza
+    - togo: 28.662652 km
+      made: 1.000000 km
+  - - - '113'
+      - Zsolt Sandor
+    - togo: 28.662652 km
+      made: 1.000000 km
   - - - '63'
       - Marketa Tomaskova
     - togo: 29.004068 km
@@ -1982,6 +1994,14 @@ land:
       - Ivica Huljek
     - togo: 39.277839 km
       made: 1.895474 km
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - togo: 40.173313 km
+      made: 1.000000 km
+  - - - '91'
+      - Slava Jelić
+    - togo: 40.173313 km
+      made: 1.000000 km
   - - - '4'
       - Alojz Tovornik
     - togo: 40.995410 km
@@ -2014,6 +2034,14 @@ land:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - togo: 23.216141 km
       made: 3.172206 km
+  - - - '21'
+      - Damir Kalinger
+    - togo: 25.388347 km
+      made: 1.000000 km
+  - - - '91'
+      - Slava Jelić
+    - togo: 25.388347 km
+      made: 1.000000 km
   - - - '4'
       - Alojz Tovornik
     - togo: 25.644020 km
