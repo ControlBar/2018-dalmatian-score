@@ -121,13 +121,6 @@ tasks:
           - 16.62018000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '82'
-    - Richard Edlinger
-  - - '88'
-    - Sandor Roza
-  - - '113'
-    - Zsolt Sandor
   speedSection:
   - 2
   - 7
@@ -150,17 +143,6 @@ tasks:
     close: 2018-05-24T14:00:00Z
   startGates:
   - 2018-05-24T10:30:00Z
-  absent:
-  - - '50'
-    - Josip Osmann
-  - - '53'
-    - Konstantin Rakić
-  - - '91'
-    - Slava Jelić
-  - - '94'
-    - Stjepan Zjacic
-  - - '95'
-    - Stojan Kranjc
   stopped:
     announced: 2018-05-24T12:23:00Z
 - taskName: Task 2
@@ -270,9 +252,6 @@ tasks:
           - 16.69563000 deg
           radius: 400.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '91'
-    - Slava Jelić
   speedSection:
   - 2
   - 9
@@ -297,19 +276,6 @@ tasks:
     close: 2018-05-26T14:00:00Z
   startGates:
   - 2018-05-26T11:00:00Z
-  absent:
-  - - '23'
-    - David Šiljeg
-  - - '50'
-    - Josip Osmann
-  - - '53'
-    - Konstantin Rakić
-  - - '82'
-    - Richard Edlinger
-  - - '94'
-    - Stjepan Zjacic
-  - - '102'
-    - Tomislav Gomerčić
   stopped:
     announced: 2018-05-26T12:10:00Z
 - taskName: Task 3
@@ -397,9 +363,6 @@ tasks:
           - 16.62018000 deg
           radius: 600.0 m
     openKind: null
-  didFlyNoTracklog:
-  - - '91'
-    - Slava Jelić
   speedSection:
   - 2
   - 7
@@ -420,25 +383,6 @@ tasks:
     close: 2018-05-27T14:00:00Z
   startGates:
   - 2018-05-27T11:00:00Z
-  absent:
-  - - '13'
-    - Balazs Szatmari
-  - - '50'
-    - Josip Osmann
-  - - '53'
-    - Konstantin Rakić
-  - - '82'
-    - Richard Edlinger
-  - - '86'
-    - Sandi Krč
-  - - '88'
-    - Sandor Roza
-  - - '94'
-    - Stjepan Zjacic
-  - - '102'
-    - Tomislav Gomerčić
-  - - '113'
-    - Zsolt Sandor
   stopped: null
 taskFolders:
 - - Task 1
@@ -661,3 +605,67 @@ pilots:
   - - - '101'
       - Tomaž Toplak
     - Toma__Toplak.20180527-123522.12671.101.IGC
+pilotGroups:
+- absent:
+  - - '50'
+    - Josip Osmann
+  - - '53'
+    - Konstantin Rakić
+  - - '91'
+    - Slava Jelić
+  - - '94'
+    - Stjepan Zjacic
+  - - '95'
+    - Stojan Kranjc
+  didFlyNoTracklog:
+  - - '82'
+    - Richard Edlinger
+  - - '88'
+    - Sandor Roza
+  - - '113'
+    - Zsolt Sandor
+  dnf: []
+- absent:
+  - - '23'
+    - David Šiljeg
+  - - '50'
+    - Josip Osmann
+  - - '53'
+    - Konstantin Rakić
+  - - '82'
+    - Richard Edlinger
+  - - '94'
+    - Stjepan Zjacic
+  - - '102'
+    - Tomislav Gomerčić
+  didFlyNoTracklog:
+  - - '91'
+    - Slava Jelić
+  dnf:
+  - - '80'
+    - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+- absent:
+  - - '13'
+    - Balazs Szatmari
+  - - '50'
+    - Josip Osmann
+  - - '53'
+    - Konstantin Rakić
+  - - '82'
+    - Richard Edlinger
+  - - '86'
+    - Sandi Krč
+  - - '88'
+    - Sandor Roza
+  - - '94'
+    - Stjepan Zjacic
+  - - '102'
+    - Tomislav Gomerčić
+  - - '113'
+    - Zsolt Sandor
+  didFlyNoTracklog:
+  - - '91'
+    - Slava Jelić
+  dnf:
+  - - '21'
+    - Damir Kalinger
