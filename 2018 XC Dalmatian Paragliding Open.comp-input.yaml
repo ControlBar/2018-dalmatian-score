@@ -621,13 +621,13 @@ pilotGroups:
     unDfNoTrack:
     - - - '82'
         - Richard Edlinger
-      - unawarded: 0.000000 km
+      - 0.000000 km
     - - - '88'
         - Sandor Roza
-      - unawarded: 0.000000 km
+      - 0.000000 km
     - - - '113'
         - Zsolt Sandor
-      - unawarded: 0.000000 km
+      - 0.000000 km
   dnf: []
 - absent:
   - - '23'
@@ -646,7 +646,7 @@ pilotGroups:
     unDfNoTrack:
     - - - '91'
         - Slava Jelić
-      - unawarded: 0.000000 km
+      - 0.000000 km
   dnf:
   - - '80'
     - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
@@ -673,7 +673,7 @@ pilotGroups:
     unDfNoTrack:
     - - - '91'
         - Slava Jelić
-      - unawarded: 0.000000 km
+      - 0.000000 km
   dnf:
   - - '21'
     - Damir Kalinger
