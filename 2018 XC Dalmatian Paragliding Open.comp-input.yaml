@@ -618,12 +618,16 @@ pilotGroups:
   - - '95'
     - Stojan Kranjc
   didFlyNoTracklog:
-  - - '82'
-    - Richard Edlinger
-  - - '88'
-    - Sandor Roza
-  - - '113'
-    - Zsolt Sandor
+    unDfNoTrack:
+    - - - '82'
+        - Richard Edlinger
+      - null
+    - - - '88'
+        - Sandor Roza
+      - null
+    - - - '113'
+        - Zsolt Sandor
+      - null
   dnf: []
 - absent:
   - - '23'
@@ -639,8 +643,10 @@ pilotGroups:
   - - '102'
     - Tomislav Gomerčić
   didFlyNoTracklog:
-  - - '91'
-    - Slava Jelić
+    unDfNoTrack:
+    - - - '91'
+        - Slava Jelić
+      - null
   dnf:
   - - '80'
     - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
@@ -664,8 +670,10 @@ pilotGroups:
   - - '113'
     - Zsolt Sandor
   didFlyNoTracklog:
-  - - '91'
-    - Slava Jelić
+    unDfNoTrack:
+    - - - '91'
+        - Slava Jelić
+      - null
   dnf:
   - - '21'
     - Damir Kalinger

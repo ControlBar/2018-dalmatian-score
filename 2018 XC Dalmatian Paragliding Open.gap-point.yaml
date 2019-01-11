@@ -1,121 +1,4 @@
-validityWorking:
-- time:
-    nominalTime: 1.000000 h
-    ssBestTime: null
-    gsBestTime: null
-    nominalDistance: 25.0 km
-    bestDistance: 27.7 km
-  launch:
-    nominalLaunch: 0.96
-    flying: 29
-    present: 29
-  distance:
-    sum: 102.3 km
-    flying: 29
-    area: 14.6679652
-    nominalGoal: 0.2
-    nominalDistance: 25.0 km
-    minimumDistance: 1.0 km
-    bestDistance: 27.7 km
-- time:
-    nominalTime: 1.000000 h
-    ssBestTime: null
-    gsBestTime: null
-    nominalDistance: 25.0 km
-    bestDistance: 24.8 km
-  launch:
-    nominalLaunch: 0.96
-    flying: 25
-    present: 26
-  distance:
-    sum: 283.1 km
-    flying: 25
-    area: 14.4
-    nominalGoal: 0.2
-    nominalDistance: 25.0 km
-    minimumDistance: 1.0 km
-    bestDistance: 24.8 km
-- time:
-    nominalTime: 1.000000 h
-    ssBestTime: 1.058611 h
-    gsBestTime: 1.078056 h
-    nominalDistance: 25.0 km
-    bestDistance: 26.4 km
-  launch:
-    nominalLaunch: 0.96
-    flying: 23
-    present: 24
-  distance:
-    sum: 386.6 km
-    flying: 23
-    area: 14.5388347
-    nominalGoal: 0.2
-    nominalDistance: 25.0 km
-    minimumDistance: 1.0 km
-    bestDistance: 26.4 km
-validity:
-- time: 1
-  launch: 1
-  distance: 0.24056269
-  task: 0.24056269
-- time: 0.99907436
-  launch: 1
-  distance: 0.7863535
-  task: 0.78562562
-- time: 1
-  launch: 0.99994088
-  distance: 1
-  task: 0.99994088
-allocation:
-- goalRatio: 0
-  weight:
-    reach: 0.9
-    effort: 0
-    distance: 0.9
-    leading: 3.5e-2
-    arrival: 0
-    time: 6.5e-2
-  points:
-    reach: 216.506
-    effort: 0
-    distance: 216.506
-    leading: 8.4
-    arrival: 0
-    time: 15.6
-  taskPoints: 241
-- goalRatio: 0
-  weight:
-    reach: 0.9
-    effort: 0
-    distance: 0.9
-    leading: 3.5e-2
-    arrival: 0
-    time: 6.5e-2
-  points:
-    reach: 707.063
-    effort: 0
-    distance: 707.063
-    leading: 27.5
-    arrival: 0
-    time: 51.1
-  taskPoints: 786
-- goalRatio: 0.47826087
-  weight:
-    reach: 0.43130164
-    effort: 0
-    distance: 0.43130164
-    leading: 0.19904443
-    arrival: 0
-    time: 0.36965394
-  points:
-    reach: 431.276
-    effort: 0
-    distance: 431.276
-    leading: 199
-    arrival: 0
-    time: 369.6
-  taskPoints: 1000
-score:
+scoreDf:
 - - - - '98'
       - Tomas Svoboda
     - place: '1'
@@ -1546,3 +1429,191 @@ score:
         gsVelocity: null
       reachDistance: 0.125 km
       landedDistance: -0.238 km
+scoreDfNoTrack:
+- - - - '82'
+      - Richard Edlinger
+    - place: 1=
+      total: 8
+      breakdown:
+        reach: 7.822
+        effort: 0
+        distance: 7.822
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+  - - - '88'
+      - Sandor Roza
+    - place: 1=
+      total: 8
+      breakdown:
+        reach: 7.822
+        effort: 0
+        distance: 7.822
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+  - - - '113'
+      - Zsolt Sandor
+    - place: 1=
+      total: 8
+      breakdown:
+        reach: 7.822
+        effort: 0
+        distance: 7.822
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+- - - - '91'
+      - Slava Jelić
+    - place: '1'
+      total: 29
+      breakdown:
+        reach: 28.563
+        effort: 0
+        distance: 28.563
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+- - - - '91'
+      - Slava Jelić
+    - place: '1'
+      total: 16
+      breakdown:
+        reach: 16.343
+        effort: 0
+        distance: 16.343
+        leading: 0
+        arrival: 0
+        time: 0
+      velocity: null
+      reachDistance: 0.000 km
+      landedDistance: 0.000 km
+validityWorking:
+- time:
+    nominalTime: 1.000000 h
+    ssBestTime: null
+    gsBestTime: null
+    nominalDistance: 25.0 km
+    bestDistance: 27.7 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 29
+    present: 29
+  distance:
+    sum: 102.3 km
+    flying: 29
+    area: 14.6679652
+    nominalGoal: 0.2
+    nominalDistance: 25.0 km
+    minimumDistance: 1.0 km
+    bestDistance: 27.7 km
+- time:
+    nominalTime: 1.000000 h
+    ssBestTime: null
+    gsBestTime: null
+    nominalDistance: 25.0 km
+    bestDistance: 24.8 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 25
+    present: 26
+  distance:
+    sum: 283.1 km
+    flying: 25
+    area: 14.4
+    nominalGoal: 0.2
+    nominalDistance: 25.0 km
+    minimumDistance: 1.0 km
+    bestDistance: 24.8 km
+- time:
+    nominalTime: 1.000000 h
+    ssBestTime: 1.058611 h
+    gsBestTime: 1.078056 h
+    nominalDistance: 25.0 km
+    bestDistance: 26.4 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 23
+    present: 24
+  distance:
+    sum: 386.6 km
+    flying: 23
+    area: 14.5388347
+    nominalGoal: 0.2
+    nominalDistance: 25.0 km
+    minimumDistance: 1.0 km
+    bestDistance: 26.4 km
+validity:
+- time: 1
+  launch: 1
+  distance: 0.24056269
+  task: 0.24056269
+- time: 0.99907436
+  launch: 1
+  distance: 0.7863535
+  task: 0.78562562
+- time: 1
+  launch: 0.99994088
+  distance: 1
+  task: 0.99994088
+allocation:
+- goalRatio: 0
+  weight:
+    reach: 0.9
+    effort: 0
+    distance: 0.9
+    leading: 3.5e-2
+    arrival: 0
+    time: 6.5e-2
+  points:
+    reach: 216.506
+    effort: 0
+    distance: 216.506
+    leading: 8.4
+    arrival: 0
+    time: 15.6
+  taskPoints: 241
+- goalRatio: 0
+  weight:
+    reach: 0.9
+    effort: 0
+    distance: 0.9
+    leading: 3.5e-2
+    arrival: 0
+    time: 6.5e-2
+  points:
+    reach: 707.063
+    effort: 0
+    distance: 707.063
+    leading: 27.5
+    arrival: 0
+    time: 51.1
+  taskPoints: 786
+- goalRatio: 0.47826087
+  weight:
+    reach: 0.43130164
+    effort: 0
+    distance: 0.43130164
+    leading: 0.19904443
+    arrival: 0
+    time: 0.36965394
+  points:
+    reach: 431.276
+    effort: 0
+    distance: 431.276
+    leading: 199
+    arrival: 0
+    time: 369.6
+  taskPoints: 1000
