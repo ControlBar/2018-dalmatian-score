@@ -32,14 +32,14 @@ flying:
       - 850
       scoredFixes:
       - 0
-      - 850
+      - 581
       loggedSeconds: 920
       flyingSeconds:
       - 0
       - 850
       scoredSeconds:
       - 0
-      - 850
+      - 581
       loggedTimes:
       - 2018-05-24T12:08:19Z
       - 2018-05-24T12:23:39Z
@@ -48,7 +48,7 @@ flying:
       - 2018-05-24T12:22:29Z
       scoredTimes:
       - 2018-05-24T12:08:19Z
-      - 2018-05-24T12:22:29Z
+      - 2018-05-24T12:18:00Z
   - - - '13'
       - Balazs Szatmari
     - loggedFixes: 5580
@@ -57,14 +57,14 @@ flying:
       - 5568
       scoredFixes:
       - 0
-      - 5568
+      - 4730
       loggedSeconds: 5579
       flyingSeconds:
       - 0
       - 5568
       scoredSeconds:
       - 0
-      - 5568
+      - 4730
       loggedTimes:
       - 2018-05-24T10:59:10Z
       - 2018-05-24T12:32:09Z
@@ -73,7 +73,7 @@ flying:
       - 2018-05-24T12:31:58Z
       scoredTimes:
       - 2018-05-24T10:59:10Z
-      - 2018-05-24T12:31:58Z
+      - 2018-05-24T12:18:00Z
   - - - '16'
       - Bruno Matos
     - loggedFixes: 4870
@@ -82,14 +82,14 @@ flying:
       - 4724
       scoredFixes:
       - 4
-      - 4724
+      - 3427
       loggedSeconds: 4869
       flyingSeconds:
       - 4
       - 4724
       scoredSeconds:
       - 4
-      - 4724
+      - 3427
       loggedTimes:
       - 2018-05-24T11:20:53Z
       - 2018-05-24T12:42:02Z
@@ -98,7 +98,7 @@ flying:
       - 2018-05-24T12:39:37Z
       scoredTimes:
       - 2018-05-24T11:20:57Z
-      - 2018-05-24T12:39:37Z
+      - 2018-05-24T12:18:00Z
   - - - '21'
       - Damir Kalinger
     - loggedFixes: 1809
@@ -132,14 +132,14 @@ flying:
       - 782
       scoredFixes:
       - 48
-      - 782
+      - 270
       loggedSeconds: 820
       flyingSeconds:
       - 48
       - 782
       scoredSeconds:
       - 48
-      - 782
+      - 270
       loggedTimes:
       - 2018-05-24T12:13:30Z
       - 2018-05-24T12:27:10Z
@@ -148,7 +148,7 @@ flying:
       - 2018-05-24T12:26:32Z
       scoredTimes:
       - 2018-05-24T12:14:18Z
-      - 2018-05-24T12:26:32Z
+      - 2018-05-24T12:18:00Z
   - - - '26'
       - Dušan Durkovič
     - loggedFixes: 3097
@@ -357,14 +357,14 @@ flying:
       - 1478
       scoredFixes:
       - 16
-      - 1478
+      - 877
       loggedSeconds: 1495
       flyingSeconds:
       - 16
       - 1478
       scoredSeconds:
       - 16
-      - 1478
+      - 877
       loggedTimes:
       - 2018-05-24T12:03:23Z
       - 2018-05-24T12:28:18Z
@@ -373,7 +373,7 @@ flying:
       - 2018-05-24T12:28:01Z
       scoredTimes:
       - 2018-05-24T12:03:39Z
-      - 2018-05-24T12:28:01Z
+      - 2018-05-24T12:18:00Z
   - - - '72'
       - Mitja Jančič
     - loggedFixes: 4674
@@ -513,14 +513,14 @@ flying:
       - 4507
       scoredFixes:
       - 5
-      - 4507
+      - 3134
       loggedSeconds: 9295
       flyingSeconds:
       - 150
       - 9269
       scoredSeconds:
       - 150
-      - 9269
+      - 6523
       loggedTimes:
       - 2018-05-24T10:29:16Z
       - 2018-05-24T13:04:11Z
@@ -529,7 +529,7 @@ flying:
       - 2018-05-24T13:03:45Z
       scoredTimes:
       - 2018-05-24T10:31:46Z
-      - 2018-05-24T13:03:45Z
+      - 2018-05-24T12:17:59Z
   - - - '101'
       - Tomaž Toplak
     - loggedFixes: 4533
@@ -591,14 +591,14 @@ flying:
       - 3371
       scoredFixes:
       - 456
-      - 3371
+      - 3180
       loggedSeconds: 3424
       flyingSeconds:
       - 456
       - 3371
       scoredSeconds:
       - 456
-      - 3371
+      - 3180
       loggedTimes:
       - 2018-05-26T11:12:00Z
       - 2018-05-26T12:09:04Z
@@ -607,7 +607,7 @@ flying:
       - 2018-05-26T12:08:11Z
       scoredTimes:
       - 2018-05-26T11:19:36Z
-      - 2018-05-26T12:08:11Z
+      - 2018-05-26T12:05:00Z
   - - - '9'
       - Antoni Buljan
     - loggedFixes: 1287
@@ -641,14 +641,14 @@ flying:
       - 3916
       scoredFixes:
       - 3
-      - 3916
+      - 3450
       loggedSeconds: 3927
       flyingSeconds:
       - 3
       - 3916
       scoredSeconds:
       - 3
-      - 3916
+      - 3450
       loggedTimes:
       - 2018-05-26T11:07:30Z
       - 2018-05-26T12:12:57Z
@@ -657,7 +657,7 @@ flying:
       - 2018-05-26T12:12:46Z
       scoredTimes:
       - 2018-05-26T11:07:33Z
-      - 2018-05-26T12:12:46Z
+      - 2018-05-26T12:05:00Z
   - - - '16'
       - Bruno Matos
     - loggedFixes: 4709
@@ -666,14 +666,14 @@ flying:
       - 4569
       scoredFixes:
       - 14
-      - 4569
+      - 4115
       loggedSeconds: 4708
       flyingSeconds:
       - 14
       - 4569
       scoredSeconds:
       - 14
-      - 4569
+      - 4115
       loggedTimes:
       - 2018-05-26T10:56:25Z
       - 2018-05-26T12:14:53Z
@@ -682,7 +682,7 @@ flying:
       - 2018-05-26T12:12:34Z
       scoredTimes:
       - 2018-05-26T10:56:39Z
-      - 2018-05-26T12:12:34Z
+      - 2018-05-26T12:05:00Z
   - - - '21'
       - Damir Kalinger
     - loggedFixes: 1243
@@ -716,14 +716,14 @@ flying:
       - 6181
       scoredFixes:
       - 46
-      - 6181
+      - 5573
       loggedSeconds: 6246
       flyingSeconds:
       - 46
       - 6181
       scoredSeconds:
       - 46
-      - 6181
+      - 5573
       loggedTimes:
       - 2018-05-26T10:32:07Z
       - 2018-05-26T12:16:13Z
@@ -732,7 +732,7 @@ flying:
       - 2018-05-26T12:15:08Z
       scoredTimes:
       - 2018-05-26T10:32:53Z
-      - 2018-05-26T12:15:08Z
+      - 2018-05-26T12:05:00Z
   - - - '37'
       - Igor Eržen
     - loggedFixes: 4563
@@ -791,14 +791,14 @@ flying:
       - 4376
       scoredFixes:
       - 10
-      - 4376
+      - 4194
       loggedSeconds: 4777
       flyingSeconds:
       - 10
       - 4661
       scoredSeconds:
       - 10
-      - 4661
+      - 4479
       loggedTimes:
       - 2018-05-26T10:50:21Z
       - 2018-05-26T12:09:58Z
@@ -807,7 +807,7 @@ flying:
       - 2018-05-26T12:08:02Z
       scoredTimes:
       - 2018-05-26T10:50:31Z
-      - 2018-05-26T12:08:02Z
+      - 2018-05-26T12:05:00Z
   - - - '46'
       - Jerko Odžak
     - loggedFixes: 4305
@@ -841,14 +841,14 @@ flying:
       - 5272
       scoredFixes:
       - 11
-      - 5272
+      - 4683
       loggedSeconds: 5290
       flyingSeconds:
       - 11
       - 5272
       scoredSeconds:
       - 11
-      - 5272
+      - 4683
       loggedTimes:
       - 2018-05-26T10:46:57Z
       - 2018-05-26T12:15:07Z
@@ -857,7 +857,7 @@ flying:
       - 2018-05-26T12:14:49Z
       scoredTimes:
       - 2018-05-26T10:47:08Z
-      - 2018-05-26T12:14:49Z
+      - 2018-05-26T12:05:00Z
   - - - '54'
       - Krešo  Kovačič
     - loggedFixes: 563
@@ -866,14 +866,14 @@ flying:
       - 562
       scoredFixes:
       - 0
-      - 562
+      - 502
       loggedSeconds: 5563
       flyingSeconds:
       - 0
       - 5563
       scoredSeconds:
       - 0
-      - 5563
+      - 4972
       loggedTimes:
       - 2018-05-26T10:42:01Z
       - 2018-05-26T12:14:44Z
@@ -882,7 +882,7 @@ flying:
       - 2018-05-26T12:14:44Z
       scoredTimes:
       - 2018-05-26T10:42:01Z
-      - 2018-05-26T12:14:44Z
+      - 2018-05-26T12:04:53Z
   - - - '57'
       - Lara Leban
     - loggedFixes: 4989
@@ -916,14 +916,14 @@ flying:
       - 3704
       scoredFixes:
       - 16
-      - 3704
+      - 3360
       loggedSeconds: 3735
       flyingSeconds:
       - 16
       - 3704
       scoredSeconds:
       - 16
-      - 3704
+      - 3360
       loggedTimes:
       - 2018-05-26T11:09:00Z
       - 2018-05-26T12:11:15Z
@@ -932,7 +932,7 @@ flying:
       - 2018-05-26T12:10:44Z
       scoredTimes:
       - 2018-05-26T11:09:16Z
-      - 2018-05-26T12:10:44Z
+      - 2018-05-26T12:05:00Z
   - - - '72'
       - Mitja Jančič
     - loggedFixes: 6385
@@ -941,14 +941,14 @@ flying:
       - 6345
       scoredFixes:
       - 24
-      - 6345
+      - 5749
       loggedSeconds: 6384
       flyingSeconds:
       - 24
       - 6345
       scoredSeconds:
       - 24
-      - 6345
+      - 5749
       loggedTimes:
       - 2018-05-26T10:29:11Z
       - 2018-05-26T12:15:35Z
@@ -957,7 +957,7 @@ flying:
       - 2018-05-26T12:14:56Z
       scoredTimes:
       - 2018-05-26T10:29:35Z
-      - 2018-05-26T12:14:56Z
+      - 2018-05-26T12:05:00Z
   - - - '73'
       - Mitja Jug
     - loggedFixes: 370
@@ -991,14 +991,14 @@ flying:
       - 5451
       scoredFixes:
       - 14
-      - 5451
+      - 4780
       loggedSeconds: 5581
       flyingSeconds:
       - 14
       - 5451
       scoredSeconds:
       - 14
-      - 5451
+      - 4780
       loggedTimes:
       - 2018-05-26T10:45:20Z
       - 2018-05-26T12:18:21Z
@@ -1007,7 +1007,7 @@ flying:
       - 2018-05-26T12:16:11Z
       scoredTimes:
       - 2018-05-26T10:45:34Z
-      - 2018-05-26T12:16:11Z
+      - 2018-05-26T12:05:00Z
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - null
@@ -1047,14 +1047,14 @@ flying:
       - 4536
       scoredFixes:
       - 45
-      - 4536
+      - 4407
       loggedSeconds: 4590
       flyingSeconds:
       - 45
       - 4536
       scoredSeconds:
       - 45
-      - 4536
+      - 4407
       loggedTimes:
       - 2018-05-26T10:51:33Z
       - 2018-05-26T12:08:03Z
@@ -1063,7 +1063,7 @@ flying:
       - 2018-05-26T12:07:09Z
       scoredTimes:
       - 2018-05-26T10:52:18Z
-      - 2018-05-26T12:07:09Z
+      - 2018-05-26T12:05:00Z
   - - - '98'
       - Tomas Svoboda
     - loggedFixes: 2757
@@ -1072,14 +1072,14 @@ flying:
       - 2716
       scoredFixes:
       - 0
-      - 2716
+      - 2384
       loggedSeconds: 5765
       flyingSeconds:
       - 0
       - 5685
       scoredSeconds:
       - 0
-      - 5685
+      - 5023
       loggedTimes:
       - 2018-05-26T10:41:17Z
       - 2018-05-26T12:17:22Z
@@ -1088,7 +1088,7 @@ flying:
       - 2018-05-26T12:16:02Z
       scoredTimes:
       - 2018-05-26T10:41:17Z
-      - 2018-05-26T12:16:02Z
+      - 2018-05-26T12:05:00Z
   - - - '101'
       - Tomaž Toplak
     - loggedFixes: 5927
@@ -1097,14 +1097,14 @@ flying:
       - 5375
       scoredFixes:
       - 22
-      - 5375
+      - 4701
       loggedSeconds: 5929
       flyingSeconds:
       - 22
       - 5378
       scoredSeconds:
       - 22
-      - 5378
+      - 4704
       loggedTimes:
       - 2018-05-26T10:46:36Z
       - 2018-05-26T12:25:25Z
@@ -1113,7 +1113,7 @@ flying:
       - 2018-05-26T12:16:14Z
       scoredTimes:
       - 2018-05-26T10:46:58Z
-      - 2018-05-26T12:16:14Z
+      - 2018-05-26T12:05:00Z
   - - - '113'
       - Zsolt Sandor
     - loggedFixes: 4146
@@ -1122,14 +1122,14 @@ flying:
       - 3996
       scoredFixes:
       - 14
-      - 3996
+      - 3453
       loggedSeconds: 4145
       flyingSeconds:
       - 14
       - 3996
       scoredSeconds:
       - 14
-      - 3996
+      - 3453
       loggedTimes:
       - 2018-05-26T11:07:27Z
       - 2018-05-26T12:16:32Z
@@ -1138,7 +1138,7 @@ flying:
       - 2018-05-26T12:14:03Z
       scoredTimes:
       - 2018-05-26T11:07:41Z
-      - 2018-05-26T12:14:03Z
+      - 2018-05-26T12:05:00Z
 - - - - '4'
       - Alojz Tovornik
     - loggedFixes: 6421
