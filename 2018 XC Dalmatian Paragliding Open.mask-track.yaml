@@ -4,32 +4,24 @@ pilotsAtEss:
 - 12
 raceTime:
 - openTask: 2018-05-24T10:30:00Z
-  closeTask: 2018-05-24T14:00:00Z
+  closeTask: 2018-05-24T12:18:00Z
   firstStart: 2018-05-24T10:34:47Z
   firstLead: 2018-05-24T10:34:47Z
   lastArrival: null
   leadArrival: null
-  leadClose: 12313
-  openClose: 12600
-  tickClose: 12313
+  leadClose: 6193
+  openClose: 6480
+  tickClose: 6193
 - openTask: 2018-05-26T11:00:00Z
-  closeTask: 2018-05-26T14:00:00Z
+  closeTask: 2018-05-26T12:05:00Z
   firstStart: 2018-05-26T11:06:52Z
   firstLead: 2018-05-26T11:06:52Z
   lastArrival: null
   leadArrival: null
-  leadClose: 10388
-  openClose: 10800
-  tickClose: 10388
-- openTask: 2018-05-27T11:00:00Z
-  closeTask: 2018-05-27T14:00:00Z
-  firstStart: 2018-05-27T10:59:55Z
-  firstLead: 2018-05-27T10:59:55Z
-  lastArrival: 2018-05-27T13:03:53Z
-  leadArrival: 7438
-  leadClose: 10805
-  openClose: 10800
-  tickClose: 10805
+  leadClose: 3488
+  openClose: 3900
+  tickClose: 3488
+- null
 ssBestTime:
 - null
 - null
@@ -57,7 +49,7 @@ sumDistance:
 minLead:
 - 1.396741e-2
 - 3.861155e-2
-- 0.78869574
+- null
 lead:
 - - - - '46'
       - Jerko Odžak
@@ -219,82 +211,7 @@ lead:
       - Stojan Kranjc
     - coef: 0.73553175
       frac: 0
-- - - - '26'
-      - Dušan Durkovič
-    - coef: 0.78869574
-      frac: 1
-  - - - '16'
-      - Bruno Matos
-    - coef: 0.79590478
-      frac: 0.95960923
-  - - - '98'
-      - Tomas Svoboda
-    - coef: 0.80349153
-      frac: 0.93476876
-  - - - '41'
-      - Ivo Duarte
-    - coef: 1.00424704
-      frac: 0.61089757
-  - - - '4'
-      - Alojz Tovornik
-    - coef: 1.01693223
-      frac: 0.59577774
-  - - - '114'
-      - Joan Brito
-    - coef: 1.02822613
-      frac: 0.58255052
-  - - - '37'
-      - Igor Eržen
-    - coef: 1.08134284
-      frac: 0.52291804
-  - - - '54'
-      - Krešo  Kovačič
-    - coef: 1.08785656
-      frac: 0.51586481
-  - - - '73'
-      - Mitja Jug
-    - coef: 1.17139066
-      frac: 0.42948731
-  - - - '101'
-      - Tomaž Toplak
-    - coef: 1.21662727
-      frac: 0.38537103
-  - - - '74'
-      - Nuno Filipe da Fonseca Bastos Gomes
-    - coef: 1.22169164
-      frac: 0.3805313
-  - - - '72'
-      - Mitja Jančič
-    - coef: 1.25101808
-      frac: 0.35286718
-  - - - '57'
-      - Lara Leban
-    - coef: 1.3344369
-      frac: 0.27719473
-  - - - '9'
-      - Antoni Buljan
-    - coef: 1.36111704
-      frac: 0.253825
-  - - - '95'
-      - Stojan Kranjc
-    - coef: 1.43128079
-      frac: 0.19403302
-  - - - '63'
-      - Marketa Tomaskova
-    - coef: 1.54630123
-      frac: 0.10051847
-  - - - '23'
-      - David Šiljeg
-    - coef: 3.39825421
-      frac: 0
-  - - - '46'
-      - Jerko Odžak
-    - coef: 3.73466132
-      frac: 0
-  - - - '80'
-      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - coef: 4.80067238
-      frac: 0
+- []
 arrival:
 - []
 - []
