@@ -137,7 +137,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 27.680 km
-      landedDistance: 27.666 km
+      landedDistance: 9.837 km
   - - - '101'
       - Tomaž Toplak
     - place: '2'
@@ -181,7 +181,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 9.803 km
-      landedDistance: 6.491 km
+      landedDistance: 8.601 km
   - - - '13'
       - Balazs Szatmari
     - place: '4'
@@ -203,7 +203,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 9.041 km
-      landedDistance: 8.920 km
+      landedDistance: 6.530 km
   - - - '57'
       - Lara Leban
     - place: '5'
@@ -401,7 +401,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 3.077 km
-      landedDistance: 3.055 km
+      landedDistance: 1.216 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: 13=
@@ -546,8 +546,8 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2018-05-24T12:26:38Z
-        gs: 2018-05-24T10:30:00Z
+        ss: null
+        gs: null
         es: null
         ssDistance: null
         ssElapsed: null
@@ -555,7 +555,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 1.425 km
-      landedDistance: 0.659 km
+      landedDistance: 0.561 km
   - - - '23'
       - David Šiljeg
     - place: 21=
@@ -568,8 +568,8 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: 2018-05-24T12:22:01Z
-        gs: 2018-05-24T10:30:00Z
+        ss: null
+        gs: null
         es: null
         ssDistance: null
         ssElapsed: null
@@ -577,7 +577,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 0.419 km
-      landedDistance: -0.600 km
+      landedDistance: 0.328 km
   - - - '40'
       - Ivica Huljek
     - place: 21=
@@ -685,7 +685,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.754 km
-      landedDistance: 24.220 km
+      landedDistance: 20.181 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '2'
@@ -707,7 +707,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.469 km
-      landedDistance: 24.442 km
+      landedDistance: 20.119 km
   - - - '98'
       - Tomas Svoboda
     - place: '3'
@@ -729,7 +729,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.410 km
-      landedDistance: 24.183 km
+      landedDistance: 20.357 km
   - - - '101'
       - Tomaž Toplak
     - place: '4'
@@ -751,7 +751,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.368 km
-      landedDistance: 24.204 km
+      landedDistance: 20.083 km
   - - - '26'
       - Dušan Durkovič
     - place: '5'
@@ -773,7 +773,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.326 km
-      landedDistance: 24.210 km
+      landedDistance: 20.253 km
   - - - '54'
       - Krešo  Kovačič
     - place: '6'
@@ -795,7 +795,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.110 km
-      landedDistance: 23.917 km
+      landedDistance: 19.983 km
   - - - '16'
       - Bruno Matos
     - place: '7'
@@ -817,7 +817,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.891 km
-      landedDistance: 20.316 km
+      landedDistance: 17.896 km
   - - - '114'
       - Joan Brito
     - place: '8'
@@ -839,7 +839,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.879 km
-      landedDistance: 20.321 km
+      landedDistance: 16.989 km
   - - - '41'
       - Ivo Duarte
     - place: '9'
@@ -861,7 +861,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.236 km
-      landedDistance: 20.236 km
+      landedDistance: 19.492 km
   - - - '95'
       - Stojan Kranjc
     - place: '10'
@@ -883,7 +883,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 18.732 km
-      landedDistance: 18.499 km
+      landedDistance: 18.673 km
   - - - '37'
       - Igor Eržen
     - place: '11'
@@ -971,7 +971,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 9.718 km
-      landedDistance: 9.344 km
+      landedDistance: 8.820 km
   - - - '113'
       - Zsolt Sandor
     - place: 15=
@@ -993,7 +993,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 6.977 km
-      landedDistance: 5.488 km
+      landedDistance: 6.889 km
   - - - '13'
       - Balazs Szatmari
     - place: 15=
@@ -1015,7 +1015,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 6.967 km
-      landedDistance: 5.546 km
+      landedDistance: 6.880 km
   - - - '63'
       - Marketa Tomaskova
     - place: '17'
@@ -1037,7 +1037,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 5.701 km
-      landedDistance: 3.829 km
+      landedDistance: 5.701 km
   - - - '46'
       - Jerko Odžak
     - place: '18'
@@ -1638,7 +1638,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 27.680 km
-      landedDistance: 27.666 km
+      landedDistance: 9.837 km
   - - - '101'
       - Tomaž Toplak
     - place: '2'
@@ -1682,7 +1682,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 9.803 km
-      landedDistance: 6.491 km
+      landedDistance: 8.601 km
   - - - '13'
       - Balazs Szatmari
     - place: '4'
@@ -1704,7 +1704,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 9.041 km
-      landedDistance: 8.920 km
+      landedDistance: 6.530 km
   - - - '57'
       - Lara Leban
     - place: '5'
@@ -1902,7 +1902,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 3.077 km
-      landedDistance: 3.055 km
+      landedDistance: 1.216 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: 13=
@@ -2047,8 +2047,8 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2018-05-24T12:26:38Z
-        gs: 2018-05-24T10:30:00Z
+        ss: null
+        gs: null
         es: null
         ssDistance: null
         ssElapsed: null
@@ -2056,7 +2056,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 1.425 km
-      landedDistance: 0.659 km
+      landedDistance: 0.561 km
   - - - '23'
       - David Šiljeg
     - place: 21=
@@ -2069,8 +2069,8 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: 2018-05-24T12:22:01Z
-        gs: 2018-05-24T10:30:00Z
+        ss: null
+        gs: null
         es: null
         ssDistance: null
         ssElapsed: null
@@ -2078,7 +2078,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 0.419 km
-      landedDistance: -0.600 km
+      landedDistance: 0.328 km
   - - - '40'
       - Ivica Huljek
     - place: 21=
@@ -2144,7 +2144,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.754 km
-      landedDistance: 24.220 km
+      landedDistance: 20.181 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '2'
@@ -2166,7 +2166,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.469 km
-      landedDistance: 24.442 km
+      landedDistance: 20.119 km
   - - - '98'
       - Tomas Svoboda
     - place: '3'
@@ -2188,7 +2188,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.410 km
-      landedDistance: 24.183 km
+      landedDistance: 20.357 km
   - - - '101'
       - Tomaž Toplak
     - place: '4'
@@ -2210,7 +2210,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.368 km
-      landedDistance: 24.204 km
+      landedDistance: 20.083 km
   - - - '26'
       - Dušan Durkovič
     - place: '5'
@@ -2232,7 +2232,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.326 km
-      landedDistance: 24.210 km
+      landedDistance: 20.253 km
   - - - '54'
       - Krešo  Kovačič
     - place: '6'
@@ -2254,7 +2254,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 24.110 km
-      landedDistance: 23.917 km
+      landedDistance: 19.983 km
   - - - '16'
       - Bruno Matos
     - place: '7'
@@ -2276,7 +2276,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.891 km
-      landedDistance: 20.316 km
+      landedDistance: 17.896 km
   - - - '114'
       - Joan Brito
     - place: '8'
@@ -2298,7 +2298,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.879 km
-      landedDistance: 20.321 km
+      landedDistance: 16.989 km
   - - - '41'
       - Ivo Duarte
     - place: '9'
@@ -2320,7 +2320,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.236 km
-      landedDistance: 20.236 km
+      landedDistance: 19.492 km
   - - - '95'
       - Stojan Kranjc
     - place: '10'
@@ -2342,7 +2342,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 18.732 km
-      landedDistance: 18.499 km
+      landedDistance: 18.673 km
   - - - '37'
       - Igor Eržen
     - place: '11'
@@ -2430,7 +2430,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 9.718 km
-      landedDistance: 9.344 km
+      landedDistance: 8.820 km
   - - - '113'
       - Zsolt Sandor
     - place: 15=
@@ -2452,7 +2452,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 6.977 km
-      landedDistance: 5.488 km
+      landedDistance: 6.889 km
   - - - '13'
       - Balazs Szatmari
     - place: 15=
@@ -2474,7 +2474,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 6.967 km
-      landedDistance: 5.546 km
+      landedDistance: 6.880 km
   - - - '63'
       - Marketa Tomaskova
     - place: '17'
@@ -2496,7 +2496,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 5.701 km
-      landedDistance: 3.829 km
+      landedDistance: 5.701 km
   - - - '46'
       - Jerko Odžak
     - place: '18'
