@@ -7,8 +7,8 @@ raceTime:
   closeTask: 2018-05-24T12:18:00Z
   firstStart: 2018-05-24T10:34:47Z
   firstLead: 2018-05-24T10:34:47Z
-  lastArrival: null
-  leadArrival: null
+  lastArrival: 2018-05-24T12:18:00Z
+  leadArrival: 6193
   leadClose: 6193
   openClose: 6480
   tickClose: 6193
@@ -16,8 +16,8 @@ raceTime:
   closeTask: 2018-05-26T12:05:00Z
   firstStart: 2018-05-26T11:06:52Z
   firstLead: 2018-05-26T11:06:52Z
-  lastArrival: null
-  leadArrival: null
+  lastArrival: 2018-05-26T12:05:00Z
+  leadArrival: 3488
   leadClose: 3488
   openClose: 3900
   tickClose: 3488
@@ -54,171 +54,175 @@ sumDistance:
 - 83.897736 km
 - 257.863573 km
 - 411.735593 km
-minLead:
-- 1.396741e-2
-- 3.861155e-2
+leadScaling:
+- 6.538407e-7
+- 3.3659744e-7
+- 8.3790136e-7
+leadCoefMin:
+- 1.92164853
+- 1.05748673
 - 0.78869574
 lead:
-- - - - '46'
-      - Jerko Odžak
-    - coef: 1.396741e-2
+- - - - '101'
+      - Tomaž Toplak
+    - coef: 1.92164853
       frac: 1
+  - - - '57'
+      - Lara Leban
+    - coef: 2.03119628
+      frac: 0.81584749
+  - - - '72'
+      - Mitja Jančič
+    - coef: 2.03545564
+      frac: 0.8111045
+  - - - '98'
+      - Tomas Svoboda
+    - coef: 2.38214935
+      frac: 0.52034503
+  - - - '114'
+      - Joan Brito
+    - coef: 2.41179815
+      frac: 0.49997185
+  - - - '26'
+      - Dušan Durkovič
+    - coef: 2.4352452
+      frac: 0.48414995
+  - - - '4'
+      - Alojz Tovornik
+    - coef: 2.45016739
+      frac: 0.47420594
+  - - - '86'
+      - Sandi Krč
+    - coef: 2.45849707
+      frac: 0.46869587
+  - - - '41'
+      - Ivo Duarte
+    - coef: 2.54624861
+      frac: 0.41227157
+  - - - '16'
+      - Bruno Matos
+    - coef: 2.91653125
+      frac: 0.19840204
+  - - - '13'
+      - Balazs Szatmari
+    - coef: 2.93915681
+      frac: 0.18629438
+  - - - '21'
+      - Damir Kalinger
+    - coef: 2.94180169
+      frac: 0.18488491
   - - - '73'
       - Mitja Jug
-    - coef: 1.665716e-2
-      frac: 0.91968997
+    - coef: 2.98845417
+      frac: 0.16021996
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - coef: 2.99962803
+      frac: 0.15436617
+  - - - '37'
+      - Igor Eržen
+    - coef: 3.01392621
+      frac: 0.14690502
+  - - - '54'
+      - Krešo  Kovačič
+    - coef: 3.06420766
+      frac: 0.12092121
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - coef: 3.432486e-2
-      frac: 0.69041708
+    - coef: 3.17644531
+      frac: 6.42548e-2
   - - - '9'
       - Antoni Buljan
-    - coef: 3.443632e-2
-      frac: 0.68928812
-  - - - '4'
-      - Alojz Tovornik
-    - coef: 0.10474181
-      frac: 0.16130575
-  - - - '21'
-      - Damir Kalinger
-    - coef: 0.11080619
-      frac: 0.12435595
-  - - - '26'
-      - Dušan Durkovič
-    - coef: 0.11389078
-      frac: 0.1058588
-  - - - '74'
-      - Nuno Filipe da Fonseca Bastos Gomes
-    - coef: 0.23203327
-      frac: 0
-  - - - '86'
-      - Sandi Krč
-    - coef: 0.25266513
-      frac: 0
-  - - - '54'
-      - Krešo  Kovačič
-    - coef: 0.26447914
-      frac: 0
-  - - - '41'
-      - Ivo Duarte
-    - coef: 0.2811421
-      frac: 0
-  - - - '72'
-      - Mitja Jančič
-    - coef: 0.29307137
-      frac: 0
-  - - - '37'
-      - Igor Eržen
-    - coef: 0.3088085
-      frac: 0
-  - - - '57'
-      - Lara Leban
-    - coef: 0.3334257
-      frac: 0
-  - - - '114'
-      - Joan Brito
-    - coef: 0.53861131
-      frac: 0
-  - - - '101'
-      - Tomaž Toplak
-    - coef: 0.70226357
-      frac: 0
-  - - - '13'
-      - Balazs Szatmari
-    - coef: 0.86413455
-      frac: 0
-  - - - '98'
-      - Tomas Svoboda
-    - coef: 0.99524141
-      frac: 0
-  - - - '16'
-      - Bruno Matos
-    - coef: 1.18206202
-      frac: 0
-- - - - '40'
-      - Ivica Huljek
-    - coef: 3.861155e-2
-      frac: 1
-  - - - '21'
-      - Damir Kalinger
-    - coef: 6.03358e-2
-      frac: 0.76964866
-  - - - '73'
-      - Mitja Jug
-    - coef: 0.21249981
-      frac: 7.826145e-2
+    - coef: 3.19876485
+      frac: 5.319113e-2
   - - - '46'
       - Jerko Odžak
-    - coef: 0.26852827
-      frac: 0
-  - - - '86'
-      - Sandi Krč
-    - coef: 0.31894614
-      frac: 0
-  - - - '63'
-      - Marketa Tomaskova
-    - coef: 0.32297132
-      frac: 0
-  - - - '13'
-      - Balazs Szatmari
-    - coef: 0.38117977
-      frac: 0
-  - - - '113'
-      - Zsolt Sandor
-    - coef: 0.38700531
-      frac: 0
-  - - - '57'
-      - Lara Leban
-    - coef: 0.51120093
-      frac: 0
-  - - - '4'
-      - Alojz Tovornik
-    - coef: 0.5182864
-      frac: 0
-  - - - '54'
+    - coef: 3.29821096
+      frac: 4.65733e-3
+- - - - '54'
       - Krešo  Kovačič
-    - coef: 0.54423046
-      frac: 0
+    - coef: 1.05748673
+      frac: 1
   - - - '101'
       - Tomaž Toplak
-    - coef: 0.56801899
-      frac: 0
+    - coef: 1.07124851
+      frac: 0.943633
   - - - '98'
       - Tomas Svoboda
-    - coef: 0.581149
-      frac: 0
+    - coef: 1.07644737
+      frac: 0.93020723
   - - - '26'
       - Dušan Durkovič
-    - coef: 0.58734585
-      frac: 0
+    - coef: 1.08765359
+      frac: 0.90488219
   - - - '72'
       - Mitja Jančič
-    - coef: 0.59691603
-      frac: 0
+    - coef: 1.10062534
+      frac: 0.87926889
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - coef: 0.63479541
-      frac: 0
-  - - - '37'
-      - Igor Eržen
-    - coef: 0.63850841
-      frac: 0
-  - - - '16'
-      - Bruno Matos
-    - coef: 0.70244351
-      frac: 0
-  - - - '114'
-      - Joan Brito
-    - coef: 0.70372062
-      frac: 0
+    - coef: 1.14148453
+      frac: 0.81174191
+  - - - '57'
+      - Lara Leban
+    - coef: 1.23865162
+      frac: 0.68573859
   - - - '41'
       - Ivo Duarte
-    - coef: 0.70987787
-      frac: 0
+    - coef: 1.24719534
+      frac: 0.67593431
   - - - '95'
       - Stojan Kranjc
-    - coef: 0.73553175
-      frac: 0
+    - coef: 1.31426173
+      frac: 0.60346926
+  - - - '16'
+      - Bruno Matos
+    - coef: 1.32177956
+      frac: 0.59576683
+  - - - '37'
+      - Igor Eržen
+    - coef: 1.32357163
+      frac: 0.59394158
+  - - - '114'
+      - Joan Brito
+    - coef: 1.37231778
+      frac: 0.54575161
+  - - - '86'
+      - Sandi Krč
+    - coef: 1.3876616
+      frac: 0.53110993
+  - - - '4'
+      - Alojz Tovornik
+    - coef: 1.71475542
+      frac: 0.25800042
+  - - - '13'
+      - Balazs Szatmari
+    - coef: 1.71862783
+      frac: 0.25508886
+  - - - '113'
+      - Zsolt Sandor
+    - coef: 1.7236715
+      frac: 0.25130519
+  - - - '46'
+      - Jerko Odžak
+    - coef: 1.72821586
+      frac: 0.24790424
+  - - - '63'
+      - Marketa Tomaskova
+    - coef: 1.76125216
+      frac: 0.22340668
+  - - - '21'
+      - Damir Kalinger
+    - coef: 1.79101721
+      frac: 0.20166139
+  - - - '40'
+      - Ivica Huljek
+    - coef: 1.80182436
+      frac: 0.1938392
+  - - - '73'
+      - Mitja Jug
+    - coef: 1.84092642
+      frac: 0.16584759
 - - - - '26'
       - Dušan Durkovič
     - coef: 0.78869574
