@@ -23,6 +23,7 @@ nominal:
   free: 1.0 km
   time: 1.000000 h
 tweak:
+  arrivalWeightScaling: 0
   leadingWeightScaling: 1
 tasks:
 - taskName: Task 1
