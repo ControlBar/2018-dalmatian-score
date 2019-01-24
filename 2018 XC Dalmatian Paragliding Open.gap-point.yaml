@@ -83,6 +83,7 @@ allocation:
     arrival: 0
     time: 12.8
   taskPoints: 156
+  penalties: []
 - goalRatio: 0
   weight:
     reach: 0.9
@@ -99,6 +100,7 @@ allocation:
     arrival: 0
     time: 61.4
   taskPoints: 744
+  penalties: []
 - goalRatio: 0.57142857
   weight:
     reach: 0.39839067
@@ -115,6 +117,7 @@ allocation:
     arrival: 0
     time: 496.2
   taskPoints: 1000
+  penalties: []
 score:
 - - - - '101'
       - Tomaž Toplak
