@@ -51,7 +51,7 @@ bestDistance:
 - 20.357313 km
 - 26.388347 km
 sumDistance:
-- 83.897736 km
+- 79.389736 km
 - 257.863573 km
 - 411.735593 km
 leadScaling:
@@ -103,10 +103,6 @@ lead:
       - Bruno Matos
     - coef: 2.91653125
       frac: 0.19840204
-  - - - '13'
-      - Balazs Szatmari
-    - coef: 2.93915681
-      frac: 0.18629438
   - - - '21'
       - Damir Kalinger
     - coef: 2.94180169
@@ -119,6 +115,10 @@ lead:
       - Nuno Filipe da Fonseca Bastos Gomes
     - coef: 2.99962803
       frac: 0.15436617
+  - - - '13'
+      - Balazs Szatmari
+    - coef: 3.00918625
+      frac: 0.14937482
   - - - '37'
       - Igor Eržen
     - coef: 3.01392621
@@ -457,6 +457,10 @@ nigh:
       - Tomaž Toplak
     - togo:
         distance: 17.659080 km
+        flipSum:
+        - 17.659080 km
+        - 16.488215 km
+        - 4.778758 km
         legs:
         - 1.170866 km
         - 11.709456 km
@@ -479,6 +483,10 @@ nigh:
       - Tomas Svoboda
     - togo:
         distance: 18.832823 km
+        flipSum:
+        - 18.832823 km
+        - 16.675789 km
+        - 4.788012 km
         legs:
         - 2.157034 km
         - 11.887778 km
@@ -501,6 +509,10 @@ nigh:
       - Lara Leban
     - togo:
         distance: 20.837492 km
+        flipSum:
+        - 20.837492 km
+        - 16.477656 km
+        - 4.778758 km
         legs:
         - 4.359836 km
         - 11.698898 km
@@ -523,6 +535,10 @@ nigh:
       - Bruno Matos
     - togo:
         distance: 21.061204 km
+        flipSum:
+        - 21.061204 km
+        - 16.545825 km
+        - 4.788012 km
         legs:
         - 4.515379 km
         - 11.757813 km
@@ -545,6 +561,10 @@ nigh:
       - Mitja Jančič
     - togo:
         distance: 21.109226 km
+        flipSum:
+        - 21.109226 km
+        - 16.477656 km
+        - 4.778758 km
         legs:
         - 4.631570 km
         - 11.698898 km
@@ -567,6 +587,10 @@ nigh:
       - Joan Brito
     - togo:
         distance: 21.887283 km
+        flipSum:
+        - 21.887283 km
+        - 16.461408 km
+        - 4.778758 km
         legs:
         - 5.425875 km
         - 11.682650 km
@@ -588,33 +612,43 @@ nigh:
   - - - '13'
       - Balazs Szatmari
     - togo:
-        distance: 23.035621 km
+        distance: 27.543871 km
+        flipSum:
+        - 27.543871 km
+        - 22.479423 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
-        - 0.477061 km
-        - 6.102810 km
+        - 5.064448 km
+        - 6.023673 km
         - 11.676992 km
         - 4.778758 km
         legsSum:
-        - 0.477061 km
-        - 6.579871 km
-        - 18.256862 km
-        - 23.035621 km
+        - 5.064448 km
+        - 11.088121 km
+        - 22.765113 km
+        - 27.543871 km
         waypoints:
-        - lat: 43.78771667
-          lng: 16.65911667
-        - lat: 43.78394789
-          lng: 16.65627688
+        - lat: 43.82191667
+          lng: 16.621
+        - lat: 43.78318535
+          lng: 16.65420418
         - lat: 43.81706085
           lng: 16.5956336
         - lat: 43.73419753
           lng: 16.684976
         - lat: 43.75300455
           lng: 16.63148677
-      made: 6.626652 km
+      made: 2.118652 km
   - - - '41'
       - Ivo Duarte
     - togo:
         distance: 24.067980 km
+        flipSum:
+        - 24.067980 km
+        - 22.476811 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 1.591169 km
         - 6.021061 km
@@ -641,6 +675,11 @@ nigh:
       - Dušan Durkovič
     - togo:
         distance: 24.365486 km
+        flipSum:
+        - 24.365486 km
+        - 22.522896 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 1.842590 km
         - 6.067146 km
@@ -667,6 +706,11 @@ nigh:
       - Alojz Tovornik
     - togo:
         distance: 24.491313 km
+        flipSum:
+        - 24.491313 km
+        - 22.502024 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 1.989290 km
         - 6.046274 km
@@ -693,6 +737,11 @@ nigh:
       - Sandi Krč
     - togo:
         distance: 23.751470 km
+        flipSum:
+        - 23.751470 km
+        - 22.515355 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 1.236115 km
         - 6.059605 km
@@ -719,6 +768,11 @@ nigh:
       - Igor Eržen
     - togo:
         distance: 26.302182 km
+        flipSum:
+        - 26.302182 km
+        - 22.496257 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 3.805925 km
         - 6.040507 km
@@ -745,6 +799,11 @@ nigh:
       - Nuno Filipe da Fonseca Bastos Gomes
     - togo:
         distance: 26.604006 km
+        flipSum:
+        - 26.604006 km
+        - 22.476811 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 4.127195 km
         - 6.021061 km
@@ -771,6 +830,11 @@ nigh:
       - Krešo  Kovačič
     - togo:
         distance: 26.757780 km
+        flipSum:
+        - 26.757780 km
+        - 22.476811 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 4.280970 km
         - 6.021061 km
@@ -797,6 +861,11 @@ nigh:
       - Damir Kalinger
     - togo:
         distance: 26.906630 km
+        flipSum:
+        - 26.906630 km
+        - 22.486576 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 4.420053 km
         - 6.030826 km
@@ -823,6 +892,11 @@ nigh:
       - Mitja Jug
     - togo:
         distance: 27.568071 km
+        flipSum:
+        - 27.568071 km
+        - 22.473541 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 5.094530 km
         - 6.017791 km
@@ -849,6 +923,12 @@ nigh:
       - Antoni Buljan
     - togo:
         distance: 28.446958 km
+        flipSum:
+        - 28.446958 km
+        - 27.577570 km
+        - 22.479423 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 0.869388 km
         - 5.098147 km
@@ -879,6 +959,12 @@ nigh:
       - Ivica Huljek
     - togo:
         distance: 28.775908 km
+        flipSum:
+        - 28.775908 km
+        - 27.505125 km
+        - 22.476811 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 1.270782 km
         - 5.028315 km
@@ -909,6 +995,12 @@ nigh:
       - Jerko Odžak
     - togo:
         distance: 28.981281 km
+        flipSum:
+        - 28.981281 km
+        - 27.489048 km
+        - 22.476811 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 1.492234 km
         - 5.012237 km
@@ -939,6 +1031,12 @@ nigh:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - togo:
         distance: 28.346841 km
+        flipSum:
+        - 28.346841 km
+        - 27.523342 km
+        - 22.479423 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 0.823500 km
         - 5.043919 km
@@ -965,40 +1063,16 @@ nigh:
         - lat: 43.75300455
           lng: 16.63148677
       made: 1.315652 km
-  - - - '63'
-      - Marketa Tomaskova
-    - togo:
-        distance: 29.102131 km
-        legs:
-        - 1.568904 km
-        - 5.053804 km
-        - 6.023673 km
-        - 11.676992 km
-        - 4.778758 km
-        legsSum:
-        - 1.568904 km
-        - 6.622709 km
-        - 12.646381 km
-        - 24.323373 km
-        - 29.102131 km
-        waypoints:
-        - lat: 43.8271
-          lng: 16.63916667
-        - lat: 43.8218183
-          lng: 16.62103185
-        - lat: 43.78318535
-          lng: 16.65420418
-        - lat: 43.81706085
-          lng: 16.5956336
-        - lat: 43.73419753
-          lng: 16.684976
-        - lat: 43.75300455
-          lng: 16.63148677
-      made: 0.560652 km
   - - - '23'
       - David Šiljeg
     - togo:
         distance: 29.244445 km
+        flipSum:
+        - 29.244445 km
+        - 27.533227 km
+        - 22.479423 km
+        - 16.455750 km
+        - 4.778758 km
         legs:
         - 1.711218 km
         - 5.053804 km
@@ -1025,40 +1099,15 @@ nigh:
         - lat: 43.75300455
           lng: 16.63148677
       made: 0.418652 km
-  - - - '102'
-      - Tomislav Gomerčić
-    - togo:
-        distance: 28.985635 km
-        legs:
-        - 1.503763 km
-        - 5.005062 km
-        - 6.021061 km
-        - 11.676992 km
-        - 4.778758 km
-        legsSum:
-        - 1.503763 km
-        - 6.508824 km
-        - 12.529885 km
-        - 24.206877 km
-        - 28.985635 km
-        waypoints:
-        - lat: 43.8199
-          lng: 16.63921667
-        - lat: 43.82105039
-          lng: 16.62054113
-        - lat: 43.78309152
-          lng: 16.65405793
-        - lat: 43.81706085
-          lng: 16.5956336
-        - lat: 43.73419753
-          lng: 16.684976
-        - lat: 43.75300455
-          lng: 16.63148677
-      made: 0.676652 km
 - - - - '98'
       - Tomas Svoboda
     - togo:
         distance: 20.816487 km
+        flipSum:
+        - 20.816487 km
+        - 20.361176 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.455311 km
         - 3.529814 km
@@ -1085,6 +1134,11 @@ nigh:
       - Dušan Durkovič
     - togo:
         distance: 20.920666 km
+        flipSum:
+        - 20.920666 km
+        - 20.361176 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.559490 km
         - 3.529814 km
@@ -1111,6 +1165,11 @@ nigh:
       - Mitja Jančič
     - togo:
         distance: 20.991888 km
+        flipSum:
+        - 20.991888 km
+        - 20.376627 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.615260 km
         - 3.545266 km
@@ -1137,6 +1196,11 @@ nigh:
       - Nuno Filipe da Fonseca Bastos Gomes
     - togo:
         distance: 21.054420 km
+        flipSum:
+        - 21.054420 km
+        - 20.361176 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.693244 km
         - 3.529814 km
@@ -1163,6 +1227,11 @@ nigh:
       - Tomaž Toplak
     - togo:
         distance: 20.982386 km
+        flipSum:
+        - 20.982386 km
+        - 20.361176 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.621210 km
         - 3.529814 km
@@ -1189,6 +1258,11 @@ nigh:
       - Krešo  Kovačič
     - togo:
         distance: 21.189844 km
+        flipSum:
+        - 21.189844 km
+        - 20.361176 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.828668 km
         - 3.529814 km
@@ -1215,6 +1289,11 @@ nigh:
       - Ivo Duarte
     - togo:
         distance: 21.681474 km
+        flipSum:
+        - 21.681474 km
+        - 20.244229 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 1.437245 km
         - 3.412867 km
@@ -1241,6 +1320,11 @@ nigh:
       - Stojan Kranjc
     - togo:
         distance: 22.500754 km
+        flipSum:
+        - 22.500754 km
+        - 20.230826 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 2.269929 km
         - 3.399464 km
@@ -1267,6 +1351,11 @@ nigh:
       - Bruno Matos
     - togo:
         distance: 23.277325 km
+        flipSum:
+        - 23.277325 km
+        - 20.271998 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 3.005327 km
         - 3.440636 km
@@ -1293,6 +1382,11 @@ nigh:
       - Joan Brito
     - togo:
         distance: 24.184679 km
+        flipSum:
+        - 24.184679 km
+        - 20.286313 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 3.898367 km
         - 3.454951 km
@@ -1319,6 +1413,11 @@ nigh:
       - Igor Eržen
     - togo:
         distance: 24.480721 km
+        flipSum:
+        - 24.480721 km
+        - 20.192834 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 4.287887 km
         - 3.361472 km
@@ -1345,6 +1444,11 @@ nigh:
       - Lara Leban
     - togo:
         distance: 25.227394 km
+        flipSum:
+        - 25.227394 km
+        - 20.217776 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 5.009619 km
         - 3.386414 km
@@ -1371,6 +1475,12 @@ nigh:
       - Sandi Krč
     - togo:
         distance: 30.577417 km
+        flipSum:
+        - 30.577417 km
+        - 27.973006 km
+        - 20.192834 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 2.604411 km
         - 7.780173 km
@@ -1401,6 +1511,12 @@ nigh:
       - Alojz Tovornik
     - togo:
         distance: 32.353248 km
+        flipSum:
+        - 32.353248 km
+        - 27.973006 km
+        - 20.192834 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 4.380242 km
         - 7.780173 km
@@ -1431,6 +1547,12 @@ nigh:
       - Zsolt Sandor
     - togo:
         distance: 34.196281 km
+        flipSum:
+        - 34.196281 km
+        - 27.845624 km
+        - 20.180989 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 6.350657 km
         - 7.664635 km
@@ -1461,6 +1583,12 @@ nigh:
       - Balazs Szatmari
     - togo:
         distance: 34.206080 km
+        flipSum:
+        - 34.206080 km
+        - 27.845624 km
+        - 20.180989 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 6.360456 km
         - 7.664635 km
@@ -1491,6 +1619,13 @@ nigh:
       - Marketa Tomaskova
     - togo:
         distance: 35.471963 km
+        flipSum:
+        - 35.471963 km
+        - 35.051399 km
+        - 27.845624 km
+        - 20.180989 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.420564 km
         - 7.205775 km
@@ -1525,6 +1660,13 @@ nigh:
       - Jerko Odžak
     - togo:
         distance: 35.734930 km
+        flipSum:
+        - 35.734930 km
+        - 35.050135 km
+        - 27.845624 km
+        - 20.180989 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.684795 km
         - 7.204511 km
@@ -1559,6 +1701,13 @@ nigh:
       - Mitja Jug
     - togo:
         distance: 37.744141 km
+        flipSum:
+        - 37.744141 km
+        - 35.055484 km
+        - 27.845624 km
+        - 20.180989 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 2.688657 km
         - 7.209860 km
@@ -1593,6 +1742,13 @@ nigh:
       - Damir Kalinger
     - togo:
         distance: 38.910632 km
+        flipSum:
+        - 38.910632 km
+        - 35.051399 km
+        - 27.845624 km
+        - 20.180989 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 3.859233 km
         - 7.205775 km
@@ -1627,6 +1783,13 @@ nigh:
       - Ivica Huljek
     - togo:
         distance: 39.274718 km
+        flipSum:
+        - 39.274718 km
+        - 35.052543 km
+        - 27.845624 km
+        - 20.180989 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 4.222174 km
         - 7.206919 km
@@ -1661,6 +1824,14 @@ nigh:
       - Antoni Buljan
     - togo:
         distance: 40.423286 km
+        flipSum:
+        - 40.423286 km
+        - 39.791472 km
+        - 35.049906 km
+        - 27.845624 km
+        - 20.180989 km
+        - 16.831362 km
+        - 10.793289 km
         legs:
         - 0.631814 km
         - 4.741566 km
@@ -1699,6 +1870,8 @@ nigh:
       - Krešo  Kovačič
     - togo:
         distance: 1.603571 km
+        flipSum:
+        - 1.603571 km
         legs:
         - 1.603571 km
         legsSum:
@@ -1713,6 +1886,8 @@ nigh:
       - Igor Eržen
     - togo:
         distance: 3.302941 km
+        flipSum:
+        - 3.302941 km
         legs:
         - 3.302941 km
         legsSum:
@@ -1727,6 +1902,8 @@ nigh:
       - Lara Leban
     - togo:
         distance: 3.438181 km
+        flipSum:
+        - 3.438181 km
         legs:
         - 3.438181 km
         legsSum:
@@ -1741,6 +1918,8 @@ nigh:
       - Ivo Duarte
     - togo:
         distance: 4.110817 km
+        flipSum:
+        - 4.110817 km
         legs:
         - 4.110817 km
         legsSum:
@@ -1755,6 +1934,9 @@ nigh:
       - David Šiljeg
     - togo:
         distance: 10.450442 km
+        flipSum:
+        - 10.450442 km
+        - 8.135273 km
         legs:
         - 2.315169 km
         - 8.135273 km
@@ -1773,6 +1955,11 @@ nigh:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - togo:
         distance: 23.214280 km
+        flipSum:
+        - 23.214280 km
+        - 22.557194 km
+        - 15.351803 km
+        - 7.891571 km
         legs:
         - 0.657086 km
         - 7.205391 km
@@ -1799,6 +1986,11 @@ nigh:
       - Jerko Odžak
     - togo:
         distance: 24.522704 km
+        flipSum:
+        - 24.522704 km
+        - 22.521612 km
+        - 15.353212 km
+        - 7.891571 km
         legs:
         - 2.001091 km
         - 7.168401 km
@@ -1825,6 +2017,12 @@ nigh:
       - Ivica Huljek
     - togo:
         distance: 26.262903 km
+        flipSum:
+        - 26.262903 km
+        - 24.587406 km
+        - 22.521612 km
+        - 15.353212 km
+        - 7.891571 km
         legs:
         - 1.675497 km
         - 2.065793 km
