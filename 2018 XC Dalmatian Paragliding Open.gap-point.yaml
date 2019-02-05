@@ -83,7 +83,6 @@ allocation:
     arrival: 0
     time: 12.3
   taskPoints: 148
-  penalties: []
 - goalRatio: 0
   weight:
     reach: 0.9
@@ -100,7 +99,6 @@ allocation:
     arrival: 0
     time: 61.6
   taskPoints: 747
-  penalties: []
 - goalRatio: 0.57142857
   weight:
     reach: 0.39839067
@@ -117,12 +115,12 @@ allocation:
     arrival: 0
     time: 496.2
   taskPoints: 1000
-  penalties: []
 score:
 - - - - '101'
       - Tomaž Toplak
     - place: '1'
       total: 136
+      penalties: []
       breakdown:
         reach: 133.64
         effort: 0
@@ -146,6 +144,7 @@ score:
       - Tomas Svoboda
     - place: '2'
       total: 122
+      penalties: []
       breakdown:
         reach: 120.574
         effort: 0
@@ -169,6 +168,7 @@ score:
       - Lara Leban
     - place: '3'
       total: 100
+      penalties: []
       breakdown:
         reach: 98.329
         effort: 0
@@ -192,6 +192,7 @@ score:
       - Mitja Jančič
     - place: '4'
       total: 97
+      penalties: []
       breakdown:
         reach: 95.307
         effort: 0
@@ -215,6 +216,7 @@ score:
       - Bruno Matos
     - place: '5'
       total: 96
+      penalties: []
       breakdown:
         reach: 95.829
         effort: 0
@@ -238,6 +240,7 @@ score:
       - Joan Brito
     - place: '6'
       total: 88
+      penalties: []
       breakdown:
         reach: 86.674
         effort: 0
@@ -261,6 +264,7 @@ score:
       - Sandi Krč
     - place: '7'
       total: 67
+      penalties: []
       breakdown:
         reach: 66.052
         effort: 0
@@ -284,6 +288,7 @@ score:
       - Ivo Duarte
     - place: '8'
       total: 64
+      penalties: []
       breakdown:
         reach: 62.552
         effort: 0
@@ -307,6 +312,7 @@ score:
       - Dušan Durkovič
     - place: '9'
       total: 61
+      penalties: []
       breakdown:
         reach: 59.24
         effort: 0
@@ -330,6 +336,7 @@ score:
       - Alojz Tovornik
     - place: '10'
       total: 59
+      penalties: []
       breakdown:
         reach: 57.84
         effort: 0
@@ -353,6 +360,7 @@ score:
       - Igor Eržen
     - place: '11'
       total: 38
+      penalties: []
       breakdown:
         reach: 37.718
         effort: 0
@@ -376,6 +384,7 @@ score:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '12'
       total: 35
+      penalties: []
       breakdown:
         reach: 34.374
         effort: 0
@@ -399,6 +408,7 @@ score:
       - Krešo  Kovačič
     - place: '13'
       total: 33
+      penalties: []
       breakdown:
         reach: 32.663
         effort: 0
@@ -422,6 +432,7 @@ score:
       - Damir Kalinger
     - place: '14'
       total: 31
+      penalties: []
       breakdown:
         reach: 31.007
         effort: 0
@@ -445,6 +456,7 @@ score:
       - Balazs Szatmari
     - place: 15=
       total: 24
+      penalties: []
       breakdown:
         reach: 23.941
         effort: 0
@@ -468,6 +480,7 @@ score:
       - Mitja Jug
     - place: 15=
       total: 24
+      penalties: []
       breakdown:
         reach: 23.663
         effort: 0
@@ -491,6 +504,7 @@ score:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '17'
       total: 15
+      penalties: []
       breakdown:
         reach: 15.096
         effort: 0
@@ -514,6 +528,7 @@ score:
       - Antoni Buljan
     - place: '18'
       total: 14
+      penalties: []
       breakdown:
         reach: 13.963
         effort: 0
@@ -537,6 +552,7 @@ score:
       - David Šiljeg
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -560,6 +576,7 @@ score:
       - Ivica Huljek
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -583,6 +600,7 @@ score:
       - Jerko Odžak
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -606,6 +624,7 @@ score:
       - Richard Edlinger
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -621,6 +640,7 @@ score:
       - Sandor Roza
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -636,6 +656,7 @@ score:
       - Zsolt Sandor
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -651,6 +672,7 @@ score:
       - Tomas Svoboda
     - place: '1'
       total: 684
+      penalties: []
       breakdown:
         reach: 672.03
         effort: 0
@@ -674,6 +696,7 @@ score:
       - Dušan Durkovič
     - place: '2'
       total: 680
+      penalties: []
       breakdown:
         reach: 668.601
         effort: 0
@@ -697,6 +720,7 @@ score:
       - Tomaž Toplak
     - place: '3'
       total: 679
+      penalties: []
       breakdown:
         reach: 666.59
         effort: 0
@@ -720,6 +744,7 @@ score:
       - Mitja Jančič
     - place: '4'
       total: 678
+      penalties: []
       breakdown:
         reach: 666.26
         effort: 0
@@ -743,6 +768,7 @@ score:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '5'
       total: 675
+      penalties: []
       breakdown:
         reach: 664.183
         effort: 0
@@ -766,6 +792,7 @@ score:
       - Krešo  Kovačič
     - place: '6'
       total: 673
+      penalties: []
       breakdown:
         reach: 659.731
         effort: 0
@@ -789,6 +816,7 @@ score:
       - Ivo Duarte
     - place: '7'
       total: 652
+      penalties: []
       breakdown:
         reach: 643.609
         effort: 0
@@ -812,6 +840,7 @@ score:
       - Stojan Kranjc
     - place: '8'
       total: 624
+      penalties: []
       breakdown:
         reach: 616.605
         effort: 0
@@ -835,6 +864,7 @@ score:
       - Bruno Matos
     - place: '9'
       total: 599
+      penalties: []
       breakdown:
         reach: 590.986
         effort: 0
@@ -858,6 +888,7 @@ score:
       - Joan Brito
     - place: '10'
       total: 568
+      penalties: []
       breakdown:
         reach: 561.049
         effort: 0
@@ -881,6 +912,7 @@ score:
       - Igor Eržen
     - place: '11'
       total: 559
+      penalties: []
       breakdown:
         reach: 551.355
         effort: 0
@@ -904,6 +936,7 @@ score:
       - Lara Leban
     - place: '12'
       total: 536
+      penalties: []
       breakdown:
         reach: 526.759
         effort: 0
@@ -927,6 +960,7 @@ score:
       - Sandi Krč
     - place: '13'
       total: 358
+      penalties: []
       breakdown:
         reach: 350.824
         effort: 0
@@ -950,6 +984,7 @@ score:
       - Alojz Tovornik
     - place: '14'
       total: 296
+      penalties: []
       breakdown:
         reach: 292.267
         effort: 0
@@ -973,6 +1008,7 @@ score:
       - Zsolt Sandor
     - place: 15=
       total: 235
+      penalties: []
       breakdown:
         reach: 231.501
         effort: 0
@@ -996,6 +1032,7 @@ score:
       - Balazs Szatmari
     - place: 15=
       total: 235
+      penalties: []
       breakdown:
         reach: 231.172
         effort: 0
@@ -1019,6 +1056,7 @@ score:
       - Marketa Tomaskova
     - place: '17'
       total: 193
+      penalties: []
       breakdown:
         reach: 189.76
         effort: 0
@@ -1042,6 +1080,7 @@ score:
       - Jerko Odžak
     - place: '18'
       total: 184
+      penalties: []
       breakdown:
         reach: 181.088
         effort: 0
@@ -1065,6 +1104,7 @@ score:
       - Mitja Jug
     - place: '19'
       total: 117
+      penalties: []
       breakdown:
         reach: 114.849
         effort: 0
@@ -1088,6 +1128,7 @@ score:
       - Damir Kalinger
     - place: '20'
       total: 79
+      penalties: []
       breakdown:
         reach: 76.405
         effort: 0
@@ -1111,6 +1152,7 @@ score:
       - Ivica Huljek
     - place: '21'
       total: 67
+      penalties: []
       breakdown:
         reach: 64.37
         effort: 0
@@ -1134,6 +1176,7 @@ score:
       - Antoni Buljan
     - place: 22=
       total: 33
+      penalties: []
       breakdown:
         reach: 32.971
         effort: 0
@@ -1157,6 +1200,7 @@ score:
       - Slava Jelić
     - place: 22=
       total: 33
+      penalties: []
       breakdown:
         reach: 32.971
         effort: 0
@@ -1172,6 +1216,7 @@ score:
       - Bruno Matos
     - place: '1'
       total: 996
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1195,6 +1240,7 @@ score:
       - Tomas Svoboda
     - place: '2'
       total: 938
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1218,6 +1264,7 @@ score:
       - Dušan Durkovič
     - place: '3'
       total: 831
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1241,6 +1288,7 @@ score:
       - Alojz Tovornik
     - place: '4'
       total: 726
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1264,6 +1312,7 @@ score:
       - Tomaž Toplak
     - place: '5'
       total: 709
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1287,6 +1336,7 @@ score:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '6'
       total: 682
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1310,6 +1360,7 @@ score:
       - Mitja Jug
     - place: '7'
       total: 638
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1333,6 +1384,7 @@ score:
       - Joan Brito
     - place: '8'
       total: 629
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1356,6 +1408,7 @@ score:
       - Antoni Buljan
     - place: '9'
       total: 616
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1379,6 +1432,7 @@ score:
       - Mitja Jančič
     - place: '10'
       total: 609
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1402,6 +1456,7 @@ score:
       - Stojan Kranjc
     - place: '11'
       total: 539
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1425,6 +1480,7 @@ score:
       - Krešo  Kovačič
     - place: '12'
       total: 429
+      penalties: []
       breakdown:
         reach: 374.153
         effort: 0
@@ -1448,6 +1504,7 @@ score:
       - Marketa Tomaskova
     - place: '13'
       total: 426
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -1471,6 +1528,7 @@ score:
       - Igor Eržen
     - place: '14'
       total: 404
+      penalties: []
       breakdown:
         reach: 348.51
         effort: 0
@@ -1494,6 +1552,7 @@ score:
       - Ivo Duarte
     - place: '15'
       total: 401
+      penalties: []
       breakdown:
         reach: 336.315
         effort: 0
@@ -1517,6 +1576,7 @@ score:
       - Lara Leban
     - place: '16'
       total: 376
+      penalties: []
       breakdown:
         reach: 346.472
         effort: 0
@@ -1540,6 +1600,7 @@ score:
       - David Šiljeg
     - place: '17'
       total: 241
+      penalties: []
       breakdown:
         reach: 240.819
         effort: 0
@@ -1563,6 +1624,7 @@ score:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
       total: 49
+      penalties: []
       breakdown:
         reach: 48.545
         effort: 0
@@ -1586,6 +1648,7 @@ score:
       - Jerko Odžak
     - place: '19'
       total: 29
+      penalties: []
       breakdown:
         reach: 28.788
         effort: 0
@@ -1609,6 +1672,7 @@ score:
       - Ivica Huljek
     - place: 20=
       total: 15
+      penalties: []
       breakdown:
         reach: 15.093
         effort: 0
@@ -1632,6 +1696,7 @@ score:
       - Slava Jelić
     - place: 20=
       total: 15
+      penalties: []
       breakdown:
         reach: 15.093
         effort: 0
@@ -1648,6 +1713,7 @@ scoreDf:
       - Tomaž Toplak
     - place: '1'
       total: 136
+      penalties: []
       breakdown:
         reach: 133.64
         effort: 0
@@ -1671,6 +1737,7 @@ scoreDf:
       - Tomas Svoboda
     - place: '2'
       total: 122
+      penalties: []
       breakdown:
         reach: 120.574
         effort: 0
@@ -1694,6 +1761,7 @@ scoreDf:
       - Lara Leban
     - place: '3'
       total: 100
+      penalties: []
       breakdown:
         reach: 98.329
         effort: 0
@@ -1717,6 +1785,7 @@ scoreDf:
       - Mitja Jančič
     - place: '4'
       total: 97
+      penalties: []
       breakdown:
         reach: 95.307
         effort: 0
@@ -1740,6 +1809,7 @@ scoreDf:
       - Bruno Matos
     - place: '5'
       total: 96
+      penalties: []
       breakdown:
         reach: 95.829
         effort: 0
@@ -1763,6 +1833,7 @@ scoreDf:
       - Joan Brito
     - place: '6'
       total: 88
+      penalties: []
       breakdown:
         reach: 86.674
         effort: 0
@@ -1786,6 +1857,7 @@ scoreDf:
       - Sandi Krč
     - place: '7'
       total: 67
+      penalties: []
       breakdown:
         reach: 66.052
         effort: 0
@@ -1809,6 +1881,7 @@ scoreDf:
       - Ivo Duarte
     - place: '8'
       total: 64
+      penalties: []
       breakdown:
         reach: 62.552
         effort: 0
@@ -1832,6 +1905,7 @@ scoreDf:
       - Dušan Durkovič
     - place: '9'
       total: 61
+      penalties: []
       breakdown:
         reach: 59.24
         effort: 0
@@ -1855,6 +1929,7 @@ scoreDf:
       - Alojz Tovornik
     - place: '10'
       total: 59
+      penalties: []
       breakdown:
         reach: 57.84
         effort: 0
@@ -1878,6 +1953,7 @@ scoreDf:
       - Igor Eržen
     - place: '11'
       total: 38
+      penalties: []
       breakdown:
         reach: 37.718
         effort: 0
@@ -1901,6 +1977,7 @@ scoreDf:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '12'
       total: 35
+      penalties: []
       breakdown:
         reach: 34.374
         effort: 0
@@ -1924,6 +2001,7 @@ scoreDf:
       - Krešo  Kovačič
     - place: '13'
       total: 33
+      penalties: []
       breakdown:
         reach: 32.663
         effort: 0
@@ -1947,6 +2025,7 @@ scoreDf:
       - Damir Kalinger
     - place: '14'
       total: 31
+      penalties: []
       breakdown:
         reach: 31.007
         effort: 0
@@ -1970,6 +2049,7 @@ scoreDf:
       - Balazs Szatmari
     - place: 15=
       total: 24
+      penalties: []
       breakdown:
         reach: 23.941
         effort: 0
@@ -1993,6 +2073,7 @@ scoreDf:
       - Mitja Jug
     - place: 15=
       total: 24
+      penalties: []
       breakdown:
         reach: 23.663
         effort: 0
@@ -2016,6 +2097,7 @@ scoreDf:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '17'
       total: 15
+      penalties: []
       breakdown:
         reach: 15.096
         effort: 0
@@ -2039,6 +2121,7 @@ scoreDf:
       - Antoni Buljan
     - place: '18'
       total: 14
+      penalties: []
       breakdown:
         reach: 13.963
         effort: 0
@@ -2062,6 +2145,7 @@ scoreDf:
       - David Šiljeg
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -2085,6 +2169,7 @@ scoreDf:
       - Ivica Huljek
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -2108,6 +2193,7 @@ scoreDf:
       - Jerko Odžak
     - place: 19=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -2131,6 +2217,7 @@ scoreDf:
       - Tomas Svoboda
     - place: '1'
       total: 684
+      penalties: []
       breakdown:
         reach: 672.03
         effort: 0
@@ -2154,6 +2241,7 @@ scoreDf:
       - Dušan Durkovič
     - place: '2'
       total: 680
+      penalties: []
       breakdown:
         reach: 668.601
         effort: 0
@@ -2177,6 +2265,7 @@ scoreDf:
       - Tomaž Toplak
     - place: '3'
       total: 679
+      penalties: []
       breakdown:
         reach: 666.59
         effort: 0
@@ -2200,6 +2289,7 @@ scoreDf:
       - Mitja Jančič
     - place: '4'
       total: 678
+      penalties: []
       breakdown:
         reach: 666.26
         effort: 0
@@ -2223,6 +2313,7 @@ scoreDf:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '5'
       total: 675
+      penalties: []
       breakdown:
         reach: 664.183
         effort: 0
@@ -2246,6 +2337,7 @@ scoreDf:
       - Krešo  Kovačič
     - place: '6'
       total: 673
+      penalties: []
       breakdown:
         reach: 659.731
         effort: 0
@@ -2269,6 +2361,7 @@ scoreDf:
       - Ivo Duarte
     - place: '7'
       total: 652
+      penalties: []
       breakdown:
         reach: 643.609
         effort: 0
@@ -2292,6 +2385,7 @@ scoreDf:
       - Stojan Kranjc
     - place: '8'
       total: 624
+      penalties: []
       breakdown:
         reach: 616.605
         effort: 0
@@ -2315,6 +2409,7 @@ scoreDf:
       - Bruno Matos
     - place: '9'
       total: 599
+      penalties: []
       breakdown:
         reach: 590.986
         effort: 0
@@ -2338,6 +2433,7 @@ scoreDf:
       - Joan Brito
     - place: '10'
       total: 568
+      penalties: []
       breakdown:
         reach: 561.049
         effort: 0
@@ -2361,6 +2457,7 @@ scoreDf:
       - Igor Eržen
     - place: '11'
       total: 559
+      penalties: []
       breakdown:
         reach: 551.355
         effort: 0
@@ -2384,6 +2481,7 @@ scoreDf:
       - Lara Leban
     - place: '12'
       total: 536
+      penalties: []
       breakdown:
         reach: 526.759
         effort: 0
@@ -2407,6 +2505,7 @@ scoreDf:
       - Sandi Krč
     - place: '13'
       total: 358
+      penalties: []
       breakdown:
         reach: 350.824
         effort: 0
@@ -2430,6 +2529,7 @@ scoreDf:
       - Alojz Tovornik
     - place: '14'
       total: 296
+      penalties: []
       breakdown:
         reach: 292.267
         effort: 0
@@ -2453,6 +2553,7 @@ scoreDf:
       - Zsolt Sandor
     - place: 15=
       total: 235
+      penalties: []
       breakdown:
         reach: 231.501
         effort: 0
@@ -2476,6 +2577,7 @@ scoreDf:
       - Balazs Szatmari
     - place: 15=
       total: 235
+      penalties: []
       breakdown:
         reach: 231.172
         effort: 0
@@ -2499,6 +2601,7 @@ scoreDf:
       - Marketa Tomaskova
     - place: '17'
       total: 193
+      penalties: []
       breakdown:
         reach: 189.76
         effort: 0
@@ -2522,6 +2625,7 @@ scoreDf:
       - Jerko Odžak
     - place: '18'
       total: 184
+      penalties: []
       breakdown:
         reach: 181.088
         effort: 0
@@ -2545,6 +2649,7 @@ scoreDf:
       - Mitja Jug
     - place: '19'
       total: 117
+      penalties: []
       breakdown:
         reach: 114.849
         effort: 0
@@ -2568,6 +2673,7 @@ scoreDf:
       - Damir Kalinger
     - place: '20'
       total: 79
+      penalties: []
       breakdown:
         reach: 76.405
         effort: 0
@@ -2591,6 +2697,7 @@ scoreDf:
       - Ivica Huljek
     - place: '21'
       total: 67
+      penalties: []
       breakdown:
         reach: 64.37
         effort: 0
@@ -2614,6 +2721,7 @@ scoreDf:
       - Antoni Buljan
     - place: '22'
       total: 33
+      penalties: []
       breakdown:
         reach: 32.971
         effort: 0
@@ -2637,6 +2745,7 @@ scoreDf:
       - Bruno Matos
     - place: '1'
       total: 996
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2660,6 +2769,7 @@ scoreDf:
       - Tomas Svoboda
     - place: '2'
       total: 938
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2683,6 +2793,7 @@ scoreDf:
       - Dušan Durkovič
     - place: '3'
       total: 831
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2706,6 +2817,7 @@ scoreDf:
       - Alojz Tovornik
     - place: '4'
       total: 726
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2729,6 +2841,7 @@ scoreDf:
       - Tomaž Toplak
     - place: '5'
       total: 709
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2752,6 +2865,7 @@ scoreDf:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '6'
       total: 682
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2775,6 +2889,7 @@ scoreDf:
       - Mitja Jug
     - place: '7'
       total: 638
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2798,6 +2913,7 @@ scoreDf:
       - Joan Brito
     - place: '8'
       total: 629
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2821,6 +2937,7 @@ scoreDf:
       - Antoni Buljan
     - place: '9'
       total: 616
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2844,6 +2961,7 @@ scoreDf:
       - Mitja Jančič
     - place: '10'
       total: 609
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2867,6 +2985,7 @@ scoreDf:
       - Stojan Kranjc
     - place: '11'
       total: 539
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2890,6 +3009,7 @@ scoreDf:
       - Krešo  Kovačič
     - place: '12'
       total: 429
+      penalties: []
       breakdown:
         reach: 374.153
         effort: 0
@@ -2913,6 +3033,7 @@ scoreDf:
       - Marketa Tomaskova
     - place: '13'
       total: 426
+      penalties: []
       breakdown:
         reach: 398.288
         effort: 0
@@ -2936,6 +3057,7 @@ scoreDf:
       - Igor Eržen
     - place: '14'
       total: 404
+      penalties: []
       breakdown:
         reach: 348.51
         effort: 0
@@ -2959,6 +3081,7 @@ scoreDf:
       - Ivo Duarte
     - place: '15'
       total: 401
+      penalties: []
       breakdown:
         reach: 336.315
         effort: 0
@@ -2982,6 +3105,7 @@ scoreDf:
       - Lara Leban
     - place: '16'
       total: 376
+      penalties: []
       breakdown:
         reach: 346.472
         effort: 0
@@ -3005,6 +3129,7 @@ scoreDf:
       - David Šiljeg
     - place: '17'
       total: 241
+      penalties: []
       breakdown:
         reach: 240.819
         effort: 0
@@ -3028,6 +3153,7 @@ scoreDf:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
       total: 49
+      penalties: []
       breakdown:
         reach: 48.545
         effort: 0
@@ -3051,6 +3177,7 @@ scoreDf:
       - Jerko Odžak
     - place: '19'
       total: 29
+      penalties: []
       breakdown:
         reach: 28.788
         effort: 0
@@ -3074,6 +3201,7 @@ scoreDf:
       - Ivica Huljek
     - place: '20'
       total: 15
+      penalties: []
       breakdown:
         reach: 15.093
         effort: 0
@@ -3098,6 +3226,7 @@ scoreDfNoTrack:
       - Richard Edlinger
     - place: 1=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -3113,6 +3242,7 @@ scoreDfNoTrack:
       - Sandor Roza
     - place: 1=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -3128,6 +3258,7 @@ scoreDfNoTrack:
       - Zsolt Sandor
     - place: 1=
       total: 11
+      penalties: []
       breakdown:
         reach: 11.111
         effort: 0
@@ -3143,6 +3274,7 @@ scoreDfNoTrack:
       - Slava Jelić
     - place: '1'
       total: 33
+      penalties: []
       breakdown:
         reach: 32.971
         effort: 0
@@ -3158,6 +3290,7 @@ scoreDfNoTrack:
       - Slava Jelić
     - place: '1'
       total: 15
+      penalties: []
       breakdown:
         reach: 15.093
         effort: 0

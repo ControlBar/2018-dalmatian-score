@@ -124,7 +124,6 @@ tasks:
           - 16.62018000 deg
           radius: 400.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 7
@@ -153,6 +152,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: 1
+  penals: []
 - taskName: Task 2
   zones:
     raw:
@@ -260,7 +260,6 @@ tasks:
           - 16.69563000 deg
           radius: 400.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 9
@@ -291,6 +290,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: 1
+  penals: []
 - taskName: Task 3
   zones:
     raw:
@@ -376,7 +376,6 @@ tasks:
           - 16.62018000 deg
           radius: 600.0 m
     openKind: null
-  penalties: []
   speedSection:
   - 2
   - 7
@@ -401,6 +400,7 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: 1
+  penals: []
 taskFolders:
 - - Task 1
 - - Task 2
