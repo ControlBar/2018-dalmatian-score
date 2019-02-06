@@ -121,6 +121,7 @@ score:
     - place: '1'
       total: 136
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 133.64
         effort: 0
@@ -145,6 +146,7 @@ score:
     - place: '2'
       total: 122
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 120.574
         effort: 0
@@ -169,6 +171,7 @@ score:
     - place: '3'
       total: 100
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 98.329
         effort: 0
@@ -193,6 +196,7 @@ score:
     - place: '4'
       total: 97
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 95.307
         effort: 0
@@ -217,6 +221,7 @@ score:
     - place: '5'
       total: 96
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 95.829
         effort: 0
@@ -241,6 +246,7 @@ score:
     - place: '6'
       total: 88
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 86.674
         effort: 0
@@ -265,6 +271,7 @@ score:
     - place: '7'
       total: 67
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 66.052
         effort: 0
@@ -289,6 +296,7 @@ score:
     - place: '8'
       total: 64
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 62.552
         effort: 0
@@ -313,6 +321,7 @@ score:
     - place: '9'
       total: 61
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 59.24
         effort: 0
@@ -337,6 +346,7 @@ score:
     - place: '10'
       total: 59
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 57.84
         effort: 0
@@ -361,6 +371,7 @@ score:
     - place: '11'
       total: 38
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 37.718
         effort: 0
@@ -385,6 +396,7 @@ score:
     - place: '12'
       total: 35
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 34.374
         effort: 0
@@ -409,6 +421,7 @@ score:
     - place: '13'
       total: 33
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 32.663
         effort: 0
@@ -433,6 +446,7 @@ score:
     - place: '14'
       total: 31
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 31.007
         effort: 0
@@ -457,6 +471,7 @@ score:
     - place: 15=
       total: 24
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 23.941
         effort: 0
@@ -481,6 +496,7 @@ score:
     - place: 15=
       total: 24
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 23.663
         effort: 0
@@ -505,6 +521,7 @@ score:
     - place: '17'
       total: 15
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 15.096
         effort: 0
@@ -529,6 +546,7 @@ score:
     - place: '18'
       total: 14
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 13.963
         effort: 0
@@ -553,6 +571,7 @@ score:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -577,6 +596,7 @@ score:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -601,6 +621,7 @@ score:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -625,6 +646,7 @@ score:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -641,6 +663,7 @@ score:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -657,6 +680,7 @@ score:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -673,6 +697,7 @@ score:
     - place: '1'
       total: 684
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 672.03
         effort: 0
@@ -697,6 +722,7 @@ score:
     - place: '2'
       total: 680
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 668.601
         effort: 0
@@ -721,6 +747,7 @@ score:
     - place: '3'
       total: 679
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 666.59
         effort: 0
@@ -745,6 +772,7 @@ score:
     - place: '4'
       total: 678
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 666.26
         effort: 0
@@ -769,6 +797,7 @@ score:
     - place: '5'
       total: 675
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 664.183
         effort: 0
@@ -793,6 +822,7 @@ score:
     - place: '6'
       total: 673
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 659.731
         effort: 0
@@ -817,6 +847,7 @@ score:
     - place: '7'
       total: 652
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 643.609
         effort: 0
@@ -841,6 +872,7 @@ score:
     - place: '8'
       total: 624
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 616.605
         effort: 0
@@ -865,6 +897,7 @@ score:
     - place: '9'
       total: 599
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 590.986
         effort: 0
@@ -889,6 +922,7 @@ score:
     - place: '10'
       total: 568
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 561.049
         effort: 0
@@ -913,6 +947,7 @@ score:
     - place: '11'
       total: 559
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 551.355
         effort: 0
@@ -937,6 +972,7 @@ score:
     - place: '12'
       total: 536
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 526.759
         effort: 0
@@ -961,6 +997,7 @@ score:
     - place: '13'
       total: 358
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 350.824
         effort: 0
@@ -985,6 +1022,7 @@ score:
     - place: '14'
       total: 296
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 292.267
         effort: 0
@@ -1009,6 +1047,7 @@ score:
     - place: 15=
       total: 235
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 231.501
         effort: 0
@@ -1033,6 +1072,7 @@ score:
     - place: 15=
       total: 235
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 231.172
         effort: 0
@@ -1057,6 +1097,7 @@ score:
     - place: '17'
       total: 193
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 189.76
         effort: 0
@@ -1081,6 +1122,7 @@ score:
     - place: '18'
       total: 184
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 181.088
         effort: 0
@@ -1105,6 +1147,7 @@ score:
     - place: '19'
       total: 117
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 114.849
         effort: 0
@@ -1129,6 +1172,7 @@ score:
     - place: '20'
       total: 79
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 76.405
         effort: 0
@@ -1153,6 +1197,7 @@ score:
     - place: '21'
       total: 67
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 64.37
         effort: 0
@@ -1177,6 +1222,7 @@ score:
     - place: 22=
       total: 33
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 32.971
         effort: 0
@@ -1201,6 +1247,7 @@ score:
     - place: 22=
       total: 33
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 32.971
         effort: 0
@@ -1217,6 +1264,7 @@ score:
     - place: '1'
       total: 996
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1241,6 +1289,7 @@ score:
     - place: '2'
       total: 938
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1265,6 +1314,7 @@ score:
     - place: '3'
       total: 831
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1289,6 +1339,7 @@ score:
     - place: '4'
       total: 726
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1313,6 +1364,7 @@ score:
     - place: '5'
       total: 709
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1337,6 +1389,7 @@ score:
     - place: '6'
       total: 682
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1361,6 +1414,7 @@ score:
     - place: '7'
       total: 638
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1385,6 +1439,7 @@ score:
     - place: '8'
       total: 629
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1409,6 +1464,7 @@ score:
     - place: '9'
       total: 616
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1433,6 +1489,7 @@ score:
     - place: '10'
       total: 609
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1457,6 +1514,7 @@ score:
     - place: '11'
       total: 539
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1481,6 +1539,7 @@ score:
     - place: '12'
       total: 429
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 374.153
         effort: 0
@@ -1505,6 +1564,7 @@ score:
     - place: '13'
       total: 426
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -1529,6 +1589,7 @@ score:
     - place: '14'
       total: 404
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 348.51
         effort: 0
@@ -1553,6 +1614,7 @@ score:
     - place: '15'
       total: 401
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 336.315
         effort: 0
@@ -1577,6 +1639,7 @@ score:
     - place: '16'
       total: 376
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 346.472
         effort: 0
@@ -1601,6 +1664,7 @@ score:
     - place: '17'
       total: 241
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 240.819
         effort: 0
@@ -1625,6 +1689,7 @@ score:
     - place: '18'
       total: 49
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 48.545
         effort: 0
@@ -1649,6 +1714,7 @@ score:
     - place: '19'
       total: 29
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 28.788
         effort: 0
@@ -1673,6 +1739,7 @@ score:
     - place: 20=
       total: 15
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 15.093
         effort: 0
@@ -1697,6 +1764,7 @@ score:
     - place: 20=
       total: 15
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 15.093
         effort: 0
@@ -1714,6 +1782,7 @@ scoreDf:
     - place: '1'
       total: 136
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 133.64
         effort: 0
@@ -1738,6 +1807,7 @@ scoreDf:
     - place: '2'
       total: 122
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 120.574
         effort: 0
@@ -1762,6 +1832,7 @@ scoreDf:
     - place: '3'
       total: 100
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 98.329
         effort: 0
@@ -1786,6 +1857,7 @@ scoreDf:
     - place: '4'
       total: 97
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 95.307
         effort: 0
@@ -1810,6 +1882,7 @@ scoreDf:
     - place: '5'
       total: 96
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 95.829
         effort: 0
@@ -1834,6 +1907,7 @@ scoreDf:
     - place: '6'
       total: 88
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 86.674
         effort: 0
@@ -1858,6 +1932,7 @@ scoreDf:
     - place: '7'
       total: 67
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 66.052
         effort: 0
@@ -1882,6 +1957,7 @@ scoreDf:
     - place: '8'
       total: 64
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 62.552
         effort: 0
@@ -1906,6 +1982,7 @@ scoreDf:
     - place: '9'
       total: 61
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 59.24
         effort: 0
@@ -1930,6 +2007,7 @@ scoreDf:
     - place: '10'
       total: 59
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 57.84
         effort: 0
@@ -1954,6 +2032,7 @@ scoreDf:
     - place: '11'
       total: 38
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 37.718
         effort: 0
@@ -1978,6 +2057,7 @@ scoreDf:
     - place: '12'
       total: 35
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 34.374
         effort: 0
@@ -2002,6 +2082,7 @@ scoreDf:
     - place: '13'
       total: 33
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 32.663
         effort: 0
@@ -2026,6 +2107,7 @@ scoreDf:
     - place: '14'
       total: 31
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 31.007
         effort: 0
@@ -2050,6 +2132,7 @@ scoreDf:
     - place: 15=
       total: 24
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 23.941
         effort: 0
@@ -2074,6 +2157,7 @@ scoreDf:
     - place: 15=
       total: 24
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 23.663
         effort: 0
@@ -2098,6 +2182,7 @@ scoreDf:
     - place: '17'
       total: 15
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 15.096
         effort: 0
@@ -2122,6 +2207,7 @@ scoreDf:
     - place: '18'
       total: 14
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 13.963
         effort: 0
@@ -2146,6 +2232,7 @@ scoreDf:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -2170,6 +2257,7 @@ scoreDf:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -2194,6 +2282,7 @@ scoreDf:
     - place: 19=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -2218,6 +2307,7 @@ scoreDf:
     - place: '1'
       total: 684
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 672.03
         effort: 0
@@ -2242,6 +2332,7 @@ scoreDf:
     - place: '2'
       total: 680
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 668.601
         effort: 0
@@ -2266,6 +2357,7 @@ scoreDf:
     - place: '3'
       total: 679
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 666.59
         effort: 0
@@ -2290,6 +2382,7 @@ scoreDf:
     - place: '4'
       total: 678
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 666.26
         effort: 0
@@ -2314,6 +2407,7 @@ scoreDf:
     - place: '5'
       total: 675
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 664.183
         effort: 0
@@ -2338,6 +2432,7 @@ scoreDf:
     - place: '6'
       total: 673
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 659.731
         effort: 0
@@ -2362,6 +2457,7 @@ scoreDf:
     - place: '7'
       total: 652
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 643.609
         effort: 0
@@ -2386,6 +2482,7 @@ scoreDf:
     - place: '8'
       total: 624
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 616.605
         effort: 0
@@ -2410,6 +2507,7 @@ scoreDf:
     - place: '9'
       total: 599
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 590.986
         effort: 0
@@ -2434,6 +2532,7 @@ scoreDf:
     - place: '10'
       total: 568
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 561.049
         effort: 0
@@ -2458,6 +2557,7 @@ scoreDf:
     - place: '11'
       total: 559
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 551.355
         effort: 0
@@ -2482,6 +2582,7 @@ scoreDf:
     - place: '12'
       total: 536
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 526.759
         effort: 0
@@ -2506,6 +2607,7 @@ scoreDf:
     - place: '13'
       total: 358
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 350.824
         effort: 0
@@ -2530,6 +2632,7 @@ scoreDf:
     - place: '14'
       total: 296
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 292.267
         effort: 0
@@ -2554,6 +2657,7 @@ scoreDf:
     - place: 15=
       total: 235
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 231.501
         effort: 0
@@ -2578,6 +2682,7 @@ scoreDf:
     - place: 15=
       total: 235
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 231.172
         effort: 0
@@ -2602,6 +2707,7 @@ scoreDf:
     - place: '17'
       total: 193
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 189.76
         effort: 0
@@ -2626,6 +2732,7 @@ scoreDf:
     - place: '18'
       total: 184
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 181.088
         effort: 0
@@ -2650,6 +2757,7 @@ scoreDf:
     - place: '19'
       total: 117
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 114.849
         effort: 0
@@ -2674,6 +2782,7 @@ scoreDf:
     - place: '20'
       total: 79
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 76.405
         effort: 0
@@ -2698,6 +2807,7 @@ scoreDf:
     - place: '21'
       total: 67
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 64.37
         effort: 0
@@ -2722,6 +2832,7 @@ scoreDf:
     - place: '22'
       total: 33
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 32.971
         effort: 0
@@ -2746,6 +2857,7 @@ scoreDf:
     - place: '1'
       total: 996
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2770,6 +2882,7 @@ scoreDf:
     - place: '2'
       total: 938
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2794,6 +2907,7 @@ scoreDf:
     - place: '3'
       total: 831
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2818,6 +2932,7 @@ scoreDf:
     - place: '4'
       total: 726
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2842,6 +2957,7 @@ scoreDf:
     - place: '5'
       total: 709
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2866,6 +2982,7 @@ scoreDf:
     - place: '6'
       total: 682
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2890,6 +3007,7 @@ scoreDf:
     - place: '7'
       total: 638
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2914,6 +3032,7 @@ scoreDf:
     - place: '8'
       total: 629
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2938,6 +3057,7 @@ scoreDf:
     - place: '9'
       total: 616
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2962,6 +3082,7 @@ scoreDf:
     - place: '10'
       total: 609
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -2986,6 +3107,7 @@ scoreDf:
     - place: '11'
       total: 539
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -3010,6 +3132,7 @@ scoreDf:
     - place: '12'
       total: 429
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 374.153
         effort: 0
@@ -3034,6 +3157,7 @@ scoreDf:
     - place: '13'
       total: 426
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 398.288
         effort: 0
@@ -3058,6 +3182,7 @@ scoreDf:
     - place: '14'
       total: 404
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 348.51
         effort: 0
@@ -3082,6 +3207,7 @@ scoreDf:
     - place: '15'
       total: 401
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 336.315
         effort: 0
@@ -3106,6 +3232,7 @@ scoreDf:
     - place: '16'
       total: 376
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 346.472
         effort: 0
@@ -3130,6 +3257,7 @@ scoreDf:
     - place: '17'
       total: 241
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 240.819
         effort: 0
@@ -3154,6 +3282,7 @@ scoreDf:
     - place: '18'
       total: 49
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 48.545
         effort: 0
@@ -3178,6 +3307,7 @@ scoreDf:
     - place: '19'
       total: 29
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 28.788
         effort: 0
@@ -3202,6 +3332,7 @@ scoreDf:
     - place: '20'
       total: 15
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 15.093
         effort: 0
@@ -3227,6 +3358,7 @@ scoreDfNoTrack:
     - place: 1=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -3243,6 +3375,7 @@ scoreDfNoTrack:
     - place: 1=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -3259,6 +3392,7 @@ scoreDfNoTrack:
     - place: 1=
       total: 11
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 11.111
         effort: 0
@@ -3275,6 +3409,7 @@ scoreDfNoTrack:
     - place: '1'
       total: 33
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 32.971
         effort: 0
@@ -3291,6 +3426,7 @@ scoreDfNoTrack:
     - place: '1'
       total: 15
       penalties: []
+      penaltyReason: ''
       breakdown:
         reach: 15.093
         effort: 0
