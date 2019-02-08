@@ -635,21 +635,36 @@ pilotGroups:
   - - '95'
     - Stojan Kranjc
   didFlyNoTracklog:
-  - - - '82'
-      - Richard Edlinger
-    - awardedFrac: 0
+  - pilot:
+    - '82'
+    - Richard Edlinger
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 29.668000 km
-  - - - '88'
-      - Sandor Roza
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '88'
+    - Sandor Roza
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 29.668000 km
-  - - - '113'
-      - Zsolt Sandor
-    - awardedFrac: 0
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '113'
+    - Zsolt Sandor
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 29.668000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf: []
 - absent:
   - - '23'
@@ -665,11 +680,16 @@ pilotGroups:
   - - '102'
     - Tomislav Gomerčić
   didFlyNoTracklog:
-  - - - '91'
-      - Slava Jelić
-    - awardedFrac: 0
+  - pilot:
+    - '91'
+    - Slava Jelić
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 41.192000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf:
   - - '80'
     - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
@@ -693,11 +713,16 @@ pilotGroups:
   - - '113'
     - Zsolt Sandor
   didFlyNoTracklog:
-  - - - '91'
-      - Slava Jelić
-    - awardedFrac: 0
+  - pilot:
+    - '91'
+    - Slava Jelić
+    awardedReach:
       awardedMade: 0.000000 km
       awardedTask: 26.232000 km
+      awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
   dnf:
   - - '21'
     - Damir Kalinger
