@@ -8,6 +8,7 @@ raceTime:
   firstStart: 2018-05-24T10:34:46Z
   firstLead: 2018-05-24T10:34:46Z
   lastArrival: 2018-05-24T12:18:00Z
+  leadAllDown: 8939
   leadArrival: 6194
   leadClose: 6194
   openClose: 6480
@@ -17,6 +18,7 @@ raceTime:
   firstStart: 2018-05-26T11:06:52Z
   firstLead: 2018-05-26T11:06:52Z
   lastArrival: 2018-05-26T12:05:00Z
+  leadAllDown: 4162
   leadArrival: 3488
   leadClose: 3488
   openClose: 3900
@@ -26,6 +28,7 @@ raceTime:
   firstStart: 2018-05-27T10:59:55Z
   firstLead: 2018-05-27T10:59:55Z
   lastArrival: 2018-05-27T13:03:52Z
+  leadAllDown: 9435
   leadArrival: 7437
   leadClose: 10805
   openClose: 10800
@@ -304,51 +307,51 @@ arrival:
 - []
 - - - - '16'
       - Bruno Matos
-    - rank: 1
+    - rank: '1'
       frac: 1
   - - - '98'
       - Tomas Svoboda
-    - rank: 2
+    - rank: '2'
       frac: 0.83072396
   - - - '26'
       - Dušan Durkovič
-    - rank: 3
+    - rank: '3'
       frac: 0.68743056
   - - - '101'
       - Tomaž Toplak
-    - rank: 4
+    - rank: '4'
       frac: 0.56792188
   - - - '4'
       - Alojz Tovornik
-    - rank: 5
+    - rank: '5'
       frac: 0.47
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - rank: 6
+    - rank: '6'
       frac: 0.39146701
   - - - '73'
       - Mitja Jug
-    - rank: 7
+    - rank: '7'
       frac: 0.330125
   - - - '9'
       - Antoni Buljan
-    - rank: 8
+    - rank: '8'
       frac: 0.28377604
   - - - '72'
       - Mitja Jančič
-    - rank: 9
+    - rank: '9'
       frac: 0.25022222
   - - - '114'
       - Joan Brito
-    - rank: 10
+    - rank: '10'
       frac: 0.22726562
   - - - '95'
       - Stojan Kranjc
-    - rank: 11
+    - rank: '11'
       frac: 0.21270833
   - - - '63'
       - Marketa Tomaskova
-    - rank: 12
+    - rank: '12'
       frac: 0.20435243
 ssSpeed:
 - []
