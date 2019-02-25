@@ -73,71 +73,71 @@ lead:
   - - - '57'
       - Lara Leban
     - coef: 2.02682408
-      frac: 0.81578092
+      frac: 0.79467061
   - - - '72'
       - Mitja Jančič
     - coef: 2.03110314
-      frac: 0.81101167
+      frac: 0.78935483
   - - - '98'
       - Tomas Svoboda
     - coef: 2.37735783
-      frac: 0.52032161
+      frac: 0.46535357
   - - - '114'
       - Joan Brito
     - coef: 2.40664454
-      frac: 0.50017282
+      frac: 0.44289586
   - - - '26'
       - Dušan Durkovič
     - coef: 2.42910031
-      frac: 0.48499501
+      frac: 0.42597877
   - - - '4'
       - Alojz Tovornik
     - coef: 2.44396113
-      frac: 0.47507263
+      frac: 0.41491935
   - - - '86'
       - Sandi Krč
     - coef: 2.45252959
-      frac: 0.46939402
+      frac: 0.40859001
   - - - '41'
       - Ivo Duarte
     - coef: 2.53942877
-      frac: 0.41340918
+      frac: 0.34618967
   - - - '16'
       - Bruno Matos
     - coef: 2.90941514
-      frac: 0.19931189
+      frac: 0.10755821
   - - - '21'
       - Damir Kalinger
     - coef: 2.93473993
-      frac: 0.18574306
+      frac: 9.243448e-2
   - - - '73'
       - Mitja Jug
     - coef: 2.98128763
-      frac: 0.16109297
+      frac: 6.495965e-2
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - coef: 2.99183624
-      frac: 0.15555714
+      frac: 5.878946e-2
   - - - '13'
       - Balazs Szatmari
     - coef: 3.00274864
-      frac: 0.14984944
+      frac: 5.242768e-2
   - - - '37'
       - Igor Eržen
     - coef: 3.00644531
-      frac: 0.14792024
+      frac: 5.027742e-2
   - - - '54'
       - Krešo  Kovačič
     - coef: 3.05661103
-      frac: 0.12195178
+      frac: 2.133313e-2
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - coef: 3.16835687
-      frac: 6.543588e-2
+      frac: 0
   - - - '9'
       - Antoni Buljan
     - coef: 3.19233439
-      frac: 5.35322e-2
+      frac: 0
   - - - '46'
       - Jerko Odžak
     - coef: 3.30643176
@@ -149,83 +149,83 @@ lead:
   - - - '101'
       - Tomaž Toplak
     - coef: 1.06840992
-      frac: 0.94374845
+      frac: 0.94324685
   - - - '98'
       - Tomas Svoboda
     - coef: 1.07355963
-      frac: 0.93041507
+      frac: 0.92979459
   - - - '26'
       - Dušan Durkovič
     - coef: 1.08473847
-      frac: 0.90508682
+      frac: 0.90424049
   - - - '72'
       - Mitja Jančič
     - coef: 1.09769804
-      frac: 0.87944138
+      frac: 0.87836637
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - coef: 1.13843363
-      frac: 0.81198463
+      frac: 0.81030811
   - - - '57'
       - Lara Leban
     - coef: 1.2352439
-      frac: 0.68619185
+      frac: 0.68339365
   - - - '41'
       - Ivo Duarte
     - coef: 1.24382237
-      frac: 0.67632817
+      frac: 0.67344202
   - - - '95'
       - Stojan Kranjc
     - coef: 1.31071649
-      frac: 0.60391205
+      frac: 0.60038017
   - - - '16'
       - Bruno Matos
     - coef: 1.31810494
-      frac: 0.59632745
+      frac: 0.59272794
   - - - '37'
       - Igor Eržen
     - coef: 1.31988483
-      frac: 0.59451097
+      frac: 0.59089526
   - - - '114'
       - Joan Brito
     - coef: 1.36850414
-      frac: 0.5463504
+      frac: 0.54230524
   - - - '86'
       - Sandi Krč
     - coef: 1.38360817
-      frac: 0.53190764
+      frac: 0.5277337
   - - - '4'
       - Alojz Tovornik
     - coef: 1.71004931
-      frac: 0.25880234
+      frac: 0.25219315
   - - - '13'
       - Balazs Szatmari
     - coef: 1.71417106
-      frac: 0.25569777
+      frac: 0.24906089
   - - - '113'
       - Zsolt Sandor
     - coef: 1.7190678
-      frac: 0.25201784
+      frac: 0.24534815
   - - - '46'
       - Jerko Odžak
     - coef: 1.72318707
-      frac: 0.24892918
+      frac: 0.24223195
   - - - '63'
       - Marketa Tomaskova
     - coef: 1.75612233
-      frac: 0.22445778
+      frac: 0.21754234
   - - - '21'
       - Damir Kalinger
     - coef: 1.78586158
-      frac: 0.20268837
+      frac: 0.19557881
   - - - '40'
       - Ivica Huljek
     - coef: 1.79669274
-      frac: 0.19483354
+      frac: 0.18765394
   - - - '73'
       - Mitja Jug
     - coef: 1.83544722
-      frac: 0.16703574
+      frac: 0.15960827
 - - - - '26'
       - Dušan Durkovič
     - coef: 0.78639005
@@ -233,63 +233,63 @@ lead:
   - - - '16'
       - Bruno Matos
     - coef: 0.79345505
-      frac: 0.9601102
+      frac: 0.96167624
   - - - '98'
       - Tomas Svoboda
     - coef: 0.80102085
-      frac: 0.9351914
+      frac: 0.93773571
   - - - '41'
       - Ivo Duarte
     - coef: 1.00120998
-      frac: 0.61139919
+      frac: 0.62665526
   - - - '4'
       - Alojz Tovornik
     - coef: 1.01372974
-      frac: 0.59644366
+      frac: 0.61228687
   - - - '114'
       - Joan Brito
     - coef: 1.02509114
-      frac: 0.58310797
+      frac: 0.59947473
   - - - '37'
       - Igor Eržen
     - coef: 1.07816437
-      frac: 0.5234022
+      frac: 0.54211294
   - - - '54'
       - Krešo  Kovačič
     - coef: 1.0844107
-      frac: 0.51662421
+      frac: 0.53560105
   - - - '73'
       - Mitja Jug
     - coef: 1.16816248
-      frac: 0.42984837
+      frac: 0.45223194
   - - - '101'
       - Tomaž Toplak
     - coef: 1.21294887
-      frac: 0.38608731
+      frac: 0.41018889
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - coef: 1.21768739
-      frac: 0.38154916
+      frac: 0.40582891
   - - - '72'
       - Mitja Jančič
     - coef: 1.24710134
-      frac: 0.35374106
+      frac: 0.37911253
   - - - '57'
       - Lara Leban
     - coef: 1.33021766
-      frac: 0.27818124
+      frac: 0.30651911
   - - - '9'
       - Antoni Buljan
     - coef: 1.35667598
-      frac: 0.25495512
+      frac: 0.28420482
   - - - '95'
       - Stojan Kranjc
     - coef: 1.42662688
-      frac: 0.19521273
+      frac: 0.22680785
   - - - '63'
       - Marketa Tomaskova
     - coef: 1.54152964
-      frac: 0.10159501
+      frac: 0.13686547
   - - - '23'
       - David Šiljeg
     - coef: 3.38817993
@@ -363,47 +363,47 @@ ssSpeed:
   - - - '98'
       - Tomas Svoboda
     - time: 1.092222 h
-      frac: 0.89780968
+      frac: 0.89683497
   - - - '101'
       - Tomaž Toplak
     - time: 1.135833 h
-      frac: 0.82206992
+      frac: 0.82037279
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - time: 1.273056 h
-      frac: 0.64846839
+      frac: 0.64511542
   - - - '26'
       - Dušan Durkovič
     - time: 1.285278 h
-      frac: 0.63523517
+      frac: 0.63175598
   - - - '9'
       - Antoni Buljan
     - time: 1.311667 h
-      frac: 0.60744688
+      frac: 0.60370264
   - - - '4'
       - Alojz Tovornik
     - time: 1.335556 h
-      frac: 0.58311498
+      frac: 0.57913866
   - - - '95'
       - Stojan Kranjc
     - time: 1.493333 h
-      frac: 0.43692997
+      frac: 0.43155932
   - - - '73'
       - Mitja Jug
     - time: 1.519167 h
-      frac: 0.41483833
+      frac: 0.40925697
   - - - '72'
       - Mitja Jančič
     - time: 1.600000 h
-      frac: 0.34823044
+      frac: 0.34201375
   - - - '114'
       - Joan Brito
     - time: 1.619444 h
-      frac: 0.33271648
+      frac: 0.32635183
   - - - '63'
       - Marketa Tomaskova
     - time: 2.041111 h
-      frac: 3.028773e-2
+      frac: 2.103846e-2
 gsSpeed:
 - []
 - []
@@ -414,49 +414,111 @@ gsSpeed:
   - - - '98'
       - Tomas Svoboda
     - time: 1.116667 h
-      frac: 0.88858906
+      frac: 0.8871847
   - - - '26'
       - Dušan Durkovič
     - time: 1.283889 h
-      frac: 0.66001213
+      frac: 0.65572648
   - - - '101'
       - Tomaž Toplak
     - time: 1.398056 h
-      frac: 0.54373243
+      frac: 0.53798104
   - - - '4'
       - Alojz Tovornik
     - time: 1.408056 h
-      frac: 0.53427569
+      frac: 0.5284051
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - time: 1.455000 h
-      frac: 0.49109367
+      frac: 0.48467876
   - - - '73'
       - Mitja Jug
     - time: 1.571389 h
-      frac: 0.39109913
+      frac: 0.38342376
   - - - '9'
       - Antoni Buljan
     - time: 1.580000 h
-      frac: 0.38403403
+      frac: 0.3762696
   - - - '72'
       - Mitja Jančič
     - time: 1.623889 h
-      frac: 0.34863215
+      frac: 0.34042147
   - - - '114'
       - Joan Brito
     - time: 1.632222 h
-      frac: 0.3420192
+      frac: 0.33372517
   - - - '95'
       - Stojan Kranjc
     - time: 1.763333 h
-      frac: 0.24195082
+      frac: 0.23239539
   - - - '63'
       - Marketa Tomaskova
     - time: 2.064444 h
-      frac: 3.361154e-2
+      frac: 2.142994e-2
 nigh:
-- - - - '101'
+- - - - '4'
+      - Alojz Tovornik
+    - togo:
+        distance: 24.457469 km
+        flipSum:
+        - 24.457469 km
+        - 22.472750 km
+        - 16.436050 km
+        - 4.768874 km
+        legs:
+        - 1.984718 km
+        - 6.036700 km
+        - 11.667176 km
+        - 4.768874 km
+        legsSum:
+        - 1.984718 km
+        - 8.021419 km
+        - 19.688595 km
+        - 24.457469 km
+        waypoints:
+        - lat: 43.8014
+          lng: 16.65268333
+        - lat: 43.78362782
+          lng: 16.65497505
+        - lat: 43.81702906
+          lng: 16.59567766
+        - lat: 43.73422537
+          lng: 16.68492713
+        - lat: 43.75298572
+          lng: 16.63154331
+      made: 5.205652 km
+  - - - '73'
+      - Mitja Jug
+    - togo:
+        distance: 27.533434 km
+        flipSum:
+        - 27.533434 km
+        - 22.443877 km
+        - 16.436050 km
+        - 4.768874 km
+        legs:
+        - 5.089557 km
+        - 6.007828 km
+        - 11.667176 km
+        - 4.768874 km
+        legsSum:
+        - 5.089557 km
+        - 11.097384 km
+        - 22.764560 km
+        - 27.533434 km
+        waypoints:
+        - lat: 43.8173
+          lng: 16.61186667
+        - lat: 43.7829223
+          lng: 16.65373557
+        - lat: 43.81702906
+          lng: 16.59567766
+        - lat: 43.73422537
+          lng: 16.68492713
+        - lat: 43.75298572
+          lng: 16.63154331
+      made: 2.129652 km
+  - - - '101'
       - Tomaž Toplak
     - togo:
         distance: 17.634758 km
@@ -705,37 +767,6 @@ nigh:
         - lat: 43.75298572
           lng: 16.63154331
       made: 5.331652 km
-  - - - '4'
-      - Alojz Tovornik
-    - togo:
-        distance: 24.457469 km
-        flipSum:
-        - 24.457469 km
-        - 22.472750 km
-        - 16.436050 km
-        - 4.768874 km
-        legs:
-        - 1.984718 km
-        - 6.036700 km
-        - 11.667176 km
-        - 4.768874 km
-        legsSum:
-        - 1.984718 km
-        - 8.021419 km
-        - 19.688595 km
-        - 24.457469 km
-        waypoints:
-        - lat: 43.8014
-          lng: 16.65268333
-        - lat: 43.78362782
-          lng: 16.65497505
-        - lat: 43.81702906
-          lng: 16.59567766
-        - lat: 43.73422537
-          lng: 16.68492713
-        - lat: 43.75298572
-          lng: 16.63154331
-      made: 5.205652 km
   - - - '86'
       - Sandi Krč
     - togo:
@@ -891,37 +922,6 @@ nigh:
         - lat: 43.75298572
           lng: 16.63154331
       made: 2.790652 km
-  - - - '73'
-      - Mitja Jug
-    - togo:
-        distance: 27.533434 km
-        flipSum:
-        - 27.533434 km
-        - 22.443877 km
-        - 16.436050 km
-        - 4.768874 km
-        legs:
-        - 5.089557 km
-        - 6.007828 km
-        - 11.667176 km
-        - 4.768874 km
-        legsSum:
-        - 5.089557 km
-        - 11.097384 km
-        - 22.764560 km
-        - 27.533434 km
-        waypoints:
-        - lat: 43.8173
-          lng: 16.61186667
-        - lat: 43.7829223
-          lng: 16.65373557
-        - lat: 43.81702906
-          lng: 16.59567766
-        - lat: 43.73422537
-          lng: 16.68492713
-        - lat: 43.75298572
-          lng: 16.63154331
-      made: 2.129652 km
   - - - '9'
       - Antoni Buljan
     - togo:
@@ -1102,7 +1102,43 @@ nigh:
         - lat: 43.75298572
           lng: 16.63154331
       made: 0.460652 km
-- - - - '98'
+- - - - '4'
+      - Alojz Tovornik
+    - togo:
+        distance: 32.309480 km
+        flipSum:
+        - 32.309480 km
+        - 27.936142 km
+        - 20.165870 km
+        - 16.812166 km
+        - 10.783455 km
+        legs:
+        - 4.373338 km
+        - 7.770272 km
+        - 3.353704 km
+        - 6.028711 km
+        - 10.783455 km
+        legsSum:
+        - 4.373338 km
+        - 12.143610 km
+        - 15.497314 km
+        - 21.526025 km
+        - 32.309480 km
+        waypoints:
+        - lat: 43.8193
+          lng: 16.64656667
+        - lat: 43.83954849
+          lng: 16.59982784
+        - lat: 43.78087799
+          lng: 16.65243027
+        - lat: 43.76013499
+          lng: 16.62210976
+        - lat: 43.81433424
+          lng: 16.62016107
+        - lat: 43.73277839
+          lng: 16.69282969
+      made: 8.864313 km
+  - - - '98'
       - Tomas Svoboda
     - togo:
         distance: 20.790782 km
@@ -1288,37 +1324,6 @@ nigh:
         - lat: 43.73277839
           lng: 16.69282969
       made: 20.009313 km
-  - - - '41'
-      - Ivo Duarte
-    - togo:
-        distance: 21.652723 km
-        flipSum:
-        - 21.652723 km
-        - 20.217930 km
-        - 16.812166 km
-        - 10.783455 km
-        legs:
-        - 1.434793 km
-        - 3.405764 km
-        - 6.028711 km
-        - 10.783455 km
-        legsSum:
-        - 1.434793 km
-        - 4.840557 km
-        - 10.869268 km
-        - 21.652723 km
-        waypoints:
-        - lat: 43.79398333
-          lng: 16.6484
-        - lat: 43.78143855
-          lng: 16.65258471
-        - lat: 43.76013499
-          lng: 16.62210976
-        - lat: 43.81433424
-          lng: 16.62016107
-        - lat: 43.73277839
-          lng: 16.69282969
-      made: 19.520313 km
   - - - '95'
       - Stojan Kranjc
     - togo:
@@ -1474,6 +1479,37 @@ nigh:
         - lat: 43.73277839
           lng: 16.69282969
       made: 15.976313 km
+  - - - '41'
+      - Ivo Duarte
+    - togo:
+        distance: 21.652723 km
+        flipSum:
+        - 21.652723 km
+        - 20.217930 km
+        - 16.812166 km
+        - 10.783455 km
+        legs:
+        - 1.434793 km
+        - 3.405764 km
+        - 6.028711 km
+        - 10.783455 km
+        legsSum:
+        - 1.434793 km
+        - 4.840557 km
+        - 10.869268 km
+        - 21.652723 km
+        waypoints:
+        - lat: 43.79398333
+          lng: 16.6484
+        - lat: 43.78143855
+          lng: 16.65258471
+        - lat: 43.76013499
+          lng: 16.62210976
+        - lat: 43.81433424
+          lng: 16.62016107
+        - lat: 43.73277839
+          lng: 16.69282969
+      made: 19.520313 km
   - - - '86'
       - Sandi Krč
     - togo:
@@ -1510,42 +1546,6 @@ nigh:
         - lat: 43.73277839
           lng: 16.69282969
       made: 10.640313 km
-  - - - '4'
-      - Alojz Tovornik
-    - togo:
-        distance: 32.309480 km
-        flipSum:
-        - 32.309480 km
-        - 27.936142 km
-        - 20.165870 km
-        - 16.812166 km
-        - 10.783455 km
-        legs:
-        - 4.373338 km
-        - 7.770272 km
-        - 3.353704 km
-        - 6.028711 km
-        - 10.783455 km
-        legsSum:
-        - 4.373338 km
-        - 12.143610 km
-        - 15.497314 km
-        - 21.526025 km
-        - 32.309480 km
-        waypoints:
-        - lat: 43.8193
-          lng: 16.64656667
-        - lat: 43.83954849
-          lng: 16.59982784
-        - lat: 43.78087799
-          lng: 16.65243027
-        - lat: 43.76013499
-          lng: 16.62210976
-        - lat: 43.81433424
-          lng: 16.62016107
-        - lat: 43.73277839
-          lng: 16.69282969
-      made: 8.864313 km
   - - - '113'
       - Zsolt Sandor
     - togo:
@@ -2053,7 +2053,15 @@ nigh:
           lng: 16.6178522
       made: 0.172347 km
 land:
-- - - - '101'
+- - - - '4'
+      - Alojz Tovornik
+    - togo: null
+      made: null
+  - - - '73'
+      - Mitja Jug
+    - togo: null
+      made: null
+  - - - '101'
       - Tomaž Toplak
     - togo: 17.651691 km
       made: 12.010961 km
@@ -2089,10 +2097,6 @@ land:
       - Dušan Durkovič
     - togo: 24.500202 km
       made: 5.162450 km
-  - - - '4'
-      - Alojz Tovornik
-    - togo: 24.517830 km
-      made: 5.144822 km
   - - - '86'
       - Sandi Krč
     - togo: 24.529840 km
@@ -2113,10 +2117,6 @@ land:
       - Damir Kalinger
     - togo: 26.872361 km
       made: 2.790291 km
-  - - - '73'
-      - Mitja Jug
-    - togo: 27.545538 km
-      made: 2.117114 km
   - - - '9'
       - Antoni Buljan
     - togo: 28.406073 km
@@ -2157,7 +2157,11 @@ land:
       - Tomislav Gomerčić
     - togo: 29.426471 km
       made: 0.236181 km
-- - - - '98'
+- - - - '4'
+      - Alojz Tovornik
+    - togo: null
+      made: null
+  - - - '98'
       - Tomas Svoboda
     - togo: 20.790781 km
       made: 20.382532 km
@@ -2181,10 +2185,6 @@ land:
       - Krešo  Kovačič
     - togo: 21.163870 km
       made: 20.009443 km
-  - - - '41'
-      - Ivo Duarte
-    - togo: 21.652723 km
-      made: 19.520590 km
   - - - '95'
       - Stojan Kranjc
     - togo: 22.471729 km
@@ -2205,14 +2205,14 @@ land:
       - Lara Leban
     - togo: 25.197320 km
       made: 15.975993 km
+  - - - '41'
+      - Ivo Duarte
+    - togo: 26.780536 km
+      made: 14.392777 km
   - - - '86'
       - Sandi Krč
     - togo: 31.802177 km
       made: 9.371136 km
-  - - - '4'
-      - Alojz Tovornik
-    - togo: 32.309480 km
-      made: 8.863833 km
   - - - '113'
       - Zsolt Sandor
     - togo: 34.240436 km
@@ -2286,10 +2286,7 @@ land:
     - togo: 26.583751 km
       made: -0.195404 km
 altStopped:
-- - - - '4'
-      - Alojz Tovornik
-    - 377.000 m
-  - - - '9'
+- - - - '9'
       - Antoni Buljan
     - 869.000 m
   - - - '13'
@@ -2334,9 +2331,6 @@ altStopped:
   - - - '72'
       - Mitja Jančič
     - 415.000 m
-  - - - '73'
-      - Mitja Jug
-    - 445.000 m
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - 433.000 m
@@ -2355,10 +2349,7 @@ altStopped:
   - - - '102'
       - Tomislav Gomerčić
     - 0.000 m
-- - - - '4'
-      - Alojz Tovornik
-    - 545.000 m
-  - - - '9'
+- - - - '9'
       - Antoni Buljan
     - 472.000 m
   - - - '13'
@@ -2381,7 +2372,7 @@ altStopped:
     - 0.000 m
   - - - '41'
       - Ivo Duarte
-    - 560.000 m
+    - 945.000 m
   - - - '46'
       - Jerko Odžak
     - 392.000 m
