@@ -65,7 +65,7 @@ leadCoefMin:
 - 1.91733987
 - 1.05470843
 - 0.78639005
-lead:
+leadRank:
 - - - - '101'
       - Tomaž Toplak
     - coef: 1.91733987
@@ -302,7 +302,7 @@ lead:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - coef: 4.7844174
       frac: 0
-arrival:
+arrivalRank:
 - []
 - []
 - - - - '16'
@@ -353,6 +353,259 @@ arrival:
       - Marketa Tomaskova
     - rank: '12'
       frac: 0.20435243
+reachRank:
+- - - - '101'
+      - Tomaž Toplak
+    - frac: 1
+      reach: 12.027652 km
+  - - - '98'
+      - Tomas Svoboda
+    - frac: 0.90222531
+      reach: 10.851652 km
+  - - - '57'
+      - Lara Leban
+    - frac: 0.73577553
+      reach: 8.849652 km
+  - - - '16'
+      - Bruno Matos
+    - frac: 0.71706863
+      reach: 8.624652 km
+  - - - '72'
+      - Mitja Jančič
+    - frac: 0.71316097
+      reach: 8.577652 km
+  - - - '114'
+      - Joan Brito
+    - frac: 0.64855984
+      reach: 7.800652 km
+  - - - '86'
+      - Sandi Krč
+    - frac: 0.49424875
+      reach: 5.944652 km
+  - - - '41'
+      - Ivo Duarte
+    - frac: 0.4680591
+      reach: 5.629652 km
+  - - - '26'
+      - Dušan Durkovič
+    - frac: 0.44328286
+      reach: 5.331652 km
+  - - - '4'
+      - Alojz Tovornik
+    - frac: 0.432807
+      reach: 5.205652 km
+  - - - '37'
+      - Igor Eržen
+    - frac: 0.2822373
+      reach: 3.394652 km
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - frac: 0.25721163
+      reach: 3.093652 km
+  - - - '54'
+      - Krešo  Kovačič
+    - frac: 0.2444078
+      reach: 2.939652 km
+  - - - '21'
+      - Damir Kalinger
+    - frac: 0.23201968
+      reach: 2.790652 km
+  - - - '13'
+      - Balazs Szatmari
+    - frac: 0.17914153
+      reach: 2.154652 km
+  - - - '73'
+      - Mitja Jug
+    - frac: 0.17706299
+      reach: 2.129652 km
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - frac: 0.1129607
+      reach: 1.358652 km
+  - - - '9'
+      - Antoni Buljan
+    - frac: 0.10448024
+      reach: 1.256652 km
+  - - - '40'
+      - Ivica Huljek
+    - frac: 7.729289e-2
+      reach: 0.929652 km
+  - - - '46'
+      - Jerko Odžak
+    - frac: 6.024883e-2
+      reach: 0.724652 km
+  - - - '23'
+      - David Šiljeg
+    - frac: 3.829941e-2
+      reach: 0.460652 km
+- - - - '98'
+      - Tomas Svoboda
+    - frac: 1
+      reach: 20.382313 km
+  - - - '26'
+      - Dušan Durkovič
+    - frac: 0.99489754
+      reach: 20.278313 km
+  - - - '101'
+      - Tomaž Toplak
+    - frac: 0.99190475
+      reach: 20.217313 km
+  - - - '72'
+      - Mitja Jančič
+    - frac: 0.99141412
+      reach: 20.207313 km
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - frac: 0.98832321
+      reach: 20.144313 km
+  - - - '54'
+      - Krešo  Kovačič
+    - frac: 0.98169982
+      reach: 20.009313 km
+  - - - '41'
+      - Ivo Duarte
+    - frac: 0.95770843
+      reach: 19.520313 km
+  - - - '95'
+      - Stojan Kranjc
+    - frac: 0.91752653
+      reach: 18.701313 km
+  - - - '16'
+      - Bruno Matos
+    - frac: 0.87940525
+      reach: 17.924313 km
+  - - - '114'
+      - Joan Brito
+    - frac: 0.83485682
+      reach: 17.016313 km
+  - - - '37'
+      - Igor Eržen
+    - frac: 0.82043255
+      reach: 16.722313 km
+  - - - '57'
+      - Lara Leban
+    - frac: 0.78383219
+      reach: 15.976313 km
+  - - - '86'
+      - Sandi Krč
+    - frac: 0.52203658
+      reach: 10.640313 km
+  - - - '4'
+      - Alojz Tovornik
+    - frac: 0.43490221
+      reach: 8.864313 km
+  - - - '113'
+      - Zsolt Sandor
+    - frac: 0.34448068
+      reach: 7.021313 km
+  - - - '13'
+      - Balazs Szatmari
+    - frac: 0.34399006
+      reach: 7.011313 km
+  - - - '63'
+      - Marketa Tomaskova
+    - frac: 0.282368
+      reach: 5.755313 km
+  - - - '46'
+      - Jerko Odžak
+    - frac: 0.26946466
+      reach: 5.492313 km
+  - - - '73'
+      - Mitja Jug
+    - frac: 0.17089881
+      reach: 3.483313 km
+  - - - '21'
+      - Damir Kalinger
+    - frac: 0.11369235
+      reach: 2.317313 km
+  - - - '40'
+      - Ivica Huljek
+    - frac: 9.578466e-2
+      reach: 1.952313 km
+  - - - '9'
+      - Antoni Buljan
+    - frac: 3.975569e-2
+      reach: 0.810313 km
+- - - - '16'
+      - Bruno Matos
+    - frac: 1
+      reach: 26.388347 km
+  - - - '98'
+      - Tomas Svoboda
+    - frac: 1
+      reach: 26.388347 km
+  - - - '26'
+      - Dušan Durkovič
+    - frac: 1
+      reach: 26.388347 km
+  - - - '101'
+      - Tomaž Toplak
+    - frac: 1
+      reach: 26.388347 km
+  - - - '4'
+      - Alojz Tovornik
+    - frac: 1
+      reach: 26.388347 km
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - frac: 1
+      reach: 26.388347 km
+  - - - '73'
+      - Mitja Jug
+    - frac: 1
+      reach: 26.388347 km
+  - - - '9'
+      - Antoni Buljan
+    - frac: 1
+      reach: 26.388347 km
+  - - - '72'
+      - Mitja Jančič
+    - frac: 1
+      reach: 26.388347 km
+  - - - '114'
+      - Joan Brito
+    - frac: 1
+      reach: 26.388347 km
+  - - - '95'
+      - Stojan Kranjc
+    - frac: 1
+      reach: 26.388347 km
+  - - - '63'
+      - Marketa Tomaskova
+    - frac: 1
+      reach: 26.388347 km
+  - - - '54'
+      - Krešo  Kovačič
+    - frac: 0.93940507
+      reach: 24.789347 km
+  - - - '37'
+      - Igor Eržen
+    - frac: 0.87502059
+      reach: 23.090347 km
+  - - - '57'
+      - Lara Leban
+    - frac: 0.8699047
+      reach: 22.955347 km
+  - - - '41'
+      - Ivo Duarte
+    - frac: 0.84440102
+      reach: 22.282347 km
+  - - - '23'
+      - David Šiljeg
+    - frac: 0.60463609
+      reach: 15.955347 km
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - frac: 0.12188513
+      reach: 3.216347 km
+  - - - '46'
+      - Jerko Odžak
+    - frac: 7.22799e-2
+      reach: 1.907347 km
+  - - - '40'
+      - Ivica Huljek
+    - frac: 6.53118e-3
+      reach: 0.172347 km
 ssSpeed:
 - []
 - []

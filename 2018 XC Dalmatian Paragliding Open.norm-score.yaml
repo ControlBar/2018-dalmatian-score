@@ -3,287 +3,935 @@ score:
       - Richard Edlinger
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '113'
       - Zsolt Sandor
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '88'
       - Sandor Roza
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '4'
       - Alojz Tovornik
     - place: '11'
       total: 33
+      distance: 31.4
+      leading: 1.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 4.573000 km
+      distanceFrac: 0.15413913981394095
   - - - '9'
       - Antoni Buljan
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0.2
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '13'
       - Balazs Szatmari
     - place: '7'
       total: 42
+      distance: 41.4
+      leading: 0.5
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 6.029000 km
+      distanceFrac: 0.2032155858163678
   - - - '16'
       - Bruno Matos
     - place: '5'
       total: 56
+      distance: 54.8
+      leading: 0.7
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 7.995000 km
+      distanceFrac: 0.2694822704597546
   - - - '21'
       - Damir Kalinger
     - place: '15'
       total: 16
+      distance: 15.2
+      leading: 0.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 2.211000 km
+      distanceFrac: 7.452474046110287e-2
   - - - '23'
       - David Šiljeg
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '26'
       - Dušan Durkovič
     - place: '10'
       total: 34
+      distance: 32.2
+      leading: 1.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 4.700000 km
+      distanceFrac: 0.15841984629904274
   - - - '37'
       - Igor Eržen
     - place: '12'
       total: 19
+      distance: 18.9
+      leading: 0.5
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 2.762000 km
+      distanceFrac: 9.309693946339491e-2
   - - - '40'
       - Ivica Huljek
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '41'
       - Ivo Duarte
     - place: '9'
       total: 36
+      distance: 34.3
+      leading: 1.4
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 4.996000 km
+      distanceFrac: 0.1683969259808548
   - - - '46'
       - Jerko Odžak
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '114'
       - Joan Brito
     - place: '6'
       total: 51
+      distance: 49.2
+      leading: 1.7
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 7.177000 km
+      distanceFrac: 0.24191047593366594
   - - - '54'
       - Krešo  Kovačič
     - place: '15'
       total: 16
+      distance: 15.8
+      leading: 0.5
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 2.306000 km
+      distanceFrac: 7.772684373736012e-2
   - - - '57'
       - Lara Leban
     - place: '3'
       total: 59
+      distance: 56.4
+      leading: 2.7
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 8.226000 km
+      distanceFrac: 0.2772684373736012
   - - - '63'
       - Marketa Tomaskova
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '72'
       - Mitja Jančič
     - place: '4'
       total: 57
+      distance: 54.6
+      leading: 2.7
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 7.955000 km
+      distanceFrac: 0.26813401644869894
   - - - '73'
       - Mitja Jug
     - place: '17'
       total: 11
+      distance: 10.3
+      leading: 0.5
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.496000 km
+      distanceFrac: 5.042470001348254e-2
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '14'
       total: 17
+      distance: 16.9
+      leading: 0.5
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 2.465000 km
+      distanceFrac: 8.308615343130646e-2
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
       total: 7
+      distance: 6.9
+      leading: 0.2
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.370635027639207e-2
   - - - '86'
       - Sandi Krč
     - place: '8'
       total: 38
+      distance: 36.4
+      leading: 1.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 5.313000 km
+      distanceFrac: 0.17908183901847108
   - - - '98'
       - Tomas Svoboda
     - place: '2'
       total: 72
+      distance: 70.2
+      leading: 1.7
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 10.230000 km
+      distanceFrac: 0.3448159633274909
   - - - '101'
       - Tomaž Toplak
     - place: '1'
       total: 82
+      distance: 78.2
+      leading: 3.3
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 11.405000 km
+      distanceFrac: 0.3844209249022516
   - - - '102'
       - Tomislav Gomerčić
     - place: '12'
       total: 19
+      distance: 18.2
+      leading: 1
+      arrival: 0
+      time: 0
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 2.646000 km
+      distanceFrac: 8.918700283133342e-2
 - - - - '86'
       - Sandi Krč
     - place: '13'
       total: 241
+      distance: 225.8
+      leading: 15.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 10.603000 km
+      distanceFrac: 0.25740435035929304
   - - - '95'
       - Stojan Kranjc
     - place: '9'
       total: 437
+      distance: 418.8
+      leading: 17.8
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 19.665000 km
+      distanceFrac: 0.47739852398523985
   - - - '57'
       - Lara Leban
     - place: '12'
       total: 360
+      distance: 340
+      leading: 20.2
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 15.967000 km
+      distanceFrac: 0.3876238104486308
   - - - '4'
       - Alojz Tovornik
     - place: '14'
       total: 216
+      distance: 208.5
+      leading: 7.5
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 9.791000 km
+      distanceFrac: 0.23769178481258496
   - - - '16'
       - Bruno Matos
     - place: '8'
       total: 439
+      distance: 421.5
+      leading: 17.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 19.792000 km
+      distanceFrac: 0.4804816469217324
   - - - '26'
       - Dušan Durkovič
     - place: '4'
       total: 504
+      distance: 476.8
+      leading: 26.7
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.388000 km
+      distanceFrac: 0.5435035929306662
   - - - '63'
       - Marketa Tomaskova
     - place: '17'
       total: 128
+      distance: 121.4
+      leading: 6.1
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 5.700000 km
+      distanceFrac: 0.13837638376383765
   - - - '72'
       - Mitja Jančič
     - place: '3'
       total: 506
+      distance: 480.2
+      leading: 25.9
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.548000 km
+      distanceFrac: 0.5473878422994757
   - - - '98'
       - Tomas Svoboda
     - place: '1'
       total: 512
+      distance: 484
+      leading: 27.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.729000 km
+      distanceFrac: 0.5517818993979413
   - - - '101'
       - Tomaž Toplak
     - place: '2'
       total: 509
+      distance: 480.7
+      leading: 28
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.571000 km
+      distanceFrac: 0.547946203146242
   - - - '114'
       - Joan Brito
     - place: '10'
       total: 425
+      distance: 409
+      leading: 16.2
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 19.204000 km
+      distanceFrac: 0.46620703049135753
   - - - '41'
       - Ivo Duarte
     - place: '7'
       total: 457
+      distance: 437.4
+      leading: 20
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 20.539000 km
+      distanceFrac: 0.4986162361623616
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '5'
       total: 501
+      distance: 476.9
+      leading: 24.2
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.396000 km
+      distanceFrac: 0.5436978053991066
   - - - '73'
       - Mitja Jug
     - place: '19'
       total: 77
+      distance: 73
+      leading: 4.4
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 3.427000 km
+      distanceFrac: 8.3195766168188e-2
   - - - '37'
       - Igor Eržen
     - place: '11'
       total: 373
+      distance: 355.9
+      leading: 17.5
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 16.713000 km
+      distanceFrac: 0.405734123130705
   - - - '9'
       - Antoni Buljan
     - place: '22'
       total: 25
+      distance: 21.3
+      leading: 3.8
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 2.4276558555059235e-2
   - - - '21'
       - Damir Kalinger
     - place: '20'
       total: 54
+      distance: 48.2
+      leading: 5.8
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 2.265000 km
+      distanceFrac: 5.498640512720917e-2
   - - - '40'
       - Ivica Huljek
     - place: '21'
       total: 46
+      distance: 40.4
+      leading: 5.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.898000 km
+      distanceFrac: 4.607690813750243e-2
   - - - '113'
       - Zsolt Sandor
     - place: '16'
       total: 156
+      distance: 148.5
+      leading: 7.5
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 6.973000 km
+      distanceFrac: 0.16928044280442806
   - - - '46'
       - Jerko Odžak
     - place: '18'
       total: 123
+      distance: 115.8
+      leading: 7.3
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 5.437000 km
+      distanceFrac: 0.13199164886385706
   - - - '13'
       - Balazs Szatmari
     - place: '15'
       total: 203
+      distance: 195.8
+      leading: 7.6
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 9.196000 km
+      distanceFrac: 0.22324723247232472
   - - - '91'
       - Slava Jelić
     - place: '23'
       total: 21
+      distance: 21.3
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 2.4276558555059235e-2
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '24'
       total: 0
+      distance: 0
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 0.000000 km
+      distanceFrac: 0
   - - - '54'
       - Krešo  Kovačič
     - place: '6'
       total: 495
+      distance: 465.7
+      leading: 29.7
+      arrival: 0
+      time: 0
+      ss: 2018-05-26T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 21.869000 km
+      distanceFrac: 0.5309040590405905
 - - - - '37'
       - Igor Eržen
     - place: '14'
       total: 400
+      distance: 348.2
+      leading: 51.9
+      arrival: 0
+      time: 0
+      ss: 2018-05-27T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.930000 km
+      distanceFrac: 0.874123208295212
   - - - '98'
       - Tomas Svoboda
     - place: '2'
       total: 938
+      distance: 398.4
+      leading: 98.3
+      arrival: 0
+      time: 441
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:06:59Z
+      ssElapsed: 1.116389 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '40'
       - Ivica Huljek
     - place: '20'
       total: 15
+      distance: 15.2
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2018-05-27T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.812137846904544e-2
   - - - '54'
       - Krešo  Kovačič
     - place: '12'
       total: 427
+      distance: 374
+      leading: 52.8
+      arrival: 0
+      time: 0
+      ss: 2018-05-27T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 24.629000 km
+      distanceFrac: 0.9388914303141201
   - - - '26'
       - Dušan Durkovič
     - place: '3'
       total: 831
+      distance: 398.4
+      leading: 105.3
+      arrival: 0
+      time: 327.6
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:17:01Z
+      ssElapsed: 1.283611 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '114'
       - Joan Brito
     - place: '8'
       total: 628
+      distance: 398.4
+      leading: 60.3
+      arrival: 0
+      time: 169.5
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:37:57Z
+      ssElapsed: 1.632500 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '6'
       total: 679
+      distance: 398.4
+      leading: 36.9
+      arrival: 0
+      time: 243.5
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:27:19Z
+      ssElapsed: 1.455278 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '16'
       - Bruno Matos
     - place: '1'
       total: 996
+      distance: 398.4
+      leading: 101.3
+      arrival: 0
+      time: 496.3
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:04:40Z
+      ssElapsed: 1.077778 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '41'
       - Ivo Duarte
     - place: '15'
       total: 398
+      distance: 337.1
+      leading: 60.4
+      arrival: 0
+      time: 0
+      ss: 2018-05-27T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.196000 km
+      distanceFrac: 0.8461421164989326
   - - - '9'
       - Antoni Buljan
     - place: '9'
       total: 615
+      distance: 398.4
+      leading: 25.3
+      arrival: 0
+      time: 190.8
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:34:45Z
+      ssElapsed: 1.579167 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '72'
       - Mitja Jančič
     - place: '10'
       total: 607
+      distance: 398.4
+      leading: 35.6
+      arrival: 0
+      time: 172.9
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:37:26Z
+      ssElapsed: 1.623889 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '91'
       - Slava Jelić
     - place: '20'
       total: 15
+      distance: 15.2
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 1.000000 km
+      distanceFrac: 3.812137846904544e-2
   - - - '63'
       - Marketa Tomaskova
     - place: '13'
       total: 423
+      distance: 398.4
+      leading: 8.3
+      arrival: 0
+      time: 16.6
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T13:03:52Z
+      ssElapsed: 2.064444 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '73'
       - Mitja Jug
     - place: '7'
       total: 636
+      distance: 398.4
+      leading: 43.9
+      arrival: 0
+      time: 194
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:34:17Z
+      ssElapsed: 1.571389 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '101'
       - Tomaž Toplak
     - place: '5'
       total: 707
+      distance: 398.4
+      leading: 39.2
+      arrival: 0
+      time: 269.7
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:23:53Z
+      ssElapsed: 1.398056 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '95'
       - Stojan Kranjc
     - place: '11'
       total: 537
+      distance: 398.4
+      leading: 18.6
+      arrival: 0
+      time: 120
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:45:48Z
+      ssElapsed: 1.763333 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '4'
       - Alojz Tovornik
     - place: '4'
       total: 725
+      distance: 398.4
+      leading: 61.8
+      arrival: 0
+      time: 265
+      ss: 2018-05-27T11:00:00Z
+      es: 2018-05-27T12:24:29Z
+      ssElapsed: 1.408056 h
+      distanceMade: 26.232000 km
+      distanceFrac: 1
   - - - '23'
       - David Šiljeg
     - place: '17'
       total: 239
+      distance: 239.4
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2018-05-27T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 15.764000 km
+      distanceFrac: 0.6009454101860324
   - - - '21'
       - Damir Kalinger
     - place: '22'
       total: 0
+      distance: 0
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: null
+      es: null
+      ssElapsed: null
+      distanceMade: 0.000000 km
+      distanceFrac: 0
   - - - '57'
       - Lara Leban
     - place: '16'
       total: 372
+      distance: 346.2
+      leading: 25.7
+      arrival: 0
+      time: 0
+      ss: 2018-05-27T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 22.795000 km
+      distanceFrac: 0.8689768222018909
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
       total: 45
+      distance: 45.3
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2018-05-27T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 2.984000 km
+      distanceFrac: 0.11375419335163159
   - - - '46'
       - Jerko Odžak
     - place: '19'
       total: 25
+      distance: 25.4
+      leading: 0
+      arrival: 0
+      time: 0
+      ss: 2018-05-27T11:00:00Z
+      es: null
+      ssElapsed: null
+      distanceMade: 1.675000 km
+      distanceFrac: 6.385330893565111e-2
