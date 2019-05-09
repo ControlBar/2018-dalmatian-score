@@ -20,6 +20,7 @@ score:
       leadingArea: 3220477.0000 km^2 s
       leadingCoef: 2.19492482
       leadingFrac: 1
+      arrivalFrac: 0
   - - - '98'
       - Tomas Svoboda
     - place: '2'
@@ -37,6 +38,7 @@ score:
       leadingArea: 3947125.0000 km^2 s
       leadingCoef: 2.69017398
       leadingFrac: 0.51515152
+      arrivalFrac: 0
   - - - '57'
       - Lara Leban
     - place: '3'
@@ -54,6 +56,7 @@ score:
       leadingArea: 3393472.0000 km^2 s
       leadingCoef: 2.31283017
       leadingFrac: 0.81818182
+      arrivalFrac: 0
   - - - '72'
       - Mitja Jančič
     - place: '4'
@@ -71,6 +74,7 @@ score:
       leadingArea: 3401489.0000 km^2 s
       leadingCoef: 2.31829423
       leadingFrac: 0.81818182
+      arrivalFrac: 0
   - - - '16'
       - Bruno Matos
     - place: '5'
@@ -88,6 +92,7 @@ score:
       leadingArea: 4750720.0000 km^2 s
       leadingCoef: 3.23786654
       leadingFrac: 0.21212121
+      arrivalFrac: 0
   - - - '114'
       - Joan Brito
     - place: '6'
@@ -105,6 +110,7 @@ score:
       leadingArea: 3987047.0000 km^2 s
       leadingCoef: 2.71738285
       leadingFrac: 0.51515152
+      arrivalFrac: 0
   - - - '13'
       - Balazs Szatmari
     - place: '7'
@@ -122,6 +128,7 @@ score:
       leadingArea: 4956698.0000 km^2 s
       leadingCoef: 3.37825117
       leadingFrac: 0.15151515
+      arrivalFrac: 0
   - - - '86'
       - Sandi Krč
     - place: '8'
@@ -139,6 +146,7 @@ score:
       leadingArea: 4069783.0000 km^2 s
       leadingCoef: 2.773772
       leadingFrac: 0.48484848
+      arrivalFrac: 0
   - - - '41'
       - Ivo Duarte
     - place: '9'
@@ -156,6 +164,7 @@ score:
       leadingArea: 4211514.0000 km^2 s
       leadingCoef: 2.87036936
       leadingFrac: 0.42424242
+      arrivalFrac: 0
   - - - '26'
       - Dušan Durkovič
     - place: '10'
@@ -173,6 +182,7 @@ score:
       leadingArea: 4038070.0000 km^2 s
       leadingCoef: 2.75215813
       leadingFrac: 0.48484848
+      arrivalFrac: 0
   - - - '4'
       - Alojz Tovornik
     - place: '11'
@@ -190,6 +200,7 @@ score:
       leadingArea: 4059554.0000 km^2 s
       leadingCoef: 2.76680028
       leadingFrac: 0.48484848
+      arrivalFrac: 0
   - - - '102'
       - Tomislav Gomerčić
     - place: '12'
@@ -207,6 +218,7 @@ score:
       leadingArea: 4521092.0000 km^2 s
       leadingCoef: 3.08136287
       leadingFrac: 0.3030303
+      arrivalFrac: 0
   - - - '37'
       - Igor Eržen
     - place: '12'
@@ -224,6 +236,7 @@ score:
       leadingArea: 4913464.0000 km^2 s
       leadingCoef: 3.34878506
       leadingFrac: 0.15151515
+      arrivalFrac: 0
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '14'
@@ -241,6 +254,7 @@ score:
       leadingArea: 4931716.0000 km^2 s
       leadingCoef: 3.36122497
       leadingFrac: 0.15151515
+      arrivalFrac: 0
   - - - '54'
       - Krešo  Kovačič
     - place: '15'
@@ -258,6 +272,7 @@ score:
       leadingArea: 4966661.0000 km^2 s
       leadingCoef: 3.38504158
       leadingFrac: 0.15151515
+      arrivalFrac: 0
   - - - '21'
       - Damir Kalinger
     - place: '15'
@@ -275,6 +290,7 @@ score:
       leadingArea: 4824950.0000 km^2 s
       leadingCoef: 3.28845834
       leadingFrac: 0.18181818
+      arrivalFrac: 0
   - - - '73'
       - Mitja Jug
     - place: '17'
@@ -292,6 +308,7 @@ score:
       leadingArea: 4918503.0000 km^2 s
       leadingCoef: 3.35221968
       leadingFrac: 0.15151515
+      arrivalFrac: 0
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
@@ -309,6 +326,7 @@ score:
       leadingArea: 5204589.0000 km^2 s
       leadingCoef: 3.54720219
       leadingFrac: 6.060606e-2
+      arrivalFrac: 0
   - - - '63'
       - Marketa Tomaskova
     - place: '18'
@@ -326,6 +344,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '46'
       - Jerko Odžak
     - place: '18'
@@ -343,6 +362,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '40'
       - Ivica Huljek
     - place: '18'
@@ -360,6 +380,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '23'
       - David Šiljeg
     - place: '18'
@@ -377,6 +398,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '9'
       - Antoni Buljan
     - place: '18'
@@ -394,6 +416,7 @@ score:
       leadingArea: 5222372.0000 km^2 s
       leadingCoef: 3.55932188
       leadingFrac: 6.060606e-2
+      arrivalFrac: 0
   - - - '88'
       - Sandor Roza
     - place: '18'
@@ -411,6 +434,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '113'
       - Zsolt Sandor
     - place: '18'
@@ -428,6 +452,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '82'
       - Richard Edlinger
     - place: '18'
@@ -445,6 +470,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '98'
       - Tomas Svoboda
     - place: '1'
@@ -462,6 +488,7 @@ score:
       leadingArea: 3286865.0000 km^2 s
       leadingCoef: 1.10421443
       leadingFrac: 0.92929293
+      arrivalFrac: 0
   - - - '101'
       - Tomaž Toplak
     - place: '2'
@@ -479,6 +506,7 @@ score:
       leadingArea: 3271218.0000 km^2 s
       leadingCoef: 1.09895781
       leadingFrac: 0.94276094
+      arrivalFrac: 0
   - - - '72'
       - Mitja Jančič
     - place: '3'
@@ -496,6 +524,7 @@ score:
       leadingArea: 3368561.0000 km^2 s
       leadingCoef: 1.13165995
       leadingFrac: 0.87205387
+      arrivalFrac: 0
   - - - '26'
       - Dušan Durkovič
     - place: '4'
@@ -513,6 +542,7 @@ score:
       leadingArea: 3326730.0000 km^2 s
       leadingCoef: 1.1176069
       leadingFrac: 0.8989899
+      arrivalFrac: 0
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '5'
@@ -530,6 +560,7 @@ score:
       leadingArea: 3471469.0000 km^2 s
       leadingCoef: 1.16623146
       leadingFrac: 0.81481481
+      arrivalFrac: 0
   - - - '54'
       - Krešo  Kovačič
     - place: '6'
@@ -547,6 +578,7 @@ score:
       leadingArea: 3229382.0000 km^2 s
       leadingCoef: 1.08490294
       leadingFrac: 1
+      arrivalFrac: 0
   - - - '41'
       - Ivo Duarte
     - place: '7'
@@ -564,6 +596,7 @@ score:
       leadingArea: 3809045.0000 km^2 s
       leadingCoef: 1.27963928
       leadingFrac: 0.67340067
+      arrivalFrac: 0
   - - - '16'
       - Bruno Matos
     - place: '8'
@@ -581,6 +614,7 @@ score:
       leadingArea: 4034622.0000 km^2 s
       leadingCoef: 1.35542131
       leadingFrac: 0.59259259
+      arrivalFrac: 0
   - - - '95'
       - Stojan Kranjc
     - place: '9'
@@ -598,6 +632,7 @@ score:
       leadingArea: 4009891.0000 km^2 s
       leadingCoef: 1.34711308
       leadingFrac: 0.5993266
+      arrivalFrac: 0
   - - - '114'
       - Joan Brito
     - place: '10'
@@ -615,6 +650,7 @@ score:
       leadingArea: 4180535.0000 km^2 s
       leadingCoef: 1.40444064
       leadingFrac: 0.54545455
+      arrivalFrac: 0
   - - - '37'
       - Igor Eržen
     - place: '11'
@@ -632,6 +668,7 @@ score:
       leadingArea: 4042845.0000 km^2 s
       leadingCoef: 1.35818409
       leadingFrac: 0.58922559
+      arrivalFrac: 0
   - - - '57'
       - Lara Leban
     - place: '12'
@@ -649,6 +686,7 @@ score:
       leadingArea: 3786649.0000 km^2 s
       leadingCoef: 1.2721155
       leadingFrac: 0.68013468
+      arrivalFrac: 0
   - - - '86'
       - Sandi Krč
     - place: '13'
@@ -666,6 +704,7 @@ score:
       leadingArea: 4245271.0000 km^2 s
       leadingCoef: 1.42618835
       leadingFrac: 0.52525253
+      arrivalFrac: 0
   - - - '4'
       - Alojz Tovornik
     - place: '14'
@@ -683,6 +722,7 @@ score:
       leadingArea: 5233502.0000 km^2 s
       leadingCoef: 1.7581822
       leadingFrac: 0.25252525
+      arrivalFrac: 0
   - - - '13'
       - Balazs Szatmari
     - place: '15'
@@ -700,6 +740,7 @@ score:
       leadingArea: 5221162.0000 km^2 s
       leadingCoef: 1.75403681
       leadingFrac: 0.25589226
+      arrivalFrac: 0
   - - - '113'
       - Zsolt Sandor
     - place: '16'
@@ -717,6 +758,7 @@ score:
       leadingArea: 5227238.0000 km^2 s
       leadingCoef: 1.75607782
       leadingFrac: 0.25252525
+      arrivalFrac: 0
   - - - '63'
       - Marketa Tomaskova
     - place: '17'
@@ -734,6 +776,7 @@ score:
       leadingArea: 5430535.0000 km^2 s
       leadingCoef: 1.82437518
       leadingFrac: 0.20538721
+      arrivalFrac: 0
   - - - '46'
       - Jerko Odžak
     - place: '18'
@@ -751,6 +794,7 @@ score:
       leadingArea: 5262650.0000 km^2 s
       leadingCoef: 1.76797432
       leadingFrac: 0.24579125
+      arrivalFrac: 0
   - - - '73'
       - Mitja Jug
     - place: '19'
@@ -768,6 +812,7 @@ score:
       leadingArea: 5659159.0000 km^2 s
       leadingCoef: 1.90118063
       leadingFrac: 0.14814815
+      arrivalFrac: 0
   - - - '21'
       - Damir Kalinger
     - place: '20'
@@ -785,6 +830,7 @@ score:
       leadingArea: 5469453.0000 km^2 s
       leadingCoef: 1.83744937
       leadingFrac: 0.1952862
+      arrivalFrac: 0
   - - - '40'
       - Ivica Huljek
     - place: '21'
@@ -802,6 +848,7 @@ score:
       leadingArea: 5496175.0000 km^2 s
       leadingCoef: 1.84642663
       leadingFrac: 0.18855219
+      arrivalFrac: 0
   - - - '9'
       - Antoni Buljan
     - place: '22'
@@ -819,6 +866,7 @@ score:
       leadingArea: 5747759.0000 km^2 s
       leadingCoef: 1.93094551
       leadingFrac: 0.12794613
+      arrivalFrac: 0
   - - - '91'
       - Slava Jelić
     - place: '23'
@@ -836,6 +884,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
 - - - - '16'
       - Bruno Matos
     - place: '1'
@@ -853,6 +902,7 @@ score:
       leadingArea: 995001.0000 km^2 s
       leadingCoef: 0.84283136
       leadingFrac: 0.9620133
+      arrivalFrac: 0
   - - - '98'
       - Tomas Svoboda
     - place: '2'
@@ -870,6 +920,7 @@ score:
       leadingArea: 1005465.0000 km^2 s
       leadingCoef: 0.85169567
       leadingFrac: 0.93352327
+      arrivalFrac: 0
   - - - '26'
       - Dušan Durkovič
     - place: '3'
@@ -887,6 +938,7 @@ score:
       leadingArea: 987086.0000 km^2 s
       leadingCoef: 0.83612736
       leadingFrac: 1
+      arrivalFrac: 0
   - - - '4'
       - Alojz Tovornik
     - place: '4'
@@ -904,6 +956,7 @@ score:
       leadingArea: 1273070.0000 km^2 s
       leadingCoef: 1.07837474
       leadingFrac: 0.58689459
+      arrivalFrac: 0
   - - - '101'
       - Tomaž Toplak
     - place: '5'
@@ -921,6 +974,7 @@ score:
       leadingArea: 1523719.0000 km^2 s
       leadingCoef: 1.29069089
       leadingFrac: 0.37226971
+      arrivalFrac: 0
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '6'
@@ -938,6 +992,7 @@ score:
       leadingArea: 1551290.0000 km^2 s
       leadingCoef: 1.31404495
       leadingFrac: 0.35042735
+      arrivalFrac: 0
   - - - '73'
       - Mitja Jug
     - place: '7'
@@ -955,6 +1010,7 @@ score:
       leadingArea: 1466970.0000 km^2 s
       leadingCoef: 1.24262038
       leadingFrac: 0.41690408
+      arrivalFrac: 0
   - - - '114'
       - Joan Brito
     - place: '8'
@@ -972,6 +1028,7 @@ score:
       leadingArea: 1287966.0000 km^2 s
       leadingCoef: 1.09099262
       leadingFrac: 0.57264957
+      arrivalFrac: 0
   - - - '9'
       - Antoni Buljan
     - place: '9'
@@ -989,6 +1046,7 @@ score:
       leadingArea: 1700956.0000 km^2 s
       leadingCoef: 1.44082193
       leadingFrac: 0.24026591
+      arrivalFrac: 0
   - - - '72'
       - Mitja Jančič
     - place: '10'
@@ -1006,6 +1064,7 @@ score:
       leadingArea: 1567639.0000 km^2 s
       leadingCoef: 1.32789352
       leadingFrac: 0.33808167
+      arrivalFrac: 0
   - - - '95'
       - Stojan Kranjc
     - place: '11'
@@ -1023,6 +1082,7 @@ score:
       leadingArea: 1793134.0000 km^2 s
       leadingCoef: 1.51890273
       leadingFrac: 0.17663818
+      arrivalFrac: 0
   - - - '54'
       - Krešo  Kovačič
     - place: '12'
@@ -1040,6 +1100,7 @@ score:
       leadingArea: 1366971.0000 km^2 s
       leadingCoef: 1.15791464
       leadingFrac: 0.5014245
+      arrivalFrac: 0
   - - - '63'
       - Marketa Tomaskova
     - place: '13'
@@ -1057,6 +1118,7 @@ score:
       leadingArea: 1941373.0000 km^2 s
       leadingCoef: 1.64447103
       leadingFrac: 7.882241e-2
+      arrivalFrac: 0
   - - - '37'
       - Igor Eržen
     - place: '14'
@@ -1074,6 +1136,7 @@ score:
       leadingArea: 1375980.0000 km^2 s
       leadingCoef: 1.1655458
       leadingFrac: 0.49287749
+      arrivalFrac: 0
   - - - '41'
       - Ivo Duarte
     - place: '15'
@@ -1091,6 +1154,7 @@ score:
       leadingArea: 1287644.0000 km^2 s
       leadingCoef: 1.09071939
       leadingFrac: 0.57359924
+      arrivalFrac: 0
   - - - '57'
       - Lara Leban
     - place: '16'
@@ -1108,6 +1172,7 @@ score:
       leadingArea: 1696002.0000 km^2 s
       leadingCoef: 1.43662611
       leadingFrac: 0.24406458
+      arrivalFrac: 0
   - - - '23'
       - David Šiljeg
     - place: '17'
@@ -1125,6 +1190,7 @@ score:
       leadingArea: 4355690.0000 km^2 s
       leadingCoef: 3.68955725
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
@@ -1142,6 +1208,7 @@ score:
       leadingArea: 6039865.0000 km^2 s
       leadingCoef: 5.11616506
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '46'
       - Jerko Odžak
     - place: '19'
@@ -1159,6 +1226,7 @@ score:
       leadingArea: 5891531.0000 km^2 s
       leadingCoef: 4.99051632
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '91'
       - Slava Jelić
     - place: '20'
@@ -1176,6 +1244,7 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
   - - - '40'
       - Ivica Huljek
     - place: '20'
@@ -1193,3 +1262,4 @@ score:
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
       leadingFrac: 0
+      arrivalFrac: 0
