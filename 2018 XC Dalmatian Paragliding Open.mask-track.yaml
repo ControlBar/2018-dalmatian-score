@@ -412,6 +412,14 @@ arrivalRank:
       - Marketa Tomaskova
     - rank: '12'
       frac: 0.20435243
+flownMean:
+- 4.732113 km
+- 12.708320 km
+- 21.542343 km
+flownStdDev:
+- 3.520316 km
+- 7.337394 km
+- 8.920220 km
 reachMean:
 - 4.732113 km
 - 12.708320 km
