@@ -17,6 +17,7 @@ validityWorking:
     nominalDistance: 25.0 km
     minimumDistance: 1.0 km
     bestDistance: 12.0 km
+  stop: null
 - time:
     nominalTime: 1.000000 h
     ssBestTime: null
@@ -35,6 +36,7 @@ validityWorking:
     nominalDistance: 25.0 km
     minimumDistance: 1.0 km
     bestDistance: 20.4 km
+  stop: null
 - time:
     nominalTime: 1.000000 h
     ssBestTime: 1.058401 h
@@ -53,19 +55,23 @@ validityWorking:
     nominalDistance: 25.0 km
     minimumDistance: 1.0 km
     bestDistance: 26.4 km
+  stop: null
 validity:
 - time: 0.69409329
   launch: 1
   distance: 0.21203995
   task: 0.1471755
+  stop: null
 - time: 0.95581651
   launch: 0.99994088
   distance: 0.77848265
   task: 0.74404257
+  stop: null
 - time: 1
   launch: 0.99974148
   distance: 1
   task: 0.99974148
+  stop: null
 allocation:
 - goalRatio: 0
   weight:
