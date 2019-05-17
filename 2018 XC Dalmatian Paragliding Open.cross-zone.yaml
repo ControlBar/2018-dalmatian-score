@@ -2,6 +2,10 @@ suspectDnf:
 - []
 - []
 - []
+stopWindow:
+- null
+- null
+- null
 flying:
 - - - - '4'
       - Alojz Tovornik
