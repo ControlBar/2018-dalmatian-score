@@ -1,14 +1,14 @@
 stopWindow:
 - lastStarters: []
-  windowSeconds: 6480
   windowTimes:
   - 2018-05-24T10:30:00Z
   - 2018-05-24T12:18:00Z
+  windowSeconds: 6480
 - lastStarters: []
-  windowSeconds: 3900
   windowTimes:
   - 2018-05-26T11:00:00Z
   - 2018-05-26T12:05:00Z
+  windowSeconds: 3900
 - null
 timing:
 - zonesSum:
