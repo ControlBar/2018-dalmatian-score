@@ -10,6 +10,448 @@ stopWindow:
   - 2018-05-26T12:05:00Z
   windowSeconds: 3900
 - null
+stopFlying:
+- - - - '4'
+      - Alojz Tovornik
+    - scoredSeconds:
+      - 459
+      - 2236
+      scoredTimes:
+      - 2018-05-24T10:27:35Z
+      - 2018-05-24T10:57:12Z
+  - - - '9'
+      - Antoni Buljan
+    - scoredSeconds:
+      - 0
+      - 581
+      scoredTimes:
+      - 2018-05-24T12:08:19Z
+      - 2018-05-24T12:18:00Z
+  - - - '13'
+      - Balazs Szatmari
+    - scoredSeconds:
+      - 0
+      - 4730
+      scoredTimes:
+      - 2018-05-24T10:59:10Z
+      - 2018-05-24T12:18:00Z
+  - - - '16'
+      - Bruno Matos
+    - scoredSeconds:
+      - 4
+      - 3427
+      scoredTimes:
+      - 2018-05-24T11:20:57Z
+      - 2018-05-24T12:18:00Z
+  - - - '21'
+      - Damir Kalinger
+    - scoredSeconds:
+      - 12
+      - 688
+      scoredTimes:
+      - 2018-05-24T10:59:34Z
+      - 2018-05-24T11:10:50Z
+  - - - '23'
+      - David Šiljeg
+    - scoredSeconds:
+      - 48
+      - 270
+      scoredTimes:
+      - 2018-05-24T12:14:18Z
+      - 2018-05-24T12:18:00Z
+  - - - '26'
+      - Dušan Durkovič
+    - scoredSeconds:
+      - 48
+      - 3024
+      scoredTimes:
+      - 2018-05-24T10:20:18Z
+      - 2018-05-24T11:09:54Z
+  - - - '37'
+      - Igor Eržen
+    - scoredSeconds:
+      - 40
+      - 1323
+      scoredTimes:
+      - 2018-05-24T11:19:48Z
+      - 2018-05-24T11:41:11Z
+  - - - '40'
+      - Ivica Huljek
+    - scoredSeconds:
+      - 18
+      - 435
+      scoredTimes:
+      - 2018-05-24T10:52:06Z
+      - 2018-05-24T10:59:03Z
+  - - - '41'
+      - Ivo Duarte
+    - scoredSeconds:
+      - 10
+      - 2108
+      scoredTimes:
+      - 2018-05-24T10:39:53Z
+      - 2018-05-24T11:14:51Z
+  - - - '46'
+      - Jerko Odžak
+    - scoredSeconds:
+      - 0
+      - 784
+      scoredTimes:
+      - 2018-05-24T10:56:48Z
+      - 2018-05-24T11:09:52Z
+  - - - '114'
+      - Joan Brito
+    - scoredSeconds:
+      - 4
+      - 2823
+      scoredTimes:
+      - 2018-05-24T10:40:00Z
+      - 2018-05-24T11:26:59Z
+  - - - '54'
+      - Krešo  Kovačič
+    - scoredSeconds:
+      - 68
+      - 1530
+      scoredTimes:
+      - 2018-05-24T11:16:56Z
+      - 2018-05-24T11:41:18Z
+  - - - '57'
+      - Lara Leban
+    - scoredSeconds:
+      - 48
+      - 3254
+      scoredTimes:
+      - 2018-05-24T10:20:37Z
+      - 2018-05-24T11:14:03Z
+  - - - '63'
+      - Marketa Tomaskova
+    - scoredSeconds:
+      - 16
+      - 877
+      scoredTimes:
+      - 2018-05-24T12:03:39Z
+      - 2018-05-24T12:18:00Z
+  - - - '72'
+      - Mitja Jančič
+    - scoredSeconds:
+      - 44
+      - 4673
+      scoredTimes:
+      - 2018-05-24T10:04:10Z
+      - 2018-05-24T11:21:19Z
+  - - - '73'
+      - Mitja Jug
+    - scoredSeconds:
+      - 276
+      - 1554
+      scoredTimes:
+      - 2018-05-24T10:27:55Z
+      - 2018-05-24T10:49:13Z
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - scoredSeconds:
+      - 16
+      - 958
+      scoredTimes:
+      - 2018-05-24T11:20:07Z
+      - 2018-05-24T11:35:49Z
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - scoredSeconds:
+      - 0
+      - 469
+      scoredTimes:
+      - 2018-05-24T11:44:37Z
+      - 2018-05-24T11:52:26Z
+  - - - '82'
+      - Richard Edlinger
+    - null
+  - - - '86'
+      - Sandi Krč
+    - scoredSeconds:
+      - 47
+      - 3176
+      scoredTimes:
+      - 2018-05-24T10:32:50Z
+      - 2018-05-24T11:24:59Z
+  - - - '88'
+      - Sandor Roza
+    - null
+  - - - '98'
+      - Tomas Svoboda
+    - scoredSeconds:
+      - 150
+      - 6523
+      scoredTimes:
+      - 2018-05-24T10:31:46Z
+      - 2018-05-24T12:17:59Z
+  - - - '101'
+      - Tomaž Toplak
+    - scoredSeconds:
+      - 26
+      - 4110
+      scoredTimes:
+      - 2018-05-24T10:27:18Z
+      - 2018-05-24T11:35:22Z
+  - - - '102'
+      - Tomislav Gomerčić
+    - scoredSeconds:
+      - 3115
+      - 4059
+      scoredTimes:
+      - 2018-05-24T10:52:39Z
+      - 2018-05-24T11:08:23Z
+  - - - '113'
+      - Zsolt Sandor
+    - null
+- - - - '4'
+      - Alojz Tovornik
+    - scoredSeconds:
+      - 456
+      - 3180
+      scoredTimes:
+      - 2018-05-26T11:19:36Z
+      - 2018-05-26T12:05:00Z
+  - - - '9'
+      - Antoni Buljan
+    - scoredSeconds:
+      - 47
+      - 1256
+      scoredTimes:
+      - 2018-05-26T11:36:11Z
+      - 2018-05-26T11:56:20Z
+  - - - '13'
+      - Balazs Szatmari
+    - scoredSeconds:
+      - 3
+      - 3450
+      scoredTimes:
+      - 2018-05-26T11:07:33Z
+      - 2018-05-26T12:05:00Z
+  - - - '16'
+      - Bruno Matos
+    - scoredSeconds:
+      - 14
+      - 4115
+      scoredTimes:
+      - 2018-05-26T10:56:39Z
+      - 2018-05-26T12:05:00Z
+  - - - '21'
+      - Damir Kalinger
+    - scoredSeconds:
+      - 5
+      - 636
+      scoredTimes:
+      - 2018-05-26T11:22:19Z
+      - 2018-05-26T11:32:50Z
+  - - - '26'
+      - Dušan Durkovič
+    - scoredSeconds:
+      - 46
+      - 5573
+      scoredTimes:
+      - 2018-05-26T10:32:53Z
+      - 2018-05-26T12:05:00Z
+  - - - '37'
+      - Igor Eržen
+    - scoredSeconds:
+      - 47
+      - 4507
+      scoredTimes:
+      - 2018-05-26T10:48:26Z
+      - 2018-05-26T12:02:46Z
+  - - - '40'
+      - Ivica Huljek
+    - scoredSeconds:
+      - 0
+      - 1117
+      scoredTimes:
+      - 2018-05-26T11:09:48Z
+      - 2018-05-26T11:28:25Z
+  - - - '41'
+      - Ivo Duarte
+    - scoredSeconds:
+      - 10
+      - 4479
+      scoredTimes:
+      - 2018-05-26T10:50:31Z
+      - 2018-05-26T12:05:00Z
+  - - - '46'
+      - Jerko Odžak
+    - scoredSeconds:
+      - 0
+      - 4329
+      scoredTimes:
+      - 2018-05-26T10:50:46Z
+      - 2018-05-26T12:02:55Z
+  - - - '114'
+      - Joan Brito
+    - scoredSeconds:
+      - 11
+      - 4683
+      scoredTimes:
+      - 2018-05-26T10:47:08Z
+      - 2018-05-26T12:05:00Z
+  - - - '54'
+      - Krešo  Kovačič
+    - scoredSeconds:
+      - 0
+      - 4972
+      scoredTimes:
+      - 2018-05-26T10:42:01Z
+      - 2018-05-26T12:04:53Z
+  - - - '57'
+      - Lara Leban
+    - scoredSeconds:
+      - 46
+      - 4940
+      scoredTimes:
+      - 2018-05-26T10:38:15Z
+      - 2018-05-26T11:59:49Z
+  - - - '63'
+      - Marketa Tomaskova
+    - scoredSeconds:
+      - 16
+      - 3360
+      scoredTimes:
+      - 2018-05-26T11:09:16Z
+      - 2018-05-26T12:05:00Z
+  - - - '72'
+      - Mitja Jančič
+    - scoredSeconds:
+      - 24
+      - 5749
+      scoredTimes:
+      - 2018-05-26T10:29:35Z
+      - 2018-05-26T12:05:00Z
+  - - - '73'
+      - Mitja Jug
+    - scoredSeconds:
+      - 0
+      - 1956
+      scoredTimes:
+      - 2018-05-26T11:31:32Z
+      - 2018-05-26T12:04:08Z
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - scoredSeconds:
+      - 14
+      - 4780
+      scoredTimes:
+      - 2018-05-26T10:45:34Z
+      - 2018-05-26T12:05:00Z
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - null
+  - - - '86'
+      - Sandi Krč
+    - scoredSeconds:
+      - 46
+      - 4215
+      scoredTimes:
+      - 2018-05-26T10:45:17Z
+      - 2018-05-26T11:54:46Z
+  - - - '91'
+      - Slava Jelić
+    - null
+  - - - '95'
+      - Stojan Kranjc
+    - scoredSeconds:
+      - 45
+      - 4407
+      scoredTimes:
+      - 2018-05-26T10:52:18Z
+      - 2018-05-26T12:05:00Z
+  - - - '98'
+      - Tomas Svoboda
+    - scoredSeconds:
+      - 0
+      - 5023
+      scoredTimes:
+      - 2018-05-26T10:41:17Z
+      - 2018-05-26T12:05:00Z
+  - - - '101'
+      - Tomaž Toplak
+    - scoredSeconds:
+      - 22
+      - 4704
+      scoredTimes:
+      - 2018-05-26T10:46:58Z
+      - 2018-05-26T12:05:00Z
+  - - - '113'
+      - Zsolt Sandor
+    - scoredSeconds:
+      - 14
+      - 3453
+      scoredTimes:
+      - 2018-05-26T11:07:41Z
+      - 2018-05-26T12:05:00Z
+- - - - '4'
+      - Alojz Tovornik
+    - null
+  - - - '9'
+      - Antoni Buljan
+    - null
+  - - - '16'
+      - Bruno Matos
+    - null
+  - - - '21'
+      - Damir Kalinger
+    - null
+  - - - '23'
+      - David Šiljeg
+    - null
+  - - - '26'
+      - Dušan Durkovič
+    - null
+  - - - '37'
+      - Igor Eržen
+    - null
+  - - - '40'
+      - Ivica Huljek
+    - null
+  - - - '41'
+      - Ivo Duarte
+    - null
+  - - - '46'
+      - Jerko Odžak
+    - null
+  - - - '114'
+      - Joan Brito
+    - null
+  - - - '54'
+      - Krešo  Kovačič
+    - null
+  - - - '57'
+      - Lara Leban
+    - null
+  - - - '63'
+      - Marketa Tomaskova
+    - null
+  - - - '72'
+      - Mitja Jančič
+    - null
+  - - - '73'
+      - Mitja Jug
+    - null
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - null
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - null
+  - - - '91'
+      - Slava Jelić
+    - null
+  - - - '95'
+      - Stojan Kranjc
+    - null
+  - - - '98'
+      - Tomas Svoboda
+    - null
+  - - - '101'
+      - Tomaž Toplak
+    - null
 timing:
 - zonesSum:
   - 21
