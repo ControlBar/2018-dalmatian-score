@@ -186,7 +186,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 10.830 km
-      landedDistance: 9.837 km
+      landedDistance: 21.888 km
       stoppedAlt: 1291.000 m
   - - - '57'
       - Lara Leban
@@ -511,7 +511,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 2.119 km
-      landedDistance: 6.530 km
+      landedDistance: 7.220 km
       stoppedAlt: 826.000 m
   - - - '73'
       - Mitja Jug
@@ -586,7 +586,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 1.216 km
-      landedDistance: 1.216 km
+      landedDistance: 1.856 km
       stoppedAlt: 869.000 m
   - - - '23'
       - David Šiljeg
@@ -602,8 +602,8 @@ score:
         arrival: 0
         time: 0
       velocity:
-        ss: null
-        gs: null
+        ss: 2018-05-24T12:22:01.513934504043Z
+        gs: 2018-05-24T10:30:00Z
         es: null
         ssDistance: null
         ssElapsed: null
@@ -737,7 +737,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.356 km
-      landedDistance: 20.355 km
+      landedDistance: 26.250 km
       stoppedAlt: 891.000 m
   - - - '26'
       - Dušan Durkovič
@@ -762,7 +762,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.251 km
-      landedDistance: 20.251 km
+      landedDistance: 26.292 km
       stoppedAlt: 830.000 m
   - - - '101'
       - Tomaž Toplak
@@ -787,7 +787,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.190 km
-      landedDistance: 20.081 km
+      landedDistance: 26.495 km
       stoppedAlt: 912.000 m
   - - - '72'
       - Mitja Jančič
@@ -812,7 +812,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.180 km
-      landedDistance: 20.180 km
+      landedDistance: 26.303 km
       stoppedAlt: 889.000 m
   - - - '54'
       - Krešo  Kovačič
@@ -837,7 +837,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 19.982 km
-      landedDistance: 19.982 km
+      landedDistance: 20.047 km
       stoppedAlt: 767.000 m
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
@@ -862,7 +862,7 @@ score:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.118 km
-      landedDistance: 20.117 km
+      landedDistance: 26.390 km
       stoppedAlt: 867.000 m
   - - - '41'
       - Ivo Duarte
@@ -1847,7 +1847,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 10.830 km
-      landedDistance: 9.837 km
+      landedDistance: 21.888 km
       stoppedAlt: 1291.000 m
   - - - '57'
       - Lara Leban
@@ -2172,7 +2172,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 2.119 km
-      landedDistance: 6.530 km
+      landedDistance: 7.220 km
       stoppedAlt: 826.000 m
   - - - '73'
       - Mitja Jug
@@ -2247,7 +2247,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 1.216 km
-      landedDistance: 1.216 km
+      landedDistance: 1.856 km
       stoppedAlt: 869.000 m
   - - - '23'
       - David Šiljeg
@@ -2263,8 +2263,8 @@ scoreDf:
         arrival: 0
         time: 0
       velocity:
-        ss: null
-        gs: null
+        ss: 2018-05-24T12:22:01.513934504043Z
+        gs: 2018-05-24T10:30:00Z
         es: null
         ssDistance: null
         ssElapsed: null
@@ -2347,7 +2347,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.356 km
-      landedDistance: 20.355 km
+      landedDistance: 26.250 km
       stoppedAlt: 891.000 m
   - - - '26'
       - Dušan Durkovič
@@ -2372,7 +2372,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.251 km
-      landedDistance: 20.251 km
+      landedDistance: 26.292 km
       stoppedAlt: 830.000 m
   - - - '101'
       - Tomaž Toplak
@@ -2397,7 +2397,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.190 km
-      landedDistance: 20.081 km
+      landedDistance: 26.495 km
       stoppedAlt: 912.000 m
   - - - '72'
       - Mitja Jančič
@@ -2422,7 +2422,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.180 km
-      landedDistance: 20.180 km
+      landedDistance: 26.303 km
       stoppedAlt: 889.000 m
   - - - '54'
       - Krešo  Kovačič
@@ -2447,7 +2447,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 19.982 km
-      landedDistance: 19.982 km
+      landedDistance: 20.047 km
       stoppedAlt: 767.000 m
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
@@ -2472,7 +2472,7 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reachDistance: 20.118 km
-      landedDistance: 20.117 km
+      landedDistance: 26.390 km
       stoppedAlt: 867.000 m
   - - - '41'
       - Ivo Duarte

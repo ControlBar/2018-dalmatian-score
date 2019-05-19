@@ -784,7 +784,23 @@ gsSpeed:
     - time: 2.064709 h
       frac: 3.339749e-2
 nigh:
-- - - - '101'
+- - - - '98'
+      - Tomas Svoboda
+    - togo:
+        distance: 7.182582 km
+        flipSum:
+        - 7.182582 km
+        legs:
+        - 7.182582 km
+        legsSum:
+        - 7.182582 km
+        waypoints:
+        - lat: 43.83033333
+          lng: 16.62275
+        - lat: 43.76575628
+          lng: 16.6206689
+      made: 10.829542 km
+  - - - '101'
       - Tomaž Toplak
     - togo:
         distance: 17.659066 km
@@ -810,32 +826,6 @@ nigh:
         - lat: 43.75300435
           lng: 16.63148668
       made: 12.003542 km
-  - - - '98'
-      - Tomas Svoboda
-    - togo:
-        distance: 18.832810 km
-        flipSum:
-        - 18.832810 km
-        - 16.675773 km
-        - 4.787993 km
-        legs:
-        - 2.157038 km
-        - 11.887779 km
-        - 4.787993 km
-        legsSum:
-        - 2.157038 km
-        - 14.044817 km
-        - 18.832810 km
-        waypoints:
-        - lat: 43.83033333
-          lng: 16.62275
-        - lat: 43.82131993
-          lng: 16.59894017
-        - lat: 43.73447024
-          lng: 16.68528563
-        - lat: 43.75300435
-          lng: 16.63148668
-      made: 10.829542 km
   - - - '57'
       - Lara Leban
     - togo:
@@ -943,31 +933,26 @@ nigh:
   - - - '13'
       - Balazs Szatmari
     - togo:
-        distance: 27.543841 km
+        distance: 18.414638 km
         flipSum:
-        - 27.543841 km
-        - 22.479399 km
-        - 16.455732 km
-        - 4.778742 km
+        - 18.414638 km
+        - 16.583576 km
+        - 4.787993 km
         legs:
-        - 5.064442 km
-        - 6.023667 km
-        - 11.676990 km
-        - 4.778742 km
+        - 1.831062 km
+        - 11.795583 km
+        - 4.787993 km
         legsSum:
-        - 5.064442 km
-        - 11.088109 km
-        - 22.765099 km
-        - 27.543841 km
+        - 1.831062 km
+        - 13.626644 km
+        - 18.414638 km
         waypoints:
         - lat: 43.82191667
           lng: 16.621
-        - lat: 43.78318535
-          lng: 16.65420403
-        - lat: 43.8170605
-          lng: 16.59563315
-        - lat: 43.73419723
-          lng: 16.68497562
+        - lat: 43.81997787
+          lng: 16.5983355
+        - lat: 43.73447024
+          lng: 16.68528563
         - lat: 43.75300435
           lng: 16.63148668
       made: 2.118542 km
@@ -1253,32 +1238,27 @@ nigh:
   - - - '9'
       - Antoni Buljan
     - togo:
-        distance: 28.446928 km
+        distance: 27.806605 km
         flipSum:
-        - 28.446928 km
-        - 27.577539 km
-        - 22.479399 km
+        - 27.806605 km
+        - 22.486553 km
         - 16.455732 km
         - 4.778742 km
         legs:
-        - 0.869388 km
-        - 5.098140 km
-        - 6.023667 km
+        - 5.320052 km
+        - 6.030821 km
         - 11.676990 km
         - 4.778742 km
         legsSum:
-        - 0.869388 km
-        - 5.967529 km
-        - 11.991195 km
-        - 23.668185 km
-        - 28.446928 km
+        - 5.320052 km
+        - 11.350873 km
+        - 23.027863 km
+        - 27.806605 km
         waypoints:
         - lat: 43.8276
           lng: 16.62926667
-        - lat: 43.82236715
-          lng: 16.62121453
-        - lat: 43.78318535
-          lng: 16.65420403
+        - lat: 43.78336023
+          lng: 16.65451127
         - lat: 43.8170605
           lng: 16.59563315
         - lat: 43.73419723
@@ -1430,187 +1410,132 @@ nigh:
         - lat: 43.75300435
           lng: 16.63148668
       made: 0.418542 km
-- - - - '98'
-      - Tomas Svoboda
-    - togo:
-        distance: 20.816469 km
-        flipSum:
-        - 20.816469 km
-        - 20.361154 km
-        - 16.831354 km
-        - 10.793293 km
-        legs:
-        - 0.455316 km
-        - 3.529800 km
-        - 6.038061 km
-        - 10.793293 km
-        legsSum:
-        - 0.455316 km
-        - 3.985116 km
-        - 10.023177 km
-        - 20.816469 km
-        waypoints:
-        - lat: 43.78621667
-          lng: 16.65551667
-        - lat: 43.78244847
-          lng: 16.65329713
-        - lat: 43.76009344
-          lng: 16.62208604
-        - lat: 43.81437688
-          lng: 16.62014131
-        - lat: 43.732741
-          lng: 16.69286412
-      made: 20.355593 km
-  - - - '26'
-      - Dušan Durkovič
-    - togo:
-        distance: 20.920648 km
-        flipSum:
-        - 20.920648 km
-        - 20.361154 km
-        - 16.831354 km
-        - 10.793293 km
-        legs:
-        - 0.559494 km
-        - 3.529800 km
-        - 6.038061 km
-        - 10.793293 km
-        legsSum:
-        - 0.559494 km
-        - 4.089294 km
-        - 10.127355 km
-        - 20.920648 km
-        waypoints:
-        - lat: 43.78705
-          lng: 16.65611667
-        - lat: 43.78244847
-          lng: 16.65329713
-        - lat: 43.76009344
-          lng: 16.62208604
-        - lat: 43.81437688
-          lng: 16.62014131
-        - lat: 43.732741
-          lng: 16.69286412
-      made: 20.250593 km
-  - - - '72'
-      - Mitja Jančič
-    - togo:
-        distance: 20.991870 km
-        flipSum:
-        - 20.991870 km
-        - 20.376605 km
-        - 16.831354 km
-        - 10.793293 km
-        legs:
-        - 0.615265 km
-        - 3.545251 km
-        - 6.038061 km
-        - 10.793293 km
-        legsSum:
-        - 0.615265 km
-        - 4.160517 km
-        - 10.198578 km
-        - 20.991870 km
-        waypoints:
-        - lat: 43.78755
-          lng: 16.65673333
-        - lat: 43.78256436
-          lng: 16.653409
-        - lat: 43.76009344
-          lng: 16.62208604
-        - lat: 43.81437688
-          lng: 16.62014131
-        - lat: 43.732741
-          lng: 16.69286412
-      made: 20.179593 km
-  - - - '74'
-      - Nuno Filipe da Fonseca Bastos Gomes
-    - togo:
-        distance: 21.054402 km
-        flipSum:
-        - 21.054402 km
-        - 20.361154 km
-        - 16.831354 km
-        - 10.793293 km
-        legs:
-        - 0.693248 km
-        - 3.529800 km
-        - 6.038061 km
-        - 10.793293 km
-        legsSum:
-        - 0.693248 km
-        - 4.223048 km
-        - 10.261109 km
-        - 21.054402 km
-        waypoints:
-        - lat: 43.78826667
-          lng: 16.6564
-        - lat: 43.78244847
-          lng: 16.65329713
-        - lat: 43.76009344
-          lng: 16.62208604
-        - lat: 43.81437688
-          lng: 16.62014131
-        - lat: 43.732741
-          lng: 16.69286412
-      made: 20.117593 km
-  - - - '101'
+- - - - '101'
       - Tomaž Toplak
     - togo:
-        distance: 20.982368 km
+        distance: 14.819019 km
         flipSum:
-        - 20.982368 km
-        - 20.361154 km
-        - 16.831354 km
-        - 10.793293 km
+        - 14.819019 km
+        - 10.765876 km
         legs:
-        - 0.621214 km
-        - 3.529800 km
-        - 6.038061 km
-        - 10.793293 km
+        - 4.053143 km
+        - 10.765876 km
         legsSum:
-        - 0.621214 km
-        - 4.151014 km
-        - 10.189075 km
-        - 20.982368 km
+        - 4.053143 km
+        - 14.819019 km
         waypoints:
         - lat: 43.78768333
           lng: 16.656
-        - lat: 43.78244847
-          lng: 16.65329713
-        - lat: 43.76009344
-          lng: 16.62208604
-        - lat: 43.81437688
-          lng: 16.62014131
-        - lat: 43.732741
-          lng: 16.69286412
+        - lat: 43.8156541
+          lng: 16.62361579
+        - lat: 43.73281716
+          lng: 16.69302877
       made: 20.189593 km
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - togo:
+        distance: 14.790366 km
+        flipSum:
+        - 14.790366 km
+        - 10.765876 km
+        legs:
+        - 4.024490 km
+        - 10.765876 km
+        legsSum:
+        - 4.024490 km
+        - 14.790366 km
+        waypoints:
+        - lat: 43.78826667
+          lng: 16.6564
+        - lat: 43.8156541
+          lng: 16.62361579
+        - lat: 43.73281716
+          lng: 16.69302877
+      made: 20.117593 km
+  - - - '72'
+      - Mitja Jančič
+    - togo:
+        distance: 14.868290 km
+        flipSum:
+        - 14.868290 km
+        - 10.765876 km
+        legs:
+        - 4.102414 km
+        - 10.765876 km
+        legsSum:
+        - 4.102414 km
+        - 14.868290 km
+        waypoints:
+        - lat: 43.78755
+          lng: 16.65673333
+        - lat: 43.8156541
+          lng: 16.62361579
+        - lat: 43.73281716
+          lng: 16.69302877
+      made: 20.179593 km
+  - - - '26'
+      - Dušan Durkovič
+    - togo:
+        distance: 14.879247 km
+        flipSum:
+        - 14.879247 km
+        - 10.765876 km
+        legs:
+        - 4.113371 km
+        - 10.765876 km
+        legsSum:
+        - 4.113371 km
+        - 14.879247 km
+        waypoints:
+        - lat: 43.78705
+          lng: 16.65611667
+        - lat: 43.8156541
+          lng: 16.62361579
+        - lat: 43.73281716
+          lng: 16.69302877
+      made: 20.250593 km
+  - - - '98'
+      - Tomas Svoboda
+    - togo:
+        distance: 14.921399 km
+        flipSum:
+        - 14.921399 km
+        - 10.763435 km
+        legs:
+        - 4.157964 km
+        - 10.763435 km
+        legsSum:
+        - 4.157964 km
+        - 14.921399 km
+        waypoints:
+        - lat: 43.78621667
+          lng: 16.65551667
+        - lat: 43.81545221
+          lng: 16.62321426
+        - lat: 43.73281716
+          lng: 16.69302877
+      made: 20.355593 km
   - - - '54'
       - Krešo  Kovačič
     - togo:
-        distance: 21.189825 km
+        distance: 21.124505 km
         flipSum:
-        - 21.189825 km
-        - 20.361154 km
-        - 16.831354 km
+        - 21.124505 km
+        - 16.825270 km
         - 10.793293 km
         legs:
-        - 0.828672 km
-        - 3.529800 km
-        - 6.038061 km
+        - 4.299235 km
+        - 6.031977 km
         - 10.793293 km
         legsSum:
-        - 0.828672 km
-        - 4.358472 km
-        - 10.396533 km
-        - 21.189825 km
+        - 4.299235 km
+        - 10.331212 km
+        - 21.124505 km
         waypoints:
         - lat: 43.78945
           lng: 16.65683333
-        - lat: 43.78244847
-          lng: 16.65329713
-        - lat: 43.76009344
-          lng: 16.62208604
+        - lat: 43.76014493
+          lng: 16.62190391
         - lat: 43.81437688
           lng: 16.62014131
         - lat: 43.732741
@@ -2381,14 +2306,14 @@ nigh:
           lng: 16.61759406
       made: 0.125593 km
 land:
-- - - - '101'
+- - - - '98'
+      - Tomas Svoboda
+    - togo: 7.774525 km
+      made: 21.888017 km
+  - - - '101'
       - Tomaž Toplak
     - togo: 17.676186 km
       made: 11.986356 km
-  - - - '98'
-      - Tomas Svoboda
-    - togo: 19.825564 km
-      made: 9.836978 km
   - - - '57'
       - Lara Leban
     - togo: 20.843582 km
@@ -2407,8 +2332,8 @@ land:
       made: 7.710152 km
   - - - '13'
       - Balazs Szatmari
-    - togo: 23.132976 km
-      made: 6.529566 km
+    - togo: 22.442706 km
+      made: 7.219836 km
   - - - '41'
       - Ivo Duarte
     - togo: 24.390920 km
@@ -2447,8 +2372,8 @@ land:
       made: 2.082395 km
   - - - '9'
       - Antoni Buljan
-    - togo: 28.446927 km
-      made: 1.215615 km
+    - togo: 27.806606 km
+      made: 1.855936 km
   - - - '82'
       - Richard Edlinger
     - togo: 28.662542 km
@@ -2485,30 +2410,30 @@ land:
       - Tomislav Gomerčić
     - togo: 29.468331 km
       made: 0.194211 km
-- - - - '98'
-      - Tomas Svoboda
-    - togo: 20.816469 km
-      made: 20.355124 km
-  - - - '26'
-      - Dušan Durkovič
-    - togo: 20.920648 km
-      made: 20.250945 km
-  - - - '72'
-      - Mitja Jančič
-    - togo: 20.991870 km
-      made: 20.179723 km
+- - - - '101'
+      - Tomaž Toplak
+    - togo: 14.677023 km
+      made: 26.494570 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - togo: 21.054568 km
-      made: 20.117025 km
-  - - - '101'
-      - Tomaž Toplak
-    - togo: 21.090182 km
-      made: 20.081411 km
+    - togo: 14.781443 km
+      made: 26.390150 km
+  - - - '72'
+      - Mitja Jančič
+    - togo: 14.868291 km
+      made: 26.303302 km
+  - - - '26'
+      - Dušan Durkovič
+    - togo: 14.879247 km
+      made: 26.292346 km
+  - - - '98'
+      - Tomas Svoboda
+    - togo: 14.921399 km
+      made: 26.250194 km
   - - - '54'
       - Krešo  Kovačič
-    - togo: 21.189826 km
-      made: 19.981767 km
+    - togo: 21.124505 km
+      made: 20.047088 km
   - - - '41'
       - Ivo Duarte
     - togo: 21.681454 km
