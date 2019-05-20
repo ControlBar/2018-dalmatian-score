@@ -14,7 +14,7 @@ stopFlying:
 - - - - '4'
       - Alojz Tovornik
     - scoredFixes:
-      - 460
+      - 459
       - 2236
       scoredSeconds:
       - 459
@@ -25,7 +25,7 @@ stopFlying:
   - - - '9'
       - Antoni Buljan
     - scoredFixes:
-      - 1
+      - 0
       - 581
       scoredSeconds:
       - 0
@@ -36,7 +36,7 @@ stopFlying:
   - - - '13'
       - Balazs Szatmari
     - scoredFixes:
-      - 1
+      - 0
       - 4730
       scoredSeconds:
       - 0
@@ -47,7 +47,7 @@ stopFlying:
   - - - '16'
       - Bruno Matos
     - scoredFixes:
-      - 5
+      - 4
       - 3427
       scoredSeconds:
       - 4
@@ -58,7 +58,7 @@ stopFlying:
   - - - '21'
       - Damir Kalinger
     - scoredFixes:
-      - 13
+      - 12
       - 688
       scoredSeconds:
       - 12
@@ -69,7 +69,7 @@ stopFlying:
   - - - '23'
       - David Šiljeg
     - scoredFixes:
-      - 49
+      - 48
       - 270
       scoredSeconds:
       - 48
@@ -80,7 +80,7 @@ stopFlying:
   - - - '26'
       - Dušan Durkovič
     - scoredFixes:
-      - 49
+      - 48
       - 3024
       scoredSeconds:
       - 48
@@ -91,7 +91,7 @@ stopFlying:
   - - - '37'
       - Igor Eržen
     - scoredFixes:
-      - 41
+      - 40
       - 1323
       scoredSeconds:
       - 40
@@ -102,7 +102,7 @@ stopFlying:
   - - - '40'
       - Ivica Huljek
     - scoredFixes:
-      - 19
+      - 18
       - 435
       scoredSeconds:
       - 18
@@ -113,7 +113,7 @@ stopFlying:
   - - - '41'
       - Ivo Duarte
     - scoredFixes:
-      - 11
+      - 10
       - 2108
       scoredSeconds:
       - 10
@@ -124,7 +124,7 @@ stopFlying:
   - - - '46'
       - Jerko Odžak
     - scoredFixes:
-      - 1
+      - 0
       - 768
       scoredSeconds:
       - 0
@@ -135,7 +135,7 @@ stopFlying:
   - - - '114'
       - Joan Brito
     - scoredFixes:
-      - 5
+      - 4
       - 2823
       scoredSeconds:
       - 4
@@ -146,7 +146,7 @@ stopFlying:
   - - - '54'
       - Krešo  Kovačič
     - scoredFixes:
-      - 16
+      - 15
       - 338
       scoredSeconds:
       - 68
@@ -157,7 +157,7 @@ stopFlying:
   - - - '57'
       - Lara Leban
     - scoredFixes:
-      - 49
+      - 48
       - 3254
       scoredSeconds:
       - 48
@@ -168,7 +168,7 @@ stopFlying:
   - - - '63'
       - Marketa Tomaskova
     - scoredFixes:
-      - 17
+      - 16
       - 877
       scoredSeconds:
       - 16
@@ -179,7 +179,7 @@ stopFlying:
   - - - '72'
       - Mitja Jančič
     - scoredFixes:
-      - 45
+      - 44
       - 4673
       scoredSeconds:
       - 44
@@ -190,7 +190,7 @@ stopFlying:
   - - - '73'
       - Mitja Jug
     - scoredFixes:
-      - 277
+      - 276
       - 1554
       scoredSeconds:
       - 276
@@ -201,7 +201,7 @@ stopFlying:
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - scoredFixes:
-      - 17
+      - 16
       - 958
       scoredSeconds:
       - 16
@@ -212,7 +212,7 @@ stopFlying:
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - scoredFixes:
-      - 1
+      - 0
       - 469
       scoredSeconds:
       - 0
@@ -226,7 +226,7 @@ stopFlying:
   - - - '86'
       - Sandi Krč
     - scoredFixes:
-      - 48
+      - 47
       - 3176
       scoredSeconds:
       - 47
@@ -240,7 +240,7 @@ stopFlying:
   - - - '98'
       - Tomas Svoboda
     - scoredFixes:
-      - 6
+      - 5
       - 3135
       scoredSeconds:
       - 150
@@ -251,7 +251,7 @@ stopFlying:
   - - - '101'
       - Tomaž Toplak
     - scoredFixes:
-      - 27
+      - 26
       - 4108
       scoredSeconds:
       - 26
@@ -262,7 +262,7 @@ stopFlying:
   - - - '102'
       - Tomislav Gomerčić
     - scoredFixes:
-      - 680
+      - 679
       - 885
       scoredSeconds:
       - 3115
@@ -276,7 +276,7 @@ stopFlying:
 - - - - '4'
       - Alojz Tovornik
     - scoredFixes:
-      - 457
+      - 456
       - 3180
       scoredSeconds:
       - 456
@@ -287,7 +287,7 @@ stopFlying:
   - - - '9'
       - Antoni Buljan
     - scoredFixes:
-      - 48
+      - 47
       - 1256
       scoredSeconds:
       - 47
@@ -298,7 +298,7 @@ stopFlying:
   - - - '13'
       - Balazs Szatmari
     - scoredFixes:
-      - 4
+      - 3
       - 3450
       scoredSeconds:
       - 3
@@ -309,7 +309,7 @@ stopFlying:
   - - - '16'
       - Bruno Matos
     - scoredFixes:
-      - 15
+      - 14
       - 4115
       scoredSeconds:
       - 14
@@ -320,7 +320,7 @@ stopFlying:
   - - - '21'
       - Damir Kalinger
     - scoredFixes:
-      - 6
+      - 5
       - 636
       scoredSeconds:
       - 5
@@ -331,7 +331,7 @@ stopFlying:
   - - - '26'
       - Dušan Durkovič
     - scoredFixes:
-      - 47
+      - 46
       - 5573
       scoredSeconds:
       - 46
@@ -342,7 +342,7 @@ stopFlying:
   - - - '37'
       - Igor Eržen
     - scoredFixes:
-      - 48
+      - 47
       - 4507
       scoredSeconds:
       - 47
@@ -353,7 +353,7 @@ stopFlying:
   - - - '40'
       - Ivica Huljek
     - scoredFixes:
-      - 1
+      - 0
       - 82
       scoredSeconds:
       - 0
@@ -364,7 +364,7 @@ stopFlying:
   - - - '41'
       - Ivo Duarte
     - scoredFixes:
-      - 11
+      - 10
       - 4194
       scoredSeconds:
       - 10
@@ -375,7 +375,7 @@ stopFlying:
   - - - '46'
       - Jerko Odžak
     - scoredFixes:
-      - 1
+      - 0
       - 4287
       scoredSeconds:
       - 0
@@ -386,7 +386,7 @@ stopFlying:
   - - - '114'
       - Joan Brito
     - scoredFixes:
-      - 12
+      - 11
       - 4683
       scoredSeconds:
       - 11
@@ -397,7 +397,7 @@ stopFlying:
   - - - '54'
       - Krešo  Kovačič
     - scoredFixes:
-      - 1
+      - 0
       - 503
       scoredSeconds:
       - 0
@@ -408,7 +408,7 @@ stopFlying:
   - - - '57'
       - Lara Leban
     - scoredFixes:
-      - 47
+      - 46
       - 4940
       scoredSeconds:
       - 46
@@ -419,7 +419,7 @@ stopFlying:
   - - - '63'
       - Marketa Tomaskova
     - scoredFixes:
-      - 17
+      - 16
       - 3360
       scoredSeconds:
       - 16
@@ -430,7 +430,7 @@ stopFlying:
   - - - '72'
       - Mitja Jančič
     - scoredFixes:
-      - 25
+      - 24
       - 5749
       scoredSeconds:
       - 24
@@ -441,7 +441,7 @@ stopFlying:
   - - - '73'
       - Mitja Jug
     - scoredFixes:
-      - 1
+      - 0
       - 362
       scoredSeconds:
       - 0
@@ -452,7 +452,7 @@ stopFlying:
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - scoredFixes:
-      - 15
+      - 14
       - 4780
       scoredSeconds:
       - 14
@@ -466,7 +466,7 @@ stopFlying:
   - - - '86'
       - Sandi Krč
     - scoredFixes:
-      - 47
+      - 46
       - 4215
       scoredSeconds:
       - 46
@@ -480,7 +480,7 @@ stopFlying:
   - - - '95'
       - Stojan Kranjc
     - scoredFixes:
-      - 46
+      - 45
       - 4407
       scoredSeconds:
       - 45
@@ -491,7 +491,7 @@ stopFlying:
   - - - '98'
       - Tomas Svoboda
     - scoredFixes:
-      - 1
+      - 0
       - 2384
       scoredSeconds:
       - 0
@@ -502,7 +502,7 @@ stopFlying:
   - - - '101'
       - Tomaž Toplak
     - scoredFixes:
-      - 23
+      - 22
       - 4701
       scoredSeconds:
       - 22
@@ -513,7 +513,7 @@ stopFlying:
   - - - '113'
       - Zsolt Sandor
     - scoredFixes:
-      - 15
+      - 14
       - 3453
       scoredSeconds:
       - 14
