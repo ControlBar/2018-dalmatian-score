@@ -1,4 +1,4 @@
-fixIdx,time,lat,lng,alt,tickLead,tickRace,zoneIdx,legIdx,distance,area
+fixIdx,time,lat,lng,alt,tickLead,tickRace,zoneIdx,legIdx,togo,area
 25,,,,,-2237.72256038209,-2331.63088287943,1,0,41.559,0.0
 47,,,,,-2215.72256038209,-2309.63088287943,23,0,41.557,0.0
 48,,,,,-2214.72256038209,-2308.63088287943,24,0,41.554,0.0

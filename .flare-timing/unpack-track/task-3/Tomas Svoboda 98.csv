@@ -1,4 +1,4 @@
-fixIdx,time,lat,lng,alt,tickLead,tickRace,zoneIdx,legIdx,distance,area
+fixIdx,time,lat,lng,alt,tickLead,tickRace,zoneIdx,legIdx,togo,area
 1,2018-05-27T10:14:23Z,43.82963333,16.64233333,783.00,,,,,,
 2,2018-05-27T10:14:53Z,43.82961667,16.64235000,783.00,,,,,,
 3,2018-05-27T10:15:24Z,43.82960000,16.64231667,782.00,,,,,,

@@ -1694,7 +1694,7 @@ tagging:
           time: 2018-05-24T10:28:59.565439129458Z
           lat: 43.83085
           lng: 16.63769127
-          alt: 754.43456087
+          alt: 754.43
         cross:
           crossingPair:
           - fix: 543
@@ -1715,7 +1715,7 @@ tagging:
           time: 2018-05-24T10:38:03.924387139758Z
           lat: 43.83303709
           lng: 16.62579091
-          alt: 861.07561286
+          alt: 861.08
         cross:
           crossingPair:
           - fix: 1087
@@ -1736,7 +1736,7 @@ tagging:
           time: 2018-05-24T10:40:52.451280745158Z
           lat: 43.82433658
           lng: 16.62087906
-          alt: 772.54871925
+          alt: 772.55
         cross:
           crossingPair:
           - fix: 1256
@@ -1786,7 +1786,7 @@ tagging:
           time: 2018-05-24T12:17:13.07825247518Z
           lat: 43.83023204
           lng: 16.6278242
-          alt: 844.92174752
+          alt: 844.92
         cross:
           crossingPair:
           - fix: 534
@@ -1816,7 +1816,7 @@ tagging:
           time: 2018-05-24T11:01:51.259342579195Z
           lat: 43.82654136
           lng: 16.64473828
-          alt: 813.74065742
+          alt: 813.74
         cross:
           crossingPair:
           - fix: 161
@@ -1858,7 +1858,7 @@ tagging:
           time: 2018-05-24T11:31:43.336712787888Z
           lat: 43.82496089
           lng: 16.62040544
-          alt: 660.32657442
+          alt: 660.33
         cross:
           crossingPair:
           - fix: 1953
@@ -1908,7 +1908,7 @@ tagging:
           time: 2018-05-24T11:31:16.976762449143Z
           lat: 43.83255115
           lng: 16.62610234
-          alt: 860.0464751
+          alt: 860.05
         cross:
           crossingPair:
           - fix: 623
@@ -1950,7 +1950,7 @@ tagging:
           time: 2018-05-24T12:05:39.118828484654Z
           lat: 43.78403416
           lng: 16.65701469
-          alt: 1071.64351455
+          alt: 1071.64
         cross:
           crossingPair:
           - fix: 2686
@@ -1978,7 +1978,7 @@ tagging:
           time: 2018-05-24T11:00:30.867898967108Z
           lat: 43.82928333
           lng: 16.63748208
-          alt: 763.13210103
+          alt: 763.13
         cross:
           crossingPair:
           - fix: 68
@@ -2049,7 +2049,7 @@ tagging:
           time: 2018-05-24T12:17:57.505127492276Z
           lat: 43.82613299
           lng: 16.64249226
-          alt: 756.49487251
+          alt: 756.49
         cross:
           crossingPair:
           - fix: 267
@@ -2080,7 +2080,7 @@ tagging:
           time: 2018-05-24T10:22:13.571325557343Z
           lat: 43.82991429
           lng: 16.63745001
-          alt: 789.85734889
+          alt: 789.86
         cross:
           crossingPair:
           - fix: 163
@@ -2101,7 +2101,7 @@ tagging:
           time: 2018-05-24T10:37:58.436610755224Z
           lat: 43.83575729
           lng: 16.6243324
-          alt: 1173.43661076
+          alt: 1173.44
         cross:
           crossingPair:
           - fix: 1108
@@ -2122,7 +2122,7 @@ tagging:
           time: 2018-05-24T10:39:39.742539420536Z
           lat: 43.82607575
           lng: 16.61870859
-          alt: 1040.25746058
+          alt: 1040.26
         cross:
           crossingPair:
           - fix: 1209
@@ -2172,7 +2172,7 @@ tagging:
           time: 2018-05-24T11:31:09.573509608664Z
           lat: 43.83207132
           lng: 16.62642599
-          alt: 842.42649039
+          alt: 842.43
         cross:
           crossingPair:
           - fix: 721
@@ -2193,7 +2193,7 @@ tagging:
           time: 2018-05-24T11:33:24.430511834948Z
           lat: 43.82596181
           lng: 16.61897362
-          alt: 714.56948817
+          alt: 714.57
         cross:
           crossingPair:
           - fix: 856
@@ -2273,7 +2273,7 @@ tagging:
           time: 2018-05-24T10:40:49.837875325977Z
           lat: 43.82656081
           lng: 16.64478919
-          alt: 1341.16212467
+          alt: 1341.16
         cross:
           crossingPair:
           - fix: 66
@@ -2294,7 +2294,7 @@ tagging:
           time: 2018-05-24T10:58:15.693102467777Z
           lat: 43.82498845
           lng: 16.63351402
-          alt: 1405.30689753
+          alt: 1405.31
         cross:
           crossingPair:
           - fix: 1112
@@ -2315,7 +2315,7 @@ tagging:
           time: 2018-05-24T11:00:09.733935819798Z
           lat: 43.82234663
           lng: 16.62120994
-          alt: 1233.53212836
+          alt: 1233.53
         cross:
           crossingPair:
           - fix: 1226
@@ -2365,7 +2365,7 @@ tagging:
           time: 2018-05-24T11:09:06.53566361672Z
           lat: 43.82073452
           lng: 16.64122471
-          alt: 545.69650457
+          alt: 545.7
         cross:
           crossingPair:
           - fix: 728
@@ -2416,7 +2416,7 @@ tagging:
           time: 2018-05-24T11:01:18.253329843239Z
           lat: 43.83112065
           lng: 16.62711647
-          alt: 892.49334031
+          alt: 892.49
         cross:
           crossingPair:
           - fix: 1282
@@ -2437,7 +2437,7 @@ tagging:
           time: 2018-05-24T11:08:05.507021550668Z
           lat: 43.82643287
           lng: 16.61742489
-          alt: 1120.9859569
+          alt: 1120.99
         cross:
           crossingPair:
           - fix: 1689
@@ -2578,7 +2578,7 @@ tagging:
           time: 2018-05-24T10:36:48.489063714158Z
           lat: 43.83177556
           lng: 16.62663367
-          alt: 1032.02187257
+          alt: 1032.02
         cross:
           crossingPair:
           - fix: 1019
@@ -2599,7 +2599,7 @@ tagging:
           time: 2018-05-24T10:39:47.968659742896Z
           lat: 43.82483646
           lng: 16.62051823
-          alt: 934.06268051
+          alt: 934.06
         cross:
           crossingPair:
           - fix: 1198
@@ -2659,7 +2659,7 @@ tagging:
           time: 2018-05-24T10:05:30.746253631046Z
           lat: 43.82653782
           lng: 16.64472886
-          alt: 788.74625363
+          alt: 788.75
         cross:
           crossingPair:
           - fix: 124
@@ -2680,7 +2680,7 @@ tagging:
           time: 2018-05-24T10:34:47.500359638951Z
           lat: 43.83120829
           lng: 16.62704999
-          alt: 1225.99928072
+          alt: 1226
         cross:
           crossingPair:
           - fix: 1881
@@ -2701,7 +2701,7 @@ tagging:
           time: 2018-05-24T10:35:55.544747422137Z
           lat: 43.82399702
           lng: 16.62105162
-          alt: 1110.45525258
+          alt: 1110.46
         cross:
           crossingPair:
           - fix: 1949
@@ -2722,7 +2722,7 @@ tagging:
           time: 2018-05-24T11:05:01.848486883587Z
           lat: 43.78401263
           lng: 16.65675
-          alt: 562.15151312
+          alt: 562.15
         cross:
           crossingPair:
           - fix: 3695
@@ -2771,7 +2771,7 @@ tagging:
           time: 2018-05-24T10:43:40.81931822861Z
           lat: 43.82853173
           lng: 16.62936203
-          alt: 715.90340886
+          alt: 715.9
         cross:
           crossingPair:
           - fix: 1221
@@ -2792,7 +2792,7 @@ tagging:
           time: 2018-05-24T10:45:45.144549134314Z
           lat: 43.82447128
           lng: 16.62079518
-          alt: 622.71090173
+          alt: 622.71
         cross:
           crossingPair:
           - fix: 1346
@@ -2821,7 +2821,7 @@ tagging:
           time: 2018-05-24T11:26:42.39463398585Z
           lat: 43.82949694
           lng: 16.63745396
-          alt: 758.60536601
+          alt: 758.61
         cross:
           crossingPair:
           - fix: 411
@@ -2842,7 +2842,7 @@ tagging:
           time: 2018-05-24T11:30:23.60833186997Z
           lat: 43.82872682
           lng: 16.6291725
-          alt: 738.39166813
+          alt: 738.39
         cross:
           crossingPair:
           - fix: 632
@@ -2892,7 +2892,7 @@ tagging:
           time: 2018-05-24T11:47:18.341212312102Z
           lat: 43.82635039
           lng: 16.64413823
-          alt: 792.65878769
+          alt: 792.66
         cross:
           crossingPair:
           - fix: 161
@@ -2913,7 +2913,7 @@ tagging:
           time: 2018-05-24T11:49:56.448711488495Z
           lat: 43.82579594
           lng: 16.63243502
-          alt: 683.65386553
+          alt: 683.65
         cross:
           crossingPair:
           - fix: 319
@@ -2946,7 +2946,7 @@ tagging:
           time: 2018-05-24T10:33:41.763536889969Z
           lat: 43.82646577
           lng: 16.64452545
-          alt: 776.23646311
+          alt: 776.24
         cross:
           crossingPair:
           - fix: 98
@@ -2967,7 +2967,7 @@ tagging:
           time: 2018-05-24T10:44:29.4181448326Z
           lat: 43.82989305
           lng: 16.62811091
-          alt: 931.16371033
+          alt: 931.16
         cross:
           crossingPair:
           - fix: 746
@@ -2988,7 +2988,7 @@ tagging:
           time: 2018-05-24T10:49:14.848402898427Z
           lat: 43.82541516
           lng: 16.61989495
-          alt: 1017.3031942
+          alt: 1017.3
         cross:
           crossingPair:
           - fix: 1031
@@ -3020,7 +3020,7 @@ tagging:
           time: 2018-05-24T10:33:54.21817680008Z
           lat: 43.82651151
           lng: 16.64465727
-          alt: 780.5636464
+          alt: 780.56
         cross:
           crossingPair:
           - fix: 13
@@ -3041,7 +3041,7 @@ tagging:
           time: 2018-05-24T10:58:42.436402456214Z
           lat: 43.82578332
           lng: 16.63245121
-          alt: 1067.56359754
+          alt: 1067.56
         cross:
           crossingPair:
           - fix: 757
@@ -3062,7 +3062,7 @@ tagging:
           time: 2018-05-24T11:00:04.768605928393Z
           lat: 43.82405261
           lng: 16.621027
-          alt: 973.23139407
+          alt: 973.23
         cross:
           crossingPair:
           - fix: 798
@@ -3083,7 +3083,7 @@ tagging:
           time: 2018-05-24T11:34:52.251047834677Z
           lat: 43.7840083
           lng: 16.65670844
-          alt: 713.49790433
+          alt: 713.5
         cross:
           crossingPair:
           - fix: 1841
@@ -3111,7 +3111,7 @@ tagging:
           time: 2018-05-24T10:28:50.108376040512Z
           lat: 43.82644458
           lng: 16.64446084
-          alt: 766.78324792
+          alt: 766.78
         cross:
           crossingPair:
           - fix: 118
@@ -3153,7 +3153,7 @@ tagging:
           time: 2018-05-24T10:46:43.007835330003Z
           lat: 43.82559934
           lng: 16.61963242
-          alt: 950.99216467
+          alt: 950.99
         cross:
           crossingPair:
           - fix: 1189
@@ -3174,7 +3174,7 @@ tagging:
           time: 2018-05-24T11:12:46.907781309213Z
           lat: 43.78395769
           lng: 16.65633486
-          alt: 791.09221869
+          alt: 791.09
         cross:
           crossingPair:
           - fix: 2752
@@ -3216,7 +3216,7 @@ tagging:
           time: 2018-05-26T11:20:43.238571314872Z
           lat: 43.82660474
           lng: 16.64489924
-          alt: 706.23857131
+          alt: 706.24
         cross:
           crossingPair:
           - fix: 523
@@ -3237,7 +3237,7 @@ tagging:
           time: 2018-05-26T11:29:57.290225373139Z
           lat: 43.83023332
           lng: 16.62782314
-          alt: 793.41954925
+          alt: 793.42
         cross:
           crossingPair:
           - fix: 1077
@@ -3279,7 +3279,7 @@ tagging:
           time: 2018-05-26T11:59:21.883815585088Z
           lat: 43.79950968
           lng: 16.67086474
-          alt: 690.11618441
+          alt: 690.12
         cross:
           crossingPair:
           - fix: 2841
@@ -3308,7 +3308,7 @@ tagging:
           time: 2018-05-26T11:38:43.046086708869Z
           lat: 43.8266636
           lng: 16.64503717
-          alt: 761.95391329
+          alt: 761.95
         cross:
           crossingPair:
           - fix: 199
@@ -3329,7 +3329,7 @@ tagging:
           time: 2018-05-26T11:53:01.305645173243Z
           lat: 43.81957453
           lng: 16.64434491
-          alt: 611.69435483
+          alt: 611.69
         cross:
           crossingPair:
           - fix: 1057
@@ -3360,7 +3360,7 @@ tagging:
           time: 2018-05-26T11:08:36.734707322383Z
           lat: 43.82658435
           lng: 16.64484898
-          alt: 760.26529268
+          alt: 760.27
         cross:
           crossingPair:
           - fix: 66
@@ -3402,7 +3402,7 @@ tagging:
           time: 2018-05-26T11:26:54.403672966432Z
           lat: 43.82591957
           lng: 16.61906315
-          alt: 1341.59632703
+          alt: 1341.6
         cross:
           crossingPair:
           - fix: 1164
@@ -3423,7 +3423,7 @@ tagging:
           time: 2018-05-26T11:55:55.222893282646Z
           lat: 43.79937771
           lng: 16.67033704
-          alt: 797.55421343
+          alt: 797.55
         cross:
           crossingPair:
           - fix: 2905
@@ -3452,7 +3452,7 @@ tagging:
           time: 2018-05-26T10:58:18.472017863111Z
           lat: 43.8265264
           lng: 16.64469813
-          alt: 735.47201786
+          alt: 735.47
         cross:
           crossingPair:
           - fix: 113
@@ -3473,7 +3473,7 @@ tagging:
           time: 2018-05-26T11:11:33.983086940208Z
           lat: 43.83125142
           lng: 16.6270175
-          alt: 1030.03382612
+          alt: 1030.03
         cross:
           crossingPair:
           - fix: 908
@@ -3494,7 +3494,7 @@ tagging:
           time: 2018-05-26T11:13:03.506477170542Z
           lat: 43.82581602
           lng: 16.61926645
-          alt: 959.98704566
+          alt: 959.99
         cross:
           crossingPair:
           - fix: 998
@@ -3515,7 +3515,7 @@ tagging:
           time: 2018-05-26T11:31:45.834724758762Z
           lat: 43.79924986
           lng: 16.6699529
-          alt: 1262.16527524
+          alt: 1262.17
         cross:
           crossingPair:
           - fix: 2120
@@ -3536,7 +3536,7 @@ tagging:
           time: 2018-05-26T11:55:47.382539244374Z
           lat: 43.84562556
           lng: 16.60648876
-          alt: 1171.61746076
+          alt: 1171.62
         cross:
           crossingPair:
           - fix: 3562
@@ -3564,7 +3564,7 @@ tagging:
           time: 2018-05-26T11:23:21.507147926796Z
           lat: 43.82999976
           lng: 16.6374575
-          alt: 756.49285207
+          alt: 756.49
         cross:
           crossingPair:
           - fix: 67
@@ -3585,7 +3585,7 @@ tagging:
           time: 2018-05-26T11:24:43.897607297604Z
           lat: 43.82941836
           lng: 16.62852862
-          alt: 715.2047854
+          alt: 715.2
         cross:
           crossingPair:
           - fix: 149
@@ -3636,7 +3636,7 @@ tagging:
           time: 2018-05-26T10:33:40.083511014348Z
           lat: 43.82927637
           lng: 16.6374833
-          alt: 732.08351101
+          alt: 732.08
         cross:
           crossingPair:
           - fix: 93
@@ -3657,7 +3657,7 @@ tagging:
           time: 2018-05-26T11:10:34.894552452327Z
           lat: 43.83772897
           lng: 16.62355529
-          alt: 1709.10544755
+          alt: 1709.11
         cross:
           crossingPair:
           - fix: 2307
@@ -3678,7 +3678,7 @@ tagging:
           time: 2018-05-26T11:12:19.374472441124Z
           lat: 43.82472298
           lng: 16.62061256
-          alt: 1534.62552756
+          alt: 1534.63
         cross:
           crossingPair:
           - fix: 2412
@@ -3699,7 +3699,7 @@ tagging:
           time: 2018-05-26T11:18:42.449976901495Z
           lat: 43.79883667
           lng: 16.66907833
-          alt: 1063.5500231
+          alt: 1063.55
         cross:
           crossingPair:
           - fix: 2795
@@ -3769,7 +3769,7 @@ tagging:
           time: 2018-05-26T11:11:03.597526533168Z
           lat: 43.82919678
           lng: 16.62873027
-          alt: 1143.40247347
+          alt: 1143.4
         cross:
           crossingPair:
           - fix: 1404
@@ -3790,7 +3790,7 @@ tagging:
           time: 2018-05-26T11:12:39.504083602684Z
           lat: 43.82622479
           lng: 16.61829133
-          alt: 1105.4959164
+          alt: 1105.5
         cross:
           crossingPair:
           - fix: 1500
@@ -3811,7 +3811,7 @@ tagging:
           time: 2018-05-26T11:31:35.111618923056Z
           lat: 43.79920551
           lng: 16.66983705
-          alt: 1158.88838108
+          alt: 1158.89
         cross:
           crossingPair:
           - fix: 2636
@@ -3932,7 +3932,7 @@ tagging:
           time: 2018-05-26T10:51:36.346081969016Z
           lat: 43.82618847
           lng: 16.64330449
-          alt: 750.65391803
+          alt: 750.65
         cross:
           crossingPair:
           - fix: 75
@@ -3974,7 +3974,7 @@ tagging:
           time: 2018-05-26T11:13:18.256694436799Z
           lat: 43.82538289
           lng: 16.61993717
-          alt: 1067.74330556
+          alt: 1067.74
         cross:
           crossingPair:
           - fix: 1093
@@ -3995,7 +3995,7 @@ tagging:
           time: 2018-05-26T11:28:36.603317578494Z
           lat: 43.79929311
           lng: 16.67007355
-          alt: 841.79336484
+          alt: 841.79
         cross:
           crossingPair:
           - fix: 2011
@@ -4044,7 +4044,7 @@ tagging:
           time: 2018-05-26T10:52:35.529651973916Z
           lat: 43.82629019
           lng: 16.64388919
-          alt: 765.47034803
+          alt: 765.47
         cross:
           crossingPair:
           - fix: 109
@@ -4065,7 +4065,7 @@ tagging:
           time: 2018-05-26T11:25:10.691733647417Z
           lat: 43.83229874
           lng: 16.62627056
-          alt: 1210.92479906
+          alt: 1210.92
         cross:
           crossingPair:
           - fix: 2064
@@ -4086,7 +4086,7 @@ tagging:
           time: 2018-05-26T11:26:56.852474772484Z
           lat: 43.82599071
           lng: 16.61890984
-          alt: 1137.29505046
+          alt: 1137.3
         cross:
           crossingPair:
           - fix: 2170
@@ -4116,7 +4116,7 @@ tagging:
           time: 2018-05-26T10:48:00.395296924991Z
           lat: 43.82674032
           lng: 16.6452031
-          alt: 790.39529692
+          alt: 790.4
         cross:
           crossingPair:
           - fix: 63
@@ -4137,7 +4137,7 @@ tagging:
           time: 2018-05-26T11:11:59.263364580049Z
           lat: 43.83558244
           lng: 16.62441229
-          alt: 1082.73663542
+          alt: 1082.74
         cross:
           crossingPair:
           - fix: 1502
@@ -4158,7 +4158,7 @@ tagging:
           time: 2018-05-26T11:14:58.715085286529Z
           lat: 43.82634041
           lng: 16.61787617
-          alt: 1007.56982943
+          alt: 1007.57
         cross:
           crossingPair:
           - fix: 1681
@@ -4200,7 +4200,7 @@ tagging:
           time: 2018-05-26T11:56:04.223798132802Z
           lat: 43.84591496
           lng: 16.6067906
-          alt: 1159.77620187
+          alt: 1159.78
         cross:
           crossingPair:
           - fix: 4147
@@ -4228,7 +4228,7 @@ tagging:
           time: 2018-05-26T10:48:33.90050090792Z
           lat: 43.82706047
           lng: 16.64577236
-          alt: 828.72040073
+          alt: 828.72
         cross:
           crossingPair:
           - fix: 40
@@ -4249,7 +4249,7 @@ tagging:
           time: 2018-05-26T11:06:52.72256038209Z
           lat: 43.82902351
           lng: 16.62889099
-          alt: 1456.49420773
+          alt: 1456.49
         cross:
           crossingPair:
           - fix: 150
@@ -4270,7 +4270,7 @@ tagging:
           time: 2018-05-26T11:08:26.63088287943Z
           lat: 43.82438512
           lng: 16.62084989
-          alt: 1337.07382342
+          alt: 1337.07
         cross:
           crossingPair:
           - fix: 159
@@ -4312,7 +4312,7 @@ tagging:
           time: 2018-05-26T11:37:58.353511522909Z
           lat: 43.84379501
           lng: 16.60453712
-          alt: 1059.29297695
+          alt: 1059.29
         cross:
           crossingPair:
           - fix: 340
@@ -4340,7 +4340,7 @@ tagging:
           time: 2018-05-26T10:39:10.341112143018Z
           lat: 43.82656059
           lng: 16.64478863
-          alt: 752.65888786
+          alt: 752.66
         cross:
           crossingPair:
           - fix: 101
@@ -4361,7 +4361,7 @@ tagging:
           time: 2018-05-26T11:12:08.747527110729Z
           lat: 43.83490016
           lng: 16.62474177
-          alt: 1201.25247289
+          alt: 1201.25
         cross:
           crossingPair:
           - fix: 2079
@@ -4382,7 +4382,7 @@ tagging:
           time: 2018-05-26T11:14:32.154302090654Z
           lat: 43.82377305
           lng: 16.62113714
-          alt: 1101.84569791
+          alt: 1101.85
         cross:
           crossingPair:
           - fix: 2223
@@ -4403,7 +4403,7 @@ tagging:
           time: 2018-05-26T11:28:05.751769155385Z
           lat: 43.79913322
           lng: 16.66966253
-          alt: 834.49646169
+          alt: 834.5
         cross:
           crossingPair:
           - fix: 3036
@@ -4524,7 +4524,7 @@ tagging:
           time: 2018-05-26T10:30:50.605347237703Z
           lat: 43.82645964
           lng: 16.64450702
-          alt: 735.78930552
+          alt: 735.79
         cross:
           crossingPair:
           - fix: 99
@@ -4545,7 +4545,7 @@ tagging:
           time: 2018-05-26T11:10:55.27220069988Z
           lat: 43.83446824
           lng: 16.62496518
-          alt: 1684.7277993
+          alt: 1684.73
         cross:
           crossingPair:
           - fix: 2504
@@ -4566,7 +4566,7 @@ tagging:
           time: 2018-05-26T11:12:16.020125852948Z
           lat: 43.82478098
           lng: 16.62056533
-          alt: 1548.97987415
+          alt: 1548.98
         cross:
           crossingPair:
           - fix: 2585
@@ -4608,7 +4608,7 @@ tagging:
           time: 2018-05-26T11:42:12.222114664073Z
           lat: 43.84794068
           lng: 16.60885369
-          alt: 1256.22211466
+          alt: 1256.22
         cross:
           crossingPair:
           - fix: 4381
@@ -4636,7 +4636,7 @@ tagging:
           time: 2018-05-26T11:37:21.203813031685Z
           lat: 43.82666376
           lng: 16.64503754
-          alt: 801.92228782
+          alt: 801.92
         cross:
           crossingPair:
           - fix: 27
@@ -4657,7 +4657,7 @@ tagging:
           time: 2018-05-26T11:52:23.23292152176Z
           lat: 43.83032403
           lng: 16.62774802
-          alt: 810.67390987
+          alt: 810.67
         cross:
           crossingPair:
           - fix: 214
@@ -4678,7 +4678,7 @@ tagging:
           time: 2018-05-26T11:54:44.986701302288Z
           lat: 43.82591734
           lng: 16.61906778
-          alt: 745.01994805
+          alt: 745.02
         cross:
           crossingPair:
           - fix: 242
@@ -4729,7 +4729,7 @@ tagging:
           time: 2018-05-26T11:12:41.159191802323Z
           lat: 43.83710945
           lng: 16.62377537
-          alt: 1675.6816164
+          alt: 1675.68
         cross:
           crossingPair:
           - fix: 1641
@@ -4750,7 +4750,7 @@ tagging:
           time: 2018-05-26T11:14:05.494085233246Z
           lat: 43.82500079
           lng: 16.62036706
-          alt: 1501.5177443
+          alt: 1501.52
         cross:
           crossingPair:
           - fix: 1725
@@ -4771,7 +4771,7 @@ tagging:
           time: 2018-05-26T11:19:38.370511671266Z
           lat: 43.7982753
           lng: 16.66831421
-          alt: 985.62948833
+          alt: 985.63
         cross:
           crossingPair:
           - fix: 2058
@@ -4792,7 +4792,7 @@ tagging:
           time: 2018-05-26T11:42:14.302401756034Z
           lat: 43.84800856
           lng: 16.60892134
-          alt: 1247.30240176
+          alt: 1247.3
         cross:
           crossingPair:
           - fix: 3414
@@ -4865,7 +4865,7 @@ tagging:
           time: 2018-05-26T11:14:19.944703614312Z
           lat: 43.82455553
           lng: 16.62073794
-          alt: 1251.11059277
+          alt: 1251.11
         cross:
           crossingPair:
           - fix: 1788
@@ -4918,7 +4918,7 @@ tagging:
           time: 2018-05-26T10:53:16.669039758131Z
           lat: 43.82653322
           lng: 16.64471655
-          alt: 755.66903976
+          alt: 755.67
         cross:
           crossingPair:
           - fix: 103
@@ -4939,7 +4939,7 @@ tagging:
           time: 2018-05-26T11:11:13.348640671877Z
           lat: 43.83221591
           lng: 16.62632674
-          alt: 1008.30271866
+          alt: 1008.3
         cross:
           crossingPair:
           - fix: 1180
@@ -4960,7 +4960,7 @@ tagging:
           time: 2018-05-26T11:13:25.465305092041Z
           lat: 43.82571123
           lng: 16.61945231
-          alt: 897.53469491
+          alt: 897.53
         cross:
           crossingPair:
           - fix: 1312
@@ -4981,7 +4981,7 @@ tagging:
           time: 2018-05-26T11:31:37.261629108669Z
           lat: 43.79906948
           lng: 16.66952103
-          alt: 1158.47674178
+          alt: 1158.48
         cross:
           crossingPair:
           - fix: 2404
@@ -5002,7 +5002,7 @@ tagging:
           time: 2018-05-26T11:52:31.852286331971Z
           lat: 43.84279023
           lng: 16.60343399
-          alt: 1122.85228633
+          alt: 1122.85
         cross:
           crossingPair:
           - fix: 3658
@@ -5030,7 +5030,7 @@ tagging:
           time: 2018-05-26T10:48:55.939089248488Z
           lat: 43.82699522
           lng: 16.64566941
-          alt: 813.06091075
+          alt: 813.06
         cross:
           crossingPair:
           - fix: 103
@@ -5051,7 +5051,7 @@ tagging:
           time: 2018-05-26T11:09:25.750662673868Z
           lat: 43.82891872
           lng: 16.6289895
-          alt: 1670.37400599
+          alt: 1670.37
         cross:
           crossingPair:
           - fix: 717
@@ -5093,7 +5093,7 @@ tagging:
           time: 2018-05-26T11:18:00.793205787138Z
           lat: 43.79825689
           lng: 16.66829427
-          alt: 1183.41358843
+          alt: 1183.41
         cross:
           crossingPair:
           - fix: 975
@@ -5114,7 +5114,7 @@ tagging:
           time: 2018-05-26T11:42:44.851866607497Z
           lat: 43.84832337
           lng: 16.60923386
-          alt: 1496.14813339
+          alt: 1496.15
         cross:
           crossingPair:
           - fix: 1716
@@ -5142,7 +5142,7 @@ tagging:
           time: 2018-05-26T10:48:26.13658286798Z
           lat: 43.82657423
           lng: 16.6448235
-          alt: 744.86341713
+          alt: 744.86
         cross:
           crossingPair:
           - fix: 109
@@ -5163,7 +5163,7 @@ tagging:
           time: 2018-05-26T11:08:57.380871985227Z
           lat: 43.82900797
           lng: 16.62890554
-          alt: 1616.61912801
+          alt: 1616.62
         cross:
           crossingPair:
           - fix: 1339
@@ -5184,7 +5184,7 @@ tagging:
           time: 2018-05-26T11:10:05.680122192775Z
           lat: 43.82402666
           lng: 16.62103866
-          alt: 1530.63975561
+          alt: 1530.64
         cross:
           crossingPair:
           - fix: 1406
@@ -5205,7 +5205,7 @@ tagging:
           time: 2018-05-26T11:17:59.894259904924Z
           lat: 43.79835705
           lng: 16.6684061
-          alt: 1180.1057401
+          alt: 1180.11
         cross:
           crossingPair:
           - fix: 1880
@@ -5346,7 +5346,7 @@ tagging:
           time: 2018-05-27T10:58:58.612884903896Z
           lat: 43.83193978
           lng: 16.63849516
-          alt: 874.3871151
+          alt: 874.39
         cross:
           crossingPair:
           - fix: 970
@@ -5367,7 +5367,7 @@ tagging:
           time: 2018-05-27T11:04:21.975994493467Z
           lat: 43.83418533
           lng: 16.62511789
-          alt: 985.07201652
+          alt: 985.07
         cross:
           crossingPair:
           - fix: 1293
@@ -5388,7 +5388,7 @@ tagging:
           time: 2018-05-27T11:05:57.267752751211Z
           lat: 43.82622769
           lng: 16.61828215
-          alt: 862.19674175
+          alt: 862.2
         cross:
           crossingPair:
           - fix: 1389
@@ -5409,7 +5409,7 @@ tagging:
           time: 2018-05-27T11:13:26.592184865167Z
           lat: 43.84341978
           lng: 16.60412786
-          alt: 998.81563027
+          alt: 998.82
         cross:
           crossingPair:
           - fix: 1838
@@ -5430,7 +5430,7 @@ tagging:
           time: 2018-05-27T11:43:50.24822706106Z
           lat: 43.79959185
           lng: 16.67135839
-          alt: 1496.25531882
+          alt: 1496.26
         cross:
           crossingPair:
           - fix: 3662
@@ -5451,7 +5451,7 @@ tagging:
           time: 2018-05-27T11:57:38.225114637167Z
           lat: 43.84754094
           lng: 16.60845337
-          alt: 1201.77488536
+          alt: 1201.77
         cross:
           crossingPair:
           - fix: 4490
@@ -5472,7 +5472,7 @@ tagging:
           time: 2018-05-27T12:24:29.246164632129Z
           lat: 43.76213769
           lng: 16.61941668
-          alt: 410.24616463
+          alt: 410.25
         cross:
           crossingPair:
           - fix: 6101
@@ -5496,7 +5496,7 @@ tagging:
           time: 2018-05-27T10:54:08.4017553282Z
           lat: 43.82766119
           lng: 16.63835069
-          alt: 825.9589468
+          alt: 825.96
         cross:
           crossingPair:
           - fix: 145
@@ -5517,7 +5517,7 @@ tagging:
           time: 2018-05-27T11:16:09.92779751695Z
           lat: 43.83130482
           lng: 16.62697745
-          alt: 1154.21660745
+          alt: 1154.22
         cross:
           crossingPair:
           - fix: 433
@@ -5538,7 +5538,7 @@ tagging:
           time: 2018-05-27T11:17:33.281776803475Z
           lat: 43.82616352
           lng: 16.61847491
-          alt: 1059.09280175
+          alt: 1059.09
         cross:
           crossingPair:
           - fix: 451
@@ -5559,7 +5559,7 @@ tagging:
           time: 2018-05-27T11:23:08.0405505075Z
           lat: 43.8402153
           lng: 16.60049919
-          alt: 902.95944949
+          alt: 902.96
         cross:
           crossingPair:
           - fix: 524
@@ -5580,7 +5580,7 @@ tagging:
           time: 2018-05-27T11:48:48.651266908928Z
           lat: 43.79767034
           lng: 16.66778043
-          alt: 843.76154982
+          alt: 843.76
         cross:
           crossingPair:
           - fix: 857
@@ -5601,7 +5601,7 @@ tagging:
           time: 2018-05-27T12:11:45.3891538522Z
           lat: 43.84447617
           lng: 16.605272
-          alt: 1112.26603075
+          alt: 1112.27
         cross:
           crossingPair:
           - fix: 1155
@@ -5622,7 +5622,7 @@ tagging:
           time: 2018-05-27T12:34:45.909777226275Z
           lat: 43.76179208
           lng: 16.62291244
-          alt: 453.92631188
+          alt: 453.93
         cross:
           crossingPair:
           - fix: 1457
@@ -5667,7 +5667,7 @@ tagging:
           time: 2018-05-27T11:01:10.599481031509Z
           lat: 43.83665673
           lng: 16.62395003
-          alt: 1347.80103794
+          alt: 1347.8
         cross:
           crossingPair:
           - fix: 1577
@@ -5688,7 +5688,7 @@ tagging:
           time: 2018-05-27T11:03:01.64918146985Z
           lat: 43.82650672
           lng: 16.61575759
-          alt: 1200.35081853
+          alt: 1200.35
         cross:
           crossingPair:
           - fix: 1688
@@ -5751,7 +5751,7 @@ tagging:
           time: 2018-05-27T11:50:00.552983018365Z
           lat: 43.84098333
           lng: 16.60139117
-          alt: 1389.44701698
+          alt: 1389.45
         cross:
           crossingPair:
           - fix: 4507
@@ -5772,7 +5772,7 @@ tagging:
           time: 2018-05-27T12:04:40.844223820592Z
           lat: 43.76216558
           lng: 16.62009482
-          alt: 353.84422382
+          alt: 353.84
         cross:
           crossingPair:
           - fix: 5387
@@ -5799,7 +5799,7 @@ tagging:
           time: 2018-05-27T11:56:54.972967769505Z
           lat: 43.82661757
           lng: 16.64493018
-          alt: 754.97296777
+          alt: 754.97
         cross:
           crossingPair:
           - fix: 126
@@ -5820,7 +5820,7 @@ tagging:
           time: 2018-05-27T12:17:41.537823273779Z
           lat: 43.82807437
           lng: 16.62982059
-          alt: 1035.92435345
+          alt: 1035.92
         cross:
           crossingPair:
           - fix: 1373
@@ -5841,7 +5841,7 @@ tagging:
           time: 2018-05-27T12:21:59.199459731925Z
           lat: 43.82621671
           lng: 16.61831671
-          alt: 1005.39891946
+          alt: 1005.4
         cross:
           crossingPair:
           - fix: 1631
@@ -5862,7 +5862,7 @@ tagging:
           time: 2018-05-27T12:30:29.784193262497Z
           lat: 43.84344868
           lng: 16.60415949
-          alt: 1273.35257979
+          alt: 1273.35
         cross:
           crossingPair:
           - fix: 2141
@@ -5883,7 +5883,7 @@ tagging:
           time: 2018-05-27T12:53:36.319102639394Z
           lat: 43.79905674
           lng: 16.66949397
-          alt: 965.68089736
+          alt: 965.68
         cross:
           crossingPair:
           - fix: 3528
@@ -6059,7 +6059,7 @@ tagging:
           time: 2018-05-27T10:38:18.412486149973Z
           lat: 43.82664605
           lng: 16.64499708
-          alt: 755.58751385
+          alt: 755.59
         cross:
           crossingPair:
           - fix: 214
@@ -6080,7 +6080,7 @@ tagging:
           time: 2018-05-27T11:02:32.114474583484Z
           lat: 43.83181284
           lng: 16.62660714
-          alt: 1029.88552542
+          alt: 1029.89
         cross:
           crossingPair:
           - fix: 1668
@@ -6101,7 +6101,7 @@ tagging:
           time: 2018-05-27T11:05:15.182964845065Z
           lat: 43.8261878
           lng: 16.61840447
-          alt: 949.63407031
+          alt: 949.63
         cross:
           crossingPair:
           - fix: 1831
@@ -6143,7 +6143,7 @@ tagging:
           time: 2018-05-27T11:41:49.491571179673Z
           lat: 43.7996257
           lng: 16.67277515
-          alt: 1385.98314236
+          alt: 1385.98
         cross:
           crossingPair:
           - fix: 4025
@@ -6164,7 +6164,7 @@ tagging:
           time: 2018-05-27T11:54:11.467024656191Z
           lat: 43.8434745
           lng: 16.60418774
-          alt: 1057.53297534
+          alt: 1057.53
         cross:
           crossingPair:
           - fix: 4767
@@ -6239,7 +6239,7 @@ tagging:
           time: 2018-05-27T10:48:09.681979322247Z
           lat: 43.82705
           lng: 16.63910377
-          alt: 695.68197932
+          alt: 695.68
         cross:
           crossingPair:
           - fix: 126
@@ -6260,7 +6260,7 @@ tagging:
           time: 2018-05-27T11:03:12.966380003281Z
           lat: 43.83170224
           lng: 16.62668614
-          alt: 983.03362
+          alt: 983.03
         cross:
           crossingPair:
           - fix: 1029
@@ -6302,7 +6302,7 @@ tagging:
           time: 2018-05-27T11:11:39.205745965614Z
           lat: 43.84126032
           lng: 16.60170936
-          alt: 901.20574597
+          alt: 901.21
         cross:
           crossingPair:
           - fix: 1536
@@ -6344,7 +6344,7 @@ tagging:
           time: 2018-05-27T11:52:00.084547151771Z
           lat: 43.84190139
           lng: 16.60243872
-          alt: 869.08454715
+          alt: 869.08
         cross:
           crossingPair:
           - fix: 3957
@@ -6369,7 +6369,7 @@ tagging:
           time: 2018-05-27T11:52:16.864420537637Z
           lat: 43.83102119
           lng: 16.63777571
-          alt: 781.27115892
+          alt: 781.27
         cross:
           crossingPair:
           - fix: 748
@@ -6411,7 +6411,7 @@ tagging:
           time: 2018-05-27T12:10:55.376858823518Z
           lat: 43.82457705
           lng: 16.6207227
-          alt: 827.86942353
+          alt: 827.87
         cross:
           crossingPair:
           - fix: 1845
@@ -6439,7 +6439,7 @@ tagging:
           time: 2018-05-27T10:19:12.235343439786Z
           lat: 43.82662549
           lng: 16.64494902
-          alt: 752.23534344
+          alt: 752.24
         cross:
           crossingPair:
           - fix: 63
@@ -6481,7 +6481,7 @@ tagging:
           time: 2018-05-27T11:02:15.95451498293Z
           lat: 43.82530379
           lng: 16.62003637
-          alt: 1014.04548502
+          alt: 1014.05
         cross:
           crossingPair:
           - fix: 2646
@@ -6523,7 +6523,7 @@ tagging:
           time: 2018-05-27T11:49:21.341847770646Z
           lat: 43.79960484
           lng: 16.67146667
-          alt: 1101.65815223
+          alt: 1101.66
         cross:
           crossingPair:
           - fix: 5472
@@ -6544,7 +6544,7 @@ tagging:
           time: 2018-05-27T12:03:37.121041352375Z
           lat: 43.8419875
           lng: 16.60253595
-          alt: 898.2420827
+          alt: 898.24
         cross:
           crossingPair:
           - fix: 6328
@@ -6565,7 +6565,7 @@ tagging:
           time: 2018-05-27T12:37:56.074577083898Z
           lat: 43.7620296
           lng: 16.62184876
-          alt: 533.70169166
+          alt: 533.7
         cross:
           crossingPair:
           - fix: 8387
@@ -6740,7 +6740,7 @@ tagging:
           time: 2018-05-27T11:04:19.858898768996Z
           lat: 43.83327375
           lng: 16.62564506
-          alt: 881.28220246
+          alt: 881.28
         cross:
           crossingPair:
           - fix: 732
@@ -6761,7 +6761,7 @@ tagging:
           time: 2018-05-27T11:06:52.975124366647Z
           lat: 43.82636916
           lng: 16.61775207
-          alt: 793.04975127
+          alt: 793.05
         cross:
           crossingPair:
           - fix: 885
@@ -6782,7 +6782,7 @@ tagging:
           time: 2018-05-27T11:24:36.891462618829Z
           lat: 43.84692958
           lng: 16.60783471
-          alt: 1090.21707476
+          alt: 1090.22
         cross:
           crossingPair:
           - fix: 1949
@@ -6824,7 +6824,7 @@ tagging:
           time: 2018-05-27T12:03:17.390479364754Z
           lat: 43.84480662
           lng: 16.60562478
-          alt: 956.21904127
+          alt: 956.22
         cross:
           crossingPair:
           - fix: 4270
@@ -7020,7 +7020,7 @@ tagging:
           time: 2018-05-27T11:01:26.820232774004Z
           lat: 43.82935301
           lng: 16.62858764
-          alt: 723.17976723
+          alt: 723.18
         cross:
           crossingPair:
           - fix: 739
@@ -7041,7 +7041,7 @@ tagging:
           time: 2018-05-27T11:05:59.370020184379Z
           lat: 43.826192
           lng: 16.618392
-          alt: 807.88993945
+          alt: 807.89
         cross:
           crossingPair:
           - fix: 1012
@@ -7062,7 +7062,7 @@ tagging:
           time: 2018-05-27T11:23:09.576180154953Z
           lat: 43.84053577
           lng: 16.60087313
-          alt: 1052.42381985
+          alt: 1052.42
         cross:
           crossingPair:
           - fix: 2042
@@ -7125,7 +7125,7 @@ tagging:
           time: 2018-05-27T12:37:25.959463650405Z
           lat: 43.76090203
           lng: 16.62498469
-          alt: 346.95946365
+          alt: 346.96
         cross:
           crossingPair:
           - fix: 6498
@@ -7149,7 +7149,7 @@ tagging:
           time: 2018-05-27T10:57:25.094952096675Z
           lat: 43.83206825
           lng: 16.6386405
-          alt: 911.12403832
+          alt: 911.12
         cross:
           crossingPair:
           - fix: 120
@@ -7170,7 +7170,7 @@ tagging:
           time: 2018-05-27T11:03:09.038345550489Z
           lat: 43.83141412
           lng: 16.62689616
-          alt: 985.96165445
+          alt: 985.96
         cross:
           crossingPair:
           - fix: 190
@@ -7191,7 +7191,7 @@ tagging:
           time: 2018-05-27T11:05:42.054808320192Z
           lat: 43.82611301
           lng: 16.61861302
-          alt: 920.89038336
+          alt: 920.89
         cross:
           crossingPair:
           - fix: 226
@@ -7212,7 +7212,7 @@ tagging:
           time: 2018-05-27T11:15:30.406833632321Z
           lat: 43.84178706
           lng: 16.60230936
-          alt: 902.40683363
+          alt: 902.41
         cross:
           crossingPair:
           - fix: 355
@@ -7254,7 +7254,7 @@ tagging:
           time: 2018-05-27T12:00:10.768742501159Z
           lat: 43.83923849
           lng: 16.59934369
-          alt: 796.7687425
+          alt: 796.77
         cross:
           crossingPair:
           - fix: 906
@@ -7275,7 +7275,7 @@ tagging:
           time: 2018-05-27T12:34:17.255075029196Z
           lat: 43.76171207
           lng: 16.62317908
-          alt: 471.74492497
+          alt: 471.74
         cross:
           crossingPair:
           - fix: 1323
@@ -7299,7 +7299,7 @@ tagging:
           time: 2018-05-27T10:38:31.01742656101Z
           lat: 43.82688275
           lng: 16.63938246
-          alt: 722.01742656
+          alt: 722.02
         cross:
           crossingPair:
           - fix: 209
@@ -7341,7 +7341,7 @@ tagging:
           time: 2018-05-27T11:13:39.421049038202Z
           lat: 43.8264886
           lng: 16.6170193
-          alt: 843.57895096
+          alt: 843.58
         cross:
           crossingPair:
           - fix: 2317
@@ -7362,7 +7362,7 @@ tagging:
           time: 2018-05-27T11:22:02.696638632447Z
           lat: 43.84416157
           lng: 16.60493388
-          alt: 1086.69663863
+          alt: 1086.7
         cross:
           crossingPair:
           - fix: 2820
@@ -7404,7 +7404,7 @@ tagging:
           time: 2018-05-27T11:59:19.229666718258Z
           lat: 43.83958187
           lng: 16.59975261
-          alt: 799.22966672
+          alt: 799.23
         cross:
           crossingPair:
           - fix: 5057
@@ -7449,7 +7449,7 @@ tagging:
           time: 2018-05-27T12:53:25.14987319098Z
           lat: 43.82660918
           lng: 16.64490999
-          alt: 779.85012681
+          alt: 779.85
         cross:
           crossingPair:
           - fix: 78
@@ -7470,7 +7470,7 @@ tagging:
           time: 2018-05-27T13:10:40.223596311081Z
           lat: 43.83062038
           lng: 16.62750724
-          alt: 860.77640369
+          alt: 860.78
         cross:
           crossingPair:
           - fix: 1113
@@ -7491,7 +7491,7 @@ tagging:
           time: 2018-05-27T13:13:43.98263291014Z
           lat: 43.82651696
           lng: 16.61666754
-          alt: 813.01736709
+          alt: 813.02
         cross:
           crossingPair:
           - fix: 1296
@@ -7522,7 +7522,7 @@ tagging:
           time: 2018-05-27T10:44:14.579522182582Z
           lat: 43.82660435
           lng: 16.64489829
-          alt: 766.42047782
+          alt: 766.42
         cross:
           crossingPair:
           - fix: 136
@@ -7543,7 +7543,7 @@ tagging:
           time: 2018-05-27T11:16:12.890910937797Z
           lat: 43.83150727
           lng: 16.62682759
-          alt: 1185.10908906
+          alt: 1185.11
         cross:
           crossingPair:
           - fix: 2054
@@ -7564,7 +7564,7 @@ tagging:
           time: 2018-05-27T11:17:45.719019265037Z
           lat: 43.82646405
           lng: 16.61722079
-          alt: 1035.56196147
+          alt: 1035.56
         cross:
           crossingPair:
           - fix: 2147
@@ -7585,7 +7585,7 @@ tagging:
           time: 2018-05-27T11:24:48.979318582319Z
           lat: 43.84243189
           lng: 16.60303496
-          alt: 965.97931858
+          alt: 965.98
         cross:
           crossingPair:
           - fix: 2570
@@ -7606,7 +7606,7 @@ tagging:
           time: 2018-05-27T11:55:24.961509345018Z
           lat: 43.79958654
           lng: 16.67131795
-          alt: 1362.07698131
+          alt: 1362.08
         cross:
           crossingPair:
           - fix: 4406
@@ -7627,7 +7627,7 @@ tagging:
           time: 2018-05-27T12:11:36.292381749504Z
           lat: 43.84547652
           lng: 16.60633262
-          alt: 1187.70761825
+          alt: 1187.71
         cross:
           crossingPair:
           - fix: 5378
@@ -7672,7 +7672,7 @@ tagging:
           time: 2018-05-27T10:19:11.080847971208Z
           lat: 43.82659731
           lng: 16.64488106
-          alt: 749.08084797
+          alt: 749.08
         cross:
           crossingPair:
           - fix: 31
@@ -7693,7 +7693,7 @@ tagging:
           time: 2018-05-27T11:01:29.397308836336Z
           lat: 43.83720023
           lng: 16.62374177
-          alt: 1356.60269116
+          alt: 1356.6
         cross:
           crossingPair:
           - fix: 1298
@@ -7714,7 +7714,7 @@ tagging:
           time: 2018-05-27T11:03:31.34037135368Z
           lat: 43.82652713
           lng: 16.61624416
-          alt: 1195.65962865
+          alt: 1195.66
         cross:
           crossingPair:
           - fix: 1359
@@ -7735,7 +7735,7 @@ tagging:
           time: 2018-05-27T11:06:32.50514172132Z
           lat: 43.84429218
           lng: 16.60507453
-          alt: 1075.98971656
+          alt: 1075.99
         cross:
           crossingPair:
           - fix: 1451
@@ -7756,7 +7756,7 @@ tagging:
           time: 2018-05-27T11:36:00.321415789972Z
           lat: 43.79963422
           lng: 16.67180566
-          alt: 1331.67858421
+          alt: 1331.68
         cross:
           crossingPair:
           - fix: 2333
@@ -7777,7 +7777,7 @@ tagging:
           time: 2018-05-27T11:49:19.425297020505Z
           lat: 43.84441171
           lng: 16.6052029
-          alt: 1381.14940596
+          alt: 1381.15
         cross:
           crossingPair:
           - fix: 2734
@@ -7798,7 +7798,7 @@ tagging:
           time: 2018-05-27T12:06:59.626115833076Z
           lat: 43.76210094
           lng: 16.61902398
-          alt: 327.37388417
+          alt: 327.37
         cross:
           crossingPair:
           - fix: 3264
@@ -7843,7 +7843,7 @@ tagging:
           time: 2018-05-27T11:15:45.133247037485Z
           lat: 43.83145556
           lng: 16.62686558
-          alt: 1183.86675296
+          alt: 1183.87
         cross:
           crossingPair:
           - fix: 1122
@@ -7864,7 +7864,7 @@ tagging:
           time: 2018-05-27T11:17:05.184726818339Z
           lat: 43.82601051
           lng: 16.61886486
-          alt: 1083.63054636
+          alt: 1083.63
         cross:
           crossingPair:
           - fix: 1202
@@ -7885,7 +7885,7 @@ tagging:
           time: 2018-05-27T11:26:42.878469732155Z
           lat: 43.85107929
           lng: 16.6118849
-          alt: 1539.12153027
+          alt: 1539.12
         cross:
           crossingPair:
           - fix: 1779
@@ -7906,7 +7906,7 @@ tagging:
           time: 2018-05-27T11:43:25.362192149068Z
           lat: 43.79936982
           lng: 16.67031063
-          alt: 1305.63780785
+          alt: 1305.64
         cross:
           crossingPair:
           - fix: 2782
@@ -7927,7 +7927,7 @@ tagging:
           time: 2018-05-27T11:57:48.224326470719Z
           lat: 43.84805759
           lng: 16.60897014
-          alt: 1273.22432647
+          alt: 1273.22
         cross:
           crossingPair:
           - fix: 3645
@@ -7948,7 +7948,7 @@ tagging:
           time: 2018-05-27T12:23:53.62253403583Z
           lat: 43.76212925
           lng: 16.61931038
-          alt: 383.37746596
+          alt: 383.38
         cross:
           crossingPair:
           - fix: 5210
