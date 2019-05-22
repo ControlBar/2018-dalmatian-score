@@ -4,23 +4,23 @@ validityWorking:
     ssBestTime: null
     gsBestTime: null
     nominalDistance: 25.0 km
-    bestDistance: 12.004 km
+    bestDistance: 13.645 km
   launch:
     nominalLaunch: 0.96
     flying: 26
     present: 26
   distance:
-    sum: 79.4 km
+    sum: 103.2 km
     flying: 26
     area: 14.4
     nominalGoal: 0.2
     nominalDistance: 25.0 km
     minimumDistance: 1.000 km
-    bestDistance: 12.004 km
+    bestDistance: 13.645 km
   stop:
-    bestDistance: 12.004 km
-    flownMean: 4.780 km
-    flownStdDev: 3.463 km
+    bestDistance: 13.645 km
+    flownMean: 4.614 km
+    flownStdDev: 3.336 km
     flying: 26
     landed: 17
     launchToEssDistance: 29.063 km
@@ -31,23 +31,23 @@ validityWorking:
     ssBestTime: null
     gsBestTime: null
     nominalDistance: 25.0 km
-    bestDistance: 20.356 km
+    bestDistance: 22.716 km
   launch:
     nominalLaunch: 0.96
     flying: 23
     present: 24
   distance:
-    sum: 257.8 km
+    sum: 287.6 km
     flying: 23
     area: 14.4
     nominalGoal: 0.2
     nominalDistance: 25.0 km
     minimumDistance: 1.000 km
-    bestDistance: 20.356 km
+    bestDistance: 22.716 km
   stop:
-    bestDistance: 20.356 km
-    flownMean: 12.720 km
-    flownStdDev: 7.318 km
+    bestDistance: 22.716 km
+    flownMean: 12.697 km
+    flownStdDev: 7.310 km
     flying: 23
     landed: 8
     launchToEssDistance: 41.172 km
@@ -73,16 +73,16 @@ validityWorking:
     bestDistance: 26.388 km
   stop: null
 validity:
-- time: 0.69409329
+- time: 0.76766626
   launch: 1
-  distance: 0.21203995
-  task: 0.12604997
-  stop: 0.85646026
-- time: 0.95581651
+  distance: 0.27573408
+  task: 0.20105563
+  stop: 0.94984631
+- time: 0.98563141
   launch: 0.99994088
-  distance: 0.77848265
-  task: 0.51547977
-  stop: 0.69280951
+  distance: 0.86826101
+  task: 0.71125901
+  stop: 0.83116763
 - time: 1
   launch: 0.99974148
   distance: 1
@@ -94,33 +94,33 @@ allocation:
     reach: 0.9
     effort: 0
     distance: 0.9
-    leading: 4.0467e-2
+    leading: 4.599923e-2
     arrival: 0
-    time: 5.9533e-2
+    time: 5.400077e-2
   points:
-    reach: 113.445
+    reach: 180.95
     effort: 0
-    distance: 113.445
-    leading: 5.1
+    distance: 180.95
+    leading: 9.2
     arrival: 0
-    time: 7.5
-  taskPoints: 126
+    time: 10.9
+  taskPoints: 201
 - goalRatio: 0
   weight:
     reach: 0.9
     effort: 0
     distance: 0.9
-    leading: 4.944087e-2
+    leading: 5.517298e-2
     arrival: 0
-    time: 5.055913e-2
+    time: 4.482702e-2
   points:
-    reach: 463.932
+    reach: 640.133
     effort: 0
-    distance: 463.932
-    leading: 25.5
+    distance: 640.133
+    leading: 39.2
     arrival: 0
-    time: 26.1
-  taskPoints: 515
+    time: 31.9
+  taskPoints: 711
 - goalRatio: 0.57142857
   weight:
     reach: 0.39839067
@@ -141,14 +141,14 @@ score:
 - - - - '101'
       - Tomaž Toplak
     - place: '1'
-      total: 119
+      total: 168
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 113.445
+        reach: 158.471
         effort: 0
-        distance: 113.445
-        leading: 5.1
+        distance: 158.471
+        leading: 9.2
         arrival: 0
         time: 0
       velocity:
@@ -160,20 +160,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 12.004 km
+      reachDistance: 11.950 km
       landedDistance: 11.986 km
       stoppedAlt: 425.000 m
   - - - '98'
       - Tomas Svoboda
     - place: '2'
-      total: 105
+      total: 135
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 102.35
+        reach: 130.449
         effort: 0
-        distance: 102.35
-        leading: 2.6
+        distance: 130.449
+        leading: 4.8
         arrival: 0
         time: 0
       velocity:
@@ -185,20 +185,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 10.830 km
+      reachDistance: 9.837 km
       landedDistance: 21.888 km
       stoppedAlt: 1291.000 m
   - - - '57'
       - Lara Leban
     - place: '3'
-      total: 88
+      total: 125
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 83.41
+        reach: 117.042
         effort: 0
-        distance: 83.41
-        leading: 4.1
+        distance: 117.042
+        leading: 7.5
         arrival: 0
         time: 0
       velocity:
@@ -213,42 +213,17 @@ score:
       reachDistance: 8.826 km
       landedDistance: 8.819 km
       stoppedAlt: 408.000 m
-  - - - '72'
-      - Mitja Jančič
-    - place: '4'
-      total: 85
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 80.839
-        effort: 0
-        distance: 80.839
-        leading: 4.1
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2018-05-24T10:34:47.500359638951Z
-        gs: 2018-05-24T10:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 8.554 km
-      landedDistance: 8.518 km
-      stoppedAlt: 415.000 m
   - - - '16'
       - Bruno Matos
-    - place: '5'
-      total: 82
+    - place: '4'
+      total: 116
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 81.293
+        reach: 114.071
         effort: 0
-        distance: 81.293
-        leading: 1
+        distance: 114.071
+        leading: 1.8
         arrival: 0
         time: 0
       velocity:
@@ -265,15 +240,15 @@ score:
       stoppedAlt: 962.000 m
   - - - '114'
       - Joan Brito
-    - place: '6'
-      total: 76
+    - place: '5'
+      total: 108
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 73.486
+        reach: 102.971
         effort: 0
-        distance: 73.486
-        leading: 2.5
+        distance: 102.971
+        leading: 4.6
         arrival: 0
         time: 0
       velocity:
@@ -285,20 +260,45 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 7.776 km
+      reachDistance: 7.765 km
       landedDistance: 7.710 km
       stoppedAlt: 427.000 m
-  - - - '86'
-      - Sandi Krč
-    - place: '7'
-      total: 58
+  - - - '72'
+      - Mitja Jančič
+    - place: '6'
+      total: 104
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 55.87
+        reach: 96.314
         effort: 0
-        distance: 55.87
-        leading: 2.4
+        distance: 96.314
+        leading: 7.5
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-05-24T10:34:47.500359638951Z
+        gs: 2018-05-24T10:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 7.263 km
+      landedDistance: 8.518 km
+      stoppedAlt: 415.000 m
+  - - - '86'
+      - Sandi Krč
+    - place: '7'
+      total: 83
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 78.371
+        effort: 0
+        distance: 78.371
+        leading: 4.3
         arrival: 0
         time: 0
       velocity:
@@ -310,20 +310,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.912 km
+      reachDistance: 5.910 km
       landedDistance: 5.099 km
       stoppedAlt: 421.000 m
   - - - '41'
       - Ivo Duarte
     - place: '8'
-      total: 55
+      total: 77
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 52.874
+        reach: 73.053
         effort: 0
-        distance: 52.874
-        leading: 2.1
+        distance: 73.053
+        leading: 3.7
         arrival: 0
         time: 0
       velocity:
@@ -335,20 +335,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.595 km
+      reachDistance: 5.509 km
       landedDistance: 5.272 km
       stoppedAlt: 866.000 m
   - - - '26'
       - Dušan Durkovič
-    - place: '9'
-      total: 53
+    - place: 9=
+      total: 71
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 50.067
+        reach: 66.979
         effort: 0
-        distance: 50.067
-        leading: 2.4
+        distance: 66.979
+        leading: 4.4
         arrival: 0
         time: 0
       velocity:
@@ -360,20 +360,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.298 km
+      reachDistance: 5.051 km
       landedDistance: 5.128 km
       stoppedAlt: 413.000 m
   - - - '4'
       - Alojz Tovornik
-    - place: '10'
-      total: 51
+    - place: 9=
+      total: 71
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 48.876
+        reach: 66.966
         effort: 0
-        distance: 48.876
-        leading: 2.4
+        distance: 66.966
+        leading: 4.3
         arrival: 0
         time: 0
       velocity:
@@ -385,20 +385,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.172 km
+      reachDistance: 5.050 km
       landedDistance: 5.111 km
       stoppedAlt: 377.000 m
   - - - '37'
       - Igor Eržen
     - place: '11'
-      total: 32
+      total: 45
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.76
+        reach: 44.169
         effort: 0
-        distance: 31.76
-        leading: 0.7
+        distance: 44.169
+        leading: 1.3
         arrival: 0
         time: 0
       velocity:
@@ -410,20 +410,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 3.361 km
+      reachDistance: 3.331 km
       landedDistance: 3.306 km
       stoppedAlt: 515.000 m
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '12'
-      total: 30
+      total: 41
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 28.906
+        reach: 39.845
         effort: 0
-        distance: 28.906
-        leading: 0.7
+        distance: 39.845
+        leading: 1.3
         arrival: 0
         time: 0
       velocity:
@@ -435,20 +435,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 3.059 km
+      reachDistance: 3.005 km
       landedDistance: 3.055 km
       stoppedAlt: 433.000 m
   - - - '54'
       - Krešo  Kovačič
     - place: '13'
-      total: 28
+      total: 40
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 27.451
+        reach: 38.519
         effort: 0
-        distance: 27.451
-        leading: 0.6
+        distance: 38.519
+        leading: 1
         arrival: 0
         time: 0
       velocity:
@@ -466,14 +466,14 @@ score:
   - - - '21'
       - Damir Kalinger
     - place: '14'
-      total: 27
+      total: 38
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 26.043
+        reach: 36.49
         effort: 0
-        distance: 26.043
-        leading: 0.9
+        distance: 36.49
+        leading: 1.6
         arrival: 0
         time: 0
       velocity:
@@ -485,45 +485,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 2.756 km
+      reachDistance: 2.752 km
       landedDistance: 2.756 km
       stoppedAlt: 511.000 m
-  - - - '13'
-      - Balazs Szatmari
-    - place: 15=
-      total: 21
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 20.022
-        effort: 0
-        distance: 20.022
-        leading: 0.7
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2018-05-24T11:47:18.85668062592Z
-        gs: 2018-05-24T10:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 2.119 km
-      landedDistance: 7.220 km
-      stoppedAlt: 826.000 m
   - - - '73'
       - Mitja Jug
-    - place: 15=
-      total: 21
+    - place: '15'
+      total: 27
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 19.795
+        reach: 25.284
         effort: 0
-        distance: 19.795
-        leading: 0.8
+        distance: 25.284
+        leading: 1.4
         arrival: 0
         time: 0
       velocity:
@@ -535,20 +510,45 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 2.095 km
+      reachDistance: 1.907 km
       landedDistance: 2.082 km
       stoppedAlt: 445.000 m
-  - - - '80'
-      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - place: '17'
-      total: 13
+  - - - '13'
+      - Balazs Szatmari
+    - place: '16'
+      total: 24
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 12.433
+        reach: 22.592
         effort: 0
-        distance: 12.433
-        leading: 0.3
+        distance: 22.592
+        leading: 1.3
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-05-24T11:47:18.85668062592Z
+        gs: 2018-05-24T10:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 1.704 km
+      landedDistance: 7.220 km
+      stoppedAlt: 826.000 m
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - place: '17'
+      total: 18
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 17.354
+        effort: 0
+        distance: 17.354
+        leading: 0.5
         arrival: 0
         time: 0
       velocity:
@@ -560,20 +560,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 1.316 km
+      reachDistance: 1.309 km
       landedDistance: 0.566 km
       stoppedAlt: 516.000 m
   - - - '9'
       - Antoni Buljan
     - place: '18'
-      total: 12
+      total: 17
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 11.488
+        reach: 16.12
         effort: 0
-        distance: 11.488
-        leading: 0.2
+        distance: 16.12
+        leading: 0.4
         arrival: 0
         time: 0
       velocity:
@@ -591,13 +591,13 @@ score:
   - - - '23'
       - David Šiljeg
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -610,19 +610,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 0.419 km
+      reachDistance: 0.274 km
       landedDistance: 0.328 km
       stoppedAlt: 756.000 m
   - - - '40'
       - Ivica Huljek
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -641,13 +641,13 @@ score:
   - - - '46'
       - Jerko Odžak
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -660,19 +660,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 0.682 km
+      reachDistance: 0.222 km
       landedDistance: 0.597 km
       stoppedAlt: 509.000 m
   - - - '82'
       - Richard Edlinger
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -683,13 +683,13 @@ score:
   - - - '88'
       - Sandor Roza
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -700,13 +700,13 @@ score:
   - - - '113'
       - Zsolt Sandor
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -717,14 +717,14 @@ score:
 - - - - '98'
       - Tomas Svoboda
     - place: '1'
-      total: 488
+      total: 610
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 463.932
+        reach: 573.628
         effort: 0
-        distance: 463.932
-        leading: 23.7
+        distance: 573.628
+        leading: 36.5
         arrival: 0
         time: 0
       velocity:
@@ -742,14 +742,14 @@ score:
   - - - '26'
       - Dušan Durkovič
     - place: '2'
-      total: 485
+      total: 606
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 461.539
+        reach: 570.669
         effort: 0
-        distance: 461.539
-        leading: 23
+        distance: 570.669
+        leading: 35.5
         arrival: 0
         time: 0
       velocity:
@@ -767,14 +767,14 @@ score:
   - - - '101'
       - Tomaž Toplak
     - place: '3'
-      total: 484
+      total: 604
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 460.148
+        reach: 566.526
         effort: 0
-        distance: 460.148
-        leading: 24
+        distance: 566.526
+        leading: 37
         arrival: 0
         time: 0
       velocity:
@@ -786,20 +786,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 20.190 km
+      reachDistance: 20.104 km
       landedDistance: 26.495 km
       stoppedAlt: 912.000 m
   - - - '72'
       - Mitja Jančič
     - place: '4'
-      total: 482
+      total: 603
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 459.921
+        reach: 568.668
         effort: 0
-        distance: 459.921
-        leading: 22.4
+        distance: 568.668
+        leading: 34.5
         arrival: 0
         time: 0
       velocity:
@@ -817,14 +817,14 @@ score:
   - - - '54'
       - Krešo  Kovačič
     - place: '5'
-      total: 481
+      total: 602
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 455.408
+        reach: 563.088
         effort: 0
-        distance: 455.408
-        leading: 25.5
+        distance: 563.088
+        leading: 39.2
         arrival: 0
         time: 0
       velocity:
@@ -842,14 +842,14 @@ score:
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '6'
-      total: 479
+      total: 599
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 458.507
+        reach: 566.892
         effort: 0
-        distance: 458.507
-        leading: 20.6
+        distance: 566.892
+        leading: 31.8
         arrival: 0
         time: 0
       velocity:
@@ -861,20 +861,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 20.118 km
+      reachDistance: 20.117 km
       landedDistance: 26.390 km
       stoppedAlt: 867.000 m
   - - - '41'
       - Ivo Duarte
     - place: '7'
-      total: 461
+      total: 576
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 444.217
+        reach: 549.252
         effort: 0
-        distance: 444.217
-        leading: 17.2
+        distance: 549.252
+        leading: 26.4
         arrival: 0
         time: 0
       velocity:
@@ -892,14 +892,14 @@ score:
   - - - '95'
       - Stojan Kranjc
     - place: '8'
-      total: 441
+      total: 546
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 425.528
+        reach: 522.424
         effort: 0
-        distance: 425.528
-        leading: 15.3
+        distance: 522.424
+        leading: 23.5
         arrival: 0
         time: 0
       velocity:
@@ -911,20 +911,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 18.671 km
+      reachDistance: 18.539 km
       landedDistance: 18.671 km
       stoppedAlt: 533.000 m
   - - - '16'
       - Bruno Matos
     - place: '9'
-      total: 423
+      total: 527
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 407.842
+        reach: 503.994
         effort: 0
-        distance: 407.842
-        leading: 15.1
+        distance: 503.994
+        leading: 23.2
         arrival: 0
         time: 0
       velocity:
@@ -936,20 +936,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 17.895 km
+      reachDistance: 17.885 km
       landedDistance: 17.894 km
       stoppedAlt: 769.000 m
   - - - '114'
       - Joan Brito
     - place: '10'
-      total: 401
+      total: 500
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 387.148
+        reach: 478.547
         effort: 0
-        distance: 387.148
-        leading: 13.8
+        distance: 478.547
+        leading: 21.3
         arrival: 0
         time: 0
       velocity:
@@ -961,20 +961,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 16.987 km
+      reachDistance: 16.982 km
       landedDistance: 16.987 km
       stoppedAlt: 849.000 m
   - - - '37'
       - Igor Eržen
     - place: '11'
-      total: 395
+      total: 494
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 380.401
+        reach: 470.347
         effort: 0
-        distance: 380.401
-        leading: 15
+        distance: 470.347
+        leading: 23.2
         arrival: 0
         time: 0
       velocity:
@@ -992,14 +992,14 @@ score:
   - - - '57'
       - Lara Leban
     - place: '12'
-      total: 381
+      total: 471
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 363.399
+        reach: 444.336
         effort: 0
-        distance: 363.399
-        leading: 17.4
+        distance: 444.336
+        leading: 26.8
         arrival: 0
         time: 0
       velocity:
@@ -1011,20 +1011,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 15.945 km
+      reachDistance: 15.768 km
       landedDistance: 15.945 km
       stoppedAlt: 487.000 m
   - - - '86'
       - Sandi Krč
     - place: '13'
-      total: 255
+      total: 319
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 241.488
+        reach: 298.587
         effort: 0
-        distance: 241.488
-        leading: 13.4
+        distance: 298.587
+        leading: 20.7
         arrival: 0
         time: 0
       velocity:
@@ -1042,14 +1042,14 @@ score:
   - - - '4'
       - Alojz Tovornik
     - place: '14'
-      total: 207
+      total: 258
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 201.011
+        reach: 248.539
         effort: 0
-        distance: 201.011
-        leading: 6.4
+        distance: 248.539
+        leading: 9.9
         arrival: 0
         time: 0
       velocity:
@@ -1067,14 +1067,14 @@ score:
   - - - '113'
       - Zsolt Sandor
     - place: 15=
-      total: 165
+      total: 206
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 158.983
+        reach: 196.575
         effort: 0
-        distance: 158.983
-        leading: 6.2
+        distance: 196.575
+        leading: 9.6
         arrival: 0
         time: 0
       velocity:
@@ -1092,14 +1092,14 @@ score:
   - - - '13'
       - Balazs Szatmari
     - place: 15=
-      total: 165
+      total: 206
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 158.755
+        reach: 196.067
         effort: 0
-        distance: 158.755
-        leading: 6.3
+        distance: 196.067
+        leading: 9.8
         arrival: 0
         time: 0
       velocity:
@@ -1111,20 +1111,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 6.966 km
+      reachDistance: 6.958 km
       landedDistance: 6.879 km
       stoppedAlt: 820.000 m
   - - - '63'
       - Marketa Tomaskova
     - place: '17'
-      total: 135
+      total: 169
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 129.924
+        reach: 160.645
         effort: 0
-        distance: 129.924
-        leading: 5.5
+        distance: 160.645
+        leading: 8.5
         arrival: 0
         time: 0
       velocity:
@@ -1142,14 +1142,14 @@ score:
   - - - '46'
       - Jerko Odžak
     - place: '18'
-      total: 130
+      total: 162
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 123.93
+        reach: 152.05
         effort: 0
-        distance: 123.93
-        leading: 6.1
+        distance: 152.05
+        leading: 9.5
         arrival: 0
         time: 0
       velocity:
@@ -1161,20 +1161,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.438 km
+      reachDistance: 5.396 km
       landedDistance: 4.386 km
       stoppedAlt: 392.000 m
   - - - '73'
       - Mitja Jug
     - place: '19'
-      total: 82
+      total: 102
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 78.12
+        reach: 95.914
         effort: 0
-        distance: 78.12
-        leading: 4
+        distance: 95.914
+        leading: 6.2
         arrival: 0
         time: 0
       velocity:
@@ -1186,20 +1186,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 3.428 km
+      reachDistance: 3.404 km
       landedDistance: 2.856 km
       stoppedAlt: 469.000 m
   - - - '21'
       - Damir Kalinger
     - place: '20'
-      total: 57
+      total: 71
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 51.545
+        reach: 63.056
         effort: 0
-        distance: 51.545
-        leading: 5
+        distance: 63.056
+        leading: 7.6
         arrival: 0
         time: 0
       velocity:
@@ -1211,20 +1211,20 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 2.262 km
+      reachDistance: 2.238 km
       landedDistance: 2.261 km
       stoppedAlt: 501.000 m
   - - - '40'
       - Ivica Huljek
     - place: '21'
-      total: 48
+      total: 61
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 43.249
+        reach: 53.475
         effort: 0
-        distance: 43.249
-        leading: 4.8
+        distance: 53.475
+        leading: 7.4
         arrival: 0
         time: 0
       velocity:
@@ -1242,13 +1242,13 @@ score:
   - - - '9'
       - Antoni Buljan
     - place: 22=
-      total: 23
+      total: 28
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 22.791
+        reach: 28.18
         effort: 0
-        distance: 22.791
+        distance: 28.18
         leading: 0
         arrival: 0
         time: 0
@@ -1261,19 +1261,19 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 0.750 km
+      reachDistance: 0.704 km
       landedDistance: -0.037 km
       stoppedAlt: 472.000 m
   - - - '91'
       - Slava Jelić
     - place: 22=
-      total: 23
+      total: 28
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 22.791
+        reach: 28.18
         effort: 0
-        distance: 22.791
+        distance: 28.18
         leading: 0
         arrival: 0
         time: 0
@@ -1802,14 +1802,14 @@ scoreDf:
 - - - - '101'
       - Tomaž Toplak
     - place: '1'
-      total: 119
+      total: 168
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 113.445
+        reach: 158.471
         effort: 0
-        distance: 113.445
-        leading: 5.1
+        distance: 158.471
+        leading: 9.2
         arrival: 0
         time: 0
       velocity:
@@ -1821,20 +1821,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 12.004 km
+      reachDistance: 11.950 km
       landedDistance: 11.986 km
       stoppedAlt: 425.000 m
   - - - '98'
       - Tomas Svoboda
     - place: '2'
-      total: 105
+      total: 135
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 102.35
+        reach: 130.449
         effort: 0
-        distance: 102.35
-        leading: 2.6
+        distance: 130.449
+        leading: 4.8
         arrival: 0
         time: 0
       velocity:
@@ -1846,20 +1846,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 10.830 km
+      reachDistance: 9.837 km
       landedDistance: 21.888 km
       stoppedAlt: 1291.000 m
   - - - '57'
       - Lara Leban
     - place: '3'
-      total: 88
+      total: 125
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 83.41
+        reach: 117.042
         effort: 0
-        distance: 83.41
-        leading: 4.1
+        distance: 117.042
+        leading: 7.5
         arrival: 0
         time: 0
       velocity:
@@ -1874,42 +1874,17 @@ scoreDf:
       reachDistance: 8.826 km
       landedDistance: 8.819 km
       stoppedAlt: 408.000 m
-  - - - '72'
-      - Mitja Jančič
-    - place: '4'
-      total: 85
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 80.839
-        effort: 0
-        distance: 80.839
-        leading: 4.1
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2018-05-24T10:34:47.500359638951Z
-        gs: 2018-05-24T10:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 8.554 km
-      landedDistance: 8.518 km
-      stoppedAlt: 415.000 m
   - - - '16'
       - Bruno Matos
-    - place: '5'
-      total: 82
+    - place: '4'
+      total: 116
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 81.293
+        reach: 114.071
         effort: 0
-        distance: 81.293
-        leading: 1
+        distance: 114.071
+        leading: 1.8
         arrival: 0
         time: 0
       velocity:
@@ -1926,15 +1901,15 @@ scoreDf:
       stoppedAlt: 962.000 m
   - - - '114'
       - Joan Brito
-    - place: '6'
-      total: 76
+    - place: '5'
+      total: 108
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 73.486
+        reach: 102.971
         effort: 0
-        distance: 73.486
-        leading: 2.5
+        distance: 102.971
+        leading: 4.6
         arrival: 0
         time: 0
       velocity:
@@ -1946,20 +1921,45 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 7.776 km
+      reachDistance: 7.765 km
       landedDistance: 7.710 km
       stoppedAlt: 427.000 m
-  - - - '86'
-      - Sandi Krč
-    - place: '7'
-      total: 58
+  - - - '72'
+      - Mitja Jančič
+    - place: '6'
+      total: 104
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 55.87
+        reach: 96.314
         effort: 0
-        distance: 55.87
-        leading: 2.4
+        distance: 96.314
+        leading: 7.5
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-05-24T10:34:47.500359638951Z
+        gs: 2018-05-24T10:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 7.263 km
+      landedDistance: 8.518 km
+      stoppedAlt: 415.000 m
+  - - - '86'
+      - Sandi Krč
+    - place: '7'
+      total: 83
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 78.371
+        effort: 0
+        distance: 78.371
+        leading: 4.3
         arrival: 0
         time: 0
       velocity:
@@ -1971,20 +1971,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.912 km
+      reachDistance: 5.910 km
       landedDistance: 5.099 km
       stoppedAlt: 421.000 m
   - - - '41'
       - Ivo Duarte
     - place: '8'
-      total: 55
+      total: 77
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 52.874
+        reach: 73.053
         effort: 0
-        distance: 52.874
-        leading: 2.1
+        distance: 73.053
+        leading: 3.7
         arrival: 0
         time: 0
       velocity:
@@ -1996,20 +1996,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.595 km
+      reachDistance: 5.509 km
       landedDistance: 5.272 km
       stoppedAlt: 866.000 m
   - - - '26'
       - Dušan Durkovič
-    - place: '9'
-      total: 53
+    - place: 9=
+      total: 71
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 50.067
+        reach: 66.979
         effort: 0
-        distance: 50.067
-        leading: 2.4
+        distance: 66.979
+        leading: 4.4
         arrival: 0
         time: 0
       velocity:
@@ -2021,20 +2021,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.298 km
+      reachDistance: 5.051 km
       landedDistance: 5.128 km
       stoppedAlt: 413.000 m
   - - - '4'
       - Alojz Tovornik
-    - place: '10'
-      total: 51
+    - place: 9=
+      total: 71
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 48.876
+        reach: 66.966
         effort: 0
-        distance: 48.876
-        leading: 2.4
+        distance: 66.966
+        leading: 4.3
         arrival: 0
         time: 0
       velocity:
@@ -2046,20 +2046,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.172 km
+      reachDistance: 5.050 km
       landedDistance: 5.111 km
       stoppedAlt: 377.000 m
   - - - '37'
       - Igor Eržen
     - place: '11'
-      total: 32
+      total: 45
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.76
+        reach: 44.169
         effort: 0
-        distance: 31.76
-        leading: 0.7
+        distance: 44.169
+        leading: 1.3
         arrival: 0
         time: 0
       velocity:
@@ -2071,20 +2071,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 3.361 km
+      reachDistance: 3.331 km
       landedDistance: 3.306 km
       stoppedAlt: 515.000 m
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '12'
-      total: 30
+      total: 41
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 28.906
+        reach: 39.845
         effort: 0
-        distance: 28.906
-        leading: 0.7
+        distance: 39.845
+        leading: 1.3
         arrival: 0
         time: 0
       velocity:
@@ -2096,20 +2096,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 3.059 km
+      reachDistance: 3.005 km
       landedDistance: 3.055 km
       stoppedAlt: 433.000 m
   - - - '54'
       - Krešo  Kovačič
     - place: '13'
-      total: 28
+      total: 40
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 27.451
+        reach: 38.519
         effort: 0
-        distance: 27.451
-        leading: 0.6
+        distance: 38.519
+        leading: 1
         arrival: 0
         time: 0
       velocity:
@@ -2127,14 +2127,14 @@ scoreDf:
   - - - '21'
       - Damir Kalinger
     - place: '14'
-      total: 27
+      total: 38
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 26.043
+        reach: 36.49
         effort: 0
-        distance: 26.043
-        leading: 0.9
+        distance: 36.49
+        leading: 1.6
         arrival: 0
         time: 0
       velocity:
@@ -2146,45 +2146,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 2.756 km
+      reachDistance: 2.752 km
       landedDistance: 2.756 km
       stoppedAlt: 511.000 m
-  - - - '13'
-      - Balazs Szatmari
-    - place: 15=
-      total: 21
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 20.022
-        effort: 0
-        distance: 20.022
-        leading: 0.7
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2018-05-24T11:47:18.85668062592Z
-        gs: 2018-05-24T10:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 2.119 km
-      landedDistance: 7.220 km
-      stoppedAlt: 826.000 m
   - - - '73'
       - Mitja Jug
-    - place: 15=
-      total: 21
+    - place: '15'
+      total: 27
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 19.795
+        reach: 25.284
         effort: 0
-        distance: 19.795
-        leading: 0.8
+        distance: 25.284
+        leading: 1.4
         arrival: 0
         time: 0
       velocity:
@@ -2196,20 +2171,45 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 2.095 km
+      reachDistance: 1.907 km
       landedDistance: 2.082 km
       stoppedAlt: 445.000 m
-  - - - '80'
-      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - place: '17'
-      total: 13
+  - - - '13'
+      - Balazs Szatmari
+    - place: '16'
+      total: 24
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 12.433
+        reach: 22.592
         effort: 0
-        distance: 12.433
-        leading: 0.3
+        distance: 22.592
+        leading: 1.3
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2018-05-24T11:47:18.85668062592Z
+        gs: 2018-05-24T10:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 1.704 km
+      landedDistance: 7.220 km
+      stoppedAlt: 826.000 m
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - place: '17'
+      total: 18
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 17.354
+        effort: 0
+        distance: 17.354
+        leading: 0.5
         arrival: 0
         time: 0
       velocity:
@@ -2221,20 +2221,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 1.316 km
+      reachDistance: 1.309 km
       landedDistance: 0.566 km
       stoppedAlt: 516.000 m
   - - - '9'
       - Antoni Buljan
     - place: '18'
-      total: 12
+      total: 17
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 11.488
+        reach: 16.12
         effort: 0
-        distance: 11.488
-        leading: 0.2
+        distance: 16.12
+        leading: 0.4
         arrival: 0
         time: 0
       velocity:
@@ -2252,13 +2252,13 @@ scoreDf:
   - - - '23'
       - David Šiljeg
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -2271,19 +2271,19 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 0.419 km
+      reachDistance: 0.274 km
       landedDistance: 0.328 km
       stoppedAlt: 756.000 m
   - - - '40'
       - Ivica Huljek
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -2302,13 +2302,13 @@ scoreDf:
   - - - '46'
       - Jerko Odžak
     - place: 19=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -2321,20 +2321,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 0.682 km
+      reachDistance: 0.222 km
       landedDistance: 0.597 km
       stoppedAlt: 509.000 m
 - - - - '98'
       - Tomas Svoboda
     - place: '1'
-      total: 488
+      total: 610
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 463.932
+        reach: 573.628
         effort: 0
-        distance: 463.932
-        leading: 23.7
+        distance: 573.628
+        leading: 36.5
         arrival: 0
         time: 0
       velocity:
@@ -2352,14 +2352,14 @@ scoreDf:
   - - - '26'
       - Dušan Durkovič
     - place: '2'
-      total: 485
+      total: 606
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 461.539
+        reach: 570.669
         effort: 0
-        distance: 461.539
-        leading: 23
+        distance: 570.669
+        leading: 35.5
         arrival: 0
         time: 0
       velocity:
@@ -2377,14 +2377,14 @@ scoreDf:
   - - - '101'
       - Tomaž Toplak
     - place: '3'
-      total: 484
+      total: 604
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 460.148
+        reach: 566.526
         effort: 0
-        distance: 460.148
-        leading: 24
+        distance: 566.526
+        leading: 37
         arrival: 0
         time: 0
       velocity:
@@ -2396,20 +2396,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 20.190 km
+      reachDistance: 20.104 km
       landedDistance: 26.495 km
       stoppedAlt: 912.000 m
   - - - '72'
       - Mitja Jančič
     - place: '4'
-      total: 482
+      total: 603
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 459.921
+        reach: 568.668
         effort: 0
-        distance: 459.921
-        leading: 22.4
+        distance: 568.668
+        leading: 34.5
         arrival: 0
         time: 0
       velocity:
@@ -2427,14 +2427,14 @@ scoreDf:
   - - - '54'
       - Krešo  Kovačič
     - place: '5'
-      total: 481
+      total: 602
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 455.408
+        reach: 563.088
         effort: 0
-        distance: 455.408
-        leading: 25.5
+        distance: 563.088
+        leading: 39.2
         arrival: 0
         time: 0
       velocity:
@@ -2452,14 +2452,14 @@ scoreDf:
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '6'
-      total: 479
+      total: 599
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 458.507
+        reach: 566.892
         effort: 0
-        distance: 458.507
-        leading: 20.6
+        distance: 566.892
+        leading: 31.8
         arrival: 0
         time: 0
       velocity:
@@ -2471,20 +2471,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 20.118 km
+      reachDistance: 20.117 km
       landedDistance: 26.390 km
       stoppedAlt: 867.000 m
   - - - '41'
       - Ivo Duarte
     - place: '7'
-      total: 461
+      total: 576
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 444.217
+        reach: 549.252
         effort: 0
-        distance: 444.217
-        leading: 17.2
+        distance: 549.252
+        leading: 26.4
         arrival: 0
         time: 0
       velocity:
@@ -2502,14 +2502,14 @@ scoreDf:
   - - - '95'
       - Stojan Kranjc
     - place: '8'
-      total: 441
+      total: 546
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 425.528
+        reach: 522.424
         effort: 0
-        distance: 425.528
-        leading: 15.3
+        distance: 522.424
+        leading: 23.5
         arrival: 0
         time: 0
       velocity:
@@ -2521,20 +2521,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 18.671 km
+      reachDistance: 18.539 km
       landedDistance: 18.671 km
       stoppedAlt: 533.000 m
   - - - '16'
       - Bruno Matos
     - place: '9'
-      total: 423
+      total: 527
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 407.842
+        reach: 503.994
         effort: 0
-        distance: 407.842
-        leading: 15.1
+        distance: 503.994
+        leading: 23.2
         arrival: 0
         time: 0
       velocity:
@@ -2546,20 +2546,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 17.895 km
+      reachDistance: 17.885 km
       landedDistance: 17.894 km
       stoppedAlt: 769.000 m
   - - - '114'
       - Joan Brito
     - place: '10'
-      total: 401
+      total: 500
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 387.148
+        reach: 478.547
         effort: 0
-        distance: 387.148
-        leading: 13.8
+        distance: 478.547
+        leading: 21.3
         arrival: 0
         time: 0
       velocity:
@@ -2571,20 +2571,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 16.987 km
+      reachDistance: 16.982 km
       landedDistance: 16.987 km
       stoppedAlt: 849.000 m
   - - - '37'
       - Igor Eržen
     - place: '11'
-      total: 395
+      total: 494
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 380.401
+        reach: 470.347
         effort: 0
-        distance: 380.401
-        leading: 15
+        distance: 470.347
+        leading: 23.2
         arrival: 0
         time: 0
       velocity:
@@ -2602,14 +2602,14 @@ scoreDf:
   - - - '57'
       - Lara Leban
     - place: '12'
-      total: 381
+      total: 471
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 363.399
+        reach: 444.336
         effort: 0
-        distance: 363.399
-        leading: 17.4
+        distance: 444.336
+        leading: 26.8
         arrival: 0
         time: 0
       velocity:
@@ -2621,20 +2621,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 15.945 km
+      reachDistance: 15.768 km
       landedDistance: 15.945 km
       stoppedAlt: 487.000 m
   - - - '86'
       - Sandi Krč
     - place: '13'
-      total: 255
+      total: 319
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 241.488
+        reach: 298.587
         effort: 0
-        distance: 241.488
-        leading: 13.4
+        distance: 298.587
+        leading: 20.7
         arrival: 0
         time: 0
       velocity:
@@ -2652,14 +2652,14 @@ scoreDf:
   - - - '4'
       - Alojz Tovornik
     - place: '14'
-      total: 207
+      total: 258
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 201.011
+        reach: 248.539
         effort: 0
-        distance: 201.011
-        leading: 6.4
+        distance: 248.539
+        leading: 9.9
         arrival: 0
         time: 0
       velocity:
@@ -2677,14 +2677,14 @@ scoreDf:
   - - - '113'
       - Zsolt Sandor
     - place: 15=
-      total: 165
+      total: 206
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 158.983
+        reach: 196.575
         effort: 0
-        distance: 158.983
-        leading: 6.2
+        distance: 196.575
+        leading: 9.6
         arrival: 0
         time: 0
       velocity:
@@ -2702,14 +2702,14 @@ scoreDf:
   - - - '13'
       - Balazs Szatmari
     - place: 15=
-      total: 165
+      total: 206
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 158.755
+        reach: 196.067
         effort: 0
-        distance: 158.755
-        leading: 6.3
+        distance: 196.067
+        leading: 9.8
         arrival: 0
         time: 0
       velocity:
@@ -2721,20 +2721,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 6.966 km
+      reachDistance: 6.958 km
       landedDistance: 6.879 km
       stoppedAlt: 820.000 m
   - - - '63'
       - Marketa Tomaskova
     - place: '17'
-      total: 135
+      total: 169
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 129.924
+        reach: 160.645
         effort: 0
-        distance: 129.924
-        leading: 5.5
+        distance: 160.645
+        leading: 8.5
         arrival: 0
         time: 0
       velocity:
@@ -2752,14 +2752,14 @@ scoreDf:
   - - - '46'
       - Jerko Odžak
     - place: '18'
-      total: 130
+      total: 162
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 123.93
+        reach: 152.05
         effort: 0
-        distance: 123.93
-        leading: 6.1
+        distance: 152.05
+        leading: 9.5
         arrival: 0
         time: 0
       velocity:
@@ -2771,20 +2771,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 5.438 km
+      reachDistance: 5.396 km
       landedDistance: 4.386 km
       stoppedAlt: 392.000 m
   - - - '73'
       - Mitja Jug
     - place: '19'
-      total: 82
+      total: 102
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 78.12
+        reach: 95.914
         effort: 0
-        distance: 78.12
-        leading: 4
+        distance: 95.914
+        leading: 6.2
         arrival: 0
         time: 0
       velocity:
@@ -2796,20 +2796,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 3.428 km
+      reachDistance: 3.404 km
       landedDistance: 2.856 km
       stoppedAlt: 469.000 m
   - - - '21'
       - Damir Kalinger
     - place: '20'
-      total: 57
+      total: 71
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 51.545
+        reach: 63.056
         effort: 0
-        distance: 51.545
-        leading: 5
+        distance: 63.056
+        leading: 7.6
         arrival: 0
         time: 0
       velocity:
@@ -2821,20 +2821,20 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 2.262 km
+      reachDistance: 2.238 km
       landedDistance: 2.261 km
       stoppedAlt: 501.000 m
   - - - '40'
       - Ivica Huljek
     - place: '21'
-      total: 48
+      total: 61
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 43.249
+        reach: 53.475
         effort: 0
-        distance: 43.249
-        leading: 4.8
+        distance: 53.475
+        leading: 7.4
         arrival: 0
         time: 0
       velocity:
@@ -2852,13 +2852,13 @@ scoreDf:
   - - - '9'
       - Antoni Buljan
     - place: '22'
-      total: 23
+      total: 28
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 22.791
+        reach: 28.18
         effort: 0
-        distance: 22.791
+        distance: 28.18
         leading: 0
         arrival: 0
         time: 0
@@ -2871,7 +2871,7 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
-      reachDistance: 0.750 km
+      reachDistance: 0.704 km
       landedDistance: -0.037 km
       stoppedAlt: 472.000 m
 - - - - '16'
@@ -3378,13 +3378,13 @@ scoreDfNoTrack:
 - - - - '82'
       - Richard Edlinger
     - place: 1=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -3395,13 +3395,13 @@ scoreDfNoTrack:
   - - - '88'
       - Sandor Roza
     - place: 1=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -3412,13 +3412,13 @@ scoreDfNoTrack:
   - - - '113'
       - Zsolt Sandor
     - place: 1=
-      total: 9
+      total: 13
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.451
+        reach: 13.262
         effort: 0
-        distance: 9.451
+        distance: 13.262
         leading: 0
         arrival: 0
         time: 0
@@ -3429,13 +3429,13 @@ scoreDfNoTrack:
 - - - - '91'
       - Slava Jelić
     - place: '1'
-      total: 23
+      total: 28
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 22.791
+        reach: 28.18
         effort: 0
-        distance: 22.791
+        distance: 28.18
         leading: 0
         arrival: 0
         time: 0
