@@ -6,9 +6,9 @@ score:
 - - - - '101'
       - Tomaž Toplak
     - place: '1'
-      total: 82
-      distance: 78.2
-      leading: 3.3
+      total: 120
+      distance: 115.4
+      leading: 4.9
       arrival: 0
       time: 0
       distanceMade: 11.405000 km
@@ -17,16 +17,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3220477.0000 km^2 s
-      leadingCoef: 2.19492482
+      leadingArea: 3219814.0000 km^2 s
+      leadingCoef: 2.19447321
       leadingFrac: 1
       arrivalFrac: 0
   - - - '98'
       - Tomas Svoboda
     - place: '2'
-      total: 72
-      distance: 70.2
-      leading: 1.7
+      total: 106
+      distance: 103.5
+      leading: 2.6
       arrival: 0
       time: 0
       distanceMade: 10.230000 km
@@ -35,16 +35,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3947125.0000 km^2 s
-      leadingCoef: 2.69017398
-      leadingFrac: 0.51515152
+      leadingArea: 3945195.0000 km^2 s
+      leadingCoef: 2.68885829
+      leadingFrac: 0.53061224
       arrivalFrac: 0
   - - - '57'
       - Lara Leban
     - place: '3'
-      total: 59
-      distance: 56.4
-      leading: 2.7
+      total: 87
+      distance: 83.3
+      leading: 4
       arrival: 0
       time: 0
       distanceMade: 8.226000 km
@@ -54,15 +54,15 @@ score:
       timeElapsed: null
       timeFrac: 0
       leadingArea: 3393472.0000 km^2 s
-      leadingCoef: 2.31283017
-      leadingFrac: 0.81818182
+      leadingCoef: 2.31283009
+      leadingFrac: 0.81632653
       arrivalFrac: 0
   - - - '72'
       - Mitja Jančič
     - place: '4'
-      total: 57
-      distance: 54.6
-      leading: 2.7
+      total: 85
+      distance: 80.5
+      leading: 4
       arrival: 0
       time: 0
       distanceMade: 7.955000 km
@@ -73,14 +73,14 @@ score:
       timeFrac: 0
       leadingArea: 3401489.0000 km^2 s
       leadingCoef: 2.31829423
-      leadingFrac: 0.81818182
+      leadingFrac: 0.81632653
       arrivalFrac: 0
   - - - '16'
       - Bruno Matos
     - place: '5'
-      total: 56
-      distance: 54.8
-      leading: 0.7
+      total: 82
+      distance: 80.9
+      leading: 1
       arrival: 0
       time: 0
       distanceMade: 7.995000 km
@@ -90,15 +90,15 @@ score:
       timeElapsed: null
       timeFrac: 0
       leadingArea: 4750720.0000 km^2 s
-      leadingCoef: 3.23786654
-      leadingFrac: 0.21212121
+      leadingCoef: 3.2378662
+      leadingFrac: 0.20408163
       arrivalFrac: 0
   - - - '114'
       - Joan Brito
     - place: '6'
-      total: 51
-      distance: 49.2
-      leading: 1.7
+      total: 75
+      distance: 72.6
+      leading: 2.5
       arrival: 0
       time: 0
       distanceMade: 7.177000 km
@@ -107,16 +107,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3987047.0000 km^2 s
-      leadingCoef: 2.71738285
-      leadingFrac: 0.51515152
+      leadingArea: 3987045.0000 km^2 s
+      leadingCoef: 2.71738177
+      leadingFrac: 0.51020408
       arrivalFrac: 0
   - - - '13'
       - Balazs Szatmari
     - place: '7'
-      total: 42
-      distance: 41.4
-      leading: 0.5
+      total: 62
+      distance: 61
+      leading: 0.7
       arrival: 0
       time: 0
       distanceMade: 6.029000 km
@@ -127,14 +127,14 @@ score:
       timeFrac: 0
       leadingArea: 4956698.0000 km^2 s
       leadingCoef: 3.37825117
-      leadingFrac: 0.15151515
+      leadingFrac: 0.14285714
       arrivalFrac: 0
   - - - '86'
       - Sandi Krč
     - place: '8'
-      total: 38
-      distance: 36.4
-      leading: 1.6
+      total: 56
+      distance: 53.8
+      leading: 2.3
       arrival: 0
       time: 0
       distanceMade: 5.313000 km
@@ -145,14 +145,14 @@ score:
       timeFrac: 0
       leadingArea: 4069783.0000 km^2 s
       leadingCoef: 2.773772
-      leadingFrac: 0.48484848
+      leadingFrac: 0.46938776
       arrivalFrac: 0
   - - - '41'
       - Ivo Duarte
     - place: '9'
-      total: 36
-      distance: 34.3
-      leading: 1.4
+      total: 53
+      distance: 50.6
+      leading: 2
       arrival: 0
       time: 0
       distanceMade: 4.996000 km
@@ -163,14 +163,14 @@ score:
       timeFrac: 0
       leadingArea: 4211514.0000 km^2 s
       leadingCoef: 2.87036936
-      leadingFrac: 0.42424242
+      leadingFrac: 0.40816327
       arrivalFrac: 0
   - - - '26'
       - Dušan Durkovič
     - place: '10'
-      total: 34
-      distance: 32.2
-      leading: 1.6
+      total: 50
+      distance: 47.6
+      leading: 2.4
       arrival: 0
       time: 0
       distanceMade: 4.700000 km
@@ -181,14 +181,14 @@ score:
       timeFrac: 0
       leadingArea: 4038070.0000 km^2 s
       leadingCoef: 2.75215813
-      leadingFrac: 0.48484848
+      leadingFrac: 0.48979592
       arrivalFrac: 0
   - - - '4'
       - Alojz Tovornik
     - place: '11'
-      total: 33
-      distance: 31.4
-      leading: 1.6
+      total: 49
+      distance: 46.3
+      leading: 2.3
       arrival: 0
       time: 0
       distanceMade: 4.573000 km
@@ -198,33 +198,15 @@ score:
       timeElapsed: null
       timeFrac: 0
       leadingArea: 4059554.0000 km^2 s
-      leadingCoef: 2.76680028
-      leadingFrac: 0.48484848
-      arrivalFrac: 0
-  - - - '102'
-      - Tomislav Gomerčić
-    - place: '12'
-      total: 19
-      distance: 18.2
-      leading: 1
-      arrival: 0
-      time: 0
-      distanceMade: 2.646000 km
-      distanceFrac: 8.918700283133342e-2
-      ss: 2018-05-24T10:30:00Z
-      es: null
-      timeElapsed: null
-      timeFrac: 0
-      leadingArea: 4521092.0000 km^2 s
-      leadingCoef: 3.08136287
-      leadingFrac: 0.3030303
+      leadingCoef: 2.76680022
+      leadingFrac: 0.46938776
       arrivalFrac: 0
   - - - '37'
       - Igor Eržen
     - place: '12'
-      total: 19
-      distance: 18.9
-      leading: 0.5
+      total: 29
+      distance: 28
+      leading: 0.8
       arrival: 0
       time: 0
       distanceMade: 2.762000 km
@@ -235,14 +217,32 @@ score:
       timeFrac: 0
       leadingArea: 4913464.0000 km^2 s
       leadingCoef: 3.34878506
-      leadingFrac: 0.15151515
+      leadingFrac: 0.16326531
+      arrivalFrac: 0
+  - - - '102'
+      - Tomislav Gomerčić
+    - place: '13'
+      total: 28
+      distance: 26.8
+      leading: 1.4
+      arrival: 0
+      time: 0
+      distanceMade: 2.646000 km
+      distanceFrac: 8.918700283133342e-2
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 4521092.0000 km^2 s
+      leadingCoef: 3.08136287
+      leadingFrac: 0.28571429
       arrivalFrac: 0
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '14'
-      total: 17
-      distance: 16.9
-      leading: 0.5
+      total: 26
+      distance: 25
+      leading: 0.7
       arrival: 0
       time: 0
       distanceMade: 2.465000 km
@@ -251,16 +251,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4931716.0000 km^2 s
-      leadingCoef: 3.36122497
-      leadingFrac: 0.15151515
+      leadingArea: 4929638.0000 km^2 s
+      leadingCoef: 3.35980847
+      leadingFrac: 0.14285714
       arrivalFrac: 0
   - - - '54'
       - Krešo  Kovačič
     - place: '15'
-      total: 16
-      distance: 15.8
-      leading: 0.5
+      total: 24
+      distance: 23.3
+      leading: 0.7
       arrival: 0
       time: 0
       distanceMade: 2.306000 km
@@ -271,14 +271,14 @@ score:
       timeFrac: 0
       leadingArea: 4966661.0000 km^2 s
       leadingCoef: 3.38504158
-      leadingFrac: 0.15151515
+      leadingFrac: 0.14285714
       arrivalFrac: 0
   - - - '21'
       - Damir Kalinger
-    - place: '15'
-      total: 16
-      distance: 15.2
-      leading: 0.6
+    - place: '16'
+      total: 23
+      distance: 22.4
+      leading: 0.9
       arrival: 0
       time: 0
       distanceMade: 2.211000 km
@@ -287,16 +287,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4824950.0000 km^2 s
-      leadingCoef: 3.28845834
-      leadingFrac: 0.18181818
+      leadingArea: 4823672.0000 km^2 s
+      leadingCoef: 3.2875871
+      leadingFrac: 0.18367347
       arrivalFrac: 0
   - - - '73'
       - Mitja Jug
     - place: '17'
-      total: 11
-      distance: 10.3
-      leading: 0.5
+      total: 16
+      distance: 15.1
+      leading: 0.7
       arrival: 0
       time: 0
       distanceMade: 1.496000 km
@@ -305,16 +305,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4918503.0000 km^2 s
-      leadingCoef: 3.35221968
-      leadingFrac: 0.15151515
+      leadingArea: 4917577.0000 km^2 s
+      leadingCoef: 3.351588
+      leadingFrac: 0.14285714
       arrivalFrac: 0
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
-      total: 7
-      distance: 6.9
-      leading: 0.2
+      total: 10
+      distance: 10.1
+      leading: 0.3
       arrival: 0
       time: 0
       distanceMade: 1.000000 km
@@ -325,13 +325,13 @@ score:
       timeFrac: 0
       leadingArea: 5204589.0000 km^2 s
       leadingCoef: 3.54720219
-      leadingFrac: 6.060606e-2
+      leadingFrac: 6.122449e-2
       arrivalFrac: 0
   - - - '63'
       - Marketa Tomaskova
     - place: '18'
-      total: 7
-      distance: 6.9
+      total: 10
+      distance: 10.1
       leading: 0
       arrival: 0
       time: 0
@@ -348,8 +348,8 @@ score:
   - - - '46'
       - Jerko Odžak
     - place: '18'
-      total: 7
-      distance: 6.9
+      total: 10
+      distance: 10.1
       leading: 0
       arrival: 0
       time: 0
@@ -366,8 +366,8 @@ score:
   - - - '40'
       - Ivica Huljek
     - place: '18'
-      total: 7
-      distance: 6.9
+      total: 10
+      distance: 10.1
       leading: 0
       arrival: 0
       time: 0
@@ -384,8 +384,8 @@ score:
   - - - '23'
       - David Šiljeg
     - place: '18'
-      total: 7
-      distance: 6.9
+      total: 10
+      distance: 10.1
       leading: 0
       arrival: 0
       time: 0
@@ -402,9 +402,9 @@ score:
   - - - '9'
       - Antoni Buljan
     - place: '18'
-      total: 7
-      distance: 6.9
-      leading: 0.2
+      total: 10
+      distance: 10.1
+      leading: 0.3
       arrival: 0
       time: 0
       distanceMade: 1.000000 km
@@ -415,13 +415,13 @@ score:
       timeFrac: 0
       leadingArea: 5222372.0000 km^2 s
       leadingCoef: 3.55932188
-      leadingFrac: 6.060606e-2
+      leadingFrac: 6.122449e-2
       arrivalFrac: 0
   - - - '88'
       - Sandor Roza
     - place: '18'
-      total: 7
-      distance: 6.9
+      total: 10
+      distance: 10.1
       leading: 0
       arrival: 0
       time: 0
@@ -438,8 +438,8 @@ score:
   - - - '113'
       - Zsolt Sandor
     - place: '18'
-      total: 7
-      distance: 6.9
+      total: 10
+      distance: 10.1
       leading: 0
       arrival: 0
       time: 0
@@ -456,8 +456,8 @@ score:
   - - - '82'
       - Richard Edlinger
     - place: '18'
-      total: 7
-      distance: 6.9
+      total: 10
+      distance: 10.1
       leading: 0
       arrival: 0
       time: 0
@@ -474,9 +474,9 @@ score:
 - - - - '98'
       - Tomas Svoboda
     - place: '1'
-      total: 512
-      distance: 484
-      leading: 27.6
+      total: 543
+      distance: 514.1
+      leading: 29.3
       arrival: 0
       time: 0
       distanceMade: 22.729000 km
@@ -485,16 +485,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3286865.0000 km^2 s
-      leadingCoef: 1.10421443
-      leadingFrac: 0.92929293
+      leadingArea: 3286476.0000 km^2 s
+      leadingCoef: 1.10408358
+      leadingFrac: 0.93015873
       arrivalFrac: 0
   - - - '101'
       - Tomaž Toplak
     - place: '2'
-      total: 509
-      distance: 480.7
-      leading: 28
+      total: 540
+      distance: 510.5
+      leading: 29.7
       arrival: 0
       time: 0
       distanceMade: 22.571000 km
@@ -503,16 +503,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3271218.0000 km^2 s
-      leadingCoef: 1.09895781
-      leadingFrac: 0.94276094
+      leadingArea: 3270874.0000 km^2 s
+      leadingCoef: 1.09884216
+      leadingFrac: 0.94285714
       arrivalFrac: 0
   - - - '72'
       - Mitja Jančič
     - place: '3'
-      total: 506
-      distance: 480.2
-      leading: 25.9
+      total: 538
+      distance: 510
+      leading: 27.5
       arrival: 0
       time: 0
       distanceMade: 22.548000 km
@@ -521,16 +521,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3368561.0000 km^2 s
-      leadingCoef: 1.13165995
-      leadingFrac: 0.87205387
+      leadingArea: 3368465.0000 km^2 s
+      leadingCoef: 1.13162775
+      leadingFrac: 0.87301587
       arrivalFrac: 0
   - - - '26'
       - Dušan Durkovič
     - place: '4'
-      total: 504
-      distance: 476.8
-      leading: 26.7
+      total: 535
+      distance: 506.4
+      leading: 28.4
       arrival: 0
       time: 0
       distanceMade: 22.388000 km
@@ -539,16 +539,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3326730.0000 km^2 s
-      leadingCoef: 1.1176069
-      leadingFrac: 0.8989899
+      leadingArea: 3326649.0000 km^2 s
+      leadingCoef: 1.11757967
+      leadingFrac: 0.9015873
       arrivalFrac: 0
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '5'
-      total: 501
-      distance: 476.9
-      leading: 24.2
+      total: 532
+      distance: 506.6
+      leading: 25.8
       arrival: 0
       time: 0
       distanceMade: 22.396000 km
@@ -557,16 +557,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3471469.0000 km^2 s
-      leadingCoef: 1.16623146
-      leadingFrac: 0.81481481
+      leadingArea: 3471260.0000 km^2 s
+      leadingCoef: 1.16616149
+      leadingFrac: 0.81904762
       arrivalFrac: 0
   - - - '54'
       - Krešo  Kovačič
     - place: '6'
-      total: 495
-      distance: 465.7
-      leading: 29.7
+      total: 526
+      distance: 494.6
+      leading: 31.5
       arrival: 0
       time: 0
       distanceMade: 21.869000 km
@@ -575,16 +575,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3229382.0000 km^2 s
-      leadingCoef: 1.08490294
+      leadingArea: 3229336.0000 km^2 s
+      leadingCoef: 1.08488774
       leadingFrac: 1
       arrivalFrac: 0
   - - - '41'
       - Ivo Duarte
     - place: '7'
-      total: 457
-      distance: 437.4
-      leading: 20
+      total: 486
+      distance: 464.6
+      leading: 21.2
       arrival: 0
       time: 0
       distanceMade: 20.539000 km
@@ -593,16 +593,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3809045.0000 km^2 s
-      leadingCoef: 1.27963928
-      leadingFrac: 0.67340067
+      leadingArea: 3808670.0000 km^2 s
+      leadingCoef: 1.27951333
+      leadingFrac: 0.67301587
       arrivalFrac: 0
   - - - '16'
       - Bruno Matos
     - place: '8'
-      total: 439
-      distance: 421.5
-      leading: 17.6
+      total: 466
+      distance: 447.7
+      leading: 18.7
       arrival: 0
       time: 0
       distanceMade: 19.792000 km
@@ -611,16 +611,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4034622.0000 km^2 s
-      leadingCoef: 1.35542131
-      leadingFrac: 0.59259259
+      leadingArea: 4034528.0000 km^2 s
+      leadingCoef: 1.3553898
+      leadingFrac: 0.59365079
       arrivalFrac: 0
   - - - '95'
       - Stojan Kranjc
     - place: '9'
-      total: 437
-      distance: 418.8
-      leading: 17.8
+      total: 464
+      distance: 444.8
+      leading: 18.9
       arrival: 0
       time: 0
       distanceMade: 19.665000 km
@@ -629,16 +629,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4009891.0000 km^2 s
-      leadingCoef: 1.34711308
-      leadingFrac: 0.5993266
+      leadingArea: 4009786.0000 km^2 s
+      leadingCoef: 1.34707789
+      leadingFrac: 0.6
       arrivalFrac: 0
   - - - '114'
       - Joan Brito
     - place: '10'
-      total: 425
-      distance: 409
-      leading: 16.2
+      total: 452
+      distance: 434.4
+      leading: 17.2
       arrival: 0
       time: 0
       distanceMade: 19.204000 km
@@ -647,16 +647,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4180535.0000 km^2 s
-      leadingCoef: 1.40444064
-      leadingFrac: 0.54545455
+      leadingArea: 4180374.0000 km^2 s
+      leadingCoef: 1.40438657
+      leadingFrac: 0.54603175
       arrivalFrac: 0
   - - - '37'
       - Igor Eržen
     - place: '11'
-      total: 373
-      distance: 355.9
-      leading: 17.5
+      total: 397
+      distance: 378
+      leading: 18.6
       arrival: 0
       time: 0
       distanceMade: 16.713000 km
@@ -665,16 +665,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4042845.0000 km^2 s
-      leadingCoef: 1.35818409
-      leadingFrac: 0.58922559
+      leadingArea: 4042420.0000 km^2 s
+      leadingCoef: 1.35804127
+      leadingFrac: 0.59047619
       arrivalFrac: 0
   - - - '57'
       - Lara Leban
     - place: '12'
-      total: 360
-      distance: 340
-      leading: 20.2
+      total: 383
+      distance: 361.1
+      leading: 21.5
       arrival: 0
       time: 0
       distanceMade: 15.967000 km
@@ -683,16 +683,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 3786649.0000 km^2 s
-      leadingCoef: 1.2721155
-      leadingFrac: 0.68013468
+      leadingArea: 3786509.0000 km^2 s
+      leadingCoef: 1.27206849
+      leadingFrac: 0.68253968
       arrivalFrac: 0
   - - - '86'
       - Sandi Krč
     - place: '13'
-      total: 241
-      distance: 225.8
-      leading: 15.6
+      total: 256
+      distance: 239.8
+      leading: 16.5
       arrival: 0
       time: 0
       distanceMade: 10.603000 km
@@ -701,16 +701,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4245271.0000 km^2 s
-      leadingCoef: 1.42618835
-      leadingFrac: 0.52525253
+      leadingArea: 4245269.0000 km^2 s
+      leadingCoef: 1.4261877
+      leadingFrac: 0.52380952
       arrivalFrac: 0
   - - - '4'
       - Alojz Tovornik
     - place: '14'
-      total: 216
-      distance: 208.5
-      leading: 7.5
+      total: 229
+      distance: 221.5
+      leading: 7.9
       arrival: 0
       time: 0
       distanceMade: 9.791000 km
@@ -721,14 +721,14 @@ score:
       timeFrac: 0
       leadingArea: 5233502.0000 km^2 s
       leadingCoef: 1.7581822
-      leadingFrac: 0.25252525
+      leadingFrac: 0.25079365
       arrivalFrac: 0
   - - - '13'
       - Balazs Szatmari
     - place: '15'
-      total: 203
-      distance: 195.8
-      leading: 7.6
+      total: 216
+      distance: 208
+      leading: 8
       arrival: 0
       time: 0
       distanceMade: 9.196000 km
@@ -737,16 +737,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 5221162.0000 km^2 s
-      leadingCoef: 1.75403681
-      leadingFrac: 0.25589226
+      leadingArea: 5221128.0000 km^2 s
+      leadingCoef: 1.75402516
+      leadingFrac: 0.25396825
       arrivalFrac: 0
   - - - '113'
       - Zsolt Sandor
     - place: '16'
-      total: 156
-      distance: 148.5
-      leading: 7.5
+      total: 166
+      distance: 157.7
+      leading: 8
       arrival: 0
       time: 0
       distanceMade: 6.973000 km
@@ -757,14 +757,14 @@ score:
       timeFrac: 0
       leadingArea: 5227238.0000 km^2 s
       leadingCoef: 1.75607782
-      leadingFrac: 0.25252525
+      leadingFrac: 0.25396825
       arrivalFrac: 0
   - - - '63'
       - Marketa Tomaskova
     - place: '17'
-      total: 128
-      distance: 121.4
-      leading: 6.1
+      total: 135
+      distance: 128.9
+      leading: 6.4
       arrival: 0
       time: 0
       distanceMade: 5.700000 km
@@ -775,14 +775,14 @@ score:
       timeFrac: 0
       leadingArea: 5430535.0000 km^2 s
       leadingCoef: 1.82437518
-      leadingFrac: 0.20538721
+      leadingFrac: 0.2031746
       arrivalFrac: 0
   - - - '46'
       - Jerko Odžak
     - place: '18'
-      total: 123
-      distance: 115.8
-      leading: 7.3
+      total: 131
+      distance: 123
+      leading: 7.7
       arrival: 0
       time: 0
       distanceMade: 5.437000 km
@@ -793,14 +793,14 @@ score:
       timeFrac: 0
       leadingArea: 5262650.0000 km^2 s
       leadingCoef: 1.76797432
-      leadingFrac: 0.24579125
+      leadingFrac: 0.24444444
       arrivalFrac: 0
   - - - '73'
       - Mitja Jug
     - place: '19'
-      total: 77
-      distance: 73
-      leading: 4.4
+      total: 82
+      distance: 77.5
+      leading: 4.7
       arrival: 0
       time: 0
       distanceMade: 3.427000 km
@@ -811,14 +811,14 @@ score:
       timeFrac: 0
       leadingArea: 5659159.0000 km^2 s
       leadingCoef: 1.90118063
-      leadingFrac: 0.14814815
+      leadingFrac: 0.14920635
       arrivalFrac: 0
   - - - '21'
       - Damir Kalinger
     - place: '20'
-      total: 54
-      distance: 48.2
-      leading: 5.8
+      total: 57
+      distance: 51.2
+      leading: 6.1
       arrival: 0
       time: 0
       distanceMade: 2.265000 km
@@ -827,16 +827,16 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 5469453.0000 km^2 s
-      leadingCoef: 1.83744937
-      leadingFrac: 0.1952862
+      leadingArea: 5468249.0000 km^2 s
+      leadingCoef: 1.83704503
+      leadingFrac: 0.19365079
       arrivalFrac: 0
   - - - '40'
       - Ivica Huljek
     - place: '21'
-      total: 46
-      distance: 40.4
-      leading: 5.6
+      total: 49
+      distance: 42.9
+      leading: 5.9
       arrival: 0
       time: 0
       distanceMade: 1.898000 km
@@ -847,14 +847,14 @@ score:
       timeFrac: 0
       leadingArea: 5496175.0000 km^2 s
       leadingCoef: 1.84642663
-      leadingFrac: 0.18855219
+      leadingFrac: 0.18730159
       arrivalFrac: 0
   - - - '9'
       - Antoni Buljan
     - place: '22'
-      total: 25
-      distance: 21.3
-      leading: 3.8
+      total: 27
+      distance: 22.6
+      leading: 4.1
       arrival: 0
       time: 0
       distanceMade: 1.000000 km
@@ -865,13 +865,13 @@ score:
       timeFrac: 0
       leadingArea: 5747759.0000 km^2 s
       leadingCoef: 1.93094551
-      leadingFrac: 0.12794613
+      leadingFrac: 0.13015873
       arrivalFrac: 0
   - - - '91'
       - Slava Jelić
     - place: '23'
-      total: 21
-      distance: 21.3
+      total: 23
+      distance: 22.6
       leading: 0
       arrival: 0
       time: 0
@@ -899,8 +899,8 @@ score:
       es: 2018-05-27T12:04:40Z
       timeElapsed: 1.077778 h
       timeFrac: 1
-      leadingArea: 995001.0000 km^2 s
-      leadingCoef: 0.84283136
+      leadingArea: 994899.0000 km^2 s
+      leadingCoef: 0.84274528
       leadingFrac: 0.9620133
       arrivalFrac: 0
   - - - '98'
@@ -917,8 +917,8 @@ score:
       es: 2018-05-27T12:06:59Z
       timeElapsed: 1.116389 h
       timeFrac: 0.88857949
-      leadingArea: 1005465.0000 km^2 s
-      leadingCoef: 0.85169567
+      leadingArea: 1005400.0000 km^2 s
+      leadingCoef: 0.85164058
       leadingFrac: 0.93352327
       arrivalFrac: 0
   - - - '26'
@@ -935,8 +935,8 @@ score:
       es: 2018-05-27T12:17:01Z
       timeElapsed: 1.283611 h
       timeFrac: 0.65998292
-      leadingArea: 987086.0000 km^2 s
-      leadingCoef: 0.83612736
+      leadingArea: 986949.0000 km^2 s
+      leadingCoef: 0.836011
       leadingFrac: 1
       arrivalFrac: 0
   - - - '4'
@@ -953,8 +953,8 @@ score:
       es: 2018-05-27T12:24:29Z
       timeElapsed: 1.408056 h
       timeFrac: 0.53397434
-      leadingArea: 1273070.0000 km^2 s
-      leadingCoef: 1.07837474
+      leadingArea: 1272994.0000 km^2 s
+      leadingCoef: 1.07830987
       leadingFrac: 0.58689459
       arrivalFrac: 0
   - - - '101'
@@ -971,8 +971,8 @@ score:
       es: 2018-05-27T12:23:53Z
       timeElapsed: 1.398056 h
       timeFrac: 0.5434292
-      leadingArea: 1523719.0000 km^2 s
-      leadingCoef: 1.29069089
+      leadingArea: 1523084.0000 km^2 s
+      leadingCoef: 1.29015308
       leadingFrac: 0.37226971
       arrivalFrac: 0
   - - - '74'
@@ -980,7 +980,7 @@ score:
     - place: '6'
       total: 679
       distance: 398.4
-      leading: 36.9
+      leading: 37
       arrival: 0
       time: 243.5
       distanceMade: 26.232000 km
@@ -989,9 +989,9 @@ score:
       es: 2018-05-27T12:27:19Z
       timeElapsed: 1.455278 h
       timeFrac: 0.49055
-      leadingArea: 1551290.0000 km^2 s
-      leadingCoef: 1.31404495
-      leadingFrac: 0.35042735
+      leadingArea: 1550704.0000 km^2 s
+      leadingCoef: 1.31354905
+      leadingFrac: 0.35137702
       arrivalFrac: 0
   - - - '73'
       - Mitja Jug
@@ -1007,8 +1007,8 @@ score:
       es: 2018-05-27T12:34:17Z
       timeElapsed: 1.571389 h
       timeFrac: 0.39081826
-      leadingArea: 1466970.0000 km^2 s
-      leadingCoef: 1.24262038
+      leadingArea: 1466662.0000 km^2 s
+      leadingCoef: 1.24236004
       leadingFrac: 0.41690408
       arrivalFrac: 0
   - - - '114'
@@ -1025,8 +1025,8 @@ score:
       es: 2018-05-27T12:37:57Z
       timeElapsed: 1.632500 h
       timeFrac: 0.34152296
-      leadingArea: 1287966.0000 km^2 s
-      leadingCoef: 1.09099262
+      leadingArea: 1287768.0000 km^2 s
+      leadingCoef: 1.09082457
       leadingFrac: 0.57264957
       arrivalFrac: 0
   - - - '9'
@@ -1034,7 +1034,7 @@ score:
     - place: '9'
       total: 615
       distance: 398.4
-      leading: 25.3
+      leading: 25.5
       arrival: 0
       time: 190.8
       distanceMade: 26.232000 km
@@ -1043,9 +1043,9 @@ score:
       es: 2018-05-27T12:34:45Z
       timeElapsed: 1.579167 h
       timeFrac: 0.38443574
-      leadingArea: 1700956.0000 km^2 s
-      leadingCoef: 1.44082193
-      leadingFrac: 0.24026591
+      leadingArea: 1698513.0000 km^2 s
+      leadingCoef: 1.43875281
+      leadingFrac: 0.24216524
       arrivalFrac: 0
   - - - '72'
       - Mitja Jančič
@@ -1061,8 +1061,8 @@ score:
       es: 2018-05-27T12:37:26Z
       timeElapsed: 1.623889 h
       timeFrac: 0.3483552
-      leadingArea: 1567639.0000 km^2 s
-      leadingCoef: 1.32789352
+      leadingArea: 1567422.0000 km^2 s
+      leadingCoef: 1.32770964
       leadingFrac: 0.33808167
       arrivalFrac: 0
   - - - '95'
@@ -1070,7 +1070,7 @@ score:
     - place: '11'
       total: 537
       distance: 398.4
-      leading: 18.6
+      leading: 18.7
       arrival: 0
       time: 120
       distanceMade: 26.232000 km
@@ -1079,9 +1079,9 @@ score:
       es: 2018-05-27T12:45:48Z
       timeElapsed: 1.763333 h
       timeFrac: 0.24168084
-      leadingArea: 1793134.0000 km^2 s
-      leadingCoef: 1.51890273
-      leadingFrac: 0.17663818
+      leadingArea: 1791992.0000 km^2 s
+      leadingCoef: 1.5179357
+      leadingFrac: 0.17758784
       arrivalFrac: 0
   - - - '54'
       - Krešo  Kovačič
@@ -1097,8 +1097,8 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 1366971.0000 km^2 s
-      leadingCoef: 1.15791464
+      leadingArea: 1366905.0000 km^2 s
+      leadingCoef: 1.15785894
       leadingFrac: 0.5014245
       arrivalFrac: 0
   - - - '63'
@@ -1115,8 +1115,8 @@ score:
       es: 2018-05-27T13:03:52Z
       timeElapsed: 2.064444 h
       timeFrac: 3.334709e-2
-      leadingArea: 1941373.0000 km^2 s
-      leadingCoef: 1.64447103
+      leadingArea: 1940790.0000 km^2 s
+      leadingCoef: 1.64397763
       leadingFrac: 7.882241e-2
       arrivalFrac: 0
   - - - '37'
@@ -1133,8 +1133,8 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 1375980.0000 km^2 s
-      leadingCoef: 1.1655458
+      leadingArea: 1375729.0000 km^2 s
+      leadingCoef: 1.16533305
       leadingFrac: 0.49287749
       arrivalFrac: 0
   - - - '41'
@@ -1151,8 +1151,8 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 1287644.0000 km^2 s
-      leadingCoef: 1.09071939
+      leadingArea: 1287271.0000 km^2 s
+      leadingCoef: 1.09040382
       leadingFrac: 0.57359924
       arrivalFrac: 0
   - - - '57'
@@ -1169,8 +1169,8 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 1696002.0000 km^2 s
-      leadingCoef: 1.43662611
+      leadingArea: 1695624.0000 km^2 s
+      leadingCoef: 1.43630533
       leadingFrac: 0.24406458
       arrivalFrac: 0
   - - - '23'
@@ -1187,8 +1187,8 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 4355690.0000 km^2 s
-      leadingCoef: 3.68955725
+      leadingArea: 4350439.0000 km^2 s
+      leadingCoef: 3.68510959
       leadingFrac: 0
       arrivalFrac: 0
   - - - '80'
@@ -1205,8 +1205,8 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 6039865.0000 km^2 s
-      leadingCoef: 5.11616506
+      leadingArea: 6034238.0000 km^2 s
+      leadingCoef: 5.11139865
       leadingFrac: 0
       arrivalFrac: 0
   - - - '46'
@@ -1223,8 +1223,8 @@ score:
       es: null
       timeElapsed: null
       timeFrac: 0
-      leadingArea: 5891531.0000 km^2 s
-      leadingCoef: 4.99051632
+      leadingArea: 5887942.0000 km^2 s
+      leadingCoef: 4.98747631
       leadingFrac: 0
       arrivalFrac: 0
   - - - '91'
