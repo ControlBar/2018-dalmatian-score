@@ -18,6 +18,16 @@ validity:
   launch: 1
   stop: 1
   task: 1
+validityWorkingLaunch:
+- flying: 26
+  nominalLaunch: 0.96
+  present: 26
+- flying: 23
+  nominalLaunch: 0.96
+  present: 24
+- flying: 21
+  nominalLaunch: 0.96
+  present: 22
 score:
 - - - - '101'
       - Tomaž Toplak
