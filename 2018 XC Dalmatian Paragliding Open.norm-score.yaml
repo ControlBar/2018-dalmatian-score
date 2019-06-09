@@ -28,6 +28,22 @@ validityWorkingLaunch:
 - flying: 21
   nominalLaunch: 0.96
   present: 22
+validityWorkingTime:
+- bestDistance: 11.405 km
+  gsBestTime: null
+  nominalDistance: 25.0 km
+  nominalTime: 1.000000 h
+  ssBestTime: null
+- bestDistance: 22.729 km
+  gsBestTime: null
+  nominalDistance: 25.0 km
+  nominalTime: 1.000000 h
+  ssBestTime: null
+- bestDistance: 26.232 km
+  gsBestTime: 1.077778 h
+  nominalDistance: 25.0 km
+  nominalTime: 1.000000 h
+  ssBestTime: null
 score:
 - - - - '101'
       - Tomaž Toplak
