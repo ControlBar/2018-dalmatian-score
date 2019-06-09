@@ -2,6 +2,22 @@ bestTime:
 - null
 - null
 - 1.077778 h
+validity:
+- distance: 0.22263481
+  time: 0.66421115
+  launch: 1
+  stop: 0.86738245
+  task: 0.1282655
+- distance: 0.80506585
+  time: 0.98575522
+  launch: 1
+  stop: 0.71978248
+  task: 0.57121784
+- distance: 1
+  time: 1
+  launch: 1
+  stop: 1
+  task: 1
 score:
 - - - - '101'
       - Tomaž Toplak
