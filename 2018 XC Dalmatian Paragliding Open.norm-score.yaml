@@ -32,7 +32,7 @@ validityWorkingDistance:
   minimumDistance: 1.000 km
   nominalDistance: 25.0 km
   nominalGoal: 0.2
-  sum: 280.7 km
+  sum: 258.0 km
 - area: 0
   bestDistance: 26.232 km
   flying: 21
