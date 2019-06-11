@@ -18,9 +18,9 @@ validityWorking:
     minimumDistance: 1.000 km
     bestDistance: 13.645 km
   stop:
-    bestDistance: 13.645 km
-    flownMean: 5.916 km
-    flownStdDev: 3.637 km
+    flownMax: 13.644542 km
+    flownMean: 5.915945 km
+    flownStdDev: 3.637482 km
     flying: 26
     landed: 17
     launchToEssDistance: 29.063 km
@@ -45,9 +45,9 @@ validityWorking:
     minimumDistance: 1.000 km
     bestDistance: 22.716 km
   stop:
-    bestDistance: 22.716 km
-    flownMean: 14.071 km
-    flownStdDev: 7.814 km
+    flownMax: 22.715593 km
+    flownMean: 14.071275 km
+    flownStdDev: 7.814424 km
     flying: 23
     landed: 8
     launchToEssDistance: 41.172 km
