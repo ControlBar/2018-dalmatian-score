@@ -1,12 +1,12 @@
-flownMax:
+bolsterMax:
 - 12.003542 km
 - 20.355593 km
 - 26.387593 km
-flownMean:
+bolsterMean:
 - 4.780369 km
 - 12.719702 km
 - 21.586063 km
-flownStdDev:
+bolsterStdDev:
 - 3.462565 km
 - 7.318129 km
 - 8.811203 km

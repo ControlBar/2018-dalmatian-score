@@ -51,7 +51,8 @@ validityWorkingLaunch:
   nominalLaunch: 0.96
   present: 22
 validityWorkingStop:
-- flownMax: 0.011405 km
+- extraMax: 11.405000 km
+  flownMax: 11.405000 km
   flownMean: 0.000000 km
   flownStdDev: 0.000000 km
   flying: 26
@@ -59,7 +60,8 @@ validityWorkingStop:
   launchToEssDistance: 29.069 km
   pilotsAtEss: 0
   stillFlying: 9
-- flownMax: 0.022729 km
+- extraMax: 22.729000 km
+  flownMax: 20.361000 km
   flownMean: 0.000000 km
   flownStdDev: 0.000000 km
   flying: 23
@@ -67,7 +69,8 @@ validityWorkingStop:
   launchToEssDistance: 41.192 km
   pilotsAtEss: 0
   stillFlying: 15
-- flownMax: 0.026232 km
+- extraMax: 26.232000 km
+  flownMax: 26.232000 km
   flownMean: 0.000000 km
   flownStdDev: 0.000000 km
   flying: 21
