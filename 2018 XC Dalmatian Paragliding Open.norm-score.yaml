@@ -19,21 +19,21 @@ validity:
   stop: 1
   task: 1
 validityWorkingDistance:
-- area: 0
+- area: 14.4
   bestDistance: 11.405 km
   flying: 26
   minimumDistance: 1.000 km
   nominalDistance: 25.0 km
   nominalGoal: 0.2
   sum: 75.5 km
-- area: 0
+- area: 14.4
   bestDistance: 22.729 km
   flying: 23
   minimumDistance: 1.000 km
   nominalDistance: 25.0 km
   nominalGoal: 0.2
   sum: 258.0 km
-- area: 0
+- area: 14.5232
   bestDistance: 26.232 km
   flying: 21
   minimumDistance: 1.000 km
