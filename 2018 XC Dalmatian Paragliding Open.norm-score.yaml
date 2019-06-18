@@ -51,44 +51,47 @@ validityWorkingLaunch:
   nominalLaunch: 0.96
   present: 22
 validityWorkingStop:
-- extra:
-    max: 11.405000 km
-    mean: 3.903269 km
-    stdDev: 3.222866 km
-  flown:
-    max: 11.405000 km
-    mean: 3.903269 km
-    stdDev: 3.222866 km
-  flying: 26
+- flying: 26
   landed: 17
   launchToEssDistance: 29.069 km
   pilotsAtEss: 0
+  reachStats:
+    extra:
+      max: 11.405000 km
+      mean: 3.903269 km
+      stdDev: 3.222866 km
+    flown:
+      max: 11.405000 km
+      mean: 3.903269 km
+      stdDev: 3.222866 km
   stillFlying: 9
-- extra:
-    max: 22.729000 km
-    mean: 13.203087 km
-    stdDev: 8.354327 km
-  flown:
-    max: 20.361000 km
-    mean: 12.219478 km
-    stdDev: 7.564204 km
-  flying: 23
+- flying: 23
   landed: 8
   launchToEssDistance: 41.192 km
   pilotsAtEss: 0
+  reachStats:
+    extra:
+      max: 22.729000 km
+      mean: 13.203087 km
+      stdDev: 8.354327 km
+    flown:
+      max: 20.361000 km
+      mean: 12.219478 km
+      stdDev: 7.564204 km
   stillFlying: 15
-- extra:
-    max: 26.232000 km
-    mean: 20.464619 km
-    stdDev: 9.668147 km
-  flown:
-    max: 26.232000 km
-    mean: 20.464619 km
-    stdDev: 9.668147 km
-  flying: 21
+- flying: 21
   landed: 0
   launchToEssDistance: 26.232 km
   pilotsAtEss: 12
+  reachStats:
+    extra:
+      max: 26.232000 km
+      mean: 20.464619 km
+      stdDev: 9.668147 km
+    flown:
+      max: 26.232000 km
+      mean: 20.464619 km
+      stdDev: 9.668147 km
   stillFlying: 21
 validityWorkingTime:
 - bestDistance: 11.405 km

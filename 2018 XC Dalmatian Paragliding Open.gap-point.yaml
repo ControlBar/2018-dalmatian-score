@@ -18,18 +18,19 @@ validityWorking:
     minimumDistance: 1.000 km
     bestDistance: 13.645 km
   stop:
-    extra:
-      max: 13.644542 km
-      mean: 5.915945 km
-      stdDev: 3.637482 km
     flying: 26
-    flown:
-      max: 12.003542 km
-      mean: 4.780369 km
-      stdDev: 3.462565 km
     landed: 17
     launchToEssDistance: 29.063 km
     pilotsAtEss: 0
+    reachStats:
+      extra:
+        max: 13.644542 km
+        mean: 5.915945 km
+        stdDev: 3.637482 km
+      flown:
+        max: 12.003542 km
+        mean: 4.780369 km
+        stdDev: 3.462565 km
     stillFlying: 6
 - time:
     nominalTime: 1.000000 h
@@ -50,18 +51,19 @@ validityWorking:
     minimumDistance: 1.000 km
     bestDistance: 22.716 km
   stop:
-    extra:
-      max: 22.715593 km
-      mean: 14.071275 km
-      stdDev: 7.814424 km
     flying: 23
-    flown:
-      max: 20.355593 km
-      mean: 12.719702 km
-      stdDev: 7.318129 km
     landed: 8
     launchToEssDistance: 41.172 km
     pilotsAtEss: 0
+    reachStats:
+      extra:
+        max: 22.715593 km
+        mean: 14.071275 km
+        stdDev: 7.814424 km
+      flown:
+        max: 20.355593 km
+        mean: 12.719702 km
+        stdDev: 7.318129 km
     stillFlying: 14
 - time:
     nominalTime: 1.000000 h
@@ -101,51 +103,51 @@ validity:
 allocation:
 - goalRatio: 0
   weight:
-    reach: 0.9
     effort: 0
     distance: 0.9
     leading: 4.0467e-2
     arrival: 0
     time: 5.9533e-2
+    reach: 0.9
   points:
-    reach: 125.47
     effort: 0
     distance: 125.47
     leading: 5.6
     arrival: 0
     time: 8.3
+    reach: 125.47
   taskPoints: 139
 - goalRatio: 0
   weight:
-    reach: 0.9
     effort: 0
     distance: 0.9
     leading: 4.944087e-2
     arrival: 0
     time: 5.055913e-2
+    reach: 0.9
   points:
-    reach: 478.403
     effort: 0
     distance: 478.403
     leading: 26.3
     arrival: 0
     time: 26.9
+    reach: 478.403
   taskPoints: 532
 - goalRatio: 0.57142857
   weight:
-    reach: 0.39839067
     effort: 0
     distance: 0.39839067
     leading: 0.10528163
     arrival: 0
     time: 0.4963277
+    reach: 0.39839067
   points:
-    reach: 398.288
     effort: 0
     distance: 398.288
     leading: 105.3
     arrival: 0
     time: 496.2
+    reach: 398.288
   taskPoints: 1000
 score:
 - - - - '98'
@@ -155,12 +157,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 125.47
         effort: 0
         distance: 125.47
         leading: 2.9
         arrival: 0
         time: 0
+        reach: 125.47
       velocity:
         ss: 2018-05-24T10:58:42.436402456214Z
         gs: 2018-05-24T10:30:00Z
@@ -180,12 +182,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 115.327
         effort: 0
         distance: 115.327
         leading: 5.6
         arrival: 0
         time: 0
+        reach: 115.327
       velocity:
         ss: 2018-05-24T10:45:22.452396546459Z
         gs: 2018-05-24T10:30:00Z
@@ -205,12 +207,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 102.012
         effort: 0
         distance: 102.012
         leading: 1.1
         arrival: 0
         time: 0
+        reach: 102.012
       velocity:
         ss: 2018-05-24T11:31:16.976762449143Z
         gs: 2018-05-24T10:30:00Z
@@ -230,12 +232,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 83.694
         effort: 0
         distance: 83.694
         leading: 4.6
         arrival: 0
         time: 0
+        reach: 83.694
       velocity:
         ss: 2018-05-24T10:36:48.489063714158Z
         gs: 2018-05-24T10:30:00Z
@@ -255,12 +257,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 82.931
         effort: 0
         distance: 82.931
         leading: 4.6
         arrival: 0
         time: 0
+        reach: 82.931
       velocity:
         ss: 2018-05-24T10:34:47.500359638951Z
         gs: 2018-05-24T10:30:00Z
@@ -280,12 +282,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 75.556
         effort: 0
         distance: 75.556
         leading: 2.8
         arrival: 0
         time: 0
+        reach: 75.556
       velocity:
         ss: 2018-05-24T11:01:18.253329843239Z
         gs: 2018-05-24T10:30:00Z
@@ -305,12 +307,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 75.483
         effort: 0
         distance: 75.483
         leading: 2.3
         arrival: 0
         time: 0
+        reach: 75.483
       velocity:
         ss: 2018-05-24T10:58:15.693102467777Z
         gs: 2018-05-24T10:30:00Z
@@ -330,12 +332,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 62.48
         effort: 0
         distance: 62.48
         leading: 2.7
         arrival: 0
         time: 0
+        reach: 62.48
       velocity:
         ss: 2018-05-24T10:37:58.436610755224Z
         gs: 2018-05-24T10:30:00Z
@@ -355,12 +357,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 62.287
         effort: 0
         distance: 62.287
         leading: 2.6
         arrival: 0
         time: 0
+        reach: 62.287
       velocity:
         ss: 2018-05-24T10:44:29.4181448326Z
         gs: 2018-05-24T10:30:00Z
@@ -380,12 +382,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 50.774
         effort: 0
         distance: 50.774
         leading: 2.6
         arrival: 0
         time: 0
+        reach: 50.774
       velocity:
         ss: 2018-05-24T10:38:03.924387139758Z
         gs: 2018-05-24T10:30:00Z
@@ -405,12 +407,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 44.098
         effort: 0
         distance: 44.098
         leading: 0.8
         arrival: 0
         time: 0
+        reach: 44.098
       velocity:
         ss: 2018-05-24T11:47:18.85668062592Z
         gs: 2018-05-24T10:30:00Z
@@ -430,12 +432,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 38.461
         effort: 0
         distance: 38.461
         leading: 0.8
         arrival: 0
         time: 0
+        reach: 38.461
       velocity:
         ss: 2018-05-24T11:31:09.573509608664Z
         gs: 2018-05-24T10:30:00Z
@@ -455,12 +457,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 32.263
         effort: 0
         distance: 32.263
         leading: 0.8
         arrival: 0
         time: 0
+        reach: 32.263
       velocity:
         ss: 2018-05-24T11:30:23.60833186997Z
         gs: 2018-05-24T10:30:00Z
@@ -480,12 +482,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.665
         effort: 0
         distance: 31.665
         leading: 1
         arrival: 0
         time: 0
+        reach: 31.665
       velocity:
         ss: 2018-05-24T11:01:59.902935251773Z
         gs: 2018-05-24T10:30:00Z
@@ -505,12 +507,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 30.672
         effort: 0
         distance: 30.672
         leading: 0.2
         arrival: 0
         time: 0
+        reach: 30.672
       velocity:
         ss: 2018-05-24T12:17:13.07825247518Z
         gs: 2018-05-24T10:30:00Z
@@ -530,12 +532,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 28.125
         effort: 0
         distance: 28.125
         leading: 0.8
         arrival: 0
         time: 0
+        reach: 28.125
       velocity:
         ss: 2018-05-24T10:43:40.81931822861Z
         gs: 2018-05-24T10:30:00Z
@@ -555,12 +557,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 26.709
         effort: 0
         distance: 26.709
         leading: 0.6
         arrival: 0
         time: 0
+        reach: 26.709
       velocity:
         ss: 2018-05-24T11:29:02.348156329085Z
         gs: 2018-05-24T10:30:00Z
@@ -580,12 +582,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 24.355
         effort: 0
         distance: 24.355
         leading: 0.3
         arrival: 0
         time: 0
+        reach: 24.355
       velocity:
         ss: 2018-05-24T11:49:56.448711488495Z
         gs: 2018-05-24T10:30:00Z
@@ -605,12 +607,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 20.759
         effort: 0
         distance: 20.759
         leading: 0
         arrival: 0
         time: 0
+        reach: 20.759
       velocity:
         ss: 2018-05-24T11:09:06.53566361672Z
         gs: 2018-05-24T10:30:00Z
@@ -630,12 +632,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 20.097
         effort: 0
         distance: 20.097
         leading: 0
         arrival: 0
         time: 0
+        reach: 20.097
       velocity:
         ss: 2018-05-24T12:22:01.513934504043Z
         gs: 2018-05-24T10:30:00Z
@@ -655,12 +657,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.196
         effort: 0
         distance: 9.196
         leading: 0
         arrival: 0
         time: 0
+        reach: 9.196
       velocity:
         ss: 2018-05-24T10:57:39.862601827736Z
         gs: 2018-05-24T10:30:00Z
@@ -680,12 +682,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.196
         effort: 0
         distance: 9.196
         leading: 0
         arrival: 0
         time: 0
+        reach: 9.196
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -697,12 +699,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.196
         effort: 0
         distance: 9.196
         leading: 0
         arrival: 0
         time: 0
+        reach: 9.196
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -714,12 +716,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.196
         effort: 0
         distance: 9.196
         leading: 0
         arrival: 0
         time: 0
+        reach: 9.196
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -731,12 +733,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 478.403
         effort: 0
         distance: 478.403
         leading: 24.4
         arrival: 0
         time: 0
+        reach: 478.403
       velocity:
         ss: 2018-05-26T11:09:25.750662673868Z
         gs: 2018-05-26T11:00:00Z
@@ -756,12 +758,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 474.865
         effort: 0
         distance: 474.865
         leading: 24.8
         arrival: 0
         time: 0
+        reach: 474.865
       velocity:
         ss: 2018-05-26T11:08:57.380871985227Z
         gs: 2018-05-26T11:00:00Z
@@ -781,12 +783,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 474.528
         effort: 0
         distance: 474.528
         leading: 23.1
         arrival: 0
         time: 0
+        reach: 474.528
       velocity:
         ss: 2018-05-26T11:10:55.27220069988Z
         gs: 2018-05-26T11:00:00Z
@@ -806,12 +808,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 471.053
         effort: 0
         distance: 471.053
         leading: 23.8
         arrival: 0
         time: 0
+        reach: 471.053
       velocity:
         ss: 2018-05-26T11:10:34.894552452327Z
         gs: 2018-05-26T11:00:00Z
@@ -831,12 +833,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 471.348
         effort: 0
         distance: 471.348
         leading: 21.3
         arrival: 0
         time: 0
+        reach: 471.348
       velocity:
         ss: 2018-05-26T11:12:41.159191802323Z
         gs: 2018-05-26T11:00:00Z
@@ -856,12 +858,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 460.081
         effort: 0
         distance: 460.081
         leading: 26.3
         arrival: 0
         time: 0
+        reach: 460.081
       velocity:
         ss: 2018-05-26T11:06:52.72256038209Z
         gs: 2018-05-26T11:00:00Z
@@ -881,12 +883,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 432.302
         effort: 0
         distance: 432.302
         leading: 17.7
         arrival: 0
         time: 0
+        reach: 432.302
       velocity:
         ss: 2018-05-26T11:11:31.667039929273Z
         gs: 2018-05-26T11:00:00Z
@@ -906,12 +908,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 416.338
         effort: 0
         distance: 416.338
         leading: 15.6
         arrival: 0
         time: 0
+        reach: 416.338
       velocity:
         ss: 2018-05-26T11:11:33.983086940208Z
         gs: 2018-05-26T11:00:00Z
@@ -931,12 +933,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 413.684
         effort: 0
         distance: 413.684
         leading: 15.8
         arrival: 0
         time: 0
+        reach: 413.684
       velocity:
         ss: 2018-05-26T11:11:13.348640671877Z
         gs: 2018-05-26T11:00:00Z
@@ -956,12 +958,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 403.975
         effort: 0
         distance: 403.975
         leading: 14.2
         arrival: 0
         time: 0
+        reach: 403.975
       velocity:
         ss: 2018-05-26T11:11:59.263364580049Z
         gs: 2018-05-26T11:00:00Z
@@ -981,12 +983,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 360.696
         effort: 0
         distance: 360.696
         leading: 15.5
         arrival: 0
         time: 0
+        reach: 360.696
       velocity:
         ss: 2018-05-26T11:11:03.597526533168Z
         gs: 2018-05-26T11:00:00Z
@@ -1006,12 +1008,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 352.293
         effort: 0
         distance: 352.293
         leading: 17.9
         arrival: 0
         time: 0
+        reach: 352.293
       velocity:
         ss: 2018-05-26T11:12:08.747527110729Z
         gs: 2018-05-26T11:00:00Z
@@ -1031,12 +1033,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 252.044
         effort: 0
         distance: 252.044
         leading: 13.8
         arrival: 0
         time: 0
+        reach: 252.044
       velocity:
         ss: 2018-05-26T11:12:59.583377294838Z
         gs: 2018-05-26T11:00:00Z
@@ -1056,12 +1058,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 206.301
         effort: 0
         distance: 206.301
         leading: 6.6
         arrival: 0
         time: 0
+        reach: 206.301
       velocity:
         ss: 2018-05-26T11:29:57.290225373139Z
         gs: 2018-05-26T11:00:00Z
@@ -1081,12 +1083,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 193.707
         effort: 0
         distance: 193.707
         leading: 6.5
         arrival: 0
         time: 0
+        reach: 193.707
       velocity:
         ss: 2018-05-26T11:25:30.618783069534Z
         gs: 2018-05-26T11:00:00Z
@@ -1106,12 +1108,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 146.91
         effort: 0
         distance: 146.91
         leading: 6.4
         arrival: 0
         time: 0
+        reach: 146.91
       velocity:
         ss: 2018-05-26T11:25:23.267377983476Z
         gs: 2018-05-26T11:00:00Z
@@ -1131,12 +1133,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 142.277
         effort: 0
         distance: 142.277
         leading: 6.3
         arrival: 0
         time: 0
+        reach: 142.277
       velocity:
         ss: 2018-05-26T11:25:10.691733647417Z
         gs: 2018-05-26T11:00:00Z
@@ -1156,12 +1158,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 120.058
         effort: 0
         distance: 120.058
         leading: 5.7
         arrival: 0
         time: 0
+        reach: 120.058
       velocity:
         ss: 2018-05-26T11:35:38.948438866939Z
         gs: 2018-05-26T11:00:00Z
@@ -1181,12 +1183,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 92.489
         effort: 0
         distance: 92.489
         leading: 4.2
         arrival: 0
         time: 0
+        reach: 92.489
       velocity:
         ss: 2018-05-26T11:52:23.23292152176Z
         gs: 2018-05-26T11:00:00Z
@@ -1206,12 +1208,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 64.563
         effort: 0
         distance: 64.563
         leading: 5.1
         arrival: 0
         time: 0
+        reach: 64.563
       velocity:
         ss: 2018-05-26T11:24:43.897607297604Z
         gs: 2018-05-26T11:00:00Z
@@ -1231,12 +1233,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 51.8
         effort: 0
         distance: 51.8
         leading: 0
         arrival: 0
         time: 0
+        reach: 51.8
       velocity:
         ss: 2018-05-26T11:53:01.305645173243Z
         gs: 2018-05-26T11:00:00Z
@@ -1256,12 +1258,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 39.964
         effort: 0
         distance: 39.964
         leading: 4.9
         arrival: 0
         time: 0
+        reach: 39.964
       velocity:
         ss: 2018-05-26T11:21:17.69746818068Z
         gs: 2018-05-26T11:00:00Z
@@ -1281,12 +1283,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 21.061
         effort: 0
         distance: 21.061
         leading: 0
         arrival: 0
         time: 0
+        reach: 21.061
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -1298,12 +1300,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 101
         arrival: 0
         time: 496.2
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:01:10.599481031509Z
         gs: 2018-05-27T11:00:00Z
@@ -1323,12 +1325,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 98.3
         arrival: 0
         time: 441
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:01:29.397308836336Z
         gs: 2018-05-27T11:00:00Z
@@ -1348,12 +1350,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 105.3
         arrival: 0
         time: 327.5
+        reach: 398.288
       velocity:
         ss: 2018-05-27T10:59:59.04104387496Z
         gs: 2018-05-27T11:00:00Z
@@ -1373,12 +1375,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 62
         arrival: 0
         time: 265.1
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:04:21.975994493467Z
         gs: 2018-05-27T11:00:00Z
@@ -1398,12 +1400,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 39.5
         arrival: 0
         time: 269.7
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:15:45.133247037485Z
         gs: 2018-05-27T11:00:00Z
@@ -1423,12 +1425,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 38.9
         arrival: 0
         time: 243.7
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:10:56.13629368208Z
         gs: 2018-05-27T11:00:00Z
@@ -1448,12 +1450,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 44.2
         arrival: 0
         time: 194
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:03:09.038345550489Z
         gs: 2018-05-27T11:00:00Z
@@ -1473,12 +1475,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 60.6
         arrival: 0
         time: 169.7
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:00:47.268854414892Z
         gs: 2018-05-27T11:00:00Z
@@ -1498,12 +1500,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 25.5
         arrival: 0
         time: 190.8
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:16:09.92779751695Z
         gs: 2018-05-27T11:00:00Z
@@ -1523,12 +1525,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 36
         arrival: 0
         time: 173
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:01:26.820232774004Z
         gs: 2018-05-27T11:00:00Z
@@ -1548,12 +1550,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 19
         arrival: 0
         time: 120
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:16:12.890910937797Z
         gs: 2018-05-27T11:00:00Z
@@ -1573,12 +1575,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 374.077
         effort: 0
         distance: 374.077
         leading: 53.5
         arrival: 0
         time: 0
+        reach: 374.077
       velocity:
         ss: 2018-05-27T11:03:43.15984125572Z
         gs: 2018-05-27T11:00:00Z
@@ -1598,12 +1600,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 8.9
         arrival: 0
         time: 16.6
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:01:25.384593188315Z
         gs: 2018-05-27T11:00:00Z
@@ -1623,12 +1625,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 348.433
         effort: 0
         distance: 348.433
         leading: 54.2
         arrival: 0
         time: 0
+        reach: 348.433
       velocity:
         ss: 2018-05-27T11:02:32.114474583484Z
         gs: 2018-05-27T11:00:00Z
@@ -1648,12 +1650,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 336.237
         effort: 0
         distance: 336.237
         leading: 63.6
         arrival: 0
         time: 0
+        reach: 336.237
       velocity:
         ss: 2018-05-27T11:03:12.966380003281Z
         gs: 2018-05-27T11:00:00Z
@@ -1673,12 +1675,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 346.395
         effort: 0
         distance: 346.395
         leading: 27.9
         arrival: 0
         time: 0
+        reach: 346.395
       velocity:
         ss: 2018-05-27T11:04:19.858898768996Z
         gs: 2018-05-27T11:00:00Z
@@ -1698,12 +1700,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 240.558
         effort: 0
         distance: 240.558
         leading: 0
         arrival: 0
         time: 0
+        reach: 240.558
       velocity:
         ss: 2018-05-27T12:17:41.537823273779Z
         gs: 2018-05-27T11:00:00Z
@@ -1723,12 +1725,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 47.901
         effort: 0
         distance: 47.901
         leading: 0
         arrival: 0
         time: 0
+        reach: 47.901
       velocity:
         ss: 2018-05-27T13:10:40.223596311081Z
         gs: 2018-05-27T11:00:00Z
@@ -1748,12 +1750,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 28.144
         effort: 0
         distance: 28.144
         leading: 0
         arrival: 0
         time: 0
+        reach: 28.144
       velocity:
         ss: 2018-05-27T12:09:10.603501909632Z
         gs: 2018-05-27T11:00:00Z
@@ -1773,12 +1775,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 15.094
         effort: 0
         distance: 15.094
         leading: 0
         arrival: 0
         time: 0
+        reach: 15.094
       velocity:
         ss: 2018-05-27T11:05:11.981913212368Z
         gs: 2018-05-27T11:00:00Z
@@ -1798,12 +1800,12 @@ score:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 15.094
         effort: 0
         distance: 15.094
         leading: 0
         arrival: 0
         time: 0
+        reach: 15.094
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -1816,12 +1818,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 125.47
         effort: 0
         distance: 125.47
         leading: 2.9
         arrival: 0
         time: 0
+        reach: 125.47
       velocity:
         ss: 2018-05-24T10:58:42.436402456214Z
         gs: 2018-05-24T10:30:00Z
@@ -1841,12 +1843,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 115.327
         effort: 0
         distance: 115.327
         leading: 5.6
         arrival: 0
         time: 0
+        reach: 115.327
       velocity:
         ss: 2018-05-24T10:45:22.452396546459Z
         gs: 2018-05-24T10:30:00Z
@@ -1866,12 +1868,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 102.012
         effort: 0
         distance: 102.012
         leading: 1.1
         arrival: 0
         time: 0
+        reach: 102.012
       velocity:
         ss: 2018-05-24T11:31:16.976762449143Z
         gs: 2018-05-24T10:30:00Z
@@ -1891,12 +1893,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 83.694
         effort: 0
         distance: 83.694
         leading: 4.6
         arrival: 0
         time: 0
+        reach: 83.694
       velocity:
         ss: 2018-05-24T10:36:48.489063714158Z
         gs: 2018-05-24T10:30:00Z
@@ -1916,12 +1918,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 82.931
         effort: 0
         distance: 82.931
         leading: 4.6
         arrival: 0
         time: 0
+        reach: 82.931
       velocity:
         ss: 2018-05-24T10:34:47.500359638951Z
         gs: 2018-05-24T10:30:00Z
@@ -1941,12 +1943,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 75.556
         effort: 0
         distance: 75.556
         leading: 2.8
         arrival: 0
         time: 0
+        reach: 75.556
       velocity:
         ss: 2018-05-24T11:01:18.253329843239Z
         gs: 2018-05-24T10:30:00Z
@@ -1966,12 +1968,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 75.483
         effort: 0
         distance: 75.483
         leading: 2.3
         arrival: 0
         time: 0
+        reach: 75.483
       velocity:
         ss: 2018-05-24T10:58:15.693102467777Z
         gs: 2018-05-24T10:30:00Z
@@ -1991,12 +1993,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 62.48
         effort: 0
         distance: 62.48
         leading: 2.7
         arrival: 0
         time: 0
+        reach: 62.48
       velocity:
         ss: 2018-05-24T10:37:58.436610755224Z
         gs: 2018-05-24T10:30:00Z
@@ -2016,12 +2018,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 62.287
         effort: 0
         distance: 62.287
         leading: 2.6
         arrival: 0
         time: 0
+        reach: 62.287
       velocity:
         ss: 2018-05-24T10:44:29.4181448326Z
         gs: 2018-05-24T10:30:00Z
@@ -2041,12 +2043,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 50.774
         effort: 0
         distance: 50.774
         leading: 2.6
         arrival: 0
         time: 0
+        reach: 50.774
       velocity:
         ss: 2018-05-24T10:38:03.924387139758Z
         gs: 2018-05-24T10:30:00Z
@@ -2066,12 +2068,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 44.098
         effort: 0
         distance: 44.098
         leading: 0.8
         arrival: 0
         time: 0
+        reach: 44.098
       velocity:
         ss: 2018-05-24T11:47:18.85668062592Z
         gs: 2018-05-24T10:30:00Z
@@ -2091,12 +2093,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 38.461
         effort: 0
         distance: 38.461
         leading: 0.8
         arrival: 0
         time: 0
+        reach: 38.461
       velocity:
         ss: 2018-05-24T11:31:09.573509608664Z
         gs: 2018-05-24T10:30:00Z
@@ -2116,12 +2118,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 32.263
         effort: 0
         distance: 32.263
         leading: 0.8
         arrival: 0
         time: 0
+        reach: 32.263
       velocity:
         ss: 2018-05-24T11:30:23.60833186997Z
         gs: 2018-05-24T10:30:00Z
@@ -2141,12 +2143,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 31.665
         effort: 0
         distance: 31.665
         leading: 1
         arrival: 0
         time: 0
+        reach: 31.665
       velocity:
         ss: 2018-05-24T11:01:59.902935251773Z
         gs: 2018-05-24T10:30:00Z
@@ -2166,12 +2168,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 30.672
         effort: 0
         distance: 30.672
         leading: 0.2
         arrival: 0
         time: 0
+        reach: 30.672
       velocity:
         ss: 2018-05-24T12:17:13.07825247518Z
         gs: 2018-05-24T10:30:00Z
@@ -2191,12 +2193,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 28.125
         effort: 0
         distance: 28.125
         leading: 0.8
         arrival: 0
         time: 0
+        reach: 28.125
       velocity:
         ss: 2018-05-24T10:43:40.81931822861Z
         gs: 2018-05-24T10:30:00Z
@@ -2216,12 +2218,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 26.709
         effort: 0
         distance: 26.709
         leading: 0.6
         arrival: 0
         time: 0
+        reach: 26.709
       velocity:
         ss: 2018-05-24T11:29:02.348156329085Z
         gs: 2018-05-24T10:30:00Z
@@ -2241,12 +2243,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 24.355
         effort: 0
         distance: 24.355
         leading: 0.3
         arrival: 0
         time: 0
+        reach: 24.355
       velocity:
         ss: 2018-05-24T11:49:56.448711488495Z
         gs: 2018-05-24T10:30:00Z
@@ -2266,12 +2268,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 20.759
         effort: 0
         distance: 20.759
         leading: 0
         arrival: 0
         time: 0
+        reach: 20.759
       velocity:
         ss: 2018-05-24T11:09:06.53566361672Z
         gs: 2018-05-24T10:30:00Z
@@ -2291,12 +2293,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 20.097
         effort: 0
         distance: 20.097
         leading: 0
         arrival: 0
         time: 0
+        reach: 20.097
       velocity:
         ss: 2018-05-24T12:22:01.513934504043Z
         gs: 2018-05-24T10:30:00Z
@@ -2316,12 +2318,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.196
         effort: 0
         distance: 9.196
         leading: 0
         arrival: 0
         time: 0
+        reach: 9.196
       velocity:
         ss: 2018-05-24T10:57:39.862601827736Z
         gs: 2018-05-24T10:30:00Z
@@ -2341,12 +2343,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 478.403
         effort: 0
         distance: 478.403
         leading: 24.4
         arrival: 0
         time: 0
+        reach: 478.403
       velocity:
         ss: 2018-05-26T11:09:25.750662673868Z
         gs: 2018-05-26T11:00:00Z
@@ -2366,12 +2368,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 474.865
         effort: 0
         distance: 474.865
         leading: 24.8
         arrival: 0
         time: 0
+        reach: 474.865
       velocity:
         ss: 2018-05-26T11:08:57.380871985227Z
         gs: 2018-05-26T11:00:00Z
@@ -2391,12 +2393,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 474.528
         effort: 0
         distance: 474.528
         leading: 23.1
         arrival: 0
         time: 0
+        reach: 474.528
       velocity:
         ss: 2018-05-26T11:10:55.27220069988Z
         gs: 2018-05-26T11:00:00Z
@@ -2416,12 +2418,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 471.053
         effort: 0
         distance: 471.053
         leading: 23.8
         arrival: 0
         time: 0
+        reach: 471.053
       velocity:
         ss: 2018-05-26T11:10:34.894552452327Z
         gs: 2018-05-26T11:00:00Z
@@ -2441,12 +2443,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 471.348
         effort: 0
         distance: 471.348
         leading: 21.3
         arrival: 0
         time: 0
+        reach: 471.348
       velocity:
         ss: 2018-05-26T11:12:41.159191802323Z
         gs: 2018-05-26T11:00:00Z
@@ -2466,12 +2468,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 460.081
         effort: 0
         distance: 460.081
         leading: 26.3
         arrival: 0
         time: 0
+        reach: 460.081
       velocity:
         ss: 2018-05-26T11:06:52.72256038209Z
         gs: 2018-05-26T11:00:00Z
@@ -2491,12 +2493,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 432.302
         effort: 0
         distance: 432.302
         leading: 17.7
         arrival: 0
         time: 0
+        reach: 432.302
       velocity:
         ss: 2018-05-26T11:11:31.667039929273Z
         gs: 2018-05-26T11:00:00Z
@@ -2516,12 +2518,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 416.338
         effort: 0
         distance: 416.338
         leading: 15.6
         arrival: 0
         time: 0
+        reach: 416.338
       velocity:
         ss: 2018-05-26T11:11:33.983086940208Z
         gs: 2018-05-26T11:00:00Z
@@ -2541,12 +2543,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 413.684
         effort: 0
         distance: 413.684
         leading: 15.8
         arrival: 0
         time: 0
+        reach: 413.684
       velocity:
         ss: 2018-05-26T11:11:13.348640671877Z
         gs: 2018-05-26T11:00:00Z
@@ -2566,12 +2568,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 403.975
         effort: 0
         distance: 403.975
         leading: 14.2
         arrival: 0
         time: 0
+        reach: 403.975
       velocity:
         ss: 2018-05-26T11:11:59.263364580049Z
         gs: 2018-05-26T11:00:00Z
@@ -2591,12 +2593,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 360.696
         effort: 0
         distance: 360.696
         leading: 15.5
         arrival: 0
         time: 0
+        reach: 360.696
       velocity:
         ss: 2018-05-26T11:11:03.597526533168Z
         gs: 2018-05-26T11:00:00Z
@@ -2616,12 +2618,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 352.293
         effort: 0
         distance: 352.293
         leading: 17.9
         arrival: 0
         time: 0
+        reach: 352.293
       velocity:
         ss: 2018-05-26T11:12:08.747527110729Z
         gs: 2018-05-26T11:00:00Z
@@ -2641,12 +2643,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 252.044
         effort: 0
         distance: 252.044
         leading: 13.8
         arrival: 0
         time: 0
+        reach: 252.044
       velocity:
         ss: 2018-05-26T11:12:59.583377294838Z
         gs: 2018-05-26T11:00:00Z
@@ -2666,12 +2668,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 206.301
         effort: 0
         distance: 206.301
         leading: 6.6
         arrival: 0
         time: 0
+        reach: 206.301
       velocity:
         ss: 2018-05-26T11:29:57.290225373139Z
         gs: 2018-05-26T11:00:00Z
@@ -2691,12 +2693,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 193.707
         effort: 0
         distance: 193.707
         leading: 6.5
         arrival: 0
         time: 0
+        reach: 193.707
       velocity:
         ss: 2018-05-26T11:25:30.618783069534Z
         gs: 2018-05-26T11:00:00Z
@@ -2716,12 +2718,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 146.91
         effort: 0
         distance: 146.91
         leading: 6.4
         arrival: 0
         time: 0
+        reach: 146.91
       velocity:
         ss: 2018-05-26T11:25:23.267377983476Z
         gs: 2018-05-26T11:00:00Z
@@ -2741,12 +2743,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 142.277
         effort: 0
         distance: 142.277
         leading: 6.3
         arrival: 0
         time: 0
+        reach: 142.277
       velocity:
         ss: 2018-05-26T11:25:10.691733647417Z
         gs: 2018-05-26T11:00:00Z
@@ -2766,12 +2768,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 120.058
         effort: 0
         distance: 120.058
         leading: 5.7
         arrival: 0
         time: 0
+        reach: 120.058
       velocity:
         ss: 2018-05-26T11:35:38.948438866939Z
         gs: 2018-05-26T11:00:00Z
@@ -2791,12 +2793,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 92.489
         effort: 0
         distance: 92.489
         leading: 4.2
         arrival: 0
         time: 0
+        reach: 92.489
       velocity:
         ss: 2018-05-26T11:52:23.23292152176Z
         gs: 2018-05-26T11:00:00Z
@@ -2816,12 +2818,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 64.563
         effort: 0
         distance: 64.563
         leading: 5.1
         arrival: 0
         time: 0
+        reach: 64.563
       velocity:
         ss: 2018-05-26T11:24:43.897607297604Z
         gs: 2018-05-26T11:00:00Z
@@ -2841,12 +2843,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 51.8
         effort: 0
         distance: 51.8
         leading: 0
         arrival: 0
         time: 0
+        reach: 51.8
       velocity:
         ss: 2018-05-26T11:53:01.305645173243Z
         gs: 2018-05-26T11:00:00Z
@@ -2866,12 +2868,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 39.964
         effort: 0
         distance: 39.964
         leading: 4.9
         arrival: 0
         time: 0
+        reach: 39.964
       velocity:
         ss: 2018-05-26T11:21:17.69746818068Z
         gs: 2018-05-26T11:00:00Z
@@ -2891,12 +2893,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 101
         arrival: 0
         time: 496.2
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:01:10.599481031509Z
         gs: 2018-05-27T11:00:00Z
@@ -2916,12 +2918,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 98.3
         arrival: 0
         time: 441
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:01:29.397308836336Z
         gs: 2018-05-27T11:00:00Z
@@ -2941,12 +2943,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 105.3
         arrival: 0
         time: 327.5
+        reach: 398.288
       velocity:
         ss: 2018-05-27T10:59:59.04104387496Z
         gs: 2018-05-27T11:00:00Z
@@ -2966,12 +2968,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 62
         arrival: 0
         time: 265.1
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:04:21.975994493467Z
         gs: 2018-05-27T11:00:00Z
@@ -2991,12 +2993,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 39.5
         arrival: 0
         time: 269.7
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:15:45.133247037485Z
         gs: 2018-05-27T11:00:00Z
@@ -3016,12 +3018,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 38.9
         arrival: 0
         time: 243.7
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:10:56.13629368208Z
         gs: 2018-05-27T11:00:00Z
@@ -3041,12 +3043,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 44.2
         arrival: 0
         time: 194
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:03:09.038345550489Z
         gs: 2018-05-27T11:00:00Z
@@ -3066,12 +3068,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 60.6
         arrival: 0
         time: 169.7
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:00:47.268854414892Z
         gs: 2018-05-27T11:00:00Z
@@ -3091,12 +3093,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 25.5
         arrival: 0
         time: 190.8
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:16:09.92779751695Z
         gs: 2018-05-27T11:00:00Z
@@ -3116,12 +3118,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 36
         arrival: 0
         time: 173
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:01:26.820232774004Z
         gs: 2018-05-27T11:00:00Z
@@ -3141,12 +3143,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 19
         arrival: 0
         time: 120
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:16:12.890910937797Z
         gs: 2018-05-27T11:00:00Z
@@ -3166,12 +3168,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 374.077
         effort: 0
         distance: 374.077
         leading: 53.5
         arrival: 0
         time: 0
+        reach: 374.077
       velocity:
         ss: 2018-05-27T11:03:43.15984125572Z
         gs: 2018-05-27T11:00:00Z
@@ -3191,12 +3193,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 398.288
         effort: 0
         distance: 398.288
         leading: 8.9
         arrival: 0
         time: 16.6
+        reach: 398.288
       velocity:
         ss: 2018-05-27T11:01:25.384593188315Z
         gs: 2018-05-27T11:00:00Z
@@ -3216,12 +3218,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 348.433
         effort: 0
         distance: 348.433
         leading: 54.2
         arrival: 0
         time: 0
+        reach: 348.433
       velocity:
         ss: 2018-05-27T11:02:32.114474583484Z
         gs: 2018-05-27T11:00:00Z
@@ -3241,12 +3243,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 336.237
         effort: 0
         distance: 336.237
         leading: 63.6
         arrival: 0
         time: 0
+        reach: 336.237
       velocity:
         ss: 2018-05-27T11:03:12.966380003281Z
         gs: 2018-05-27T11:00:00Z
@@ -3266,12 +3268,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 346.395
         effort: 0
         distance: 346.395
         leading: 27.9
         arrival: 0
         time: 0
+        reach: 346.395
       velocity:
         ss: 2018-05-27T11:04:19.858898768996Z
         gs: 2018-05-27T11:00:00Z
@@ -3291,12 +3293,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 240.558
         effort: 0
         distance: 240.558
         leading: 0
         arrival: 0
         time: 0
+        reach: 240.558
       velocity:
         ss: 2018-05-27T12:17:41.537823273779Z
         gs: 2018-05-27T11:00:00Z
@@ -3316,12 +3318,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 47.901
         effort: 0
         distance: 47.901
         leading: 0
         arrival: 0
         time: 0
+        reach: 47.901
       velocity:
         ss: 2018-05-27T13:10:40.223596311081Z
         gs: 2018-05-27T11:00:00Z
@@ -3341,12 +3343,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 28.144
         effort: 0
         distance: 28.144
         leading: 0
         arrival: 0
         time: 0
+        reach: 28.144
       velocity:
         ss: 2018-05-27T12:09:10.603501909632Z
         gs: 2018-05-27T11:00:00Z
@@ -3366,12 +3368,12 @@ scoreDf:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 15.094
         effort: 0
         distance: 15.094
         leading: 0
         arrival: 0
         time: 0
+        reach: 15.094
       velocity:
         ss: 2018-05-27T11:05:11.981913212368Z
         gs: 2018-05-27T11:00:00Z
@@ -3392,12 +3394,12 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.196
         effort: 0
         distance: 9.196
         leading: 0
         arrival: 0
         time: 0
+        reach: 9.196
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -3409,12 +3411,12 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.196
         effort: 0
         distance: 9.196
         leading: 0
         arrival: 0
         time: 0
+        reach: 9.196
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -3426,12 +3428,12 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 9.196
         effort: 0
         distance: 9.196
         leading: 0
         arrival: 0
         time: 0
+        reach: 9.196
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -3443,12 +3445,12 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 21.061
         effort: 0
         distance: 21.061
         leading: 0
         arrival: 0
         time: 0
+        reach: 21.061
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
@@ -3460,12 +3462,12 @@ scoreDfNoTrack:
       penalties: []
       penaltyReason: ''
       breakdown:
-        reach: 15.094
         effort: 0
         distance: 15.094
         leading: 0
         arrival: 0
         time: 0
+        reach: 15.094
       velocity: null
       reachDistance: 0.000 km
       landedDistance: 0.000 km
