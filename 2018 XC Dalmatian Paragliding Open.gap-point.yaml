@@ -4,7 +4,9 @@ validityWorking:
     ssBestTime: null
     gsBestTime: null
     nominalDistance: 25.0 km
-    bestDistance: 13.645 km
+    reachMax:
+      extra: 13.644542 km
+      flown: 12.003542 km
   launch:
     nominalLaunch: 0.96
     flying: 26
@@ -16,7 +18,9 @@ validityWorking:
     nominalGoal: 0.2
     nominalDistance: 25.0 km
     minimumDistance: 1.000 km
-    bestDistance: 13.645 km
+    reachMax:
+      extra: 13.644542 km
+      flown: 12.003542 km
   stop:
     flying: 26
     landed: 17
@@ -37,7 +41,9 @@ validityWorking:
     ssBestTime: null
     gsBestTime: null
     nominalDistance: 25.0 km
-    bestDistance: 22.716 km
+    reachMax:
+      extra: 22.715593 km
+      flown: 20.355593 km
   launch:
     nominalLaunch: 0.96
     flying: 23
@@ -49,7 +55,9 @@ validityWorking:
     nominalGoal: 0.2
     nominalDistance: 25.0 km
     minimumDistance: 1.000 km
-    bestDistance: 22.716 km
+    reachMax:
+      extra: 22.715593 km
+      flown: 20.355593 km
   stop:
     flying: 23
     landed: 8
@@ -70,7 +78,9 @@ validityWorking:
     ssBestTime: 1.058401 h
     gsBestTime: 1.078012 h
     nominalDistance: 25.0 km
-    bestDistance: 26.388 km
+    reachMax:
+      extra: 26.387593 km
+      flown: 26.387593 km
   launch:
     nominalLaunch: 0.96
     flying: 21
@@ -82,7 +92,9 @@ validityWorking:
     nominalGoal: 0.2
     nominalDistance: 25.0 km
     minimumDistance: 1.000 km
-    bestDistance: 26.388 km
+    reachMax:
+      extra: 26.387593 km
+      flown: 26.387593 km
   stop: null
 validity:
 - time: 0.76766626
