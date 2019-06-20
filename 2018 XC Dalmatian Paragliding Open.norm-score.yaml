@@ -3,16 +3,16 @@ bestTime:
 - null
 - 1.077778 h
 validity:
-- distance: 0.22263481
+- distance: 0.20161592
   time: 0.66421115
   launch: 1
   stop: 0.86738245
-  task: 0.1282655
-- distance: 0.80506585
+  task: 0.11615599
+- distance: 0.77913043
   time: 0.98575522
   launch: 1
   stop: 0.71978248
-  task: 0.57121784
+  task: 0.5528159
 - distance: 1
   time: 1
   launch: 1
@@ -65,11 +65,11 @@ validityWorkingStop:
     extra:
       max: 11.405000 km
       mean: 3.903269 km
-      stdDev: 3.222866 km
+      stdDev: 3.160280 km
     flown:
       max: 11.405000 km
       mean: 3.903269 km
-      stdDev: 3.222866 km
+      stdDev: 3.160280 km
   stillFlying: 9
 - flying: 23
   landed: 8
@@ -79,11 +79,11 @@ validityWorkingStop:
     extra:
       max: 22.729000 km
       mean: 13.203087 km
-      stdDev: 8.354327 km
+      stdDev: 8.170693 km
     flown:
       max: 20.361000 km
       mean: 12.219478 km
-      stdDev: 7.564204 km
+      stdDev: 7.397938 km
   stillFlying: 15
 - flying: 21
   landed: 0
@@ -93,11 +93,11 @@ validityWorkingStop:
     extra:
       max: 26.232000 km
       mean: 20.464619 km
-      stdDev: 9.668147 km
+      stdDev: 9.435145 km
     flown:
       max: 26.232000 km
       mean: 20.464619 km
-      stdDev: 9.668147 km
+      stdDev: 9.435145 km
   stillFlying: 21
 validityWorkingTime:
 - gsBestTime: null
@@ -125,9 +125,9 @@ score:
 - - - - '101'
       - Tomaž Toplak
     - place: '1'
-      total: 120
-      distance: 115.4
-      leading: 4.9
+      total: 109
+      distance: 104.5
+      leading: 4.5
       arrival: 0
       time: 0
       reachExtra: 11.405000 km
@@ -144,9 +144,9 @@ score:
   - - - '98'
       - Tomas Svoboda
     - place: '2'
-      total: 106
-      distance: 103.5
-      leading: 2.6
+      total: 96
+      distance: 93.8
+      leading: 2.3
       arrival: 0
       time: 0
       reachExtra: 10.230000 km
@@ -158,14 +158,14 @@ score:
       timeFrac: 0
       leadingArea: 3945195.0000 km^2 s
       leadingCoef: 2.68885829
-      leadingFrac: 0.53061224
+      leadingFrac: 0.51111111
       arrivalFrac: 0
   - - - '57'
       - Lara Leban
     - place: '3'
-      total: 87
-      distance: 83.3
-      leading: 4
+      total: 79
+      distance: 75.4
+      leading: 3.6
       arrival: 0
       time: 0
       reachExtra: 8.226000 km
@@ -177,14 +177,14 @@ score:
       timeFrac: 0
       leadingArea: 3393472.0000 km^2 s
       leadingCoef: 2.31283009
-      leadingFrac: 0.81632653
+      leadingFrac: 0.8
       arrivalFrac: 0
   - - - '72'
       - Mitja Jančič
     - place: '4'
-      total: 85
-      distance: 80.5
-      leading: 4
+      total: 77
+      distance: 72.9
+      leading: 3.6
       arrival: 0
       time: 0
       reachExtra: 7.955000 km
@@ -196,14 +196,14 @@ score:
       timeFrac: 0
       leadingArea: 3401489.0000 km^2 s
       leadingCoef: 2.31829423
-      leadingFrac: 0.81632653
+      leadingFrac: 0.8
       arrivalFrac: 0
   - - - '16'
       - Bruno Matos
     - place: '5'
-      total: 82
-      distance: 80.9
-      leading: 1
+      total: 74
+      distance: 73.3
+      leading: 0.9
       arrival: 0
       time: 0
       reachExtra: 7.995000 km
@@ -215,14 +215,14 @@ score:
       timeFrac: 0
       leadingArea: 4750720.0000 km^2 s
       leadingCoef: 3.2378662
-      leadingFrac: 0.20408163
+      leadingFrac: 0.2
       arrivalFrac: 0
   - - - '114'
       - Joan Brito
     - place: '6'
-      total: 75
-      distance: 72.6
-      leading: 2.5
+      total: 68
+      distance: 65.8
+      leading: 2.2
       arrival: 0
       time: 0
       reachExtra: 7.177000 km
@@ -234,14 +234,14 @@ score:
       timeFrac: 0
       leadingArea: 3987045.0000 km^2 s
       leadingCoef: 2.71738177
-      leadingFrac: 0.51020408
+      leadingFrac: 0.48888889
       arrivalFrac: 0
   - - - '13'
       - Balazs Szatmari
     - place: '7'
-      total: 62
-      distance: 61
-      leading: 0.7
+      total: 56
+      distance: 55.3
+      leading: 0.6
       arrival: 0
       time: 0
       reachExtra: 6.029000 km
@@ -253,14 +253,14 @@ score:
       timeFrac: 0
       leadingArea: 4956698.0000 km^2 s
       leadingCoef: 3.37825117
-      leadingFrac: 0.14285714
+      leadingFrac: 0.13333333
       arrivalFrac: 0
   - - - '86'
       - Sandi Krč
     - place: '8'
-      total: 56
-      distance: 53.8
-      leading: 2.3
+      total: 51
+      distance: 48.7
+      leading: 2.1
       arrival: 0
       time: 0
       reachExtra: 5.313000 km
@@ -272,14 +272,14 @@ score:
       timeFrac: 0
       leadingArea: 4069783.0000 km^2 s
       leadingCoef: 2.773772
-      leadingFrac: 0.46938776
+      leadingFrac: 0.46666667
       arrivalFrac: 0
   - - - '41'
       - Ivo Duarte
     - place: '9'
-      total: 53
-      distance: 50.6
-      leading: 2
+      total: 48
+      distance: 45.8
+      leading: 1.8
       arrival: 0
       time: 0
       reachExtra: 4.996000 km
@@ -291,14 +291,14 @@ score:
       timeFrac: 0
       leadingArea: 4211514.0000 km^2 s
       leadingCoef: 2.87036936
-      leadingFrac: 0.40816327
+      leadingFrac: 0.4
       arrivalFrac: 0
   - - - '26'
       - Dušan Durkovič
     - place: '10'
-      total: 50
-      distance: 47.6
-      leading: 2.4
+      total: 45
+      distance: 43.1
+      leading: 2.1
       arrival: 0
       time: 0
       reachExtra: 4.700000 km
@@ -310,14 +310,14 @@ score:
       timeFrac: 0
       leadingArea: 4038070.0000 km^2 s
       leadingCoef: 2.75215813
-      leadingFrac: 0.48979592
+      leadingFrac: 0.46666667
       arrivalFrac: 0
   - - - '4'
       - Alojz Tovornik
     - place: '11'
-      total: 49
-      distance: 46.3
-      leading: 2.3
+      total: 44
+      distance: 41.9
+      leading: 2.1
       arrival: 0
       time: 0
       reachExtra: 4.573000 km
@@ -329,33 +329,14 @@ score:
       timeFrac: 0
       leadingArea: 4059554.0000 km^2 s
       leadingCoef: 2.76680022
-      leadingFrac: 0.46938776
-      arrivalFrac: 0
-  - - - '37'
-      - Igor Eržen
-    - place: '12'
-      total: 29
-      distance: 28
-      leading: 0.8
-      arrival: 0
-      time: 0
-      reachExtra: 2.762000 km
-      reachMade: 2.762000 km
-      distanceFrac: 9.309693946339491e-2
-      ss: 2018-05-24T10:30:00Z
-      es: null
-      timeElapsed: null
-      timeFrac: 0
-      leadingArea: 4913464.0000 km^2 s
-      leadingCoef: 3.34878506
-      leadingFrac: 0.16326531
+      leadingFrac: 0.46666667
       arrivalFrac: 0
   - - - '102'
       - Tomislav Gomerčić
-    - place: '13'
-      total: 28
-      distance: 26.8
-      leading: 1.4
+    - place: '12'
+      total: 26
+      distance: 24.3
+      leading: 1.3
       arrival: 0
       time: 0
       reachExtra: 2.646000 km
@@ -367,13 +348,32 @@ score:
       timeFrac: 0
       leadingArea: 4521092.0000 km^2 s
       leadingCoef: 3.08136287
-      leadingFrac: 0.28571429
+      leadingFrac: 0.28888889
+      arrivalFrac: 0
+  - - - '37'
+      - Igor Eržen
+    - place: '12'
+      total: 26
+      distance: 25.3
+      leading: 0.7
+      arrival: 0
+      time: 0
+      reachExtra: 2.762000 km
+      reachMade: 2.762000 km
+      distanceFrac: 9.309693946339491e-2
+      ss: 2018-05-24T10:30:00Z
+      es: null
+      timeElapsed: null
+      timeFrac: 0
+      leadingArea: 4913464.0000 km^2 s
+      leadingCoef: 3.34878506
+      leadingFrac: 0.15555556
       arrivalFrac: 0
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '14'
-      total: 26
-      distance: 25
+      total: 23
+      distance: 22.6
       leading: 0.7
       arrival: 0
       time: 0
@@ -386,14 +386,14 @@ score:
       timeFrac: 0
       leadingArea: 4929638.0000 km^2 s
       leadingCoef: 3.35980847
-      leadingFrac: 0.14285714
+      leadingFrac: 0.15555556
       arrivalFrac: 0
   - - - '54'
       - Krešo  Kovačič
     - place: '15'
-      total: 24
-      distance: 23.3
-      leading: 0.7
+      total: 22
+      distance: 21.1
+      leading: 0.6
       arrival: 0
       time: 0
       reachExtra: 2.306000 km
@@ -405,14 +405,14 @@ score:
       timeFrac: 0
       leadingArea: 4966661.0000 km^2 s
       leadingCoef: 3.38504158
-      leadingFrac: 0.14285714
+      leadingFrac: 0.13333333
       arrivalFrac: 0
   - - - '21'
       - Damir Kalinger
     - place: '16'
-      total: 23
-      distance: 22.4
-      leading: 0.9
+      total: 21
+      distance: 20.3
+      leading: 0.8
       arrival: 0
       time: 0
       reachExtra: 2.211000 km
@@ -424,13 +424,13 @@ score:
       timeFrac: 0
       leadingArea: 4823672.0000 km^2 s
       leadingCoef: 3.2875871
-      leadingFrac: 0.18367347
+      leadingFrac: 0.17777778
       arrivalFrac: 0
   - - - '73'
       - Mitja Jug
     - place: '17'
-      total: 16
-      distance: 15.1
+      total: 14
+      distance: 13.7
       leading: 0.7
       arrival: 0
       time: 0
@@ -443,13 +443,13 @@ score:
       timeFrac: 0
       leadingArea: 4917577.0000 km^2 s
       leadingCoef: 3.351588
-      leadingFrac: 0.14285714
+      leadingFrac: 0.15555556
       arrivalFrac: 0
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
-      total: 10
-      distance: 10.1
+      total: 9
+      distance: 9.2
       leading: 0.3
       arrival: 0
       time: 0
@@ -462,13 +462,13 @@ score:
       timeFrac: 0
       leadingArea: 5204589.0000 km^2 s
       leadingCoef: 3.54720219
-      leadingFrac: 6.122449e-2
+      leadingFrac: 6.666667e-2
       arrivalFrac: 0
   - - - '63'
       - Marketa Tomaskova
     - place: '18'
-      total: 10
-      distance: 10.1
+      total: 9
+      distance: 9.2
       leading: 0
       arrival: 0
       time: 0
@@ -486,8 +486,8 @@ score:
   - - - '46'
       - Jerko Odžak
     - place: '18'
-      total: 10
-      distance: 10.1
+      total: 9
+      distance: 9.2
       leading: 0
       arrival: 0
       time: 0
@@ -505,8 +505,8 @@ score:
   - - - '40'
       - Ivica Huljek
     - place: '18'
-      total: 10
-      distance: 10.1
+      total: 9
+      distance: 9.2
       leading: 0
       arrival: 0
       time: 0
@@ -524,8 +524,8 @@ score:
   - - - '23'
       - David Šiljeg
     - place: '18'
-      total: 10
-      distance: 10.1
+      total: 9
+      distance: 9.2
       leading: 0
       arrival: 0
       time: 0
@@ -543,9 +543,9 @@ score:
   - - - '9'
       - Antoni Buljan
     - place: '18'
-      total: 10
-      distance: 10.1
-      leading: 0.3
+      total: 9
+      distance: 9.2
+      leading: 0.2
       arrival: 0
       time: 0
       reachExtra: 1.000000 km
@@ -557,13 +557,13 @@ score:
       timeFrac: 0
       leadingArea: 5222372.0000 km^2 s
       leadingCoef: 3.55932188
-      leadingFrac: 6.122449e-2
+      leadingFrac: 4.444444e-2
       arrivalFrac: 0
   - - - '88'
       - Sandor Roza
     - place: '18'
-      total: 10
-      distance: 10.1
+      total: 9
+      distance: 9.2
       leading: 0
       arrival: 0
       time: 0
@@ -581,8 +581,8 @@ score:
   - - - '113'
       - Zsolt Sandor
     - place: '18'
-      total: 10
-      distance: 10.1
+      total: 9
+      distance: 9.2
       leading: 0
       arrival: 0
       time: 0
@@ -600,8 +600,8 @@ score:
   - - - '82'
       - Richard Edlinger
     - place: '18'
-      total: 10
-      distance: 10.1
+      total: 9
+      distance: 9.2
       leading: 0
       arrival: 0
       time: 0
@@ -619,9 +619,9 @@ score:
 - - - - '98'
       - Tomas Svoboda
     - place: '1'
-      total: 543
-      distance: 514.1
-      leading: 29.3
+      total: 526
+      distance: 497.5
+      leading: 28.4
       arrival: 0
       time: 0
       reachExtra: 22.729000 km
@@ -633,14 +633,14 @@ score:
       timeFrac: 0
       leadingArea: 3286476.0000 km^2 s
       leadingCoef: 1.10408358
-      leadingFrac: 0.93015873
+      leadingFrac: 0.93114754
       arrivalFrac: 0
   - - - '101'
       - Tomaž Toplak
     - place: '2'
-      total: 540
-      distance: 510.5
-      leading: 29.7
+      total: 523
+      distance: 494.1
+      leading: 28.8
       arrival: 0
       time: 0
       reachExtra: 22.571000 km
@@ -652,14 +652,14 @@ score:
       timeFrac: 0
       leadingArea: 3270874.0000 km^2 s
       leadingCoef: 1.09884216
-      leadingFrac: 0.94285714
+      leadingFrac: 0.9442623
       arrivalFrac: 0
   - - - '72'
       - Mitja Jančič
     - place: '3'
-      total: 538
-      distance: 510
-      leading: 27.5
+      total: 520
+      distance: 493.6
+      leading: 26.6
       arrival: 0
       time: 0
       reachExtra: 22.548000 km
@@ -671,14 +671,14 @@ score:
       timeFrac: 0
       leadingArea: 3368465.0000 km^2 s
       leadingCoef: 1.13162775
-      leadingFrac: 0.87301587
+      leadingFrac: 0.87213115
       arrivalFrac: 0
   - - - '26'
       - Dušan Durkovič
     - place: '4'
-      total: 535
-      distance: 506.4
-      leading: 28.4
+      total: 518
+      distance: 490.1
+      leading: 27.5
       arrival: 0
       time: 0
       reachExtra: 22.388000 km
@@ -690,14 +690,14 @@ score:
       timeFrac: 0
       leadingArea: 3326649.0000 km^2 s
       leadingCoef: 1.11757967
-      leadingFrac: 0.9015873
+      leadingFrac: 0.90163934
       arrivalFrac: 0
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '5'
-      total: 532
-      distance: 506.6
-      leading: 25.8
+      total: 515
+      distance: 490.2
+      leading: 24.9
       arrival: 0
       time: 0
       reachExtra: 22.396000 km
@@ -709,14 +709,14 @@ score:
       timeFrac: 0
       leadingArea: 3471260.0000 km^2 s
       leadingCoef: 1.16616149
-      leadingFrac: 0.81904762
+      leadingFrac: 0.81639344
       arrivalFrac: 0
   - - - '54'
       - Krešo  Kovačič
     - place: '6'
-      total: 526
-      distance: 494.6
-      leading: 31.5
+      total: 509
+      distance: 478.7
+      leading: 30.5
       arrival: 0
       time: 0
       reachExtra: 21.869000 km
@@ -733,9 +733,9 @@ score:
   - - - '41'
       - Ivo Duarte
     - place: '7'
-      total: 486
-      distance: 464.6
-      leading: 21.2
+      total: 470
+      distance: 449.6
+      leading: 20.5
       arrival: 0
       time: 0
       reachExtra: 20.539000 km
@@ -747,14 +747,14 @@ score:
       timeFrac: 0
       leadingArea: 3808670.0000 km^2 s
       leadingCoef: 1.27951333
-      leadingFrac: 0.67301587
+      leadingFrac: 0.67213115
       arrivalFrac: 0
   - - - '16'
       - Bruno Matos
     - place: '8'
-      total: 466
-      distance: 447.7
-      leading: 18.7
+      total: 451
+      distance: 433.2
+      leading: 18.1
       arrival: 0
       time: 0
       reachExtra: 19.792000 km
@@ -766,14 +766,14 @@ score:
       timeFrac: 0
       leadingArea: 4034528.0000 km^2 s
       leadingCoef: 1.3553898
-      leadingFrac: 0.59365079
+      leadingFrac: 0.59344262
       arrivalFrac: 0
   - - - '95'
       - Stojan Kranjc
     - place: '9'
-      total: 464
-      distance: 444.8
-      leading: 18.9
+      total: 449
+      distance: 430.5
+      leading: 18.3
       arrival: 0
       time: 0
       reachExtra: 19.665000 km
@@ -790,9 +790,9 @@ score:
   - - - '114'
       - Joan Brito
     - place: '10'
-      total: 452
-      distance: 434.4
-      leading: 17.2
+      total: 437
+      distance: 420.4
+      leading: 16.6
       arrival: 0
       time: 0
       reachExtra: 19.204000 km
@@ -804,14 +804,14 @@ score:
       timeFrac: 0
       leadingArea: 4180374.0000 km^2 s
       leadingCoef: 1.40438657
-      leadingFrac: 0.54603175
+      leadingFrac: 0.5442623
       arrivalFrac: 0
   - - - '37'
       - Igor Eržen
     - place: '11'
-      total: 397
-      distance: 378
-      leading: 18.6
+      total: 384
+      distance: 365.8
+      leading: 18
       arrival: 0
       time: 0
       reachExtra: 16.713000 km
@@ -823,14 +823,14 @@ score:
       timeFrac: 0
       leadingArea: 4042420.0000 km^2 s
       leadingCoef: 1.35804127
-      leadingFrac: 0.59047619
+      leadingFrac: 0.59016393
       arrivalFrac: 0
   - - - '57'
       - Lara Leban
     - place: '12'
-      total: 383
-      distance: 361.1
-      leading: 21.5
+      total: 370
+      distance: 349.5
+      leading: 20.8
       arrival: 0
       time: 0
       reachExtra: 15.967000 km
@@ -842,14 +842,14 @@ score:
       timeFrac: 0
       leadingArea: 3786509.0000 km^2 s
       leadingCoef: 1.27206849
-      leadingFrac: 0.68253968
+      leadingFrac: 0.68196721
       arrivalFrac: 0
   - - - '86'
       - Sandi Krč
     - place: '13'
-      total: 256
-      distance: 239.8
-      leading: 16.5
+      total: 248
+      distance: 232.1
+      leading: 16
       arrival: 0
       time: 0
       reachExtra: 10.603000 km
@@ -861,14 +861,14 @@ score:
       timeFrac: 0
       leadingArea: 4245269.0000 km^2 s
       leadingCoef: 1.4261877
-      leadingFrac: 0.52380952
+      leadingFrac: 0.52459016
       arrivalFrac: 0
   - - - '4'
       - Alojz Tovornik
     - place: '14'
-      total: 229
-      distance: 221.5
-      leading: 7.9
+      total: 222
+      distance: 214.3
+      leading: 7.7
       arrival: 0
       time: 0
       reachExtra: 9.791000 km
@@ -880,14 +880,14 @@ score:
       timeFrac: 0
       leadingArea: 5233502.0000 km^2 s
       leadingCoef: 1.7581822
-      leadingFrac: 0.25079365
+      leadingFrac: 0.25245902
       arrivalFrac: 0
   - - - '13'
       - Balazs Szatmari
     - place: '15'
-      total: 216
-      distance: 208
-      leading: 8
+      total: 209
+      distance: 201.3
+      leading: 7.8
       arrival: 0
       time: 0
       reachExtra: 9.196000 km
@@ -899,14 +899,14 @@ score:
       timeFrac: 0
       leadingArea: 5221128.0000 km^2 s
       leadingCoef: 1.75402516
-      leadingFrac: 0.25396825
+      leadingFrac: 0.2557377
       arrivalFrac: 0
   - - - '113'
       - Zsolt Sandor
     - place: '16'
-      total: 166
-      distance: 157.7
-      leading: 8
+      total: 160
+      distance: 152.6
+      leading: 7.7
       arrival: 0
       time: 0
       reachExtra: 6.973000 km
@@ -918,14 +918,14 @@ score:
       timeFrac: 0
       leadingArea: 5227238.0000 km^2 s
       leadingCoef: 1.75607782
-      leadingFrac: 0.25396825
+      leadingFrac: 0.25245902
       arrivalFrac: 0
   - - - '63'
       - Marketa Tomaskova
     - place: '17'
-      total: 135
-      distance: 128.9
-      leading: 6.4
+      total: 131
+      distance: 124.8
+      leading: 6.2
       arrival: 0
       time: 0
       reachExtra: 5.700000 km
@@ -937,14 +937,14 @@ score:
       timeFrac: 0
       leadingArea: 5430535.0000 km^2 s
       leadingCoef: 1.82437518
-      leadingFrac: 0.2031746
+      leadingFrac: 0.20327869
       arrivalFrac: 0
   - - - '46'
       - Jerko Odžak
     - place: '18'
-      total: 131
-      distance: 123
-      leading: 7.7
+      total: 127
+      distance: 119
+      leading: 7.5
       arrival: 0
       time: 0
       reachExtra: 5.437000 km
@@ -956,14 +956,14 @@ score:
       timeFrac: 0
       leadingArea: 5262650.0000 km^2 s
       leadingCoef: 1.76797432
-      leadingFrac: 0.24444444
+      leadingFrac: 0.24590164
       arrivalFrac: 0
   - - - '73'
       - Mitja Jug
     - place: '19'
-      total: 82
-      distance: 77.5
-      leading: 4.7
+      total: 80
+      distance: 75
+      leading: 4.6
       arrival: 0
       time: 0
       reachExtra: 3.427000 km
@@ -975,14 +975,14 @@ score:
       timeFrac: 0
       leadingArea: 5659159.0000 km^2 s
       leadingCoef: 1.90118063
-      leadingFrac: 0.14920635
+      leadingFrac: 0.15081967
       arrivalFrac: 0
   - - - '21'
       - Damir Kalinger
     - place: '20'
-      total: 57
-      distance: 51.2
-      leading: 6.1
+      total: 55
+      distance: 49.6
+      leading: 5.9
       arrival: 0
       time: 0
       reachExtra: 2.265000 km
@@ -994,14 +994,14 @@ score:
       timeFrac: 0
       leadingArea: 5468249.0000 km^2 s
       leadingCoef: 1.83704503
-      leadingFrac: 0.19365079
+      leadingFrac: 0.19344262
       arrivalFrac: 0
   - - - '40'
       - Ivica Huljek
     - place: '21'
-      total: 49
-      distance: 42.9
-      leading: 5.9
+      total: 47
+      distance: 41.5
+      leading: 5.7
       arrival: 0
       time: 0
       reachExtra: 1.898000 km
@@ -1013,14 +1013,14 @@ score:
       timeFrac: 0
       leadingArea: 5496175.0000 km^2 s
       leadingCoef: 1.84642663
-      leadingFrac: 0.18730159
+      leadingFrac: 0.18688525
       arrivalFrac: 0
   - - - '9'
       - Antoni Buljan
     - place: '22'
-      total: 27
-      distance: 22.6
-      leading: 4.1
+      total: 26
+      distance: 21.9
+      leading: 3.9
       arrival: 0
       time: 0
       reachExtra: 1.000000 km
@@ -1032,13 +1032,13 @@ score:
       timeFrac: 0
       leadingArea: 5747759.0000 km^2 s
       leadingCoef: 1.93094551
-      leadingFrac: 0.13015873
+      leadingFrac: 0.12786885
       arrivalFrac: 0
   - - - '91'
       - Slava Jelić
     - place: '23'
-      total: 23
-      distance: 22.6
+      total: 22
+      distance: 21.9
       leading: 0
       arrival: 0
       time: 0
@@ -1322,7 +1322,7 @@ score:
   - - - '41'
       - Ivo Duarte
     - place: '15'
-      total: 398
+      total: 397
       distance: 337.1
       leading: 60.4
       arrival: 0

@@ -1,23 +1,23 @@
 bolster:
 - max: 12.003542 km
-  mean: 4.780369 km
-  stdDev: 3.462565 km
+  mean: 4.307823 km
+  stdDev: 3.472260 km
 - max: 20.355593 km
-  mean: 12.719702 km
-  stdDev: 7.318129 km
+  mean: 12.210150 km
+  stdDev: 7.555957 km
 - max: 26.387593 km
-  mean: 21.586063 km
-  stdDev: 8.811203 km
+  mean: 20.605775 km
+  stdDev: 9.692044 km
 reach:
 - max: 12.003542 km
-  mean: 4.732113 km
-  stdDev: 3.520316 km
+  mean: 4.140599 km
+  stdDev: 3.651288 km
 - max: 20.355593 km
-  mean: 12.708320 km
-  stdDev: 7.337394 km
+  mean: 12.155785 km
+  stdDev: 7.642774 km
 - max: 26.387593 km
-  mean: 21.542343 km
-  stdDev: 8.920220 km
+  mean: 20.516517 km
+  stdDev: 9.883851 km
 reachRank:
 - - - - '101'
       - Tomaž Toplak
@@ -103,6 +103,18 @@ reachRank:
       - David Šiljeg
     - frac: 3.486821e-2
       reach: 0.418542 km
+  - - - '82'
+      - Richard Edlinger
+    - frac: 0
+      reach: 0.000000 km
+  - - - '88'
+      - Sandor Roza
+    - frac: 0
+      reach: 0.000000 km
+  - - - '113'
+      - Zsolt Sandor
+    - frac: 0
+      reach: 0.000000 km
 - - - - '98'
       - Tomas Svoboda
     - frac: 1
@@ -191,6 +203,10 @@ reachRank:
       - Antoni Buljan
     - frac: 3.682492e-2
       reach: 0.749593 km
+  - - - '91'
+      - Slava Jelić
+    - frac: 0
+      reach: 0.000000 km
 - - - - '16'
       - Bruno Matos
     - frac: 1
@@ -271,6 +287,10 @@ reachRank:
       - Ivica Huljek
     - frac: 4.75955e-3
       reach: 0.125593 km
+  - - - '91'
+      - Slava Jelić
+    - frac: 0
+      reach: 0.000000 km
 nigh:
 - - - - '98'
       - Tomas Svoboda
