@@ -1,23 +1,23 @@
 bolster:
 - max: 12.003542 km
   mean: 4.307823 km
-  stdDev: 3.472260 km
+  stdDev: 3.399151 km
 - max: 20.355593 km
   mean: 12.210150 km
-  stdDev: 7.555957 km
+  stdDev: 7.389872 km
 - max: 26.387593 km
   mean: 20.605775 km
-  stdDev: 9.692044 km
+  stdDev: 9.458467 km
 reach:
 - max: 12.003542 km
   mean: 4.140599 km
-  stdDev: 3.651288 km
+  stdDev: 3.574410 km
 - max: 20.355593 km
   mean: 12.155785 km
-  stdDev: 7.642774 km
+  stdDev: 7.474781 km
 - max: 26.387593 km
   mean: 20.516517 km
-  stdDev: 9.883851 km
+  stdDev: 9.645651 km
 reachRank:
 - - - - '101'
       - Tomaž Toplak
