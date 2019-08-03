@@ -143,7 +143,7 @@ score:
       reach:
         extra: 11.405000 km
         flown: 11.405000 km
-      reachMade: 11.405000 km
+      landedMade: 11.383000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -170,7 +170,7 @@ score:
       reach:
         extra: 10.230000 km
         flown: 10.230000 km
-      reachMade: 10.230000 km
+      landedMade: 9.237000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -197,7 +197,7 @@ score:
       reach:
         extra: 8.226000 km
         flown: 8.226000 km
-      reachMade: 8.226000 km
+      landedMade: 8.223000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -224,7 +224,7 @@ score:
       reach:
         extra: 7.955000 km
         flown: 7.955000 km
-      reachMade: 7.955000 km
+      landedMade: 7.920000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -251,7 +251,7 @@ score:
       reach:
         extra: 7.995000 km
         flown: 7.995000 km
-      reachMade: 7.995000 km
+      landedMade: 7.995000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -278,7 +278,7 @@ score:
       reach:
         extra: 7.177000 km
         flown: 7.177000 km
-      reachMade: 7.177000 km
+      landedMade: 7.113000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -305,7 +305,7 @@ score:
       reach:
         extra: 6.029000 km
         flown: 6.029000 km
-      reachMade: 6.029000 km
+      landedMade: 5.943000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -332,7 +332,7 @@ score:
       reach:
         extra: 5.313000 km
         flown: 5.313000 km
-      reachMade: 5.313000 km
+      landedMade: 4.511000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -359,7 +359,7 @@ score:
       reach:
         extra: 4.996000 km
         flown: 4.996000 km
-      reachMade: 4.996000 km
+      landedMade: 4.671000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -386,7 +386,7 @@ score:
       reach:
         extra: 4.700000 km
         flown: 4.700000 km
-      reachMade: 4.700000 km
+      landedMade: 4.534000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -413,7 +413,7 @@ score:
       reach:
         extra: 4.924000 km
         flown: 4.573000 km
-      reachMade: 4.573000 km
+      landedMade: 4.513000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -440,7 +440,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 2.646000 km
-      reachMade: 2.646000 km
+      landedMade: 1.337000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -467,7 +467,7 @@ score:
       reach:
         extra: 2.762000 km
         flown: 2.762000 km
-      reachMade: 2.762000 km
+      landedMade: 2.710000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -494,7 +494,7 @@ score:
       reach:
         extra: 2.465000 km
         flown: 2.465000 km
-      reachMade: 2.465000 km
+      landedMade: 2.451000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -521,7 +521,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 2.306000 km
-      reachMade: 2.306000 km
+      landedMade: 2.306000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -548,7 +548,7 @@ score:
       reach:
         extra: 2.211000 km
         flown: 2.211000 km
-      reachMade: 2.211000 km
+      landedMade: 2.207000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -575,7 +575,7 @@ score:
       reach:
         extra: 1.496000 km
         flown: 1.496000 km
-      reachMade: 1.496000 km
+      landedMade: 1.481000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -602,7 +602,7 @@ score:
       reach:
         extra: 0.716000 km
         flown: 0.716000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -629,7 +629,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -656,7 +656,7 @@ score:
       reach:
         extra: 0.082000 km
         flown: 0.082000 km
-      reachMade: 1.000000 km
+      landedMade: 0.080000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -683,7 +683,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.287000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -710,7 +710,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -737,7 +737,7 @@ score:
       reach:
         extra: 0.612000 km
         flown: 0.612000 km
-      reachMade: 1.000000 km
+      landedMade: 0.612000 km
       ss: 2018-05-24T10:30:00Z
       es: null
       timeElapsed: null
@@ -764,7 +764,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -791,7 +791,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -818,7 +818,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -845,7 +845,7 @@ score:
       reach:
         extra: 22.729000 km
         flown: 20.361000 km
-      reachMade: 20.361000 km
+      landedMade: 20.361000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -872,7 +872,7 @@ score:
       reach:
         extra: 22.571000 km
         flown: 20.212000 km
-      reachMade: 20.212000 km
+      landedMade: 20.113000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -899,7 +899,7 @@ score:
       reach:
         extra: 22.548000 km
         flown: 20.192000 km
-      reachMade: 20.192000 km
+      landedMade: 20.192000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -926,7 +926,7 @@ score:
       reach:
         extra: 22.388000 km
         flown: 20.265000 km
-      reachMade: 20.265000 km
+      landedMade: 20.265000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -953,7 +953,7 @@ score:
       reach:
         extra: 22.396000 km
         flown: 20.140000 km
-      reachMade: 20.140000 km
+      landedMade: 20.140000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -980,7 +980,7 @@ score:
       reach:
         extra: 21.869000 km
         flown: 20.005000 km
-      reachMade: 20.005000 km
+      landedMade: 20.005000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1007,7 +1007,7 @@ score:
       reach:
         extra: 20.539000 km
         flown: 19.507000 km
-      reachMade: 19.507000 km
+      landedMade: 19.507000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1034,7 +1034,7 @@ score:
       reach:
         extra: 19.792000 km
         flown: 17.908000 km
-      reachMade: 17.908000 km
+      landedMade: 17.908000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1061,7 +1061,7 @@ score:
       reach:
         extra: 19.665000 km
         flown: 18.689000 km
-      reachMade: 18.689000 km
+      landedMade: 18.689000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1088,7 +1088,7 @@ score:
       reach:
         extra: 19.204000 km
         flown: 17.004000 km
-      reachMade: 17.004000 km
+      landedMade: 17.004000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1115,7 +1115,7 @@ score:
       reach:
         extra: 17.149000 km
         flown: 16.713000 km
-      reachMade: 16.713000 km
+      landedMade: 16.709000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1142,7 +1142,7 @@ score:
       reach:
         extra: 16.750000 km
         flown: 15.967000 km
-      reachMade: 15.967000 km
+      landedMade: 15.964000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1169,7 +1169,7 @@ score:
       reach:
         extra: 11.975000 km
         flown: 10.603000 km
-      reachMade: 10.603000 km
+      landedMade: 9.356000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1196,7 +1196,7 @@ score:
       reach:
         extra: 9.791000 km
         flown: 8.819000 km
-      reachMade: 8.819000 km
+      landedMade: 8.819000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1223,7 +1223,7 @@ score:
       reach:
         extra: 9.196000 km
         flown: 6.963000 km
-      reachMade: 6.963000 km
+      landedMade: 6.880000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1250,7 +1250,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 6.973000 km
-      reachMade: 6.973000 km
+      landedMade: 6.891000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1277,7 +1277,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 5.700000 km
-      reachMade: 5.700000 km
+      landedMade: 5.700000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1304,7 +1304,7 @@ score:
       reach:
         extra: 6.754000 km
         flown: 5.437000 km
-      reachMade: 5.437000 km
+      landedMade: 4.388000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1331,7 +1331,7 @@ score:
       reach:
         extra: 4.391000 km
         flown: 3.427000 km
-      reachMade: 3.427000 km
+      landedMade: 2.857000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1358,7 +1358,7 @@ score:
       reach:
         extra: 3.069000 km
         flown: 2.265000 km
-      reachMade: 2.265000 km
+      landedMade: 2.264000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1385,7 +1385,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 1.898000 km
-      reachMade: 1.898000 km
+      landedMade: 1.895000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1412,7 +1412,7 @@ score:
       reach:
         extra: 2.459000 km
         flown: 0.748000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: 2018-05-26T11:00:00Z
       es: null
       timeElapsed: null
@@ -1439,7 +1439,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -1466,7 +1466,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:04:40Z
       timeElapsed: 1.077778 h
@@ -1493,7 +1493,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:06:59Z
       timeElapsed: 1.116389 h
@@ -1520,7 +1520,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:17:01Z
       timeElapsed: 1.283611 h
@@ -1547,7 +1547,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:24:29Z
       timeElapsed: 1.408056 h
@@ -1574,7 +1574,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:23:53Z
       timeElapsed: 1.398056 h
@@ -1601,7 +1601,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:27:19Z
       timeElapsed: 1.455278 h
@@ -1628,7 +1628,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:34:17Z
       timeElapsed: 1.571389 h
@@ -1655,7 +1655,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:37:57Z
       timeElapsed: 1.632500 h
@@ -1682,7 +1682,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:34:45Z
       timeElapsed: 1.579167 h
@@ -1709,7 +1709,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:37:26Z
       timeElapsed: 1.623889 h
@@ -1736,7 +1736,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T12:45:48Z
       timeElapsed: 1.763333 h
@@ -1763,7 +1763,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 24.629000 km
-      reachMade: 24.629000 km
+      landedMade: 24.517000 km
       ss: 2018-05-27T11:00:00Z
       es: null
       timeElapsed: null
@@ -1790,7 +1790,7 @@ score:
       reach:
         extra: 26.233000 km
         flown: 26.233000 km
-      reachMade: 26.232000 km
+      landedMade: 26.232000 km
       ss: 2018-05-27T11:00:00Z
       es: 2018-05-27T13:03:52Z
       timeElapsed: 2.064444 h
@@ -1817,7 +1817,7 @@ score:
       reach:
         extra: 23.049000 km
         flown: 22.930000 km
-      reachMade: 22.930000 km
+      landedMade: 22.929000 km
       ss: 2018-05-27T11:00:00Z
       es: null
       timeElapsed: null
@@ -1844,7 +1844,7 @@ score:
       reach:
         extra: 22.387000 km
         flown: 22.196000 km
-      reachMade: 22.196000 km
+      landedMade: 22.195000 km
       ss: 2018-05-27T11:00:00Z
       es: null
       timeElapsed: null
@@ -1871,7 +1871,7 @@ score:
       reach:
         extra: 23.172000 km
         flown: 22.795000 km
-      reachMade: 22.795000 km
+      landedMade: 22.795000 km
       ss: 2018-05-27T11:00:00Z
       es: null
       timeElapsed: null
@@ -1898,7 +1898,7 @@ score:
       reach:
         extra: 17.578000 km
         flown: 15.764000 km
-      reachMade: 15.764000 km
+      landedMade: 14.063000 km
       ss: 2018-05-27T11:00:00Z
       es: null
       timeElapsed: null
@@ -1925,7 +1925,7 @@ score:
       reach:
         extra: 4.827000 km
         flown: 2.984000 km
-      reachMade: 2.984000 km
+      landedMade: 2.981000 km
       ss: 2018-05-27T11:00:00Z
       es: null
       timeElapsed: null
@@ -1952,7 +1952,7 @@ score:
       reach:
         extra: 3.361000 km
         flown: 1.675000 km
-      reachMade: 1.675000 km
+      landedMade: 0.000000 km
       ss: 2018-05-27T11:00:00Z
       es: null
       timeElapsed: null
@@ -1979,7 +1979,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -2006,7 +2006,7 @@ score:
       reach:
         extra: 0.000000 km
         flown: 0.000000 km
-      reachMade: 1.000000 km
+      landedMade: 0.000000 km
       ss: 2018-05-27T11:00:00Z
       es: null
       timeElapsed: null

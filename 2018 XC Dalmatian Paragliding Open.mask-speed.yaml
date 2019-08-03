@@ -33,10 +33,6 @@ ssSpeed:
       - Nuno Filipe da Fonseca Bastos Gomes
     - time: 1.272744 h
       frac: 0.64855616
-  - - - '26'
-      - Dušan Durkovič
-    - time: 1.284020 h
-      frac: 0.63633588
   - - - '9'
       - Antoni Buljan
     - time: 1.309995 h
@@ -76,10 +72,6 @@ gsSpeed:
       - Tomas Svoboda
     - time: 1.116563 h
       frac: 0.88870415
-  - - - '26'
-      - Dušan Durkovič
-    - time: 1.283754 h
-      frac: 0.66010842
   - - - '101'
       - Tomaž Toplak
     - time: 1.398228 h
@@ -255,6 +247,9 @@ altStopped:
 - - - - '23'
       - David Šiljeg
     - 387.000 m
+  - - - '26'
+      - Dušan Durkovič
+    - 0.000 m
   - - - '37'
       - Igor Eržen
     - 367.000 m

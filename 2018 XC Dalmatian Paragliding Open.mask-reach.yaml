@@ -1,23 +1,23 @@
 bolster:
 - max: 12.003542 km
-  mean: 4.307823 km
-  stdDev: 3.399151 km
+  mean: 4.053375 km
+  stdDev: 3.382657 km
 - max: 20.355593 km
   mean: 12.210150 km
   stdDev: 7.389872 km
 - max: 26.387593 km
-  mean: 20.605775 km
-  stdDev: 9.458467 km
+  mean: 19.438346 km
+  stdDev: 10.159757 km
 reach:
 - max: 12.003542 km
-  mean: 4.140599 km
-  stdDev: 3.574410 km
+  mean: 3.869672 km
+  stdDev: 3.560153 km
 - max: 20.355593 km
   mean: 12.155785 km
   stdDev: 7.474781 km
 - max: 26.387593 km
-  mean: 20.516517 km
-  stdDev: 9.645651 km
+  mean: 19.349089 km
+  stdDev: 10.324158 km
 reachRank:
 - - - - '101'
       - Tomaž Toplak
@@ -99,6 +99,14 @@ reachRank:
       - Jerko Odžak
     - frac: 5.677841e-2
       reach: 0.681542 km
+  - - - '102'
+      - Tomislav Gomerčić
+    - frac: 5.636186e-2
+      reach: 0.676542 km
+  - - - '63'
+      - Marketa Tomaskova
+    - frac: 4.669805e-2
+      reach: 0.560542 km
   - - - '23'
       - David Šiljeg
     - frac: 3.486821e-2
@@ -215,10 +223,6 @@ reachRank:
       - Tomas Svoboda
     - frac: 1
       reach: 26.387593 km
-  - - - '26'
-      - Dušan Durkovič
-    - frac: 1
-      reach: 26.387593 km
   - - - '101'
       - Tomaž Toplak
     - frac: 1
@@ -279,6 +283,10 @@ reachRank:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - frac: 0.12026838
       reach: 3.173593 km
+  - - - '26'
+      - Dušan Durkovič
+    - frac: 7.092701e-2
+      reach: 1.871593 km
   - - - '46'
       - Jerko Odžak
     - frac: 7.066173e-2
@@ -882,6 +890,42 @@ nigh:
         - lat: 43.75300435
           lng: 16.63148668
       made: 1.315542 km
+  - - - '63'
+      - Marketa Tomaskova
+    - togo:
+        distance: 29.102101 km
+        flipSum:
+        - 29.102101 km
+        - 27.533195 km
+        - 22.479399 km
+        - 16.455732 km
+        - 4.778742 km
+        legs:
+        - 1.568905 km
+        - 5.053796 km
+        - 6.023667 km
+        - 11.676990 km
+        - 4.778742 km
+        legsSum:
+        - 1.568905 km
+        - 6.622702 km
+        - 12.646368 km
+        - 24.323359 km
+        - 29.102101 km
+        waypoints:
+        - lat: 43.8271
+          lng: 16.63916667
+        - lat: 43.82181828
+          lng: 16.62103184
+        - lat: 43.78318535
+          lng: 16.65420403
+        - lat: 43.8170605
+          lng: 16.59563315
+        - lat: 43.73419723
+          lng: 16.68497562
+        - lat: 43.75300435
+          lng: 16.63148668
+      made: 0.560542 km
   - - - '23'
       - David Šiljeg
     - togo:
@@ -918,6 +962,42 @@ nigh:
         - lat: 43.75300435
           lng: 16.63148668
       made: 0.418542 km
+  - - - '102'
+      - Tomislav Gomerčić
+    - togo:
+        distance: 28.985604 km
+        flipSum:
+        - 28.985604 km
+        - 27.481839 km
+        - 22.476787 km
+        - 16.455732 km
+        - 4.778742 km
+        legs:
+        - 1.503765 km
+        - 5.005053 km
+        - 6.021054 km
+        - 11.676990 km
+        - 4.778742 km
+        legsSum:
+        - 1.503765 km
+        - 6.508817 km
+        - 12.529872 km
+        - 24.206862 km
+        - 28.985604 km
+        waypoints:
+        - lat: 43.8199
+          lng: 16.63921667
+        - lat: 43.82105034
+          lng: 16.6205411
+        - lat: 43.78309152
+          lng: 16.65405778
+        - lat: 43.8170605
+          lng: 16.59563315
+        - lat: 43.73419723
+          lng: 16.68497562
+        - lat: 43.75300435
+          lng: 16.63148668
+      made: 0.676542 km
 - - - - '101'
       - Tomaž Toplak
     - togo:
@@ -1813,3 +1893,34 @@ nigh:
         - lat: 43.76183239
           lng: 16.61759406
       made: 0.125593 km
+  - - - '26'
+      - Dušan Durkovič
+    - togo:
+        distance: 24.515970 km
+        flipSum:
+        - 24.515970 km
+        - 22.521038 km
+        - 15.352562 km
+        - 7.887222 km
+        legs:
+        - 1.994932 km
+        - 7.168476 km
+        - 7.465340 km
+        - 7.887222 km
+        legsSum:
+        - 1.994932 km
+        - 9.163408 km
+        - 16.628748 km
+        - 24.515970 km
+        waypoints:
+        - lat: 43.82635
+          lng: 16.61656667
+        - lat: 43.83952434
+          lng: 16.5996843
+        - lat: 43.79804847
+          lng: 16.66808605
+        - lat: 43.82885385
+          lng: 16.58541832
+        - lat: 43.76183239
+          lng: 16.61759406
+      made: 1.871593 km

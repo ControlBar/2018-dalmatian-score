@@ -1,23 +1,23 @@
 bolster:
 - max: 13.644542 km
-  mean: 5.301452 km
-  stdDev: 3.697198 km
+  mean: 4.970571 km
+  stdDev: 3.732503 km
 - max: 22.715593 km
   mean: 13.502959 km
   stdDev: 7.928483 km
 - max: 26.387593 km
-  mean: 20.605775 km
-  stdDev: 9.458467 km
+  mean: 19.438346 km
+  stdDev: 10.159757 km
 reach:
 - max: 13.644542 km
-  mean: 5.171724 km
-  stdDev: 3.859276 km
+  mean: 4.821479 km
+  stdDev: 3.901363 km
 - max: 22.715593 km
   mean: 13.459480 km
   stdDev: 7.999352 km
 - max: 26.387593 km
-  mean: 20.516517 km
-  stdDev: 9.645651 km
+  mean: 19.349089 km
+  stdDev: 10.324158 km
 reachRank:
 - - - - '98'
       - Tomas Svoboda
@@ -103,6 +103,14 @@ reachRank:
       - Ivica Huljek
     - frac: 6.497411e-2
       reach: 0.886542 km
+  - - - '102'
+      - Tomislav Gomerčić
+    - frac: 4.958334e-2
+      reach: 0.676542 km
+  - - - '63'
+      - Marketa Tomaskova
+    - frac: 4.108177e-2
+      reach: 0.560542 km
   - - - '82'
       - Richard Edlinger
     - frac: 0
@@ -215,10 +223,6 @@ reachRank:
       - Tomas Svoboda
     - frac: 1
       reach: 26.387593 km
-  - - - '26'
-      - Dušan Durkovič
-    - frac: 1
-      reach: 26.387593 km
   - - - '101'
       - Tomaž Toplak
     - frac: 1
@@ -279,6 +283,10 @@ reachRank:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - frac: 0.12026838
       reach: 3.173593 km
+  - - - '26'
+      - Dušan Durkovič
+    - frac: 7.092701e-2
+      reach: 1.871593 km
   - - - '46'
       - Jerko Odžak
     - frac: 7.066173e-2
@@ -472,6 +480,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 2.648542 km
+  - - - '63'
+      - Marketa Tomaskova
+    - togo:
+        distance: 29.102000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 0.560542 km
   - - - '23'
       - David Šiljeg
     - togo:
@@ -481,6 +498,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 2.185542 km
+  - - - '102'
+      - Tomislav Gomerčić
+    - togo:
+        distance: 28.986000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 0.676542 km
 - - - - '101'
       - Tomaž Toplak
     - togo:
@@ -751,3 +777,12 @@ nigh:
         legsSum: []
         waypoints: []
       made: 0.125593 km
+  - - - '26'
+      - Dušan Durkovič
+    - togo:
+        distance: 24.516000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 1.871593 km

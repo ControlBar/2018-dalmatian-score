@@ -1,0 +1,470 @@
+<Fs version="3.4">
+  <FsCompetition id="12859" name="2018 XC Dalmatian Paragliding Open" location="Hrvace, Croatia" from="2018-05-24" to="2018-05-27" utc_offset="2" discipline="pg">
+    <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" use_arrival_position_points="0" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
+    <FsParticipants>
+      <FsParticipant id="4" name="Alojz Tovornik"/>
+      <FsParticipant id="9" name="Antoni Buljan"/>
+      <FsParticipant id="13" name="Balazs Szatmari"/>
+      <FsParticipant id="16" name="Bruno Matos"/>
+      <FsParticipant id="21" name="Damir Kalinger"/>
+      <FsParticipant id="23" name="David Šiljeg"/>
+      <FsParticipant id="26" name="Dušan Durkovič"/>
+      <FsParticipant id="37" name="Igor Eržen"/>
+      <FsParticipant id="40" name="Ivica Huljek"/>
+      <FsParticipant id="41" name="Ivo Duarte"/>
+      <FsParticipant id="46" name="Jerko Odžak"/>
+      <FsParticipant id="50" name="Josip Osmann"/>
+      <FsParticipant id="53" name="Konstantin Rakić"/>
+      <FsParticipant id="54" name="Krešo  Kovačič"/>
+      <FsParticipant id="57" name="Lara Leban"/>
+      <FsParticipant id="63" name="Marketa Tomaskova"/>
+      <FsParticipant id="72" name="Mitja Jančič"/>
+      <FsParticipant id="73" name="Mitja Jug"/>
+      <FsParticipant id="74" name="Nuno Filipe da Fonseca Bastos Gomes"/>
+      <FsParticipant id="80" name="Ricardo Nicolau Soares Terra de Oliveira Figueiredo"/>
+      <FsParticipant id="82" name="Richard Edlinger"/>
+      <FsParticipant id="86" name="Sandi Krč"/>
+      <FsParticipant id="88" name="Sandor Roza"/>
+      <FsParticipant id="91" name="Slava Jelić"/>
+      <FsParticipant id="94" name="Stjepan Zjacic"/>
+      <FsParticipant id="95" name="Stojan Kranjc"/>
+      <FsParticipant id="98" name="Tomas Svoboda"/>
+      <FsParticipant id="101" name="Tomaž Toplak"/>
+      <FsParticipant id="102" name="Tomislav Gomerčić"/>
+      <FsParticipant id="113" name="Zsolt Sandor"/>
+      <FsParticipant id="114" name="Joan Brito"/>
+    </FsParticipants>
+    <FsTasks>
+      <FsTask id="1" name="Task 1" tracklog_folder="Task 1">
+        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" use_arrival_position_points="0" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
+        <FsTaskDefinition ss="2" es="7" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="GS1" lat="43.82973" lon="16.64243" altitude="849" radius="400" open="2018-05-24T12:00:00+02:00" close="2018-05-24T16:00:00+02:00"/>
+          <FsTurnpoint id="G35" lat="43.84411" lon="16.6599" altitude="933" radius="3000" open="2018-05-24T12:30:00+02:00" close="2018-05-24T16:00:00+02:00"/>
+          <FsTurnpoint id="G44" lat="43.82293" lon="16.61629" altitude="567" radius="400" open="2018-05-24T12:30:00+02:00" close="2018-05-24T16:00:00+02:00"/>
+          <FsTurnpoint id="G10" lat="43.78045" lon="16.65744" altitude="387" radius="400" open="2018-05-24T12:30:00+02:00" close="2018-05-24T16:00:00+02:00"/>
+          <FsTurnpoint id="G36" lat="43.82342" lon="16.58682" altitude="431" radius="1000" open="2018-05-24T12:30:00+02:00" close="2018-05-24T16:00:00+02:00"/>
+          <FsTurnpoint id="G17" lat="43.72863" lon="16.69475" altitude="298" radius="1000" open="2018-05-24T12:30:00+02:00" close="2018-05-24T16:00:00+02:00"/>
+          <FsTurnpoint id="G39" lat="43.75677" lon="16.62018" altitude="339" radius="1000" open="2018-05-24T12:30:00+02:00" close="2018-05-24T16:00:00+02:00"/>
+          <FsTurnpoint id="G39" lat="43.75677" lon="16.62018" altitude="339" radius="400" open="2018-05-24T12:30:00+02:00" close="2018-05-24T16:00:00+02:00"/>
+          <FsStartGate open="2018-05-24T12:30:00+02:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="STOPPED" score_back_time="5" cancel_reason="" stop_time="2018-05-24T14:23:00+02:00"/>
+        <FsParticipants>
+          <FsParticipant id="82">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="1" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="1" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="95"/>
+          <FsParticipant id="94"/>
+          <FsParticipant id="91"/>
+          <FsParticipant id="88">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="1" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="53"/>
+          <FsParticipant id="50"/>
+          <FsParticipant id="4">
+            <FsFlightData distance="4.573" bonus_distance="4.924" started_ss="2018-05-24T12:38:03+02:00" finished_ss="" tracklog_filename="Alojz_Tovornik.20180524-101956.4376.4.igc" lc="2.76680022068212" iv="4059554"/>
+            <FsResult rank="11" points="44" distance="4.573" ss_time="00:00:00" distance_points="41.9" linear_distance_points="41.92" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="2.1" started_ss="2018-05-24T12:30:00+02:00" real_distance="4.573" last_distance="4.513"/>
+          </FsParticipant>
+          <FsParticipant id="9">
+            <FsFlightData distance="0.612" bonus_distance="0.612" started_ss="2018-05-24T14:17:13+02:00" finished_ss="" tracklog_filename="Antoni_Buljan.20180524-102340.4203.9.igc" lc="3.55932188356905" iv="5222372"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.2" started_ss="2018-05-24T12:30:00+02:00" real_distance="1" last_distance="0.612"/>
+          </FsParticipant>
+          <FsParticipant id="13">
+            <FsFlightData distance="6.029" bonus_distance="6.029" started_ss="2018-05-24T13:27:25+02:00" finished_ss="" tracklog_filename="Balazs_Szatmari.20180524-161022.59013.13.igc" lc="3.37825117073556" iv="4956698"/>
+            <FsResult rank="7" points="56" distance="6.029" ss_time="00:00:00" distance_points="55.3" linear_distance_points="55.26" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.6" started_ss="2018-05-24T12:30:00+02:00" real_distance="6.029" last_distance="5.943"/>
+          </FsParticipant>
+          <FsParticipant id="16">
+            <FsFlightData distance="7.995" bonus_distance="7.995" started_ss="2018-05-24T13:31:16+02:00" finished_ss="" tracklog_filename="Bruno_Matos.20180524-153526.25456.16.igc" lc="3.23786620168911" iv="4750720"/>
+            <FsResult rank="5" points="74" distance="7.995" ss_time="00:00:00" distance_points="73.3" linear_distance_points="73.28" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.9" started_ss="2018-05-24T12:30:00+02:00" real_distance="7.995" last_distance="7.995"/>
+          </FsParticipant>
+          <FsParticipant id="21">
+            <FsFlightData distance="2.211" bonus_distance="2.211" started_ss="2018-05-24T13:01:59+02:00" finished_ss="" tracklog_filename="Damir_Kalinger.20180524-162116.52999.21.igc" lc="3.28758710321154" iv="4823672"/>
+            <FsResult rank="16" points="21" distance="2.211" ss_time="00:00:00" distance_points="20.3" linear_distance_points="20.27" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.8" started_ss="2018-05-24T12:30:00+02:00" real_distance="2.211" last_distance="2.207"/>
+          </FsParticipant>
+          <FsParticipant id="23">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="" finished_ss="" tracklog_filename="David__iljeg.20180524-102710.[CIVLID].23.igc" lc="0" iv="0"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="1" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="26">
+            <FsFlightData distance="4.700" bonus_distance="4.700" started_ss="2018-05-24T12:37:58+02:00" finished_ss="" tracklog_filename="Du_an_Durkovi_.20180524-091106.5512.26.igc" lc="2.75215812945848" iv="4038070"/>
+            <FsResult rank="10" points="45" distance="4.7" ss_time="00:00:00" distance_points="43.1" linear_distance_points="43.08" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="2.1" started_ss="2018-05-24T12:30:00+02:00" real_distance="4.7" last_distance="4.534"/>
+          </FsParticipant>
+          <FsParticipant id="37">
+            <FsFlightData distance="2.762" bonus_distance="2.762" started_ss="2018-05-24T13:31:09+02:00" finished_ss="" tracklog_filename="Igor_Er_en.20180524-044128.10699.37.igc" lc="3.34878505624132" iv="4913464"/>
+            <FsResult rank="12" points="26" distance="2.762" ss_time="00:00:00" distance_points="25.3" linear_distance_points="25.32" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.7" started_ss="2018-05-24T12:30:00+02:00" real_distance="2.762" last_distance="2.71"/>
+          </FsParticipant>
+          <FsParticipant id="40">
+            <FsFlightData distance="0.287" bonus_distance="0.000" started_ss="2018-05-24T12:56:40+02:00" finished_ss="" tracklog_filename="Ivica_Huljek.20180524-163437.10107.40.igc" lc="0" iv="0"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" started_ss="2018-05-24T12:30:00+02:00" real_distance="1" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="41">
+            <FsFlightData distance="4.996" bonus_distance="4.996" started_ss="2018-05-24T12:58:15+02:00" finished_ss="" tracklog_filename="Ivo_Duarte.20180524-155755.9281.41.igc" lc="2.87036936248538" iv="4211514"/>
+            <FsResult rank="9" points="48" distance="4.996" ss_time="00:00:00" distance_points="45.8" linear_distance_points="45.79" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="1.8" started_ss="2018-05-24T12:30:00+02:00" real_distance="4.996" last_distance="4.671"/>
+          </FsParticipant>
+          <FsParticipant id="46">
+            <FsFlightData distance="0.082" bonus_distance="0.082" started_ss="2018-05-24T13:06:11+02:00" finished_ss="" tracklog_filename="Jerko_Od_ak.20180524-164140.12915.46.igc" lc="0" iv="0"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" started_ss="2018-05-24T12:30:00+02:00" real_distance="1" last_distance="0.08"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData distance="7.177" bonus_distance="7.177" started_ss="2018-05-24T13:01:18+02:00" finished_ss="" tracklog_filename="Juan_Britpo.20180524-160006.71320.114.igc" lc="2.71738177323658" iv="3987045"/>
+            <FsResult rank="6" points="68" distance="7.177" ss_time="00:00:00" distance_points="65.8" linear_distance_points="65.79" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="2.2" started_ss="2018-05-24T12:30:00+02:00" real_distance="7.177" last_distance="7.113"/>
+          </FsParticipant>
+          <FsParticipant id="54">
+            <FsFlightData distance="2.306" bonus_distance="0.000" started_ss="2018-05-24T13:29:01+02:00" finished_ss="" tracklog_filename="Kre_o__Kova_i_.20180524-163512.11315.54.igc" lc="3.38504157765581" iv="4966661"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="15" points="22" distance="2.306" ss_time="00:00:00" distance_points="21.1" linear_distance_points="21.14" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.6" started_ss="2018-05-24T12:30:00+02:00" real_distance="2.306" last_distance="2.306"/>
+          </FsParticipant>
+          <FsParticipant id="57">
+            <FsFlightData distance="8.226" bonus_distance="8.226" started_ss="2018-05-24T12:36:48+02:00" finished_ss="" tracklog_filename="Lara_Leban.20180524-091444.39789.57.igc" lc="2.31283009193206" iv="3393472"/>
+            <FsResult rank="3" points="79" distance="8.226" ss_time="00:00:00" distance_points="75.4" linear_distance_points="75.4" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="3.6" started_ss="2018-05-24T12:30:00+02:00" real_distance="8.226" last_distance="8.223"/>
+          </FsParticipant>
+          <FsParticipant id="63">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="" finished_ss="" tracklog_filename="Marketa_Tomaskova.20180524-142817.8382.63.igc" lc="0" iv="0"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="1" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="7.955" bonus_distance="7.955" started_ss="2018-05-24T12:34:47+02:00" finished_ss="" tracklog_filename="Mitja_Jan_i_.20180524-092120.17659.72.igc" lc="2.31829423244903" iv="3401489"/>
+            <FsResult rank="4" points="77" distance="7.955" ss_time="00:00:00" distance_points="72.9" linear_distance_points="72.92" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="3.6" started_ss="2018-05-24T12:30:00+02:00" real_distance="7.955" last_distance="7.92"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="1.496" bonus_distance="1.496" started_ss="2018-05-24T12:43:40+02:00" finished_ss="" tracklog_filename="Mitja_Jug.20180524-102318.36030.73.igc" lc="3.35158800031257" iv="4917577"/>
+            <FsResult rank="17" points="14" distance="1.496" ss_time="00:00:00" distance_points="13.7" linear_distance_points="13.71" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.7" started_ss="2018-05-24T12:30:00+02:00" real_distance="1.496" last_distance="1.481"/>
+          </FsParticipant>
+          <FsParticipant id="74">
+            <FsFlightData distance="2.465" bonus_distance="2.465" started_ss="2018-05-24T13:30:23+02:00" finished_ss="" tracklog_filename="Nuno_Filipe_da_Fonseca_Bastos_Gomes.20180524-155855.2130.74.igc" lc="3.35980846726143" iv="4929638"/>
+            <FsResult rank="14" points="23" distance="2.465" ss_time="00:00:00" distance_points="22.6" linear_distance_points="22.59" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.7" started_ss="2018-05-24T12:30:00+02:00" real_distance="2.465" last_distance="2.451"/>
+          </FsParticipant>
+          <FsParticipant id="80">
+            <FsFlightData distance="0.716" bonus_distance="0.716" started_ss="2018-05-24T13:49:56+02:00" finished_ss="" tracklog_filename="Ricardo_Nicolau_Soares_Terra_de_Oliveira_Figueiredo.20180524-155645.70252.80.igc" lc="3.54720218956209" iv="5204589"/>
+            <FsResult rank="18" points="9" distance="1" ss_time="00:00:00" distance_points="9.2" linear_distance_points="9.17" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0.3" started_ss="2018-05-24T12:30:00+02:00" real_distance="1" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="86">
+            <FsFlightData distance="5.313" bonus_distance="5.313" started_ss="2018-05-24T12:44:29+02:00" finished_ss="" tracklog_filename="Sandi_Kr_.20180524-092550.13245.86.igc" lc="2.77377199889735" iv="4069783"/>
+            <FsResult rank="8" points="51" distance="5.313" ss_time="00:00:00" distance_points="48.7" linear_distance_points="48.7" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="2.1" started_ss="2018-05-24T12:30:00+02:00" real_distance="5.313" last_distance="4.511"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="10.230" bonus_distance="10.230" started_ss="2018-05-24T12:58:42+02:00" finished_ss="" tracklog_filename="Tomas_Svoboda.20180524-161316.[CIVLID].98.igc" lc="2.68885829402509" iv="3945195"/>
+            <FsResult rank="2" points="96" distance="10.23" ss_time="00:00:00" distance_points="93.8" linear_distance_points="93.77" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="2.3" started_ss="2018-05-24T12:30:00+02:00" real_distance="10.23" last_distance="9.237"/>
+          </FsParticipant>
+          <FsParticipant id="101">
+            <FsFlightData distance="11.405" bonus_distance="11.405" started_ss="2018-05-24T12:45:22+02:00" finished_ss="" tracklog_filename="Toma__Toplak.20180524-114228.12671.101.IGC" lc="2.19447321351951" iv="3219814"/>
+            <FsResult rank="1" points="109" distance="11.405" ss_time="00:00:00" distance_points="104.5" linear_distance_points="104.54" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="4.5" started_ss="2018-05-24T12:30:00+02:00" real_distance="11.405" last_distance="11.383"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData distance="2.646" bonus_distance="0.000" started_ss="2018-05-24T12:31:11+02:00" finished_ss="" tracklog_filename="Tomislav_Gomer_i_.20180524-163357.28441.102.igc" lc="3.08136286663649" iv="4521092"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="12" points="26" distance="2.646" ss_time="00:00:00" distance_points="24.3" linear_distance_points="24.25" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="1.3" started_ss="2018-05-24T12:30:00+02:00" real_distance="2.646" last_distance="1.337"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="28.55" task_distance="29.668" launch_to_ess_distance="29.069" no_of_pilots_present="26" no_of_pilots_flying="26" no_of_pilots_lo="26" no_of_pilots_reaching_es="0" best_dist="11.405" best_time="0" no_of_pilots_landed_before_stop="17" sum_real_dist_over_min="75.485" best_real_dist="11.405" goalratio="0" arrival_weight="0" leading_weight="0.0384420924902252" time_weight="0.0615579075097748" distance_weight="0.9" time_validity="0.664211152853896" launch_validity="1" distance_validity="0.201615918803419" stop_validity="0.86738245154887" day_quality="0.116155991000858">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="0.519"/>
+          <FsTaskDistToTp tp_no="3" distance="1.520"/>
+          <FsTaskDistToTp tp_no="4" distance="6.586"/>
+          <FsTaskDistToTp tp_no="5" distance="12.610"/>
+          <FsTaskDistToTp tp_no="6" distance="24.285"/>
+          <FsTaskDistToTp tp_no="7" distance="29.069"/>
+          <FsTaskDistToTp tp_no="8" distance="29.668"/>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="43.82811" lon="16.63799"/>
+          <FsTurnpoint lat="43.82601" lon="16.63221"/>
+          <FsTurnpoint lat="43.82195" lon="16.62108"/>
+          <FsTurnpoint lat="43.78315" lon="16.65415"/>
+          <FsTurnpoint lat="43.81703" lon="16.59557"/>
+          <FsTurnpoint lat="43.73427" lon="16.68507"/>
+          <FsTurnpoint lat="43.75289" lon="16.63139"/>
+          <FsTurnpoint lat="43.75522" lon="16.62466"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+      <FsTask id="2" name="Task 2" tracklog_folder="Task 2">
+        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" use_arrival_position_points="0" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
+        <FsTaskDefinition ss="2" es="9" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="GS1" lat="43.82973" lon="16.64243" altitude="849" radius="400" open="2018-05-26T12:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsTurnpoint id="G35" lat="43.84411" lon="16.6599" altitude="933" radius="3000" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsTurnpoint id="G44" lat="43.82293" lon="16.61629" altitude="567" radius="400" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsTurnpoint id="G27" lat="43.79605" lon="16.67223" altitude="647" radius="400" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsTurnpoint id="G41" lat="43.92137" lon="16.46695" altitude="388" radius="14000" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsTurnpoint id="G10" lat="43.78045" lon="16.65744" altitude="387" radius="400" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsTurnpoint id="G39" lat="43.75677" lon="16.62018" altitude="339" radius="400" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsTurnpoint id="G44" lat="43.82293" lon="16.61629" altitude="567" radius="1000" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsTurnpoint id="G25" lat="43.72975" lon="16.69563" altitude="301" radius="400" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
+          <FsStartGate open="2018-05-26T13:00:00+02:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="STOPPED" score_back_time="5" cancel_reason="" stop_time="2018-05-26T14:10:00+02:00"/>
+        <FsParticipants>
+          <FsParticipant id="86">
+            <FsFlightData distance="10.603" bonus_distance="11.975" started_ss="2018-05-26T13:12:59+02:00" finished_ss="" tracklog_filename="Sandi_Kr_.20180526-095616.13245.86.igc" lc="1.42618770140891" iv="4245269"/>
+            <FsResult rank="13" points="248" distance="10.603" ss_time="00:00:00" distance_points="232.1" linear_distance_points="232.1" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="16" started_ss="2018-05-26T13:00:00+02:00" real_distance="10.603" last_distance="9.356"/>
+          </FsParticipant>
+          <FsParticipant id="95">
+            <FsFlightData distance="18.689" bonus_distance="19.665" started_ss="2018-05-26T13:11:13+02:00" finished_ss="" tracklog_filename="Stojan_Kranjc.20180526-100804.748.95.igc" lc="1.34707788599586" iv="4009786"/>
+            <FsResult rank="9" points="449" distance="19.665" ss_time="00:00:00" distance_points="430.5" linear_distance_points="430.46" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="18.3" started_ss="2018-05-26T13:00:00+02:00" real_distance="18.689" last_distance="18.689"/>
+          </FsParticipant>
+          <FsParticipant id="57">
+            <FsFlightData distance="15.967" bonus_distance="16.750" started_ss="2018-05-26T13:12:08+02:00" finished_ss="" tracklog_filename="Lara_Leban.20180526-100038.39789.57.igc" lc="1.27206848845036" iv="3786509"/>
+            <FsResult rank="12" points="370" distance="15.967" ss_time="00:00:00" distance_points="349.5" linear_distance_points="349.52" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="20.8" started_ss="2018-05-26T13:00:00+02:00" real_distance="15.967" last_distance="15.964"/>
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="8.819" bonus_distance="9.791" started_ss="2018-05-26T13:29:57+02:00" finished_ss="" tracklog_filename="Alojz_Tovornik.20180526-111200.4376.4.igc" lc="1.75818219537018" iv="5233502"/>
+            <FsResult rank="14" points="222" distance="9.791" ss_time="00:00:00" distance_points="214.3" linear_distance_points="214.32" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="7.7" started_ss="2018-05-26T13:00:00+02:00" real_distance="8.819" last_distance="8.819"/>
+          </FsParticipant>
+          <FsParticipant id="16">
+            <FsFlightData distance="17.908" bonus_distance="19.792" started_ss="2018-05-26T13:11:34+02:00" finished_ss="" tracklog_filename="Bruno_Matos.20180526-163128.25456.16.igc" lc="1.35538979603764" iv="4034528"/>
+            <FsResult rank="8" points="451" distance="19.792" ss_time="00:00:00" distance_points="433.2" linear_distance_points="433.24" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="18.1" started_ss="2018-05-26T13:00:00+02:00" real_distance="17.908" last_distance="17.908"/>
+          </FsParticipant>
+          <FsParticipant id="26">
+            <FsFlightData distance="20.265" bonus_distance="22.388" started_ss="2018-05-26T13:10:34+02:00" finished_ss="" tracklog_filename="Du_an_Durkovi_.20180526-101614.5512.26.igc" lc="1.11757967132799" iv="3326649"/>
+            <FsResult rank="4" points="518" distance="22.388" ss_time="00:00:00" distance_points="490.1" linear_distance_points="490.07" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="27.5" started_ss="2018-05-26T13:00:00+02:00" real_distance="20.265" last_distance="20.265"/>
+          </FsParticipant>
+          <FsParticipant id="63">
+            <FsFlightData distance="5.700" bonus_distance="0.000" started_ss="2018-05-26T13:35:38+02:00" finished_ss="" tracklog_filename="Marketa_Tomaskova.20180526-141113.8382.63.igc" lc="1.82437518303094" iv="5430535"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="17" points="131" distance="5.7" ss_time="00:00:00" distance_points="124.8" linear_distance_points="124.77" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="6.2" started_ss="2018-05-26T13:00:00+02:00" real_distance="5.7" last_distance="5.7"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="20.192" bonus_distance="22.548" started_ss="2018-05-26T13:10:55+02:00" finished_ss="" tracklog_filename="Mitja_Jan_i_.20180526-101536.17659.72.igc" lc="1.13162775326093" iv="3368465"/>
+            <FsResult rank="3" points="520" distance="22.548" ss_time="00:00:00" distance_points="493.6" linear_distance_points="493.57" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="26.6" started_ss="2018-05-26T13:00:00+02:00" real_distance="20.192" last_distance="20.192"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="20.361" bonus_distance="22.729" started_ss="2018-05-26T13:09:25+02:00" finished_ss="" tracklog_filename="Tomas_Svoboda.20180526-162901.[CIVLID].98.igc" lc="1.10408357944317" iv="3286476"/>
+            <FsResult rank="1" points="526" distance="22.729" ss_time="00:00:00" distance_points="497.5" linear_distance_points="497.53" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="28.4" started_ss="2018-05-26T13:00:00+02:00" real_distance="20.361" last_distance="20.361"/>
+          </FsParticipant>
+          <FsParticipant id="101">
+            <FsFlightData distance="20.212" bonus_distance="22.571" started_ss="2018-05-26T13:08:57+02:00" finished_ss="" tracklog_filename="Toma__Toplak.20180526-122526.12671.101.IGC" lc="1.09884216085742" iv="3270874"/>
+            <FsResult rank="2" points="523" distance="22.571" ss_time="00:00:00" distance_points="494.1" linear_distance_points="494.08" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="28.8" started_ss="2018-05-26T13:00:00+02:00" real_distance="20.212" last_distance="20.113"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData distance="17.004" bonus_distance="19.204" started_ss="2018-05-26T13:11:59+02:00" finished_ss="" tracklog_filename="Joan_Brito.20180526-163027.71320.114.igc" lc="1.40438656892559" iv="4180374"/>
+            <FsResult rank="10" points="437" distance="19.204" ss_time="00:00:00" distance_points="420.4" linear_distance_points="420.37" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="16.6" started_ss="2018-05-26T13:00:00+02:00" real_distance="17.004" last_distance="17.004"/>
+          </FsParticipant>
+          <FsParticipant id="41">
+            <FsFlightData distance="19.507" bonus_distance="20.539" started_ss="2018-05-26T13:11:31+02:00" finished_ss="" tracklog_filename="Ivo_Duarte.20180526-163513.9281.41.igc" lc="1.27951332767655" iv="3808670"/>
+            <FsResult rank="7" points="470" distance="20.539" ss_time="00:00:00" distance_points="449.6" linear_distance_points="449.6" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="20.5" started_ss="2018-05-26T13:00:00+02:00" real_distance="19.507" last_distance="19.507"/>
+          </FsParticipant>
+          <FsParticipant id="74">
+            <FsFlightData distance="20.140" bonus_distance="22.396" started_ss="2018-05-26T13:12:41+02:00" finished_ss="" tracklog_filename="Nuno_Filipe_da_Fonseca_Bastos_Gomes.20180526-163717.2130.74.igc" lc="1.16616149109252" iv="3471260"/>
+            <FsResult rank="5" points="515" distance="22.396" ss_time="00:00:00" distance_points="490.2" linear_distance_points="490.24" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="24.9" started_ss="2018-05-26T13:00:00+02:00" real_distance="20.14" last_distance="20.14"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="3.427" bonus_distance="4.391" started_ss="2018-05-26T13:52:23+02:00" finished_ss="" tracklog_filename="Mitja_Jug.20180526-141026.36030.73.igc" lc="1.90118062861345" iv="5659159"/>
+            <FsResult rank="19" points="80" distance="3.427" ss_time="00:00:00" distance_points="75" linear_distance_points="75.02" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="4.6" started_ss="2018-05-26T13:00:00+02:00" real_distance="3.427" last_distance="2.857"/>
+          </FsParticipant>
+          <FsParticipant id="37">
+            <FsFlightData distance="16.713" bonus_distance="17.149" started_ss="2018-05-26T13:11:03+02:00" finished_ss="" tracklog_filename="Igor_Er_en.20180526-050342.10699.37.igc" lc="1.35804126644213" iv="4042420"/>
+            <FsResult rank="11" points="384" distance="16.713" ss_time="00:00:00" distance_points="365.8" linear_distance_points="365.84" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="18" started_ss="2018-05-26T13:00:00+02:00" real_distance="16.713" last_distance="16.709"/>
+          </FsParticipant>
+          <FsParticipant id="9">
+            <FsFlightData distance="0.748" bonus_distance="2.459" started_ss="2018-05-26T13:45:17+02:00" finished_ss="" tracklog_filename="Antoni_Buljan.20180526-095650.4203.9.igc" lc="1.93094550997326" iv="5747759"/>
+            <FsResult rank="22" points="26" distance="1" ss_time="00:00:00" distance_points="21.9" linear_distance_points="21.89" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="3.9" started_ss="2018-05-26T13:00:00+02:00" real_distance="1" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="21">
+            <FsFlightData distance="2.265" bonus_distance="3.069" started_ss="2018-05-26T13:24:43+02:00" finished_ss="" tracklog_filename="Damir_Kalinger.20180526-164423.52999.21.igc" lc="1.83704502798137" iv="5468249"/>
+            <FsResult rank="20" points="55" distance="2.265" ss_time="00:00:00" distance_points="49.6" linear_distance_points="49.58" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="5.9" started_ss="2018-05-26T13:00:00+02:00" real_distance="2.265" last_distance="2.264"/>
+          </FsParticipant>
+          <FsParticipant id="40">
+            <FsFlightData distance="1.898" bonus_distance="0.000" started_ss="2018-05-26T13:21:17+02:00" finished_ss="" tracklog_filename="Ivica_Huljek.20180526-164659.10107.40.igc" lc="1.8464266271738" iv="5496175"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="21" points="47" distance="1.898" ss_time="00:00:00" distance_points="41.5" linear_distance_points="41.55" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="5.7" started_ss="2018-05-26T13:00:00+02:00" real_distance="1.898" last_distance="1.895"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData distance="6.973" bonus_distance="0.000" started_ss="2018-05-26T13:25:23+02:00" finished_ss="" tracklog_filename="Zsolt_Sandor.20180526-165119.5920.113.igc" lc="1.75607781599287" iv="5227238"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="16" points="160" distance="6.973" ss_time="00:00:00" distance_points="152.6" linear_distance_points="152.64" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="7.7" started_ss="2018-05-26T13:00:00+02:00" real_distance="6.973" last_distance="6.891"/>
+          </FsParticipant>
+          <FsParticipant id="46">
+            <FsFlightData distance="5.437" bonus_distance="6.754" started_ss="2018-05-26T13:25:10+02:00" finished_ss="" tracklog_filename="Jerko_Od_ak.20180526-165352.12915.46.igc" lc="1.76797431622207" iv="5262650"/>
+            <FsResult rank="18" points="127" distance="5.437" ss_time="00:00:00" distance_points="119" linear_distance_points="119.02" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="7.5" started_ss="2018-05-26T13:00:00+02:00" real_distance="5.437" last_distance="4.388"/>
+          </FsParticipant>
+          <FsParticipant id="13">
+            <FsFlightData distance="6.963" bonus_distance="9.196" started_ss="2018-05-26T13:25:30+02:00" finished_ss="" tracklog_filename="Balazs_Szatmari.20180526-170112.59013.13.igc" lc="1.75402515913246" iv="5221128"/>
+            <FsResult rank="15" points="209" distance="9.196" ss_time="00:00:00" distance_points="201.3" linear_distance_points="201.3" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="7.8" started_ss="2018-05-26T13:00:00+02:00" real_distance="6.963" last_distance="6.88"/>
+          </FsParticipant>
+          <FsParticipant id="102"/>
+          <FsParticipant id="91">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="23" points="22" distance="1" ss_time="00:00:00" distance_points="21.9" linear_distance_points="21.89" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="1" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="82"/>
+          <FsParticipant id="53"/>
+          <FsParticipant id="50"/>
+          <FsParticipant id="23"/>
+          <FsParticipant id="94"/>
+          <FsParticipant id="80">
+            <FsFlightData/>
+            <FsResult rank="24" points="0" distance="0" ss_time="00:00:00" distance_points="0" linear_distance_points="0" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="0" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="54">
+            <FsFlightData distance="20.005" bonus_distance="21.869" started_ss="2018-05-26T13:06:52+02:00" finished_ss="" tracklog_filename="Kre_o__Kova_i_.20180526-174656.11315.54.igc" lc="1.08488774165666" iv="3229336"/>
+            <FsResult rank="6" points="509" distance="21.869" ss_time="00:00:00" distance_points="478.7" linear_distance_points="478.71" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="30.5" started_ss="2018-05-26T13:00:00+02:00" real_distance="20.005" last_distance="20.005"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="40.665" task_distance="41.192" launch_to_ess_distance="41.192" no_of_pilots_present="24" no_of_pilots_flying="23" no_of_pilots_lo="23" no_of_pilots_reaching_es="0" best_dist="22.729" best_time="0" no_of_pilots_landed_before_stop="8" sum_real_dist_over_min="258.048" best_real_dist="20.361" goalratio="0" arrival_weight="0" leading_weight="0.0551781899397941" time_weight="0.0448218100602058" distance_weight="0.9" time_validity="0.985755216009951" launch_validity="1" distance_validity="0.779130434782609" stop_validity="0.719782477914386" day_quality="0.552815896929581">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="0.527"/>
+          <FsTaskDistToTp tp_no="3" distance="1.477"/>
+          <FsTaskDistToTp tp_no="4" distance="6.122"/>
+          <FsTaskDistToTp tp_no="5" distance="13.358"/>
+          <FsTaskDistToTp tp_no="6" distance="21.013"/>
+          <FsTaskDistToTp tp_no="7" distance="24.363"/>
+          <FsTaskDistToTp tp_no="8" distance="30.396"/>
+          <FsTaskDistToTp tp_no="9" distance="41.193"/>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="43.82821" lon="16.63792"/>
+          <FsTurnpoint lat="43.82621" lon="16.63197"/>
+          <FsTurnpoint lat="43.82259" lon="16.62124"/>
+          <FsTurnpoint lat="43.79812" lon="16.66817"/>
+          <FsTurnpoint lat="43.83508" lon="16.59394"/>
+          <FsTurnpoint lat="43.78073" lon="16.65249"/>
+          <FsTurnpoint lat="43.76009" lon="16.62209"/>
+          <FsTurnpoint lat="43.81433" lon="16.61999"/>
+          <FsTurnpoint lat="43.73277" lon="16.69293"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+      <FsTask id="3" name="Task 3" tracklog_folder="Task 3">
+        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" use_arrival_position_points="0" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
+        <FsTaskDefinition ss="2" es="7" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="GS1" lat="43.82973" lon="16.64243" altitude="849" radius="400" open="2018-05-27T11:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>
+          <FsTurnpoint id="G35" lat="43.84411" lon="16.6599" altitude="933" radius="3000" open="2018-05-27T13:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>
+          <FsTurnpoint id="G44" lat="43.82293" lon="16.61629" altitude="567" radius="400" open="2018-05-27T13:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>
+          <FsTurnpoint id="G41" lat="43.92137" lon="16.46695" altitude="388" radius="14000" open="2018-05-27T13:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>
+          <FsTurnpoint id="G27" lat="43.79605" lon="16.67223" altitude="647" radius="400" open="2018-05-27T13:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>
+          <FsTurnpoint id="G41" lat="43.92137" lon="16.46695" altitude="388" radius="14000" open="2018-05-27T13:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>
+          <FsTurnpoint id="G39" lat="43.75677" lon="16.62018" altitude="339" radius="600" open="2018-05-27T13:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>
+          <FsStartGate open="2018-05-27T13:00:00+02:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="5" cancel_reason="" stop_time="2018-05-27T15:06:00+02:00"/>
+        <FsParticipants>
+          <FsParticipant id="86"/>
+          <FsParticipant id="37">
+            <FsFlightData distance="22.930" bonus_distance="23.049" started_ss="2018-05-27T13:02:32+02:00" finished_ss="" tracklog_filename="Igor_Er_en.20180527-103150.10699.37.igc" lc="1.16533305071091" iv="1375729"/>
+            <FsResult rank="14" points="400" distance="22.93" ss_time="00:00:00" distance_points="348.2" linear_distance_points="348.24" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="51.9" started_ss="2018-05-27T13:00:00+02:00" real_distance="22.93" last_distance="22.929"/>
+          </FsParticipant>
+          <FsParticipant id="98">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:01:28+02:00" finished_ss="2018-05-27T14:06:59+02:00" tracklog_filename="Tomas_Svoboda.20180527-151251.[CIVLID].98.igc" lc="0.851640582486218" iv="1005400"/>
+            <FsResult rank="2" points="938" distance="26.232" ss_time="01:06:59" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="441" arrival_points="0" leading_points="98.3" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:06:59+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="82"/>
+          <FsParticipant id="40">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="2018-05-27T13:02:34+02:00" finished_ss="" tracklog_filename="Ivica_Huljek.20180527-151629.10107.40.igc" lc="0" iv="0"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="20" points="15" distance="1" ss_time="00:00:00" distance_points="15.2" linear_distance_points="15.19" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" started_ss="2018-05-27T13:00:00+02:00" real_distance="1" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="54">
+            <FsFlightData distance="24.629" bonus_distance="0.000" started_ss="2018-05-27T13:03:42+02:00" finished_ss="" tracklog_filename="Kre_o__Kova_i_.20180527-151748.11315.54.igc" lc="1.1578589449382" iv="1366905"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="12" points="427" distance="24.629" ss_time="00:00:00" distance_points="374" linear_distance_points="374.05" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="52.8" started_ss="2018-05-27T13:00:00+02:00" real_distance="24.629" last_distance="24.517"/>
+          </FsParticipant>
+          <FsParticipant id="26">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:17:01+02:00" tracklog_filename="Du_an_Durkovi_.20180527-151834.5512.26.igc" lc="0.836011000185228" iv="986949"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="3" points="831" distance="26.232" ss_time="01:17:01" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="327.6" arrival_points="0" leading_points="105.3" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:17:01+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:00:47+02:00" finished_ss="2018-05-27T14:37:57+02:00" tracklog_filename="Joan_Brito.20180527-152006.71320.114.igc" lc="1.09082456825831" iv="1287768"/>
+            <FsResult rank="8" points="628" distance="26.232" ss_time="01:37:57" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="169.5" arrival_points="0" leading_points="60.3" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:37:57+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="74">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:10:56+02:00" finished_ss="2018-05-27T14:27:19+02:00" tracklog_filename="Nuno_Filipe_da_Fonseca_Bastos_Gomes.20180527-152054.2130.74.igc" lc="1.31354904915913" iv="1550704"/>
+            <FsResult rank="6" points="679" distance="26.232" ss_time="01:27:19" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="243.5" arrival_points="0" leading_points="37" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:27:19+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="16">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:01:10+02:00" finished_ss="2018-05-27T14:04:40+02:00" tracklog_filename="Bruno_Matos.20180527-152149.25456.16.igc" lc="0.842745284804829" iv="994899"/>
+            <FsResult rank="1" points="996" distance="26.232" ss_time="01:04:40" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="496.3" arrival_points="0" leading_points="101.3" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:04:40+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="41">
+            <FsFlightData distance="22.196" bonus_distance="22.387" started_ss="2018-05-27T13:03:12+02:00" finished_ss="" tracklog_filename="Ivo_Duarte.20180527-152231.9281.41.igc" lc="1.09040381755811" iv="1287271"/>
+            <FsResult rank="15" points="397" distance="22.196" ss_time="00:00:00" distance_points="337.1" linear_distance_points="337.1" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="60.4" started_ss="2018-05-27T13:00:00+02:00" real_distance="22.196" last_distance="22.195"/>
+          </FsParticipant>
+          <FsParticipant id="9">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:16:09+02:00" finished_ss="2018-05-27T14:34:45+02:00" tracklog_filename="Antoni_Buljan.20180527-152310.4203.9.igc" lc="1.43875281446272" iv="1698513"/>
+            <FsResult rank="9" points="615" distance="26.232" ss_time="01:34:45" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="190.8" arrival_points="0" leading_points="25.5" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:34:45+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="72">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:01:26+02:00" finished_ss="2018-05-27T14:37:26+02:00" tracklog_filename="Mitja_Jan_i_.20180527-152426.17659.72.igc" lc="1.32770963646697" iv="1567422"/>
+            <FsResult rank="10" points="607" distance="26.232" ss_time="01:37:26" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="172.9" arrival_points="0" leading_points="35.6" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:37:26+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="94"/>
+          <FsParticipant id="50"/>
+          <FsParticipant id="53"/>
+          <FsParticipant id="91">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="" finished_ss="" tracklog_filename="" lc="0" iv="0"/>
+            <FsResult rank="20" points="15" distance="1" ss_time="00:00:00" distance_points="15.2" linear_distance_points="15.19" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="1" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="63">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:01:25+02:00" finished_ss="2018-05-27T15:03:52+02:00" tracklog_filename="Marketa_Tomaskova.20180527-151350.8382.63.igc" lc="1.64397763266972" iv="1940790"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="13" points="423" distance="26.232" ss_time="02:03:52" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="16.6" arrival_points="0" leading_points="8.3" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T15:03:52+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="73">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:03:09+02:00" finished_ss="2018-05-27T14:34:17+02:00" tracklog_filename="Mitja_Jug.20180527-150238.36030.73.igc" lc="1.24236003651436" iv="1466662"/>
+            <FsResult rank="7" points="636" distance="26.232" ss_time="01:34:17" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="194" arrival_points="0" leading_points="43.9" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:34:17+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="101">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:15:45+02:00" finished_ss="2018-05-27T14:23:53+02:00" tracklog_filename="Toma__Toplak.20180527-123522.12671.101.IGC" lc="1.29015308326752" iv="1523084"/>
+            <FsResult rank="5" points="707" distance="26.232" ss_time="01:23:53" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="269.7" arrival_points="0" leading_points="39.2" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:23:53+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="95">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:16:12+02:00" finished_ss="2018-05-27T14:45:48+02:00" tracklog_filename="Stojan_Kranjc.20180527-104840.748.95.igc" lc="1.51793569976111" iv="1791992"/>
+            <FsResult rank="11" points="537" distance="26.232" ss_time="01:45:48" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="120" arrival_points="0" leading_points="18.7" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:45:48+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="26.233" bonus_distance="26.233" started_ss="2018-05-27T13:04:21+02:00" finished_ss="2018-05-27T14:24:29+02:00" tracklog_filename="Alojz_Tovornik.20180527-104248.4376.4.igc" lc="1.07830986910656" iv="1272994"/>
+            <FsResult rank="4" points="725" distance="26.232" ss_time="01:24:29" distance_points="398.4" linear_distance_points="398.39" difficulty_distance_points="0" time_points="265" arrival_points="0" leading_points="61.8" started_ss="2018-05-27T13:00:00+02:00" finished_ss="2018-05-27T14:24:29+02:00" real_distance="26.232" last_distance="26.232"/>
+          </FsParticipant>
+          <FsParticipant id="102"/>
+          <FsParticipant id="23">
+            <FsFlightData distance="15.764" bonus_distance="17.578" started_ss="2018-05-27T14:17:41+02:00" finished_ss="" tracklog_filename="David__iljeg.20180527-113456.[CIVLID].23.igc" lc="3.6851095851222" iv="4350439"/>
+            <FsResult rank="17" points="239" distance="15.764" ss_time="00:00:00" distance_points="239.4" linear_distance_points="239.41" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" started_ss="2018-05-27T13:00:00+02:00" real_distance="15.764" last_distance="14.063"/>
+          </FsParticipant>
+          <FsParticipant id="21">
+            <FsFlightData/>
+            <FsResult rank="22" points="0" distance="0" ss_time="00:00:00" distance_points="0" linear_distance_points="0" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" real_distance="0" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="57">
+            <FsFlightData distance="22.795" bonus_distance="23.172" started_ss="2018-05-27T13:04:19+02:00" finished_ss="" tracklog_filename="Lara_Leban.20180527-103214.39789.57.igc" lc="1.43630533029693" iv="1695624"/>
+            <FsResult rank="16" points="372" distance="22.795" ss_time="00:00:00" distance_points="346.2" linear_distance_points="346.19" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="25.7" started_ss="2018-05-27T13:00:00+02:00" real_distance="22.795" last_distance="22.795"/>
+          </FsParticipant>
+          <FsParticipant id="13"/>
+          <FsParticipant id="88"/>
+          <FsParticipant id="113"/>
+          <FsParticipant id="80">
+            <FsFlightData distance="2.984" bonus_distance="4.827" started_ss="2018-05-27T15:10:40+02:00" finished_ss="" tracklog_filename="Ricardo_Nicolau_Soares_Terra_de_Oliveira_Figueiredo.20180527-163705.70252.80.igc" lc="5.1113986498265" iv="6034238"/>
+            <FsResult rank="18" points="45" distance="2.984" ss_time="00:00:00" distance_points="45.3" linear_distance_points="45.32" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" started_ss="2018-05-27T13:00:00+02:00" real_distance="2.984" last_distance="2.981"/>
+          </FsParticipant>
+          <FsParticipant id="46">
+            <FsFlightData distance="1.675" bonus_distance="3.361" started_ss="2018-05-27T14:09:10+02:00" finished_ss="" tracklog_filename="Jerko_Od_ak.20180527-165116.12915.46.igc" lc="4.98747630919527" iv="5887942"/>
+            <FsResult rank="19" points="25" distance="1.675" ss_time="00:00:00" distance_points="25.4" linear_distance_points="25.44" difficulty_distance_points="0" time_points="0" arrival_points="0" leading_points="0" started_ss="2018-05-27T13:00:00+02:00" real_distance="1.675" last_distance="0"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="25.609" task_distance="26.232" launch_to_ess_distance="26.232" no_of_pilots_present="22" no_of_pilots_flying="21" no_of_pilots_lo="9" no_of_pilots_reaching_es="12" best_dist="26.232" best_time="1.07777777777778" no_of_pilots_landed_before_stop="0" sum_real_dist_over_min="408.769" best_real_dist="26.232" goalratio="0.571428571428571" arrival_weight="0" leading_weight="0.105281632653061" time_weight="0.496327696793003" distance_weight="0.398390670553936" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="0.622"/>
+          <FsTaskDistToTp tp_no="3" distance="1.622"/>
+          <FsTaskDistToTp tp_no="4" distance="3.683"/>
+          <FsTaskDistToTp tp_no="5" distance="10.869"/>
+          <FsTaskDistToTp tp_no="6" distance="18.401"/>
+          <FsTaskDistToTp tp_no="7" distance="26.232"/>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="43.82907" lon="16.63754"/>
+          <FsTurnpoint lat="43.82804" lon="16.62991"/>
+          <FsTurnpoint lat="43.82639" lon="16.61766"/>
+          <FsTurnpoint lat="43.83895" lon="16.59877"/>
+          <FsTurnpoint lat="43.798" lon="16.66805"/>
+          <FsTurnpoint lat="43.82792" lon="16.58384"/>
+          <FsTurnpoint lat="43.76184" lon="16.6176"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+    </FsTasks>
+  </FsCompetition>
+</Fs>
