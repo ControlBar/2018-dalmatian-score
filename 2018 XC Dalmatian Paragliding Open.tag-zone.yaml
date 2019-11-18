@@ -1308,19 +1308,19 @@ tagging:
       - Damir Kalinger
     - zonesTag:
       - inter:
-          fixFrac: 68.86790127990918
+          fixFrac: 69.86790127990918
           time: 2018-05-24T11:00:30.867901279909Z
           lat: 43.82928333
           lng: 16.63748208
           alt: 763.13
         cross:
           crossingPair:
-          - fix: 68
+          - fix: 69
             time: 2018-05-24T11:00:30Z
             lat: 43.82928333
             lng: 16.63758333
             alt: 764
-          - fix: 69
+          - fix: 70
             time: 2018-05-24T11:00:31Z
             lat: 43.82928333
             lng: 16.63746667
@@ -1329,19 +1329,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 157.90276997904468
+          fixFrac: 158.90276997904468
           time: 2018-05-24T11:01:59.902769979044Z
           lat: 43.82891667
           lng: 16.62899143
           alt: 764
         cross:
           crossingPair:
-          - fix: 157
+          - fix: 158
             time: 2018-05-24T11:01:59Z
             lat: 43.82891667
             lng: 16.62906667
             alt: 764
-          - fix: 158
+          - fix: 159
             time: 2018-05-24T11:02:00Z
             lat: 43.82891667
             lng: 16.62898333
@@ -1350,19 +1350,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 366.9993860834861
+          fixFrac: 367.9993860834861
           time: 2018-05-24T11:05:28.999386083486Z
           lat: 43.82510004
           lng: 16.62026666
           alt: 726
         cross:
           crossingPair:
-          - fix: 366
+          - fix: 367
             time: 2018-05-24T11:05:28Z
             lat: 43.82516667
             lng: 16.62025
             alt: 726
-          - fix: 367
+          - fix: 368
             time: 2018-05-24T11:05:29Z
             lat: 43.8251
             lng: 16.62026667
@@ -1623,19 +1623,19 @@ tagging:
       - Ivo Duarte
     - zonesTag:
       - inter:
-          fixFrac: 66.83787658208206
+          fixFrac: 67.83787658208206
           time: 2018-05-24T10:40:49.837876582082Z
           lat: 43.82656081
           lng: 16.64478919
           alt: 1341.16
         cross:
           crossingPair:
-          - fix: 66
+          - fix: 67
             time: 2018-05-24T10:40:49Z
             lat: 43.82661667
             lng: 16.64473333
             alt: 1342
-          - fix: 67
+          - fix: 68
             time: 2018-05-24T10:40:50Z
             lat: 43.82655
             lng: 16.6448
@@ -1644,19 +1644,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1112.6930180074914
+          fixFrac: 1113.6930180074914
           time: 2018-05-24T10:58:15.693018007491Z
           lat: 43.82498845
           lng: 16.63351403
           alt: 1405.31
         cross:
           crossingPair:
-          - fix: 1112
+          - fix: 1113
             time: 2018-05-24T10:58:15Z
             lat: 43.825
             lng: 16.63358333
             alt: 1406
-          - fix: 1113
+          - fix: 1114
             time: 2018-05-24T10:58:16Z
             lat: 43.82498333
             lng: 16.63348333
@@ -1665,19 +1665,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1226.7339234011454
+          fixFrac: 1227.7339234011454
           time: 2018-05-24T11:00:09.733923401145Z
           lat: 43.82234663
           lng: 16.62120994
           alt: 1233.53
         cross:
           crossingPair:
-          - fix: 1226
+          - fix: 1227
             time: 2018-05-24T11:00:09Z
             lat: 43.82238333
             lng: 16.62128333
             alt: 1235
-          - fix: 1227
+          - fix: 1228
             time: 2018-05-24T11:00:10Z
             lat: 43.82233333
             lng: 16.62118333
@@ -1694,19 +1694,19 @@ tagging:
       - Jerko Odžak
     - zonesTag:
       - inter:
-          fixFrac: 69.10646433376833
+          fixFrac: 70.10646433376833
           time: 2018-05-24T10:57:57.106464333768Z
           lat: 43.8265929
           lng: 16.64487022
           alt: 810
         cross:
           crossingPair:
-          - fix: 69
+          - fix: 70
             time: 2018-05-24T10:57:57Z
             lat: 43.8266
             lng: 16.64486667
             alt: 810
-          - fix: 70
+          - fix: 71
             time: 2018-05-24T10:57:58Z
             lat: 43.82653333
             lng: 16.6449
@@ -1715,19 +1715,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 728.7678920805992
+          fixFrac: 729.7678920805992
           time: 2018-05-24T11:09:06.535784161198Z
           lat: 43.82073453
           lng: 16.6412247
           alt: 545.7
         cross:
           crossingPair:
-          - fix: 728
+          - fix: 729
             time: 2018-05-24T11:09:05Z
             lat: 43.82068333
             lng: 16.64141667
             alt: 548
-          - fix: 729
+          - fix: 730
             time: 2018-05-24T11:09:07Z
             lat: 43.82075
             lng: 16.64116667
@@ -1745,19 +1745,19 @@ tagging:
       - Joan Brito
     - zonesTag:
       - inter:
-          fixFrac: 65.11979931336393
+          fixFrac: 66.11979931336393
           time: 2018-05-24T10:41:01.119799313363Z
           lat: 43.82654401
           lng: 16.64474531
           alt: 786
         cross:
           crossingPair:
-          - fix: 65
+          - fix: 66
             time: 2018-05-24T10:41:01Z
             lat: 43.82655
             lng: 16.64473333
             alt: 786
-          - fix: 66
+          - fix: 67
             time: 2018-05-24T10:41:02Z
             lat: 43.8265
             lng: 16.64483333
@@ -1766,19 +1766,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1282.2532538959408
+          fixFrac: 1283.2532538959408
           time: 2018-05-24T11:01:18.25325389594Z
           lat: 43.83112066
           lng: 16.62711646
           alt: 892.49
         cross:
           crossingPair:
-          - fix: 1282
+          - fix: 1283
             time: 2018-05-24T11:01:18Z
             lat: 43.83113333
             lng: 16.62713333
             alt: 893
-          - fix: 1283
+          - fix: 1284
             time: 2018-05-24T11:01:19Z
             lat: 43.83108333
             lng: 16.62706667
@@ -1787,19 +1787,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1689.507019178326
+          fixFrac: 1690.507019178326
           time: 2018-05-24T11:08:05.507019178325Z
           lat: 43.82643287
           lng: 16.61742488
           alt: 1120.99
         cross:
           crossingPair:
-          - fix: 1689
+          - fix: 1690
             time: 2018-05-24T11:08:05Z
             lat: 43.82646667
             lng: 16.61743333
             alt: 1122
-          - fix: 1690
+          - fix: 1691
             time: 2018-05-24T11:08:06Z
             lat: 43.8264
             lng: 16.61741667
@@ -1808,19 +1808,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 2652.235737290843
+          fixFrac: 2653.235737290843
           time: 2018-05-24T11:24:08.235737290843Z
           lat: 43.78398036
           lng: 16.65648333
           alt: 610
         cross:
           crossingPair:
-          - fix: 2652
+          - fix: 2653
             time: 2018-05-24T11:24:08Z
             lat: 43.784
             lng: 16.65648333
             alt: 610
-          - fix: 2653
+          - fix: 2654
             time: 2018-05-24T11:24:09Z
             lat: 43.78391667
             lng: 16.65648333
@@ -2211,19 +2211,19 @@ tagging:
       - Nuno Filipe da Fonseca Bastos Gomes
     - zonesTag:
       - inter:
-          fixFrac: 411.3946267171242
+          fixFrac: 412.3946267171242
           time: 2018-05-24T11:26:42.394626717124Z
           lat: 43.82949694
           lng: 16.63745396
           alt: 758.61
         cross:
           crossingPair:
-          - fix: 411
+          - fix: 412
             time: 2018-05-24T11:26:42Z
             lat: 43.82951667
             lng: 16.6375
             alt: 759
-          - fix: 412
+          - fix: 413
             time: 2018-05-24T11:26:43Z
             lat: 43.82946667
             lng: 16.63738333
@@ -2232,19 +2232,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 632.6080966655352
+          fixFrac: 633.6080966655352
           time: 2018-05-24T11:30:23.608096665535Z
           lat: 43.8287268
           lng: 16.62917252
           alt: 738.39
         cross:
           crossingPair:
-          - fix: 632
+          - fix: 633
             time: 2018-05-24T11:30:23Z
             lat: 43.82871667
             lng: 16.62923333
             alt: 739
-          - fix: 633
+          - fix: 634
             time: 2018-05-24T11:30:24Z
             lat: 43.82873333
             lng: 16.62913333
@@ -2253,19 +2253,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 743.5606064322388
+          fixFrac: 744.5606064322388
           time: 2018-05-24T11:32:14.560606432238Z
           lat: 43.82488661
           lng: 16.62047399
           alt: 633
         cross:
           crossingPair:
-          - fix: 743
+          - fix: 744
             time: 2018-05-24T11:32:14Z
             lat: 43.82493333
             lng: 16.62048333
             alt: 633
-          - fix: 744
+          - fix: 745
             time: 2018-05-24T11:32:15Z
             lat: 43.82485
             lng: 16.62046667
@@ -2282,19 +2282,19 @@ tagging:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - zonesTag:
       - inter:
-          fixFrac: 161.3412022209774
+          fixFrac: 162.3412022209774
           time: 2018-05-24T11:47:18.341202220977Z
           lat: 43.82635039
           lng: 16.64413823
           alt: 792.66
         cross:
           crossingPair:
-          - fix: 161
+          - fix: 162
             time: 2018-05-24T11:47:18Z
             lat: 43.82633333
             lng: 16.64416667
             alt: 793
-          - fix: 162
+          - fix: 163
             time: 2018-05-24T11:47:19Z
             lat: 43.82638333
             lng: 16.64408333
@@ -2303,19 +2303,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 319.448816596194
+          fixFrac: 320.448816596194
           time: 2018-05-24T11:49:56.448816596193Z
           lat: 43.82579593
           lng: 16.63243503
           alt: 683.65
         cross:
           crossingPair:
-          - fix: 319
+          - fix: 320
             time: 2018-05-24T11:49:56Z
             lat: 43.82583333
             lng: 16.63245
             alt: 685
-          - fix: 320
+          - fix: 321
             time: 2018-05-24T11:49:57Z
             lat: 43.82575
             lng: 16.63241667
@@ -2410,19 +2410,19 @@ tagging:
       - Tomas Svoboda
     - zonesTag:
       - inter:
-          fixFrac: 13.218181946333653
+          fixFrac: 14.218181946333653
           time: 2018-05-24T10:33:54.218181946333Z
           lat: 43.82651151
           lng: 16.64465727
           alt: 780.56
         cross:
           crossingPair:
-          - fix: 13
+          - fix: 14
             time: 2018-05-24T10:33:54Z
             lat: 43.82653333
             lng: 16.64465
             alt: 781
-          - fix: 14
+          - fix: 15
             time: 2018-05-24T10:33:55Z
             lat: 43.82643333
             lng: 16.64468333
@@ -2431,19 +2431,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 757.218256583629
+          fixFrac: 758.218256583629
           time: 2018-05-24T10:58:42.436513167258Z
           lat: 43.82578333
           lng: 16.63245119
           alt: 1067.56
         cross:
           crossingPair:
-          - fix: 757
+          - fix: 758
             time: 2018-05-24T10:58:42Z
             lat: 43.82578333
             lng: 16.63251667
             alt: 1068
-          - fix: 758
+          - fix: 759
             time: 2018-05-24T10:58:44Z
             lat: 43.82578333
             lng: 16.63221667
@@ -2452,19 +2452,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 798.7686059283931
+          fixFrac: 799.7686059283931
           time: 2018-05-24T11:00:04.768605928393Z
           lat: 43.82405261
           lng: 16.621027
           alt: 973.23
         cross:
           crossingPair:
-          - fix: 798
+          - fix: 799
             time: 2018-05-24T11:00:04Z
             lat: 43.82411667
             lng: 16.62111667
             alt: 974
-          - fix: 799
+          - fix: 800
             time: 2018-05-24T11:00:05Z
             lat: 43.82403333
             lng: 16.621
@@ -2473,19 +2473,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 1841.25103134473
+          fixFrac: 1842.25103134473
           time: 2018-05-24T11:34:52.25103134473Z
           lat: 43.7840083
           lng: 16.65670843
           alt: 713.5
         cross:
           crossingPair:
-          - fix: 1841
+          - fix: 1842
             time: 2018-05-24T11:34:52Z
             lat: 43.78401667
             lng: 16.65668333
             alt: 714
-          - fix: 1842
+          - fix: 1843
             time: 2018-05-24T11:34:53Z
             lat: 43.78398333
             lng: 16.65678333
@@ -2494,19 +2494,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 3379.6826493074977
+          fixFrac: 3380.6826493074977
           time: 2018-05-24T12:26:10.682649307497Z
           lat: 43.81961667
           lng: 16.59811507
           alt: 1178.37
         cross:
           crossingPair:
-          - fix: 3379
+          - fix: 3380
             time: 2018-05-24T12:26:10Z
             lat: 43.81961667
             lng: 16.59818333
             alt: 1177
-          - fix: 3380
+          - fix: 3381
             time: 2018-05-24T12:26:11Z
             lat: 43.81961667
             lng: 16.59808333
@@ -2515,19 +2515,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 4181.54467223641
+          fixFrac: 4182.54467223641
           time: 2018-05-24T12:52:54.54467223641Z
           lat: 43.73391369
           lng: 16.68467873
           alt: 728.91
         cross:
           crossingPair:
-          - fix: 4181
+          - fix: 4182
             time: 2018-05-24T12:52:54Z
             lat: 43.73395
             lng: 16.68463333
             alt: 730
-          - fix: 4182
+          - fix: 4183
             time: 2018-05-24T12:52:55Z
             lat: 43.73388333
             lng: 16.68471667
@@ -2994,19 +2994,19 @@ tagging:
       - Damir Kalinger
     - zonesTag:
       - inter:
-          fixFrac: 67.5071441436543
+          fixFrac: 68.5071441436543
           time: 2018-05-26T11:23:21.507144143654Z
           lat: 43.82999976
           lng: 16.6374575
           alt: 756.49
         cross:
           crossingPair:
-          - fix: 67
+          - fix: 68
             time: 2018-05-26T11:23:21Z
             lat: 43.83001667
             lng: 16.63751667
             alt: 757
-          - fix: 68
+          - fix: 69
             time: 2018-05-26T11:23:22Z
             lat: 43.82998333
             lng: 16.6374
@@ -3015,19 +3015,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 149.89768363022463
+          fixFrac: 150.89768363022463
           time: 2018-05-26T11:24:43.897683630224Z
           lat: 43.82941837
           lng: 16.62852861
           alt: 715.2
         cross:
           crossingPair:
-          - fix: 149
+          - fix: 150
             time: 2018-05-26T11:24:43Z
             lat: 43.82943333
             lng: 16.62863333
             alt: 717
-          - fix: 150
+          - fix: 151
             time: 2018-05-26T11:24:44Z
             lat: 43.82941667
             lng: 16.62851667
@@ -3036,19 +3036,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 296.39936225385424
+          fixFrac: 297.39936225385424
           time: 2018-05-26T11:27:10.399362253854Z
           lat: 43.82589334
           lng: 16.61911672
           alt: 678
         cross:
           crossingPair:
-          - fix: 296
+          - fix: 297
             time: 2018-05-26T11:27:10Z
             lat: 43.8259
             lng: 16.61915
             alt: 678
-          - fix: 297
+          - fix: 298
             time: 2018-05-26T11:27:11Z
             lat: 43.82588333
             lng: 16.61906667
@@ -3402,19 +3402,19 @@ tagging:
       - Ivo Duarte
     - zonesTag:
       - inter:
-          fixFrac: 75.34604960495383
+          fixFrac: 76.34604960495383
           time: 2018-05-26T10:51:36.346049604953Z
           lat: 43.82618847
           lng: 16.64330449
           alt: 750.65
         cross:
           crossingPair:
-          - fix: 75
+          - fix: 76
             time: 2018-05-26T10:51:36Z
             lat: 43.8262
             lng: 16.64333333
             alt: 751
-          - fix: 76
+          - fix: 77
             time: 2018-05-26T10:51:37Z
             lat: 43.82616667
             lng: 16.64325
@@ -3423,19 +3423,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 986.6671589496982
+          fixFrac: 987.6671589496982
           time: 2018-05-26T11:11:31.667158949698Z
           lat: 43.82905554
           lng: 16.62886107
           alt: 1110
         cross:
           crossingPair:
-          - fix: 986
+          - fix: 987
             time: 2018-05-26T11:11:31Z
             lat: 43.82906667
             lng: 16.62891667
             alt: 1110
-          - fix: 987
+          - fix: 988
             time: 2018-05-26T11:11:32Z
             lat: 43.82905
             lng: 16.62883333
@@ -3444,19 +3444,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1093.256687841208
+          fixFrac: 1094.256687841208
           time: 2018-05-26T11:13:18.256687841208Z
           lat: 43.82538289
           lng: 16.61993717
           alt: 1067.74
         cross:
           crossingPair:
-          - fix: 1093
+          - fix: 1094
             time: 2018-05-26T11:13:18Z
             lat: 43.8254
             lng: 16.61995
             alt: 1068
-          - fix: 1094
+          - fix: 1095
             time: 2018-05-26T11:13:19Z
             lat: 43.82533333
             lng: 16.6199
@@ -3465,19 +3465,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 2011.6033108344463
+          fixFrac: 2012.6033108344463
           time: 2018-05-26T11:28:36.603310834446Z
           lat: 43.79929311
           lng: 16.67007355
           alt: 841.79
         cross:
           crossingPair:
-          - fix: 2011
+          - fix: 2012
             time: 2018-05-26T11:28:36Z
             lat: 43.79933333
             lng: 16.67003333
             alt: 843
-          - fix: 2012
+          - fix: 2013
             time: 2018-05-26T11:28:37Z
             lat: 43.79926667
             lng: 16.6701
@@ -3486,19 +3486,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 3171.8033103673883
+          fixFrac: 3172.8033103673883
           time: 2018-05-26T11:47:56.803310367388Z
           lat: 43.83889339
           lng: 16.59892973
           alt: 748
         cross:
           crossingPair:
-          - fix: 3171
+          - fix: 3172
             time: 2018-05-26T11:47:56Z
             lat: 43.83886667
             lng: 16.59898333
             alt: 748
-          - fix: 3172
+          - fix: 3173
             time: 2018-05-26T11:47:57Z
             lat: 43.8389
             lng: 16.59891667
@@ -3514,19 +3514,19 @@ tagging:
       - Jerko Odžak
     - zonesTag:
       - inter:
-          fixFrac: 109.52964272846137
+          fixFrac: 110.52964272846137
           time: 2018-05-26T10:52:35.529642728461Z
           lat: 43.82629019
           lng: 16.64388919
           alt: 765.47
         cross:
           crossingPair:
-          - fix: 109
+          - fix: 110
             time: 2018-05-26T10:52:35Z
             lat: 43.82631667
             lng: 16.64393333
             alt: 766
-          - fix: 110
+          - fix: 111
             time: 2018-05-26T10:52:36Z
             lat: 43.82626667
             lng: 16.64385
@@ -3535,19 +3535,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 2064.6916169503534
+          fixFrac: 2065.6916169503534
           time: 2018-05-26T11:25:10.691616950353Z
           lat: 43.83229876
           lng: 16.62627055
           alt: 1210.93
         cross:
           crossingPair:
-          - fix: 2064
+          - fix: 2065
             time: 2018-05-26T11:25:10Z
             lat: 43.83233333
             lng: 16.62631667
             alt: 1213
-          - fix: 2065
+          - fix: 2066
             time: 2018-05-26T11:25:11Z
             lat: 43.83228333
             lng: 16.62625
@@ -3556,19 +3556,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 2170.8524747724846
+          fixFrac: 2171.8524747724846
           time: 2018-05-26T11:26:56.852474772484Z
           lat: 43.82599071
           lng: 16.61890984
           alt: 1137.3
         cross:
           crossingPair:
-          - fix: 2170
+          - fix: 2171
             time: 2018-05-26T11:26:56Z
             lat: 43.82603333
             lng: 16.61896667
             alt: 1139
-          - fix: 2171
+          - fix: 2172
             time: 2018-05-26T11:26:57Z
             lat: 43.82598333
             lng: 16.6189
@@ -3698,19 +3698,19 @@ tagging:
       - Krešo  Kovačič
     - zonesTag:
       - inter:
-          fixFrac: 40.59005040923605
+          fixFrac: 41.59005040923605
           time: 2018-05-26T10:48:33.90050409236Z
           lat: 43.82706046
           lng: 16.64577236
           alt: 828.72
         cross:
           crossingPair:
-          - fix: 40
+          - fix: 41
             time: 2018-05-26T10:48:28Z
             lat: 43.82748333
             lng: 16.64551667
             alt: 824
-          - fix: 41
+          - fix: 42
             time: 2018-05-26T10:48:38Z
             lat: 43.82676667
             lng: 16.64595
@@ -3719,19 +3719,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 150.07225635124888
+          fixFrac: 151.07225635124888
           time: 2018-05-26T11:06:52.72256351248Z
           lat: 43.82902351
           lng: 16.62889099
           alt: 1456.49
         cross:
           crossingPair:
-          - fix: 150
+          - fix: 151
             time: 2018-05-26T11:06:52Z
             lat: 43.82905
             lng: 16.62895
             alt: 1457
-          - fix: 151
+          - fix: 152
             time: 2018-05-26T11:07:02Z
             lat: 43.82868333
             lng: 16.62813333
@@ -3740,19 +3740,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 159.92617475861005
+          fixFrac: 160.92617475861005
           time: 2018-05-26T11:08:26.63087379305Z
           lat: 43.82438513
           lng: 16.62084989
           alt: 1337.07
         cross:
           crossingPair:
-          - fix: 159
+          - fix: 160
             time: 2018-05-26T11:08:22Z
             lat: 43.82461667
             lng: 16.62126667
             alt: 1338
-          - fix: 160
+          - fix: 161
             time: 2018-05-26T11:08:27Z
             lat: 43.82436667
             lng: 16.62081667
@@ -3761,19 +3761,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 225.8592601781668
+          fixFrac: 226.8592601781668
           time: 2018-05-26T11:19:10.859260178166Z
           lat: 43.79854037
           lng: 16.66863358
           alt: 931
         cross:
           crossingPair:
-          - fix: 225
+          - fix: 226
             time: 2018-05-26T11:19:10Z
             lat: 43.79858333
             lng: 16.66853333
             alt: 931
-          - fix: 226
+          - fix: 227
             time: 2018-05-26T11:19:11Z
             lat: 43.79853333
             lng: 16.66865
@@ -3782,19 +3782,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 340.3533186554935
+          fixFrac: 341.3533186554935
           time: 2018-05-26T11:37:58.353318655493Z
           lat: 43.84379507
           lng: 16.60453719
           alt: 1059.29
         cross:
           crossingPair:
-          - fix: 340
+          - fix: 341
             time: 2018-05-26T11:37:58Z
             lat: 43.84378333
             lng: 16.60456667
             alt: 1060
-          - fix: 341
+          - fix: 342
             time: 2018-05-26T11:37:59Z
             lat: 43.84381667
             lng: 16.60448333
@@ -3803,19 +3803,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 509.907838965655
+          fixFrac: 510.907838965655
           time: 2018-05-26T12:06:11.26271172524Z
           lat: 43.78369193
           lng: 16.65528072
           alt: 726.55
         cross:
           crossingPair:
-          - fix: 509
+          - fix: 510
             time: 2018-05-26T12:06:04Z
             lat: 43.78443333
             lng: 16.65558333
             alt: 732
-          - fix: 510
+          - fix: 511
             time: 2018-05-26T12:06:12Z
             lat: 43.78361667
             lng: 16.65525
@@ -4238,19 +4238,19 @@ tagging:
       - Nuno Filipe da Fonseca Bastos Gomes
     - zonesTag:
       - inter:
-          fixFrac: 220.08682750817513
+          fixFrac: 221.08682750817513
           time: 2018-05-26T10:49:00.086827508175Z
           lat: 43.82657754
           lng: 16.64483188
           alt: 780
         cross:
           crossingPair:
-          - fix: 220
+          - fix: 221
             time: 2018-05-26T10:49:00Z
             lat: 43.82658333
             lng: 16.64483333
             alt: 780
-          - fix: 221
+          - fix: 222
             time: 2018-05-26T10:49:01Z
             lat: 43.82651667
             lng: 16.64481667
@@ -4259,19 +4259,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1641.159225271156
+          fixFrac: 1642.159225271156
           time: 2018-05-26T11:12:41.159225271155Z
           lat: 43.83710944
           lng: 16.62377538
           alt: 1675.68
         cross:
           crossingPair:
-          - fix: 1641
+          - fix: 1642
             time: 2018-05-26T11:12:41Z
             lat: 43.83713333
             lng: 16.62378333
             alt: 1676
-          - fix: 1642
+          - fix: 1643
             time: 2018-05-26T11:12:42Z
             lat: 43.83698333
             lng: 16.62373333
@@ -4280,19 +4280,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1725.494072540046
+          fixFrac: 1726.494072540046
           time: 2018-05-26T11:14:05.494072540046Z
           lat: 43.82500079
           lng: 16.62036706
           alt: 1501.52
         cross:
           crossingPair:
-          - fix: 1725
+          - fix: 1726
             time: 2018-05-26T11:14:05Z
             lat: 43.82506667
             lng: 16.6204
             alt: 1503
-          - fix: 1726
+          - fix: 1727
             time: 2018-05-26T11:14:06Z
             lat: 43.82493333
             lng: 16.62033333
@@ -4301,19 +4301,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 2058.370508721791
+          fixFrac: 2059.370508721791
           time: 2018-05-26T11:19:38.37050872179Z
           lat: 43.7982753
           lng: 16.66831421
           alt: 985.63
         cross:
           crossingPair:
-          - fix: 2058
+          - fix: 2059
             time: 2018-05-26T11:19:38Z
             lat: 43.7983
             lng: 16.66828333
             alt: 986
-          - fix: 2059
+          - fix: 2060
             time: 2018-05-26T11:19:39Z
             lat: 43.79823333
             lng: 16.66836667
@@ -4322,19 +4322,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 3414.302401756034
+          fixFrac: 3415.302401756034
           time: 2018-05-26T11:42:14.302401756034Z
           lat: 43.84800856
           lng: 16.60892134
           alt: 1247.3
         cross:
           crossingPair:
-          - fix: 3414
+          - fix: 3415
             time: 2018-05-26T11:42:14Z
             lat: 43.84798333
             lng: 16.60896667
             alt: 1247
-          - fix: 3415
+          - fix: 3416
             time: 2018-05-26T11:42:15Z
             lat: 43.84806667
             lng: 16.60881667
@@ -4343,19 +4343,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 4932.300249511453
+          fixFrac: 4933.300249511453
           time: 2018-05-26T12:07:32.300249511453Z
           lat: 43.78270831
           lng: 16.65356167
           alt: 844
         cross:
           crossingPair:
-          - fix: 4932
+          - fix: 4933
             time: 2018-05-26T12:07:32Z
             lat: 43.78273333
             lng: 16.65356667
             alt: 844
-          - fix: 4933
+          - fix: 4934
             time: 2018-05-26T12:07:33Z
             lat: 43.78265
             lng: 16.65355
@@ -4364,19 +4364,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 5264.318421686115
+          fixFrac: 5265.318421686115
           time: 2018-05-26T12:13:04.318421686114Z
           lat: 43.76007347
           lng: 16.62215149
           alt: 472.36
         cross:
           crossingPair:
-          - fix: 5264
+          - fix: 5265
             time: 2018-05-26T12:13:04Z
             lat: 43.7601
             lng: 16.62218333
             alt: 473
-          - fix: 5265
+          - fix: 5266
             time: 2018-05-26T12:13:05Z
             lat: 43.76001667
             lng: 16.62208333
@@ -4600,19 +4600,19 @@ tagging:
       - Tomas Svoboda
     - zonesTag:
       - inter:
-          fixFrac: 103.46954462424425
+          fixFrac: 104.46954462424425
           time: 2018-05-26T10:48:55.939089248488Z
           lat: 43.82699522
           lng: 16.64566941
           alt: 813.06
         cross:
           crossingPair:
-          - fix: 103
+          - fix: 104
             time: 2018-05-26T10:48:55Z
             lat: 43.82705
             lng: 16.64558333
             alt: 814
-          - fix: 104
+          - fix: 105
             time: 2018-05-26T10:48:57Z
             lat: 43.82693333
             lng: 16.64576667
@@ -4621,19 +4621,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 717.8753749512084
+          fixFrac: 718.8753749512084
           time: 2018-05-26T11:09:25.750749902416Z
           lat: 43.82891869
           lng: 16.62898953
           alt: 1670.37
         cross:
           crossingPair:
-          - fix: 717
+          - fix: 718
             time: 2018-05-26T11:09:24Z
             lat: 43.82905
             lng: 16.62915
             alt: 1673
-          - fix: 718
+          - fix: 719
             time: 2018-05-26T11:09:26Z
             lat: 43.8289
             lng: 16.62896667
@@ -4642,19 +4642,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 754.0567301301596
+          fixFrac: 755.0567301301596
           time: 2018-05-26T11:10:38.056730130159Z
           lat: 43.8233286
           lng: 16.62124527
           alt: 1567
         cross:
           crossingPair:
-          - fix: 754
+          - fix: 755
             time: 2018-05-26T11:10:38Z
             lat: 43.82333333
             lng: 16.62125
             alt: 1567
-          - fix: 755
+          - fix: 756
             time: 2018-05-26T11:10:39Z
             lat: 43.82325
             lng: 16.62116667
@@ -4663,19 +4663,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 975.8966052415525
+          fixFrac: 976.8966052415525
           time: 2018-05-26T11:18:00.793210483104Z
           lat: 43.79825689
           lng: 16.66829427
           alt: 1183.41
         cross:
           crossingPair:
-          - fix: 975
+          - fix: 976
             time: 2018-05-26T11:17:59Z
             lat: 43.79831667
             lng: 16.6681
             alt: 1187
-          - fix: 976
+          - fix: 977
             time: 2018-05-26T11:18:01Z
             lat: 43.79825
             lng: 16.66831667
@@ -4684,19 +4684,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 1716.851891849316
+          fixFrac: 1717.851891849316
           time: 2018-05-26T11:42:44.851891849315Z
           lat: 43.84832342
           lng: 16.60923391
           alt: 1496.15
         cross:
           crossingPair:
-          - fix: 1716
+          - fix: 1717
             time: 2018-05-26T11:42:44Z
             lat: 43.84826667
             lng: 16.60933333
             alt: 1497
-          - fix: 1717
+          - fix: 1718
             time: 2018-05-26T11:42:45Z
             lat: 43.84833333
             lng: 16.60921667
@@ -4705,19 +4705,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 2399.912962606118
+          fixFrac: 2400.912962606118
           time: 2018-05-26T12:05:31.825925212236Z
           lat: 43.78377973
           lng: 16.65555435
           alt: 855.26
         cross:
           crossingPair:
-          - fix: 2399
+          - fix: 2400
             time: 2018-05-26T12:05:30Z
             lat: 43.78391667
             lng: 16.6556
             alt: 858
-          - fix: 2400
+          - fix: 2401
             time: 2018-05-26T12:05:32Z
             lat: 43.78376667
             lng: 16.65555
@@ -4726,19 +4726,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 2637.846386727976
+          fixFrac: 2638.846386727976
           time: 2018-05-26T12:13:25.846386727976Z
           lat: 43.7603128
           lng: 16.62104357
           alt: 413.15
         cross:
           crossingPair:
-          - fix: 2637
+          - fix: 2638
             time: 2018-05-26T12:13:25Z
             lat: 43.76038333
             lng: 16.6211
             alt: 414
-          - fix: 2638
+          - fix: 2639
             time: 2018-05-26T12:13:26Z
             lat: 43.7603
             lng: 16.62103333
@@ -5869,19 +5869,19 @@ tagging:
       - Ivo Duarte
     - zonesTag:
       - inter:
-          fixFrac: 126.681972383533
+          fixFrac: 127.681972383533
           time: 2018-05-27T10:48:09.681972383532Z
           lat: 43.82705
           lng: 16.63910377
           alt: 695.68
         cross:
           crossingPair:
-          - fix: 126
+          - fix: 127
             time: 2018-05-27T10:48:09Z
             lat: 43.82705
             lng: 16.63918333
             alt: 695
-          - fix: 127
+          - fix: 128
             time: 2018-05-27T10:48:10Z
             lat: 43.82705
             lng: 16.63906667
@@ -5890,19 +5890,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1029.966310995159
+          fixFrac: 1030.966310995159
           time: 2018-05-27T11:03:12.966310995158Z
           lat: 43.83170225
           lng: 16.62668613
           alt: 983.03
         cross:
           crossingPair:
-          - fix: 1029
+          - fix: 1030
             time: 2018-05-27T11:03:12Z
             lat: 43.83176667
             lng: 16.62676667
             alt: 984
-          - fix: 1030
+          - fix: 1031
             time: 2018-05-27T11:03:13Z
             lat: 43.8317
             lng: 16.62668333
@@ -5911,19 +5911,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1141.9096963346542
+          fixFrac: 1142.9096963346542
           time: 2018-05-27T11:05:04.909696334654Z
           lat: 43.82645451
           lng: 16.61728785
           alt: 921
         cross:
           crossingPair:
-          - fix: 1141
+          - fix: 1142
             time: 2018-05-27T11:05:04Z
             lat: 43.8265
             lng: 16.61733333
             alt: 921
-          - fix: 1142
+          - fix: 1143
             time: 2018-05-27T11:05:05Z
             lat: 43.82645
             lng: 16.61728333
@@ -5932,19 +5932,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 1536.2057886373789
+          fixFrac: 1537.2057886373789
           time: 2018-05-27T11:11:39.205788637378Z
           lat: 43.8412603
           lng: 16.60170933
           alt: 901.21
         cross:
           crossingPair:
-          - fix: 1536
+          - fix: 1537
             time: 2018-05-27T11:11:39Z
             lat: 43.84125
             lng: 16.60173333
             alt: 901
-          - fix: 1537
+          - fix: 1538
             time: 2018-05-27T11:11:40Z
             lat: 43.8413
             lng: 16.60161667
@@ -5953,19 +5953,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 3098.613929386328
+          fixFrac: 3099.613929386328
           time: 2018-05-27T11:37:41.613929386327Z
           lat: 43.79964241
           lng: 16.67197046
           alt: 877
         cross:
           crossingPair:
-          - fix: 3098
+          - fix: 3099
             time: 2018-05-27T11:37:41Z
             lat: 43.79968333
             lng: 16.67195
             alt: 877
-          - fix: 3099
+          - fix: 3100
             time: 2018-05-27T11:37:42Z
             lat: 43.79961667
             lng: 16.67198333
@@ -5974,19 +5974,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 3957.084409006683
+          fixFrac: 3958.084409006683
           time: 2018-05-27T11:52:00.084409006683Z
           lat: 43.84190141
           lng: 16.60243875
           alt: 869.08
         cross:
           crossingPair:
-          - fix: 3957
+          - fix: 3958
             time: 2018-05-27T11:52:00Z
             lat: 43.8419
             lng: 16.60245
             alt: 869
-          - fix: 3958
+          - fix: 3959
             time: 2018-05-27T11:52:01Z
             lat: 43.84191667
             lng: 16.60231667
@@ -5999,19 +5999,19 @@ tagging:
       - Jerko Odžak
     - zonesTag:
       - inter:
-          fixFrac: 748.8643873128473
+          fixFrac: 749.8643873128473
           time: 2018-05-27T11:52:16.864387312847Z
           lat: 43.83102119
           lng: 16.63777571
           alt: 781.27
         cross:
           crossingPair:
-          - fix: 748
+          - fix: 749
             time: 2018-05-27T11:52:16Z
             lat: 43.83105
             lng: 16.63783333
             alt: 783
-          - fix: 749
+          - fix: 750
             time: 2018-05-27T11:52:17Z
             lat: 43.83101667
             lng: 16.63776667
@@ -6020,19 +6020,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1742.6034657887199
+          fixFrac: 1743.6034657887199
           time: 2018-05-27T12:09:10.603465788719Z
           lat: 43.83040316
           lng: 16.62768304
           alt: 988
         cross:
           crossingPair:
-          - fix: 1742
+          - fix: 1743
             time: 2018-05-27T12:09:10Z
             lat: 43.83043333
             lng: 16.62773333
             alt: 988
-          - fix: 1743
+          - fix: 1744
             time: 2018-05-27T12:09:11Z
             lat: 43.83038333
             lng: 16.62765
@@ -6041,19 +6041,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1845.376851245665
+          fixFrac: 1846.376851245665
           time: 2018-05-27T12:10:55.376851245664Z
           lat: 43.82457705
           lng: 16.6207227
           alt: 827.87
         cross:
           crossingPair:
-          - fix: 1845
+          - fix: 1846
             time: 2018-05-27T12:10:55Z
             lat: 43.82458333
             lng: 16.62076667
             alt: 829
-          - fix: 1846
+          - fix: 1847
             time: 2018-05-27T12:10:56Z
             lat: 43.82456667
             lng: 16.62065
@@ -6929,19 +6929,19 @@ tagging:
       - Nuno Filipe da Fonseca Bastos Gomes
     - zonesTag:
       - inter:
-          fixFrac: 209.01743448512772
+          fixFrac: 210.01743448512772
           time: 2018-05-27T10:38:31.017434485127Z
           lat: 43.82688275
           lng: 16.63938246
           alt: 722.02
         cross:
           crossingPair:
-          - fix: 209
+          - fix: 210
             time: 2018-05-27T10:38:31Z
             lat: 43.82688333
             lng: 16.63938333
             alt: 722
-          - fix: 210
+          - fix: 211
             time: 2018-05-27T10:38:32Z
             lat: 43.82685
             lng: 16.63933333
@@ -6950,19 +6950,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 2154.136332605299
+          fixFrac: 2155.136332605299
           time: 2018-05-27T11:10:56.136332605298Z
           lat: 43.83340228
           lng: 16.62556743
           alt: 932
         cross:
           crossingPair:
-          - fix: 2154
+          - fix: 2155
             time: 2018-05-27T11:10:56Z
             lat: 43.8334
             lng: 16.62558333
             alt: 932
-          - fix: 2155
+          - fix: 2156
             time: 2018-05-27T11:10:57Z
             lat: 43.83341667
             lng: 16.62546667
@@ -6971,19 +6971,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 2317.421042467946
+          fixFrac: 2318.421042467946
           time: 2018-05-27T11:13:39.421042467945Z
           lat: 43.8264886
           lng: 16.6170193
           alt: 843.58
         cross:
           crossingPair:
-          - fix: 2317
+          - fix: 2318
             time: 2018-05-27T11:13:39Z
             lat: 43.82651667
             lng: 16.61703333
             alt: 844
-          - fix: 2318
+          - fix: 2319
             time: 2018-05-27T11:13:40Z
             lat: 43.82645
             lng: 16.617
@@ -6992,19 +6992,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 2820.6964126635658
+          fixFrac: 2821.6964126635658
           time: 2018-05-27T11:22:02.696412663565Z
           lat: 43.84416162
           lng: 16.60493393
           alt: 1086.7
         cross:
           crossingPair:
-          - fix: 2820
+          - fix: 2821
             time: 2018-05-27T11:22:02Z
             lat: 43.84415
             lng: 16.60505
             alt: 1086
-          - fix: 2821
+          - fix: 2822
             time: 2018-05-27T11:22:03Z
             lat: 43.84416667
             lng: 16.60488333
@@ -7013,19 +7013,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 4232.608413898178
+          fixFrac: 4233.608413898178
           time: 2018-05-27T11:45:34.608413898178Z
           lat: 43.79934277
           lng: 16.6702232
           alt: 1063
         cross:
           crossingPair:
-          - fix: 4232
+          - fix: 4233
             time: 2018-05-27T11:45:34Z
             lat: 43.79938333
             lng: 16.67023333
             alt: 1063
-          - fix: 4233
+          - fix: 4234
             time: 2018-05-27T11:45:35Z
             lat: 43.79931667
             lng: 16.67021667
@@ -7034,19 +7034,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 5057.22952133005
+          fixFrac: 5058.22952133005
           time: 2018-05-27T11:59:19.22952133005Z
           lat: 43.839582
           lng: 16.59975275
           alt: 799.23
         cross:
           crossingPair:
-          - fix: 5057
+          - fix: 5058
             time: 2018-05-27T11:59:19Z
             lat: 43.83956667
             lng: 16.59978333
             alt: 799
-          - fix: 5058
+          - fix: 5059
             time: 2018-05-27T11:59:20Z
             lat: 43.83963333
             lng: 16.59965
@@ -7055,19 +7055,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 6736.015441581812
+          fixFrac: 6737.015441581812
           time: 2018-05-27T12:27:18.015441581812Z
           lat: 43.76204923
           lng: 16.61863462
           alt: 372
         cross:
           crossingPair:
-          - fix: 6736
+          - fix: 6737
             time: 2018-05-27T12:27:18Z
             lat: 43.76205
             lng: 16.61863333
             alt: 372
-          - fix: 6737
+          - fix: 6738
             time: 2018-05-27T12:27:19Z
             lat: 43.762
             lng: 16.61871667
@@ -7079,19 +7079,19 @@ tagging:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - zonesTag:
       - inter:
-          fixFrac: 78.1498594576594
+          fixFrac: 79.1498594576594
           time: 2018-05-27T12:53:25.149859457659Z
           lat: 43.82660918
           lng: 16.64490999
           alt: 779.85
         cross:
           crossingPair:
-          - fix: 78
+          - fix: 79
             time: 2018-05-27T12:53:25Z
             lat: 43.82661667
             lng: 16.6449
             alt: 780
-          - fix: 79
+          - fix: 80
             time: 2018-05-27T12:53:26Z
             lat: 43.82656667
             lng: 16.64496667
@@ -7100,19 +7100,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1113.2237316691962
+          fixFrac: 1114.2237316691962
           time: 2018-05-27T13:10:40.223731669196Z
           lat: 43.8306204
           lng: 16.62750723
           alt: 860.78
         cross:
           crossingPair:
-          - fix: 1113
+          - fix: 1114
             time: 2018-05-27T13:10:40Z
             lat: 43.83061667
             lng: 16.62753333
             alt: 861
-          - fix: 1114
+          - fix: 1115
             time: 2018-05-27T13:10:41Z
             lat: 43.83063333
             lng: 16.62741667
@@ -7121,19 +7121,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1296.9826329101409
+          fixFrac: 1297.9826329101409
           time: 2018-05-27T13:13:43.98263291014Z
           lat: 43.82651696
           lng: 16.61666754
           alt: 813.02
         cross:
           crossingPair:
-          - fix: 1296
+          - fix: 1297
             time: 2018-05-27T13:13:43Z
             lat: 43.82653333
             lng: 16.61671667
             alt: 814
-          - fix: 1297
+          - fix: 1298
             time: 2018-05-27T13:13:44Z
             lat: 43.82651667
             lng: 16.61666667
@@ -7302,19 +7302,19 @@ tagging:
       - Tomas Svoboda
     - zonesTag:
       - inter:
-          fixFrac: 31.540423985604523
+          fixFrac: 32.54042398560452
           time: 2018-05-27T10:19:11.080847971208Z
           lat: 43.82659731
           lng: 16.64488106
           alt: 749.08
         cross:
           crossingPair:
-          - fix: 31
+          - fix: 32
             time: 2018-05-27T10:19:10Z
             lat: 43.82663333
             lng: 16.6448
             alt: 748
-          - fix: 32
+          - fix: 33
             time: 2018-05-27T10:19:12Z
             lat: 43.82656667
             lng: 16.64495
@@ -7323,19 +7323,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1298.6987635528956
+          fixFrac: 1299.6987635528956
           time: 2018-05-27T11:01:29.39752710579Z
           lat: 43.83720021
           lng: 16.62374178
           alt: 1356.6
         cross:
           crossingPair:
-          - fix: 1298
+          - fix: 1299
             time: 2018-05-27T11:01:28Z
             lat: 43.83731667
             lng: 16.6238
             alt: 1358
-          - fix: 1299
+          - fix: 1300
             time: 2018-05-27T11:01:30Z
             lat: 43.83715
             lng: 16.62371667
@@ -7344,19 +7344,19 @@ tagging:
           - true
           - false
       - inter:
-          fixFrac: 1359.6701908822024
+          fixFrac: 1360.6701908822024
           time: 2018-05-27T11:03:31.340381764404Z
           lat: 43.82652713
           lng: 16.61624415
           alt: 1195.66
         cross:
           crossingPair:
-          - fix: 1359
+          - fix: 1360
             time: 2018-05-27T11:03:30Z
             lat: 43.82665
             lng: 16.6163
             alt: 1197
-          - fix: 1360
+          - fix: 1361
             time: 2018-05-27T11:03:32Z
             lat: 43.82646667
             lng: 16.61621667
@@ -7365,19 +7365,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 1451.5049729986804
+          fixFrac: 1452.5049729986804
           time: 2018-05-27T11:06:32.50497299868Z
           lat: 43.84429205
           lng: 16.60507439
           alt: 1075.99
         cross:
           crossingPair:
-          - fix: 1451
+          - fix: 1452
             time: 2018-05-27T11:06:32Z
             lat: 43.84425
             lng: 16.60513333
             alt: 1077
-          - fix: 1452
+          - fix: 1453
             time: 2018-05-27T11:06:33Z
             lat: 43.84433333
             lng: 16.60501667
@@ -7386,19 +7386,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 2333.660707894987
+          fixFrac: 2334.660707894987
           time: 2018-05-27T11:36:00.321415789972Z
           lat: 43.79963422
           lng: 16.67180566
           alt: 1331.68
         cross:
           crossingPair:
-          - fix: 2333
+          - fix: 2334
             time: 2018-05-27T11:35:59Z
             lat: 43.79973333
             lng: 16.67181667
             alt: 1333
-          - fix: 2334
+          - fix: 2335
             time: 2018-05-27T11:36:01Z
             lat: 43.79958333
             lng: 16.6718
@@ -7407,19 +7407,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 2734.4253427611434
+          fixFrac: 2735.4253427611434
           time: 2018-05-27T11:49:19.425342761143Z
           lat: 43.84441167
           lng: 16.60520285
           alt: 1381.15
         cross:
           crossingPair:
-          - fix: 2734
+          - fix: 2735
             time: 2018-05-27T11:49:19Z
             lat: 43.84438333
             lng: 16.60526667
             alt: 1382
-          - fix: 2735
+          - fix: 2736
             time: 2018-05-27T11:49:20Z
             lat: 43.84445
             lng: 16.60511667
@@ -7428,19 +7428,19 @@ tagging:
           - false
           - true
       - inter:
-          fixFrac: 3264.8130579165404
+          fixFrac: 3265.8130579165404
           time: 2018-05-27T12:06:59.62611583308Z
           lat: 43.76210094
           lng: 16.61902398
           alt: 327.37
         cross:
           crossingPair:
-          - fix: 3264
+          - fix: 3265
             time: 2018-05-27T12:06:58Z
             lat: 43.76225
             lng: 16.61898333
             alt: 329
-          - fix: 3265
+          - fix: 3266
             time: 2018-05-27T12:07:00Z
             lat: 43.76206667
             lng: 16.61903333
