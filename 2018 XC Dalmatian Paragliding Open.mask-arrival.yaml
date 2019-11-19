@@ -1,7 +1,7 @@
 pilotsAtEss:
 - 0
 - 0
-- 11
+- 12
 arrivalRank:
 - []
 - []
@@ -12,40 +12,44 @@ arrivalRank:
   - - - '98'
       - Tomas Svoboda
     - rank: '2'
-      frac: 0.81665665
+      frac: 0.83072396
+  - - - '26'
+      - Dušan Durkovič
+    - rank: '3'
+      frac: 0.68743056
   - - - '101'
       - Tomaž Toplak
     - rank: '4'
-      frac: 0.53916754
+      frac: 0.56792188
   - - - '4'
       - Alojz Tovornik
     - rank: '5'
-      frac: 0.4393148
+      frac: 0.47
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - rank: '6'
-      frac: 0.36158527
+      frac: 0.39146701
   - - - '73'
       - Mitja Jug
     - rank: '7'
-      frac: 0.30312547
+      frac: 0.330125
   - - - '9'
       - Antoni Buljan
     - rank: '8'
-      frac: 0.26108189
+      frac: 0.28377604
   - - - '72'
       - Mitja Jančič
     - rank: '9'
-      frac: 0.23260105
+      frac: 0.25022222
   - - - '114'
       - Joan Brito
     - rank: '10'
-      frac: 0.21482945
+      frac: 0.22726562
   - - - '95'
       - Stojan Kranjc
     - rank: '11'
-      frac: 0.2049136
+      frac: 0.21270833
   - - - '63'
       - Marketa Tomaskova
     - rank: '12'
-      frac: 0
+      frac: 0.20435243

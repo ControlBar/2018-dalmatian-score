@@ -6,8 +6,8 @@ bolster:
   mean: 13.499624 km
   stdDev: 7.927392 km
 - max: 26.187198 km
-  mean: 19.258036 km
-  stdDev: 10.123591 km
+  mean: 20.424941 km
+  stdDev: 9.418161 km
 reach:
 - max: 13.644382 km
   mean: 4.820799 km
@@ -16,8 +16,8 @@ reach:
   mean: 13.456146 km
   stdDev: 7.998254 km
 - max: 26.187198 km
-  mean: 19.159617 km
-  stdDev: 10.304033 km
+  mean: 20.326522 km
+  stdDev: 9.623797 km
 reachRank:
 - - - - '98'
       - Tomas Svoboda
@@ -223,6 +223,10 @@ reachRank:
       - Tomas Svoboda
     - frac: 1
       reach: 26.187198 km
+  - - - '26'
+      - Dušan Durkovič
+    - frac: 1
+      reach: 26.187198 km
   - - - '101'
       - Tomaž Toplak
     - frac: 1
@@ -283,10 +287,6 @@ reachRank:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - frac: 0.11345994
       reach: 2.971198 km
-  - - - '26'
-      - Dušan Durkovič
-    - frac: 6.423742e-2
-      reach: 1.682198 km
   - - - '46'
       - Jerko Odžak
     - frac: 6.397011e-2
@@ -777,12 +777,3 @@ nigh:
         legsSum: []
         waypoints: []
       made: 1.675198 km
-  - - - '26'
-      - Dušan Durkovič
-    - togo:
-        distance: 24.505000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 1.682198 km

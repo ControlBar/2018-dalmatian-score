@@ -6,8 +6,8 @@ bolster:
   mean: 12.206906 km
   stdDev: 7.388623 km
 - max: 26.187198 km
-  mean: 19.258036 km
-  stdDev: 10.123591 km
+  mean: 20.424941 km
+  stdDev: 9.418161 km
 reach:
 - max: 12.002382 km
   mean: 3.868953 km
@@ -16,8 +16,8 @@ reach:
   mean: 12.152407 km
   stdDev: 7.473726 km
 - max: 26.187198 km
-  mean: 19.159617 km
-  stdDev: 10.304033 km
+  mean: 20.326522 km
+  stdDev: 9.623797 km
 reachRank:
 - - - - '101'
       - Tomaž Toplak
@@ -223,6 +223,10 @@ reachRank:
       - Tomas Svoboda
     - frac: 1
       reach: 26.187198 km
+  - - - '26'
+      - Dušan Durkovič
+    - frac: 1
+      reach: 26.187198 km
   - - - '101'
       - Tomaž Toplak
     - frac: 1
@@ -283,10 +287,6 @@ reachRank:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - frac: 0.11345994
       reach: 2.971198 km
-  - - - '26'
-      - Dušan Durkovič
-    - frac: 6.423742e-2
-      reach: 1.682198 km
   - - - '46'
       - Jerko Odžak
     - frac: 6.397011e-2
@@ -1893,34 +1893,3 @@ nigh:
         - lat: 43.76182569
           lng: 16.61756905
       made: 1.675198 km
-  - - - '26'
-      - Dušan Durkovič
-    - togo:
-        distance: 24.504946 km
-        flipSum:
-        - 24.504946 km
-        - 22.518753 km
-        - 15.347471 km
-        - 7.810835 km
-        legs:
-        - 1.986193 km
-        - 7.171283 km
-        - 7.536636 km
-        - 7.810835 km
-        legsSum:
-        - 1.986193 km
-        - 9.157475 km
-        - 16.694111 km
-        - 24.504946 km
-        waypoints:
-        - lat: 43.82635
-          lng: 16.61656667
-        - lat: 43.8388438
-          lng: 16.59886999
-        - lat: 43.79799476
-          lng: 16.66803729
-        - lat: 43.82764478
-          lng: 16.58357384
-        - lat: 43.76182569
-          lng: 16.61756905
-      made: 1.682198 km
