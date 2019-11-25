@@ -1,76 +1,76 @@
 bestEffort:
-- 12.001382 km
-- 20.349516 km
+- 12.025382 km
+- 20.365516 km
 - 26.187198 km
 land:
 - - - - '98'
       - Tomas Svoboda
-    - togo: 7.774539 km
-      made: 21.886843 km
+    - togo: 7.769539 km
+      made: 21.891843 km
   - - - '101'
       - Tomaž Toplak
-    - togo: 17.675913 km
-      made: 11.985469 km
+    - togo: 17.651400 km
+      made: 12.009982 km
   - - - '57'
       - Lara Leban
-    - togo: 20.843248 km
-      made: 8.818134 km
+    - togo: 20.818832 km
+      made: 8.842550 km
   - - - '16'
       - Bruno Matos
-    - togo: 21.060740 km
-      made: 8.600642 km
+    - togo: 21.037138 km
+      made: 8.624244 km
   - - - '72'
       - Mitja Jančič
-    - togo: 21.143649 km
-      made: 8.517733 km
+    - togo: 21.119265 km
+      made: 8.542117 km
   - - - '114'
       - Joan Brito
-    - togo: 21.951872 km
-      made: 7.709510 km
+    - togo: 21.927250 km
+      made: 7.734132 km
   - - - '13'
       - Balazs Szatmari
-    - togo: 22.442301 km
-      made: 7.219081 km
+    - togo: 22.417723 km
+      made: 7.243659 km
   - - - '41'
       - Ivo Duarte
-    - togo: 24.390581 km
-      made: 5.270801 km
+    - togo: 24.361992 km
+      made: 5.299390 km
   - - - '26'
       - Dušan Durkovič
-    - togo: 24.533890 km
-      made: 5.127492 km
+    - togo: 24.505488 km
+      made: 5.155894 km
   - - - '4'
       - Alojz Tovornik
-    - togo: 24.551337 km
-      made: 5.110045 km
+    - togo: 24.522953 km
+      made: 5.138429 km
   - - - '86'
       - Sandi Krč
-    - togo: 24.563327 km
-      made: 5.098055 km
+    - togo: 24.534946 km
+      made: 5.126436 km
   - - - '37'
       - Igor Eržen
-    - togo: 26.356119 km
-      made: 3.305263 km
+    - togo: 26.327711 km
+      made: 3.333671 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - togo: 26.607062 km
-      made: 3.054320 km
+    - togo: 26.578437 km
+      made: 3.082945 km
   - - - '54'
       - Krešo  Kovačič
-    - togo: 26.757358 km
-      made: 2.904024 km
+    - togo: 26.728742 km
+      made: 2.932640 km
   - - - '21'
       - Damir Kalinger
-    - togo: 26.906274 km
-      made: 2.755108 km
+    - togo: 26.877768 km
+      made: 2.783614 km
   - - - '73'
       - Mitja Jug
-    - togo: 27.579779 km
-      made: 2.081603 km
+    - togo: 27.551120 km
+      made: 2.110262 km
   - - - '9'
       - Antoni Buljan
-    - togo: 27.806199 km
-      made: 1.855183 km
+    - togo: 27.777663 km
+      made: 1.883719 km
   - - - '82'
       - Richard Edlinger
     - togo: 28.661382 km
@@ -85,153 +85,153 @@ land:
       made: 1.000000 km
   - - - '40'
       - Ivica Huljek
-    - togo: 29.063501 km
-      made: 0.597881 km
+    - togo: 29.031268 km
+      made: 0.630114 km
   - - - '46'
       - Jerko Odžak
-    - togo: 29.065500 km
-      made: 0.595882 km
+    - togo: 29.033270 km
+      made: 0.628112 km
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - togo: 29.096327 km
-      made: 0.565055 km
+    - togo: 29.064077 km
+      made: 0.597305 km
   - - - '63'
       - Marketa Tomaskova
-    - togo: 29.101714 km
-      made: 0.559668 km
+    - togo: 29.070048 km
+      made: 0.591334 km
   - - - '23'
       - David Šiljeg
-    - togo: 29.334430 km
-      made: 0.326952 km
+    - togo: 29.302616 km
+      made: 0.358766 km
   - - - '102'
       - Tomislav Gomerčić
-    - togo: 29.467978 km
-      made: 0.193404 km
+    - togo: 29.436420 km
+      made: 0.224962 km
 - - - - '101'
       - Tomaž Toplak
-    - togo: 14.677023 km
-      made: 26.489493 km
+    - togo: 14.665056 km
+      made: 26.501460 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - togo: 14.781466 km
-      made: 26.385050 km
+    - togo: 14.769501 km
+      made: 26.397015 km
   - - - '72'
       - Mitja Jančič
-    - togo: 14.868290 km
-      made: 26.298226 km
+    - togo: 14.856322 km
+      made: 26.310194 km
   - - - '26'
       - Dušan Durkovič
-    - togo: 14.879183 km
-      made: 26.287333 km
+    - togo: 14.867208 km
+      made: 26.299308 km
   - - - '98'
       - Tomas Svoboda
-    - togo: 14.921001 km
-      made: 26.245515 km
+    - togo: 14.909019 km
+      made: 26.257497 km
   - - - '54'
       - Krešo  Kovačič
-    - togo: 21.124203 km
-      made: 20.042313 km
+    - togo: 21.108846 km
+      made: 20.057670 km
   - - - '41'
       - Ivo Duarte
-    - togo: 21.681207 km
-      made: 19.485309 km
+    - togo: 21.663926 km
+      made: 19.502590 km
   - - - '95'
       - Stojan Kranjc
-    - togo: 22.500440 km
-      made: 18.666076 km
+    - togo: 22.483050 km
+      made: 18.683466 km
   - - - '16'
       - Bruno Matos
-    - togo: 23.277058 km
-      made: 17.889458 km
+    - togo: 23.260016 km
+      made: 17.906500 km
   - - - '114'
       - Joan Brito
-    - togo: 24.184406 km
-      made: 16.982110 km
+    - togo: 24.167502 km
+      made: 16.999014 km
   - - - '37'
       - Igor Eržen
-    - togo: 24.481108 km
-      made: 16.685408 km
+    - togo: 24.463315 km
+      made: 16.703201 km
   - - - '57'
       - Lara Leban
-    - togo: 25.226586 km
-      made: 15.939930 km
+    - togo: 25.208997 km
+      made: 15.957519 km
   - - - '86'
       - Sandi Krč
-    - togo: 31.834808 km
-      made: 9.331708 km
+    - togo: 31.680432 km
+      made: 9.486084 km
   - - - '4'
       - Alojz Tovornik
-    - togo: 32.341463 km
-      made: 8.825053 km
+    - togo: 32.187838 km
+      made: 8.978678 km
   - - - '113'
       - Zsolt Sandor
-    - togo: 34.282516 km
-      made: 6.884000 km
+    - togo: 34.126346 km
+      made: 7.040170 km
   - - - '13'
       - Balazs Szatmari
-    - togo: 34.292142 km
-      made: 6.874374 km
+    - togo: 34.136149 km
+      made: 7.030367 km
   - - - '63'
       - Marketa Tomaskova
-    - togo: 35.469223 km
-      made: 5.697293 km
+    - togo: 35.308993 km
+      made: 5.857523 km
   - - - '46'
       - Jerko Odžak
-    - togo: 36.782627 km
-      made: 4.383889 km
+    - togo: 36.622311 km
+      made: 4.544205 km
   - - - '73'
       - Mitja Jug
-    - togo: 38.313127 km
-      made: 2.853389 km
+    - togo: 38.152897 km
+      made: 3.013619 km
   - - - '21'
       - Damir Kalinger
-    - togo: 38.908326 km
-      made: 2.258190 km
+    - togo: 38.748094 km
+      made: 2.418422 km
   - - - '40'
       - Ivica Huljek
-    - togo: 39.274671 km
-      made: 1.891845 km
+    - togo: 39.114347 km
+      made: 2.052169 km
   - - - '91'
       - Slava Jelić
     - togo: 40.166516 km
       made: 1.000000 km
   - - - '9'
       - Antoni Buljan
-    - togo: 41.206065 km
-      made: -0.039549 km
+    - togo: 41.041868 km
+      made: 0.124648 km
 - - - - '54'
       - Krešo  Kovačič
-    - togo: 1.717452 km
-      made: 24.469746 km
+    - togo: 1.714452 km
+      made: 24.472746 km
   - - - '37'
       - Igor Eržen
-    - togo: 3.303712 km
-      made: 22.883486 km
+    - togo: 3.300712 km
+      made: 22.886486 km
   - - - '57'
       - Lara Leban
-    - togo: 3.438147 km
-      made: 22.749051 km
+    - togo: 3.435147 km
+      made: 22.752051 km
   - - - '41'
       - Ivo Duarte
-    - togo: 4.110792 km
-      made: 22.076406 km
+    - togo: 4.107792 km
+      made: 22.079406 km
   - - - '23'
       - David Šiljeg
-    - togo: 12.160710 km
-      made: 14.026488 km
+    - togo: 12.024353 km
+      made: 14.162845 km
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - togo: 23.218151 km
-      made: 2.969047 km
+    - togo: 22.941929 km
+      made: 3.245269 km
   - - - '91'
       - Slava Jelić
     - togo: 25.187198 km
       made: 1.000000 km
   - - - '40'
       - Ivica Huljek
-    - togo: 26.445513 km
-      made: -0.258315 km
+    - togo: 26.168093 km
+      made: 0.019105 km
   - - - '46'
       - Jerko Odžak
-    - togo: 26.459156 km
-      made: -0.271958 km
+    - togo: 26.182460 km
+      made: 0.004738 km

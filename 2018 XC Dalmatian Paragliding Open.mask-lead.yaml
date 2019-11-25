@@ -1,339 +1,339 @@
 raceTime:
 - openTask: 2018-05-24T10:30:00Z
   closeTask: 2018-05-24T12:18:00Z
-  firstStart: 2018-05-24T10:34:47.500435001048Z
-  firstLead: 2018-05-24T10:34:47.500435001048Z
+  firstStart: 2018-05-24T10:34:49.279675183974Z
+  firstLead: 2018-05-24T10:34:49.279675183974Z
   lastArrival: 2018-05-24T12:18:00Z
-  leadAllDown: 8937
-  leadArrival: 6192.5
-  leadClose: 6192.5
+  leadAllDown: 8936
+  leadArrival: 6190.72
+  leadClose: 6190.72
   openClose: 6480
-  tickClose: 6192.5
+  tickClose: 6190.72
 - openTask: 2018-05-26T11:00:00Z
   closeTask: 2018-05-26T12:05:00Z
-  firstStart: 2018-05-26T11:06:52.72256351248Z
-  firstLead: 2018-05-26T11:06:52.72256351248Z
+  firstStart: 2018-05-26T11:06:54.66782311728Z
+  firstLead: 2018-05-26T11:06:54.66782311728Z
   lastArrival: 2018-05-26T12:05:00Z
-  leadAllDown: 4161
-  leadArrival: 3487.277
-  leadClose: 3487.277
+  leadAllDown: 4159
+  leadArrival: 3485.332
+  leadClose: 3485.332
   openClose: 3900
-  tickClose: 3487.277
+  tickClose: 3485.332
 - openTask: 2018-05-27T11:00:00Z
   closeTask: 2018-05-27T14:00:00Z
-  firstStart: 2018-05-27T10:59:59.041061583955Z
-  firstLead: 2018-05-27T10:59:59.041061583955Z
-  lastArrival: 2018-05-27T13:03:52.952834503761Z
-  leadAllDown: 9430.959
-  leadArrival: 7433.912
-  leadClose: 10800.959
+  firstStart: 2018-05-27T11:00:00.74855984507Z
+  firstLead: 2018-05-27T11:00:00.74855984507Z
+  lastArrival: 2018-05-27T13:03:51.95394405939Z
+  leadAllDown: 9429.251
+  leadArrival: 7431.205
+  leadClose: 10799.251
   openClose: 10800
-  tickClose: 10800.959
+  tickClose: 10799.251
 sumDistance:
-- 79.357876 km
-- 257.535836 km
-- 407.806762 km
+- 79.848876 km
+- 259.148836 km
+- 408.487762 km
 leadAreaToCoef:
 - 0.00000065439087 km^-2 s^-1
 - 0.00000033633655 km^-2 s^-1
 - 0.00000084987717 km^-2 s^-1
 leadCoefMin:
-- 1.9913404
-- 1.08605943
-- 0.8390545
+- 1.98540687
+- 1.07775566
+- 0.82493306
 leadRank:
 - - - - '101'
       - Tomaž Toplak
-    - area: 3043044.3012 km^2 s
-      coef: 1.9913404
+    - area: 3033977.0367 km^2 s
+      coef: 1.98540687
       frac: 1
   - - - '57'
       - Lara Leban
-    - area: 3216741.3716 km^2 s
-      coef: 2.10500618
-      frac: 0.81348892
+    - area: 3208014.1247 km^2 s
+      coef: 2.09929515
+      frac: 0.81305974
   - - - '72'
       - Mitja Jančič
-    - area: 3223511.6633 km^2 s
-      coef: 2.1094366
-      frac: 0.80867337
+    - area: 3214761.4504 km^2 s
+      coef: 2.10371054
+      frac: 0.80825871
   - - - '98'
       - Tomas Svoboda
-    - area: 3770891.3992 km^2 s
-      coef: 2.4676369
-      frac: 0.51522923
+    - area: 3759316.0240 km^2 s
+      coef: 2.46006208
+      frac: 0.5158622
   - - - '114'
       - Joan Brito
-    - area: 3819132.4573 km^2 s
-      coef: 2.49920541
-      frac: 0.49403902
+    - area: 3808098.1419 km^2 s
+      coef: 2.49198465
+      frac: 0.49439163
   - - - '26'
       - Dušan Durkovič
-    - area: 3856494.8512 km^2 s
-      coef: 2.52365502
-      frac: 0.47792797
+    - area: 3846396.1217 km^2 s
+      coef: 2.5170465
+      frac: 0.47785027
   - - - '4'
       - Alojz Tovornik
-    - area: 3880356.3764 km^2 s
-      coef: 2.53926978
-      frac: 0.46776771
+    - area: 3869949.7588 km^2 s
+      coef: 2.53245979
+      frac: 0.46780631
   - - - '86'
       - Sandi Krč
-    - area: 3893245.8277 km^2 s
-      coef: 2.54770452
-      frac: 0.46231956
+    - area: 3882571.4640 km^2 s
+      coef: 2.54071931
+      frac: 0.46246292
   - - - '41'
       - Ivo Duarte
-    - area: 4032279.6679 km^2 s
-      coef: 2.638687
-      frac: 0.40519299
+    - area: 4021740.0166 km^2 s
+      coef: 2.63178994
+      frac: 0.40519199
   - - - '16'
       - Bruno Matos
-    - area: 4617639.1582 km^2 s
-      coef: 3.0217409
-      frac: 0.18912196
+    - area: 4603689.9326 km^2 s
+      coef: 3.01261266
+      frac: 0.18999357
   - - - '21'
       - Damir Kalinger
-    - area: 4658465.6914 km^2 s
-      coef: 3.04845741
-      frac: 0.1751654
+    - area: 4646088.4083 km^2 s
+      coef: 3.04035783
+      frac: 0.17547276
   - - - '73'
       - Mitja Jug
-    - area: 4732635.8694 km^2 s
-      coef: 3.0969937
-      frac: 0.15010722
+    - area: 4721516.7457 km^2 s
+      coef: 3.08971745
+      frac: 0.14995031
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - area: 4750323.7694 km^2 s
-      coef: 3.1085685
-      frac: 0.14418598
+    - area: 4738695.7819 km^2 s
+      coef: 3.10095925
+      frac: 0.14419109
   - - - '13'
       - Balazs Szatmari
-    - area: 4765671.5718 km^2 s
-      coef: 3.11861196
-      frac: 0.13906467
+    - area: 4754384.4510 km^2 s
+      coef: 3.11122577
+      frac: 0.13894839
   - - - '37'
       - Igor Eržen
-    - area: 4771732.2361 km^2 s
-      coef: 3.122578
-      frac: 0.13704652
+    - area: 4757207.6837 km^2 s
+      coef: 3.11307327
+      frac: 0.13800664
   - - - '54'
       - Krešo  Kovačič
-    - area: 4848282.4717 km^2 s
-      coef: 3.17267178
-      frac: 0.11175523
+    - area: 4836593.4387 km^2 s
+      coef: 3.16502258
+      frac: 0.11173232
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - area: 5028810.4029 km^2 s
-      coef: 3.29080761
-      frac: 5.348308e-2
+    - area: 5013248.1463 km^2 s
+      coef: 3.28062381
+      frac: 5.460819e-2
   - - - '9'
       - Antoni Buljan
-    - area: 5063594.4710 km^2 s
-      coef: 3.31356999
-      frac: 4.246187e-2
+    - area: 5049064.1297 km^2 s
+      coef: 3.30406146
+      frac: 4.323739e-2
   - - - '46'
       - Jerko Odžak
-    - area: 5222226.3124 km^2 s
-      coef: 3.41737721
+    - area: 5201184.9663 km^2 s
+      coef: 3.40360795
       frac: 0
 - - - - '54'
       - Krešo  Kovačič
-    - area: 3229085.3793 km^2 s
-      coef: 1.08605943
+    - area: 3204396.5337 km^2 s
+      coef: 1.07775566
       frac: 1
   - - - '101'
       - Tomaž Toplak
-    - area: 3270291.3658 km^2 s
-      coef: 1.0999185
-      frac: 0.94386871
+    - area: 3243944.0395 km^2 s
+      coef: 1.09105694
+      frac: 0.94524522
   - - - '98'
       - Tomas Svoboda
-    - area: 3287587.2033 km^2 s
-      coef: 1.10573573
-      frac: 0.92909485
+    - area: 3260857.4626 km^2 s
+      coef: 1.09674554
+      frac: 0.93057627
   - - - '26'
       - Dušan Durkovič
-    - area: 3320888.8539 km^2 s
-      coef: 1.11693629
-      frac: 0.90425026
+    - area: 3294533.9239 km^2 s
+      coef: 1.10807216
+      frac: 0.90516996
   - - - '72'
       - Mitja Jančič
-    - area: 3360337.2851 km^2 s
-      coef: 1.13020424
-      frac: 0.8784835
+    - area: 3333706.9278 km^2 s
+      coef: 1.12124748
+      frac: 0.8793766
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - area: 3485792.1867 km^2 s
-      coef: 1.17239931
-      frac: 0.80995501
+    - area: 3458385.3566 km^2 s
+      coef: 1.16318139
+      frac: 0.81081545
   - - - '57'
       - Lara Leban
-    - area: 3783481.8973 km^2 s
-      coef: 1.27252324
-      frac: 0.68247457
+    - area: 3752517.2557 km^2 s
+      coef: 1.26210869
+      frac: 0.68406815
   - - - '41'
       - Ivo Duarte
-    - area: 3809239.3024 km^2 s
-      coef: 1.28118639
-      frac: 0.67271432
+    - area: 3777552.0770 km^2 s
+      coef: 1.27052882
+      frac: 0.67452003
   - - - '95'
       - Stojan Kranjc
-    - area: 4016093.3614 km^2 s
-      coef: 1.35075897
-      frac: 0.59893238
+    - area: 3981578.3982 km^2 s
+      coef: 1.33915033
+      frac: 0.60125886
   - - - '16'
       - Bruno Matos
-    - area: 4036963.3951 km^2 s
-      coef: 1.35777833
-      frac: 0.59187296
+    - area: 4000637.2541 km^2 s
+      coef: 1.34556052
+      frac: 0.59476633
   - - - '37'
       - Igor Eržen
-    - area: 4042800.2584 km^2 s
-      coef: 1.35974148
-      frac: 0.58990952
+    - area: 4006643.6805 km^2 s
+      coef: 1.3475807
+      frac: 0.59273097
   - - - '114'
       - Joan Brito
-    - area: 4192289.1845 km^2 s
-      coef: 1.41002007
-      frac: 0.54110819
+    - area: 4155382.6236 km^2 s
+      coef: 1.39760704
+      frac: 0.54383141
   - - - '86'
       - Sandi Krč
-    - area: 4237999.6900 km^2 s
-      coef: 1.42539418
-      frac: 0.52670233
+    - area: 4196730.8201 km^2 s
+      coef: 1.41151395
+      frac: 0.53070283
   - - - '4'
       - Alojz Tovornik
-    - area: 5239529.2776 km^2 s
-      coef: 1.76224518
-      frac: 0.25052097
+    - area: 5192310.7682 km^2 s
+      coef: 1.74636387
+      frac: 0.25422521
   - - - '13'
       - Balazs Szatmari
-    - area: 5250768.9616 km^2 s
-      coef: 1.7660255
-      frac: 0.24773019
+    - area: 5202409.3138 km^2 s
+      coef: 1.74976038
+      frac: 0.25170167
   - - - '113'
       - Zsolt Sandor
-    - area: 5266427.1937 km^2 s
-      coef: 1.77129194
-      frac: 0.24385089
+    - area: 5218174.6747 km^2 s
+      coef: 1.75506285
+      frac: 0.24777052
   - - - '46'
       - Jerko Odžak
-    - area: 5281248.8462 km^2 s
-      coef: 1.776277
-      frac: 0.240188
+    - area: 5233246.1057 km^2 s
+      coef: 1.76013192
+      frac: 0.24402198
   - - - '63'
       - Marketa Tomaskova
-    - area: 5382761.2581 km^2 s
-      coef: 1.81041933
-      frac: 0.21533357
+    - area: 5335656.4576 km^2 s
+      coef: 1.79457627
+      frac: 0.21879164
   - - - '21'
       - Damir Kalinger
-    - area: 5472742.2792 km^2 s
-      coef: 1.84068324
-      frac: 0.19362732
+    - area: 5424092.8555 km^2 s
+      coef: 1.82432066
+      frac: 0.19732764
   - - - '40'
       - Ivica Huljek
-    - area: 5500294.9008 km^2 s
-      coef: 1.84995019
-      frac: 0.18703913
+    - area: 5452637.8022 km^2 s
+      coef: 1.83392137
+      frac: 0.19046081
   - - - '73'
       - Mitja Jug
-    - area: 5625673.6145 km^2 s
-      coef: 1.89211964
-      frac: 0.157389
+    - area: 5577354.6647 km^2 s
+      coef: 1.87586821
+      frac: 0.16079257
 - - - - '26'
       - Dušan Durkovič
-    - area: 987265.6117 km^2 s
-      coef: 0.8390545
+    - area: 970649.7473 km^2 s
+      coef: 0.82493306
       frac: 1
   - - - '16'
       - Bruno Matos
-    - area: 995859.7454 km^2 s
-      coef: 0.84635846
-      frac: 0.96008751
+    - area: 978020.5929 km^2 s
+      coef: 0.83119737
+      frac: 0.96376657
   - - - '98'
       - Tomas Svoboda
-    - area: 1005399.7653 km^2 s
-      coef: 0.85446631
-      frac: 0.93433929
+    - area: 987630.3473 km^2 s
+      coef: 0.83936449
+      frac: 0.93679765
   - - - '41'
       - Ivo Duarte
-    - area: 1257763.5398 km^2 s
-      coef: 1.06894452
-      frac: 0.60212192
+    - area: 1236002.3516 km^2 s
+      coef: 1.05045018
+      frac: 0.60495481
   - - - '4'
       - Alojz Tovornik
-    - area: 1273506.9709 km^2 s
-      coef: 1.0823245
-      frac: 0.58682981
+    - area: 1249749.6916 km^2 s
+      coef: 1.06213373
+      frac: 0.59142571
   - - - '114'
       - Joan Brito
-    - area: 1287597.2568 km^2 s
-      coef: 1.09429951
-      frac: 0.57337977
+    - area: 1265289.2011 km^2 s
+      coef: 1.07534041
+      frac: 0.57639754
   - - - '37'
       - Igor Eržen
-    - area: 1354553.1575 km^2 s
-      coef: 1.15120381
-      frac: 0.51212168
+    - area: 1331378.7961 km^2 s
+      coef: 1.13150844
+      frac: 0.5152119
   - - - '54'
       - Krešo  Kovačič
-    - area: 1362279.5084 km^2 s
-      coef: 1.15777025
-      frac: 0.50530336
+    - area: 1337216.3134 km^2 s
+      coef: 1.13646962
+      frac: 0.50999583
   - - - '73'
       - Mitja Jug
-    - area: 1467679.4589 km^2 s
-      coef: 1.24734727
-      frac: 0.41648629
+    - area: 1441553.0141 km^2 s
+      coef: 1.225143
+      frac: 0.42094608
   - - - '101'
       - Tomaž Toplak
-    - area: 1523326.9337 km^2 s
-      coef: 1.29464078
-      frac: 0.37225437
+    - area: 1492016.5419 km^2 s
+      coef: 1.2680308
+      frac: 0.38028294
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - area: 1529778.1393 km^2 s
-      coef: 1.30012352
-      frac: 0.36722803
+    - area: 1500538.9615 km^2 s
+      coef: 1.27527381
+      frac: 0.37354782
   - - - '72'
       - Mitja Jančič
-    - area: 1568312.8426 km^2 s
-      coef: 1.33287328
-      frac: 0.33760811
+    - area: 1538422.9486 km^2 s
+      coef: 1.30747054
+      frac: 0.3440343
   - - - '57'
       - Lara Leban
-    - area: 1672612.3170 km^2 s
-      coef: 1.42151502
-      frac: 0.26054071
+    - area: 1640957.1985 km^2 s
+      coef: 1.39461206
+      frac: 0.26726449
   - - - '9'
       - Antoni Buljan
-    - area: 1702683.4771 km^2 s
-      coef: 1.44707182
-      frac: 0.23906556
+    - area: 1667530.3261 km^2 s
+      coef: 1.41719596
+      frac: 0.24802492
   - - - '95'
       - Stojan Kranjc
-    - area: 1792853.2198 km^2 s
-      coef: 1.52370502
-      frac: 0.17640083
+    - area: 1758166.8219 km^2 s
+      coef: 1.49422584
+      frac: 0.18416088
   - - - '63'
       - Marketa Tomaskova
-    - area: 1937913.8485 km^2 s
-      coef: 1.64698874
-      frac: 8.028356e-2
+    - area: 1902617.7389 km^2 s
+      coef: 1.61699138
+      frac: 8.722192e-2
   - - - '23'
       - David Šiljeg
-    - area: 4257112.2537 km^2 s
-      coef: 3.61802252
+    - area: 4161987.4226 km^2 s
+      coef: 3.5371781
       frac: 0
   - - - '46'
       - Jerko Odžak
-    - area: 4682064.3739 km^2 s
-      coef: 3.97917962
+    - area: 4573792.4053 km^2 s
+      coef: 3.88716175
       frac: 0
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - area: 6002420.3633 km^2 s
-      coef: 5.10132004
+    - area: 5864342.1265 km^2 s
+      coef: 4.98397049
       frac: 0

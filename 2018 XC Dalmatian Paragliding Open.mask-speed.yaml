@@ -1,11 +1,11 @@
 ssBestTime:
 - null
 - null
-- 1.058401 h
+- 1.057838 h
 gsBestTime:
 - null
 - null
-- 1.078012 h
+- 1.077938 h
 taskDistance:
 - 29.661382 km
 - 41.166516 km
@@ -19,103 +19,103 @@ ssSpeed:
 - []
 - - - - '16'
       - Bruno Matos
-    - time: 1.058401 h
+    - time: 1.057838 h
       frac: 1
   - - - '98'
       - Tomas Svoboda
-    - time: 1.091730 h
-      frac: 0.89837581
+    - time: 1.090909 h
+      frac: 0.89888267
   - - - '101'
       - Tomaž Toplak
-    - time: 1.135691 h
-      frac: 0.82195375
+    - time: 1.135162 h
+      frac: 0.82187106
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - time: 1.272744 h
-      frac: 0.64855613
+    - time: 1.272153 h
+      frac: 0.64852438
   - - - '26'
       - Dušan Durkovič
-    - time: 1.284020 h
-      frac: 0.63633583
+    - time: 1.283444 h
+      frac: 0.63628571
   - - - '9'
       - Antoni Buljan
-    - time: 1.309995 h
-      frac: 0.60893432
+    - time: 1.309476 h
+      frac: 0.6088186
   - - - '4'
       - Alojz Tovornik
-    - time: 1.335353 h
-      frac: 0.58308025
+    - time: 1.334767 h
+      frac: 0.58302955
   - - - '95'
       - Stojan Kranjc
-    - time: 1.493144 h
-      frac: 0.43687485
+    - time: 1.492652 h
+      frac: 0.43671388
   - - - '73'
       - Mitja Jug
-    - time: 1.518949 h
-      frac: 0.41480623
+    - time: 1.518466 h
+      frac: 0.41463447
   - - - '72'
       - Mitja Jančič
-    - time: 1.599761 h
-      frac: 0.34821086
+    - time: 1.599183 h
+      frac: 0.34810738
   - - - '114'
       - Joan Brito
-    - time: 1.619113 h
-      frac: 0.33276909
+    - time: 1.618500 h
+      frac: 0.33268982
   - - - '63'
       - Marketa Tomaskova
-    - time: 2.040991 h
-      frac: 3.016444e-2
+    - time: 2.040042 h
+      frac: 3.024619e-2
 gsSpeed:
 - []
 - []
 - - - - '16'
       - Bruno Matos
-    - time: 1.078012 h
+    - time: 1.077938 h
       frac: 1
   - - - '98'
       - Tomas Svoboda
-    - time: 1.116563 h
-      frac: 0.88870415
+    - time: 1.116483 h
+      frac: 0.88871225
   - - - '26'
       - Dušan Durkovič
-    - time: 1.283754 h
-      frac: 0.66010842
+    - time: 1.283652 h
+      frac: 0.66013091
   - - - '101'
       - Tomaž Toplak
-    - time: 1.398228 h
-      frac: 0.54352083
+    - time: 1.398011 h
+      frac: 0.54364566
   - - - '4'
       - Alojz Tovornik
-    - time: 1.408124 h
-      frac: 0.53416441
+    - time: 1.407994 h
+      frac: 0.53420573
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - time: 1.455004 h
-      frac: 0.49104405
+    - time: 1.454904 h
+      frac: 0.49105541
   - - - '73'
       - Mitja Jug
-    - time: 1.571460 h
-      frac: 0.39099708
+    - time: 1.571367 h
+      frac: 0.39099748
   - - - '9'
       - Antoni Buljan
-    - time: 1.579419 h
-      frac: 0.38446549
+    - time: 1.579279 h
+      frac: 0.38450531
   - - - '72'
       - Mitja Jančič
-    - time: 1.623878 h
-      frac: 0.34859797
+    - time: 1.623738 h
+      frac: 0.34863432
   - - - '114'
       - Joan Brito
-    - time: 1.632243 h
-      frac: 0.34195975
+    - time: 1.632090 h
+      frac: 0.34200619
   - - - '95'
       - Stojan Kranjc
-    - time: 1.763392 h
-      frac: 0.2418657
+    - time: 1.763317 h
+      frac: 0.24184839
   - - - '63'
       - Marketa Tomaskova
-    - time: 2.064709 h
-      frac: 3.339748e-2
+    - time: 2.064432 h
+      frac: 3.350756e-2
 altStopped:
 - - - - '4'
       - Alojz Tovornik

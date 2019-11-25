@@ -1,116 +1,116 @@
 bolster:
-- max: 13.643382 km
-  mean: 4.969294 km
-  stdDev: 3.731932 km
-- max: 22.709516 km
-  mean: 13.488059 km
-  stdDev: 7.939539 km
+- max: 13.665382 km
+  mean: 4.990563 km
+  stdDev: 3.737018 km
+- max: 22.725516 km
+  mean: 13.565450 km
+  stdDev: 7.883810 km
 - max: 26.187198 km
-  mean: 20.419370 km
-  stdDev: 9.428695 km
+  mean: 20.451798 km
+  stdDev: 9.376208 km
 reach:
-- max: 13.643382 km
-  mean: 4.820069 km
-  stdDev: 3.900910 km
-- max: 22.709516 km
-  mean: 13.444581 km
-  stdDev: 8.010230 km
+- max: 13.665382 km
+  mean: 4.844992 km
+  stdDev: 3.902734 km
+- max: 22.725516 km
+  mean: 13.521972 km
+  stdDev: 7.955419 km
 - max: 26.187198 km
-  mean: 20.320379 km
-  stdDev: 9.635258 km
+  mean: 20.366093 km
+  stdDev: 9.556058 km
 reachRank:
 - - - - '98'
       - Tomas Svoboda
     - frac: 1
-      reach: 13.643382 km
+      reach: 13.665382 km
   - - - '101'
       - Tomaž Toplak
-    - frac: 0.91908165
-      reach: 12.539382 km
+    - frac: 0.91935827
+      reach: 12.563382 km
   - - - '16'
       - Bruno Matos
-    - frac: 0.8129496
-      reach: 11.091382 km
+    - frac: 0.81339709
+      reach: 11.115382 km
   - - - '57'
       - Lara Leban
-    - frac: 0.66694475
-      reach: 9.099382 km
+    - frac: 0.66762729
+      reach: 9.123382 km
   - - - '72'
       - Mitja Jančič
-    - frac: 0.66086121
-      reach: 9.016382 km
+    - frac: 0.66162673
+      reach: 9.041382 km
   - - - '114'
       - Joan Brito
-    - frac: 0.60200484
-      reach: 8.213382 km
+    - frac: 0.60286511
+      reach: 8.238382 km
   - - - '41'
       - Ivo Duarte
-    - frac: 0.60156507
-      reach: 8.207382 km
+    - frac: 0.60271875
+      reach: 8.236382 km
   - - - '26'
       - Dušan Durkovič
-    - frac: 0.49792507
-      reach: 6.793382 km
+    - frac: 0.49909926
+      reach: 6.820382 km
   - - - '86'
       - Sandi Krč
-    - frac: 0.49631257
-      reach: 6.771382 km
+    - frac: 0.4976357
+      reach: 6.800382 km
   - - - '4'
       - Alojz Tovornik
-    - frac: 0.40461976
-      reach: 5.520382 km
+    - frac: 0.40601734
+      reach: 5.548382 km
   - - - '13'
       - Balazs Szatmari
-    - frac: 0.35133386
-      reach: 4.793382 km
+    - frac: 0.35289039
+      reach: 4.822382 km
   - - - '37'
       - Igor Eržen
-    - frac: 0.30640365
-      reach: 4.180382 km
+    - frac: 0.30803252
+      reach: 4.209382 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - frac: 0.25700241
-      reach: 3.506382 km
+    - frac: 0.25871081
+      reach: 3.535382 km
   - - - '21'
       - Damir Kalinger
-    - frac: 0.25231149
-      reach: 3.442382 km
+    - frac: 0.25395426
+      reach: 3.470382 km
   - - - '9'
       - Antoni Buljan
-    - frac: 0.24439556
-      reach: 3.334382 km
+    - frac: 0.24627061
+      reach: 3.365382 km
   - - - '73'
       - Mitja Jug
-    - frac: 0.22409268
-      reach: 3.057382 km
+    - frac: 0.22578088
+      reach: 3.085382 km
   - - - '54'
       - Krešo  Kovačič
-    - frac: 0.21280515
-      reach: 2.903382 km
+    - frac: 0.21458471
+      reach: 2.932382 km
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - frac: 0.19404148
-      reach: 2.647382 km
+    - frac: 0.19599759
+      reach: 2.678382 km
   - - - '46'
       - Jerko Odžak
-    - frac: 0.16538289
-      reach: 2.256382 km
+    - frac: 0.16738515
+      reach: 2.287382 km
   - - - '23'
       - David Šiljeg
-    - frac: 0.16010561
-      reach: 2.184382 km
+    - frac: 0.16211636
+      reach: 2.215382 km
   - - - '40'
       - Ivica Huljek
-    - frac: 6.489461e-2
-      reach: 0.885382 km
+    - frac: 6.713182e-2
+      reach: 0.917382 km
   - - - '102'
       - Tomislav Gomerčić
-    - frac: 4.950254e-2
-      reach: 0.675382 km
+    - frac: 5.176452e-2
+      reach: 0.707382 km
   - - - '63'
       - Marketa Tomaskova
-    - frac: 4.100024e-2
-      reach: 0.559382 km
+    - frac: 4.320274e-2
+      reach: 0.590382 km
   - - - '82'
       - Richard Edlinger
     - frac: 0
@@ -126,91 +126,91 @@ reachRank:
 - - - - '98'
       - Tomas Svoboda
     - frac: 1
-      reach: 22.709516 km
+      reach: 22.725516 km
   - - - '101'
       - Tomaž Toplak
-    - frac: 0.99260222
-      reach: 22.541516 km
+    - frac: 0.99265143
+      reach: 22.558516 km
   - - - '72'
       - Mitja Jančič
-    - frac: 0.9919417
-      reach: 22.526516 km
+    - frac: 0.99190337
+      reach: 22.541516 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - frac: 0.98529251
-      reach: 22.375516 km
+    - frac: 0.98530286
+      reach: 22.391516 km
   - - - '26'
       - Dušan Durkovič
-    - frac: 0.98467603
-      reach: 22.361516 km
+    - frac: 0.98468682
+      reach: 22.377516 km
   - - - '54'
       - Krešo  Kovačič
-    - frac: 0.9617341
-      reach: 21.840516 km
+    - frac: 0.96176104
+      reach: 21.856516 km
   - - - '41'
       - Ivo Duarte
-    - frac: 0.90360869
-      reach: 20.520516 km
+    - frac: 0.90372056
+      reach: 20.537516 km
   - - - '16'
       - Bruno Matos
-    - frac: 0.87027465
-      reach: 19.763516 km
+    - frac: 0.87040998
+      reach: 19.780516 km
   - - - '95'
       - Stojan Kranjc
-    - frac: 0.86468228
-      reach: 19.636516 km
+    - frac: 0.86486555
+      reach: 19.654516 km
   - - - '114'
       - Joan Brito
-    - frac: 0.84438242
-      reach: 19.175516 km
+    - frac: 0.84453598
+      reach: 19.192516 km
   - - - '37'
       - Igor Eržen
-    - frac: 0.75393575
-      reach: 17.121516 km
+    - frac: 0.754197
+      reach: 17.139516 km
   - - - '57'
       - Lara Leban
-    - frac: 0.73632199
-      reach: 16.721516 km
+    - frac: 0.73659564
+      reach: 16.739516 km
   - - - '86'
       - Sandi Krč
-    - frac: 0.52729067
-      reach: 11.974516 km
+    - frac: 0.53365195
+      reach: 12.127516 km
   - - - '4'
       - Alojz Tovornik
-    - frac: 0.43164795
-      reach: 9.802516 km
+    - frac: 0.43807657
+      reach: 9.955516 km
   - - - '13'
       - Balazs Szatmari
-    - frac: 0.40408241
-      reach: 9.176516 km
+    - frac: 0.41061844
+      reach: 9.331516 km
   - - - '113'
       - Zsolt Sandor
-    - frac: 0.30606183
-      reach: 6.950516 km
+    - frac: 0.31271088
+      reach: 7.106516 km
   - - - '46'
       - Jerko Odžak
-    - frac: 0.29544954
-      reach: 6.709516 km
+    - frac: 0.30228207
+      reach: 6.869516 km
   - - - '63'
       - Marketa Tomaskova
-    - frac: 0.24921341
-      reach: 5.659516 km
+    - frac: 0.2560785
+      reach: 5.819516 km
   - - - '73'
       - Mitja Jug
-    - frac: 0.19148431
-      reach: 4.348516 km
+    - frac: 0.19839004
+      reach: 4.508516 km
   - - - '21'
       - Damir Kalinger
-    - frac: 0.13322679
-      reach: 3.025516 km
+    - frac: 0.14012954
+      reach: 3.184516 km
   - - - '9'
       - Antoni Buljan
-    - frac: 0.10663001
-      reach: 2.421516 km
+    - frac: 0.11372749
+      reach: 2.584516 km
   - - - '40'
       - Ivica Huljek
-    - frac: 8.201478e-2
-      reach: 1.862516 km
+    - frac: 8.899758e-2
+      reach: 2.022516 km
   - - - '91'
       - Slava Jelić
     - frac: 0
@@ -265,250 +265,268 @@ reachRank:
       reach: 26.187198 km
   - - - '54'
       - Krešo  Kovačič
-    - frac: 0.9387487
-      reach: 24.583198 km
+    - frac: 0.93886326
+      reach: 24.586198 km
   - - - '37'
       - Igor Eržen
-    - frac: 0.87386967
-      reach: 22.884198 km
+    - frac: 0.87398423
+      reach: 22.887198 km
   - - - '57'
       - Lara Leban
-    - frac: 0.86871448
-      reach: 22.749198 km
+    - frac: 0.86882904
+      reach: 22.752198 km
   - - - '41'
       - Ivo Duarte
-    - frac: 0.8430149
-      reach: 22.076198 km
+    - frac: 0.84312946
+      reach: 22.079198 km
   - - - '23'
       - David Šiljeg
-    - frac: 0.60095005
-      reach: 15.737198 km
+    - frac: 0.60572338
+      reach: 15.862198 km
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - frac: 0.11082507
-      reach: 2.902198 km
+    - frac: 0.12105908
+      reach: 3.170198 km
   - - - '46'
       - Jerko Odžak
-    - frac: 6.217534e-2
-      reach: 1.628198 km
+    - frac: 7.271484e-2
+      reach: 1.904198 km
+  - - - '40'
+      - Ivica Huljek
+    - frac: 7.64488e-3
+      reach: 0.200198 km
   - - - '91'
       - Slava Jelić
     - frac: 0
       reach: 0.000000 km
-  - - - '40'
-      - Ivica Huljek
-    - frac: -3.00918e-3
-      reach: -0.078802 km
 nigh:
 - - - - '98'
       - Tomas Svoboda
     - togo:
-        distance: 16.018000 km
+        distance: 15.996000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 13.643382 km
+      made: 13.665382 km
   - - - '101'
       - Tomaž Toplak
     - togo:
-        distance: 17.122000 km
+        distance: 17.098000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 12.539382 km
+      made: 12.563382 km
   - - - '57'
       - Lara Leban
     - togo:
-        distance: 20.562000 km
+        distance: 20.538000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 9.099382 km
+      made: 9.123382 km
   - - - '16'
       - Bruno Matos
     - togo:
-        distance: 18.570000 km
+        distance: 18.546000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 11.091382 km
+      made: 11.115382 km
   - - - '72'
       - Mitja Jančič
     - togo:
-        distance: 20.645000 km
+        distance: 20.620000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 9.016382 km
+      made: 9.041382 km
   - - - '114'
       - Joan Brito
     - togo:
-        distance: 21.448000 km
+        distance: 21.423000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 8.213382 km
+      made: 8.238382 km
   - - - '13'
       - Balazs Szatmari
     - togo:
-        distance: 24.868000 km
+        distance: 24.839000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 4.793382 km
+      made: 4.822382 km
   - - - '41'
       - Ivo Duarte
     - togo:
-        distance: 21.454000 km
+        distance: 21.425000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 8.207382 km
+      made: 8.236382 km
   - - - '26'
       - Dušan Durkovič
     - togo:
-        distance: 22.868000 km
+        distance: 22.841000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 6.793382 km
+      made: 6.820382 km
   - - - '4'
       - Alojz Tovornik
     - togo:
-        distance: 24.141000 km
+        distance: 24.113000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 5.520382 km
+      made: 5.548382 km
   - - - '86'
       - Sandi Krč
     - togo:
-        distance: 22.890000 km
+        distance: 22.861000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 6.771382 km
+      made: 6.800382 km
   - - - '37'
       - Igor Eržen
     - togo:
-        distance: 25.481000 km
+        distance: 25.452000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 4.180382 km
+      made: 4.209382 km
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - togo:
-        distance: 26.155000 km
+        distance: 26.126000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 3.506382 km
+      made: 3.535382 km
   - - - '54'
       - Krešo  Kovačič
     - togo:
-        distance: 26.758000 km
+        distance: 26.729000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 2.903382 km
+      made: 2.932382 km
   - - - '21'
       - Damir Kalinger
     - togo:
-        distance: 26.219000 km
+        distance: 26.191000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 3.442382 km
+      made: 3.470382 km
   - - - '73'
       - Mitja Jug
     - togo:
-        distance: 26.604000 km
+        distance: 26.576000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 3.057382 km
+      made: 3.085382 km
   - - - '9'
       - Antoni Buljan
     - togo:
-        distance: 26.327000 km
+        distance: 26.296000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 3.334382 km
+      made: 3.365382 km
   - - - '40'
       - Ivica Huljek
     - togo:
-        distance: 28.776000 km
+        distance: 28.744000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 0.885382 km
+      made: 0.917382 km
   - - - '46'
       - Jerko Odžak
     - togo:
-        distance: 27.405000 km
+        distance: 27.374000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 2.256382 km
+      made: 2.287382 km
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - togo:
-        distance: 27.014000 km
+        distance: 26.983000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 2.647382 km
+      made: 2.678382 km
   - - - '63'
       - Marketa Tomaskova
     - togo:
-        distance: 29.102000 km
+        distance: 29.071000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 0.559382 km
+      made: 0.590382 km
   - - - '23'
       - David Šiljeg
     - togo:
-        distance: 27.477000 km
+        distance: 27.446000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 2.184382 km
+      made: 2.215382 km
   - - - '102'
       - Tomislav Gomerčić
     - togo:
-        distance: 28.986000 km
+        distance: 28.954000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 0.675382 km
+      made: 0.707382 km
 - - - - '101'
       - Tomaž Toplak
+    - togo:
+        distance: 18.608000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 22.558516 km
+  - - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - togo:
+        distance: 18.775000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 22.391516 km
+  - - - '72'
+      - Mitja Jančič
     - togo:
         distance: 18.625000 km
         flipSum: []
@@ -516,264 +534,246 @@ nigh:
         legsSum: []
         waypoints: []
       made: 22.541516 km
-  - - - '74'
-      - Nuno Filipe da Fonseca Bastos Gomes
-    - togo:
-        distance: 18.791000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 22.375516 km
-  - - - '72'
-      - Mitja Jančič
-    - togo:
-        distance: 18.640000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 22.526516 km
   - - - '26'
       - Dušan Durkovič
     - togo:
-        distance: 18.805000 km
+        distance: 18.789000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 22.361516 km
+      made: 22.377516 km
   - - - '98'
       - Tomas Svoboda
     - togo:
-        distance: 18.457000 km
+        distance: 18.441000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 22.709516 km
+      made: 22.725516 km
   - - - '54'
       - Krešo  Kovačič
     - togo:
-        distance: 19.326000 km
+        distance: 19.310000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 21.840516 km
+      made: 21.856516 km
   - - - '41'
       - Ivo Duarte
     - togo:
-        distance: 20.646000 km
+        distance: 20.629000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 20.520516 km
+      made: 20.537516 km
   - - - '95'
       - Stojan Kranjc
     - togo:
-        distance: 21.530000 km
+        distance: 21.512000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 19.636516 km
+      made: 19.654516 km
   - - - '16'
       - Bruno Matos
     - togo:
-        distance: 21.403000 km
+        distance: 21.386000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 19.763516 km
+      made: 19.780516 km
   - - - '114'
       - Joan Brito
     - togo:
-        distance: 21.991000 km
+        distance: 21.974000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 19.175516 km
+      made: 19.192516 km
   - - - '37'
       - Igor Eržen
     - togo:
-        distance: 24.045000 km
+        distance: 24.027000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 17.121516 km
+      made: 17.139516 km
   - - - '57'
       - Lara Leban
     - togo:
-        distance: 24.445000 km
+        distance: 24.427000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 16.721516 km
+      made: 16.739516 km
   - - - '86'
       - Sandi Krč
     - togo:
-        distance: 29.192000 km
+        distance: 29.039000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 11.974516 km
+      made: 12.127516 km
   - - - '4'
       - Alojz Tovornik
     - togo:
-        distance: 31.364000 km
+        distance: 31.211000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 9.802516 km
+      made: 9.955516 km
   - - - '113'
       - Zsolt Sandor
     - togo:
-        distance: 34.216000 km
+        distance: 34.060000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 6.950516 km
+      made: 7.106516 km
   - - - '13'
       - Balazs Szatmari
     - togo:
-        distance: 31.990000 km
+        distance: 31.835000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 9.176516 km
+      made: 9.331516 km
   - - - '63'
       - Marketa Tomaskova
     - togo:
-        distance: 35.507000 km
+        distance: 35.347000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 5.659516 km
+      made: 5.819516 km
   - - - '46'
       - Jerko Odžak
     - togo:
-        distance: 34.457000 km
+        distance: 34.297000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 6.709516 km
+      made: 6.869516 km
   - - - '73'
       - Mitja Jug
     - togo:
-        distance: 36.818000 km
+        distance: 36.658000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 4.348516 km
+      made: 4.508516 km
   - - - '21'
       - Damir Kalinger
     - togo:
-        distance: 38.141000 km
+        distance: 37.982000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 3.025516 km
+      made: 3.184516 km
   - - - '40'
       - Ivica Huljek
     - togo:
-        distance: 39.304000 km
+        distance: 39.144000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 1.862516 km
+      made: 2.022516 km
   - - - '9'
       - Antoni Buljan
     - togo:
-        distance: 38.745000 km
+        distance: 38.582000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 2.421516 km
+      made: 2.584516 km
 - - - - '54'
       - Krešo  Kovačič
     - togo:
-        distance: 1.604000 km
+        distance: 1.601000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 24.583198 km
+      made: 24.586198 km
   - - - '37'
       - Igor Eržen
     - togo:
-        distance: 3.303000 km
+        distance: 3.300000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 22.884198 km
+      made: 22.887198 km
   - - - '57'
       - Lara Leban
     - togo:
-        distance: 3.438000 km
+        distance: 3.435000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 22.749198 km
+      made: 22.752198 km
   - - - '41'
       - Ivo Duarte
     - togo:
-        distance: 4.111000 km
+        distance: 4.108000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 22.076198 km
+      made: 22.079198 km
   - - - '23'
       - David Šiljeg
     - togo:
-        distance: 10.450000 km
+        distance: 10.325000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 15.737198 km
+      made: 15.862198 km
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - togo:
-        distance: 23.285000 km
+        distance: 23.017000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 2.902198 km
+      made: 3.170198 km
   - - - '40'
       - Ivica Huljek
     - togo:
-        distance: 26.266000 km
+        distance: 25.987000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: -0.078802 km
+      made: 0.200198 km
   - - - '46'
       - Jerko Odžak
     - togo:
-        distance: 24.559000 km
+        distance: 24.283000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 1.628198 km
+      made: 1.904198 km
