@@ -4,6 +4,7 @@ COMP="--file=2018 XC Dalmatian Paragliding Open"
 
 fs-filter "$COMP"
 fs-route "$COMP"
+fs-arrival "$COMP"
 fs-effort "$COMP"
 fs-score "$COMP"
 
