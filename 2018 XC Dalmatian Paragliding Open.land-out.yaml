@@ -102,12 +102,12 @@ difficulty:
     - 1.000 km
     - 1.000 km
     downers:
-    - - '113'
-      - Zsolt Sandor
-    - - '88'
-      - Sandor Roza
     - - '82'
       - Richard Edlinger
+    - - '88'
+      - Sandor Roza
+    - - '113'
+      - Zsolt Sandor
     downward: 9
     rel: 8.57143e-3
     frac: 0.12095238
