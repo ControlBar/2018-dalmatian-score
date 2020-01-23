@@ -2434,142 +2434,6 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
-        - null
-        - null
-        - crossingPair:
-          - fix: 1005
-            time: 2018-05-24T10:36:15Z
-            lat: 43.83443333
-            lng: 16.62485
-            alt: 1071
-          - fix: 1006
-            time: 2018-05-24T10:36:16Z
-            lat: 43.83443333
-            lng: 16.62473333
-            alt: 1073
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1088
-            time: 2018-05-24T10:37:38Z
-            lat: 43.83518333
-            lng: 16.62438333
-            alt: 1156
-          - fix: 1089
-            time: 2018-05-24T10:37:39Z
-            lat: 43.8353
-            lng: 16.62445
-            alt: 1157
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1092
-            time: 2018-05-24T10:37:42Z
-            lat: 43.83558333
-            lng: 16.62428333
-            alt: 1161
-          - fix: 1093
-            time: 2018-05-24T10:37:43Z
-            lat: 43.8356
-            lng: 16.62416667
-            alt: 1162
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1102
-            time: 2018-05-24T10:37:52Z
-            lat: 43.83521667
-            lng: 16.62433333
-            alt: 1168
-          - fix: 1103
-            time: 2018-05-24T10:37:53Z
-            lat: 43.8353
-            lng: 16.62443333
-            alt: 1169
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1110
-            time: 2018-05-24T10:38:00Z
-            lat: 43.83578333
-            lng: 16.62415
-            alt: 1173
-          - fix: 1111
-            time: 2018-05-24T10:38:01Z
-            lat: 43.83576667
-            lng: 16.62405
-            alt: 1173
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1308
-            time: 2018-05-24T10:41:18Z
-            lat: 43.82588333
-            lng: 16.63206667
-            alt: 919
-          - fix: 1309
-            time: 2018-05-24T10:41:19Z
-            lat: 43.82591667
-            lng: 16.63221667
-            alt: 918
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1945
-            time: 2018-05-24T10:51:55Z
-            lat: 43.81708333
-            lng: 16.65831667
-            alt: 945
-          - fix: 1946
-            time: 2018-05-24T10:51:56Z
-            lat: 43.817
-            lng: 16.65836667
-            alt: 944
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 1209
-            time: 2018-05-24T10:39:39Z
-            lat: 43.82615
-            lng: 16.61873333
-            alt: 1041
-          - fix: 1210
-            time: 2018-05-24T10:39:40Z
-            lat: 43.82605
-            lng: 16.6187
-            alt: 1040
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1226
-            time: 2018-05-24T10:39:56Z
-            lat: 43.8253
-            lng: 16.61998333
-            alt: 1007
-          - fix: 1227
-            time: 2018-05-24T10:39:57Z
-            lat: 43.8253
-            lng: 16.62016667
-            alt: 1005
-          inZone:
-          - true
-          - false
-      - []
-      - []
-      - []
-      - []
-      - []
-      zonesCrossExcluded:
       - - crossingPair:
           - fix: 244
             time: 2018-05-24T10:23:34Z
@@ -2724,6 +2588,40 @@ crossing:
           inZone:
           - true
           - false
+      - - crossingPair:
+          - fix: 1209
+            time: 2018-05-24T10:39:39Z
+            lat: 43.82615
+            lng: 16.61873333
+            alt: 1041
+          - fix: 1210
+            time: 2018-05-24T10:39:40Z
+            lat: 43.82605
+            lng: 16.6187
+            alt: 1040
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1226
+            time: 2018-05-24T10:39:56Z
+            lat: 43.8253
+            lng: 16.61998333
+            alt: 1007
+          - fix: 1227
+            time: 2018-05-24T10:39:57Z
+            lat: 43.8253
+            lng: 16.62016667
+            alt: 1005
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      - []
+      - []
+      - []
+      zonesCrossExcluded: []
   - - - '37'
       - Igor Eržen
     - zonesCrossSelected:
@@ -4618,12 +4516,90 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
-        - null
-        - null
-        - null
-        - null
+      - - crossingPair:
+          - fix: 1334
+            time: 2018-05-24T10:25:40Z
+            lat: 43.8301
+            lng: 16.62781667
+            alt: 833
+          - fix: 1335
+            time: 2018-05-24T10:25:41Z
+            lat: 43.83008333
+            lng: 16.6277
+            alt: 832
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1471
+            time: 2018-05-24T10:27:57Z
+            lat: 43.8313
+            lng: 16.62666667
+            alt: 951
+          - fix: 1472
+            time: 2018-05-24T10:27:58Z
+            lat: 43.83131667
+            lng: 16.6268
+            alt: 953
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1477
+            time: 2018-05-24T10:28:03Z
+            lat: 43.83106667
+            lng: 16.62703333
+            alt: 960
+          - fix: 1478
+            time: 2018-05-24T10:28:04Z
+            lat: 43.83101667
+            lng: 16.62693333
+            alt: 960
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1485
+            time: 2018-05-24T10:28:11Z
+            lat: 43.83148333
+            lng: 16.62653333
+            alt: 965
+          - fix: 1486
+            time: 2018-05-24T10:28:12Z
+            lat: 43.83153333
+            lng: 16.62665
+            alt: 966
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1496
+            time: 2018-05-24T10:28:22Z
+            lat: 43.83118333
+            lng: 16.62695
+            alt: 971
+          - fix: 1497
+            time: 2018-05-24T10:28:23Z
+            lat: 43.83123333
+            lng: 16.6268
+            alt: 972
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1499
+            time: 2018-05-24T10:28:25Z
+            lat: 43.83143333
+            lng: 16.62665
+            alt: 973
+          - fix: 1500
+            time: 2018-05-24T10:28:26Z
+            lat: 43.83155
+            lng: 16.62666667
+            alt: 974
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 1883
             time: 2018-05-24T10:34:49Z
@@ -4950,133 +4926,7 @@ crossing:
       - []
       - []
       - []
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 1334
-            time: 2018-05-24T10:25:40Z
-            lat: 43.8301
-            lng: 16.62781667
-            alt: 833
-          - fix: 1335
-            time: 2018-05-24T10:25:41Z
-            lat: 43.83008333
-            lng: 16.6277
-            alt: 832
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1471
-            time: 2018-05-24T10:27:57Z
-            lat: 43.8313
-            lng: 16.62666667
-            alt: 951
-          - fix: 1472
-            time: 2018-05-24T10:27:58Z
-            lat: 43.83131667
-            lng: 16.6268
-            alt: 953
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1477
-            time: 2018-05-24T10:28:03Z
-            lat: 43.83106667
-            lng: 16.62703333
-            alt: 960
-          - fix: 1478
-            time: 2018-05-24T10:28:04Z
-            lat: 43.83101667
-            lng: 16.62693333
-            alt: 960
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1485
-            time: 2018-05-24T10:28:11Z
-            lat: 43.83148333
-            lng: 16.62653333
-            alt: 965
-          - fix: 1486
-            time: 2018-05-24T10:28:12Z
-            lat: 43.83153333
-            lng: 16.62665
-            alt: 966
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1496
-            time: 2018-05-24T10:28:22Z
-            lat: 43.83118333
-            lng: 16.62695
-            alt: 971
-          - fix: 1497
-            time: 2018-05-24T10:28:23Z
-            lat: 43.83123333
-            lng: 16.6268
-            alt: 972
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1499
-            time: 2018-05-24T10:28:25Z
-            lat: 43.83143333
-            lng: 16.62665
-            alt: 973
-          - fix: 1500
-            time: 2018-05-24T10:28:26Z
-            lat: 43.83155
-            lng: 16.62666667
-            alt: 974
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1883
-            time: 2018-05-24T10:34:49Z
-            lat: 43.83101667
-            lng: 16.62701667
-            alt: 1223
-          - fix: 1884
-            time: 2018-05-24T10:34:50Z
-            lat: 43.8309
-            lng: 16.62698333
-            alt: 1222
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2048
-            time: 2018-05-24T10:37:34Z
-            lat: 43.83073333
-            lng: 16.6272
-            alt: 969
-          - fix: 2049
-            time: 2018-05-24T10:37:35Z
-            lat: 43.83081667
-            lng: 16.62728333
-            alt: 968
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2898
-            time: 2018-05-24T10:51:44Z
-            lat: 43.81703333
-            lng: 16.65818333
-            alt: 1001
-          - fix: 2899
-            time: 2018-05-24T10:51:45Z
-            lat: 43.81695
-            lng: 16.65821667
-            alt: 1002
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '73'
       - Mitja Jug
     - zonesCrossSelected:
@@ -9049,10 +8899,62 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
-        - null
-        - null
+      - - crossingPair:
+          - fix: 266
+            time: 2018-05-26T10:36:33Z
+            lat: 43.82908333
+            lng: 16.62863333
+            alt: 731
+          - fix: 267
+            time: 2018-05-26T10:36:34Z
+            lat: 43.82905
+            lng: 16.62858333
+            alt: 730
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 687
+            time: 2018-05-26T10:43:34Z
+            lat: 43.82871667
+            lng: 16.62891667
+            alt: 717
+          - fix: 688
+            time: 2018-05-26T10:43:35Z
+            lat: 43.82871667
+            lng: 16.62906667
+            alt: 716
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1531
+            time: 2018-05-26T10:57:38Z
+            lat: 43.83593333
+            lng: 16.62411667
+            alt: 1004
+          - fix: 1532
+            time: 2018-05-26T10:57:39Z
+            lat: 43.8359
+            lng: 16.624
+            alt: 1004
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1559
+            time: 2018-05-26T10:58:06Z
+            lat: 43.83668333
+            lng: 16.62371667
+            alt: 980
+          - fix: 1560
+            time: 2018-05-26T10:58:07Z
+            lat: 43.83668333
+            lng: 16.62383333
+            alt: 980
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 2309
             time: 2018-05-26T11:10:36Z
@@ -9305,232 +9207,6 @@ crossing:
           inZone:
           - false
           - true
-      - - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - crossingPair:
-          - fix: 2362
-            time: 2018-05-26T11:11:29Z
-            lat: 43.83081667
-            lng: 16.62265
-            alt: 1615
-          - fix: 2363
-            time: 2018-05-26T11:11:30Z
-            lat: 43.8307
-            lng: 16.62261667
-            alt: 1614
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2484
-            time: 2018-05-26T11:13:31Z
-            lat: 43.81936667
-            lng: 16.62776667
-            alt: 1496
-          - fix: 2485
-            time: 2018-05-26T11:13:32Z
-            lat: 43.8193
-            lng: 16.62791667
-            alt: 1494
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3648
-            time: 2018-05-26T11:32:55Z
-            lat: 43.83156667
-            lng: 16.62001667
-            alt: 879
-          - fix: 3649
-            time: 2018-05-26T11:32:56Z
-            lat: 43.8315
-            lng: 16.62008333
-            alt: 878
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3661
-            time: 2018-05-26T11:33:08Z
-            lat: 43.83121667
-            lng: 16.62128333
-            alt: 880
-          - fix: 3662
-            time: 2018-05-26T11:33:09Z
-            lat: 43.83125
-            lng: 16.6214
-            alt: 878
-          inZone:
-          - true
-          - false
-      - []
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 266
-            time: 2018-05-26T10:36:33Z
-            lat: 43.82908333
-            lng: 16.62863333
-            alt: 731
-          - fix: 267
-            time: 2018-05-26T10:36:34Z
-            lat: 43.82905
-            lng: 16.62858333
-            alt: 730
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 687
-            time: 2018-05-26T10:43:34Z
-            lat: 43.82871667
-            lng: 16.62891667
-            alt: 717
-          - fix: 688
-            time: 2018-05-26T10:43:35Z
-            lat: 43.82871667
-            lng: 16.62906667
-            alt: 716
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1531
-            time: 2018-05-26T10:57:38Z
-            lat: 43.83593333
-            lng: 16.62411667
-            alt: 1004
-          - fix: 1532
-            time: 2018-05-26T10:57:39Z
-            lat: 43.8359
-            lng: 16.624
-            alt: 1004
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1559
-            time: 2018-05-26T10:58:06Z
-            lat: 43.83668333
-            lng: 16.62371667
-            alt: 980
-          - fix: 1560
-            time: 2018-05-26T10:58:07Z
-            lat: 43.83668333
-            lng: 16.62383333
-            alt: 980
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2309
-            time: 2018-05-26T11:10:36Z
-            lat: 43.83758333
-            lng: 16.6235
-            alt: 1708
-          - fix: 2310
-            time: 2018-05-26T11:10:37Z
-            lat: 43.83745
-            lng: 16.62345
-            alt: 1707
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3228
-            time: 2018-05-26T11:25:55Z
-            lat: 43.817
-            lng: 16.65746667
-            alt: 1190
-          - fix: 3229
-            time: 2018-05-26T11:25:56Z
-            lat: 43.81708333
-            lng: 16.65741667
-            alt: 1192
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3588
-            time: 2018-05-26T11:31:55Z
-            lat: 43.8337
-            lng: 16.6252
-            alt: 914
-          - fix: 3589
-            time: 2018-05-26T11:31:56Z
-            lat: 43.83366667
-            lng: 16.62505
-            alt: 911
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4064
-            time: 2018-05-26T11:39:51Z
-            lat: 43.83965
-            lng: 16.6228
-            alt: 1265
-          - fix: 4065
-            time: 2018-05-26T11:39:52Z
-            lat: 43.83966667
-            lng: 16.62291667
-            alt: 1265
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4086
-            time: 2018-05-26T11:40:13Z
-            lat: 43.84145
-            lng: 16.62255
-            alt: 1276
-          - fix: 4087
-            time: 2018-05-26T11:40:14Z
-            lat: 43.84151667
-            lng: 16.62245
-            alt: 1275
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4368
-            time: 2018-05-26T11:44:55Z
-            lat: 43.83638333
-            lng: 16.62381667
-            alt: 1012
-          - fix: 4369
-            time: 2018-05-26T11:44:56Z
-            lat: 43.8363
-            lng: 16.62395
-            alt: 1011
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5249
-            time: 2018-05-26T11:59:36Z
-            lat: 43.81708333
-            lng: 16.65796667
-            alt: 1142
-          - fix: 5250
-            time: 2018-05-26T11:59:37Z
-            lat: 43.81695
-            lng: 16.65796667
-            alt: 1140
-          inZone:
-          - true
-          - false
       - - crossingPair:
           - fix: 315
             time: 2018-05-26T10:37:22Z
@@ -9783,6 +9459,8 @@ crossing:
           inZone:
           - true
           - false
+      - []
+      zonesCrossExcluded: []
   - - - '37'
       - Igor Eržen
     - zonesCrossSelected:
@@ -12991,7 +12669,20 @@ crossing:
           inZone:
           - true
           - false
-      - - null
+      - - crossingPair:
+          - fix: 1246
+            time: 2018-05-26T10:58:15Z
+            lat: 43.82996667
+            lng: 16.62791667
+            alt: 743
+          - fix: 1247
+            time: 2018-05-26T10:58:16Z
+            lat: 43.82995
+            lng: 16.62781667
+            alt: 742
+          inZone:
+          - true
+          - false
         - crossingPair:
           - fix: 1559
             time: 2018-05-26T11:03:28Z
@@ -13373,189 +13064,7 @@ crossing:
           - false
           - true
       - []
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 1246
-            time: 2018-05-26T10:58:15Z
-            lat: 43.82996667
-            lng: 16.62791667
-            alt: 743
-          - fix: 1247
-            time: 2018-05-26T10:58:16Z
-            lat: 43.82995
-            lng: 16.62781667
-            alt: 742
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1559
-            time: 2018-05-26T11:03:28Z
-            lat: 43.8322
-            lng: 16.62611667
-            alt: 872
-          - fix: 1560
-            time: 2018-05-26T11:03:29Z
-            lat: 43.83216667
-            lng: 16.62621667
-            alt: 872
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1562
-            time: 2018-05-26T11:03:31Z
-            lat: 43.832
-            lng: 16.62631667
-            alt: 871
-          - fix: 1563
-            time: 2018-05-26T11:03:32Z
-            lat: 43.83191667
-            lng: 16.62626667
-            alt: 872
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1573
-            time: 2018-05-26T11:03:42Z
-            lat: 43.83235
-            lng: 16.62588333
-            alt: 884
-          - fix: 1574
-            time: 2018-05-26T11:03:43Z
-            lat: 43.83235
-            lng: 16.62603333
-            alt: 885
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1577
-            time: 2018-05-26T11:03:46Z
-            lat: 43.83215
-            lng: 16.6262
-            alt: 888
-          - fix: 1578
-            time: 2018-05-26T11:03:47Z
-            lat: 43.83206667
-            lng: 16.62615
-            alt: 889
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1587
-            time: 2018-05-26T11:03:56Z
-            lat: 43.83251667
-            lng: 16.6258
-            alt: 899
-          - fix: 1588
-            time: 2018-05-26T11:03:57Z
-            lat: 43.83255
-            lng: 16.62593333
-            alt: 900
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1593
-            time: 2018-05-26T11:04:02Z
-            lat: 43.83228333
-            lng: 16.62618333
-            alt: 906
-          - fix: 1594
-            time: 2018-05-26T11:04:03Z
-            lat: 43.83225
-            lng: 16.62606667
-            alt: 907
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1601
-            time: 2018-05-26T11:04:10Z
-            lat: 43.83276667
-            lng: 16.62566667
-            alt: 914
-          - fix: 1602
-            time: 2018-05-26T11:04:11Z
-            lat: 43.83285
-            lng: 16.62573333
-            alt: 914
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1852
-            time: 2018-05-26T11:08:21Z
-            lat: 43.83516667
-            lng: 16.62445
-            alt: 1008
-          - fix: 1853
-            time: 2018-05-26T11:08:22Z
-            lat: 43.83521667
-            lng: 16.62438333
-            alt: 1010
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1855
-            time: 2018-05-26T11:08:24Z
-            lat: 43.83531667
-            lng: 16.62431667
-            alt: 1013
-          - fix: 1856
-            time: 2018-05-26T11:08:25Z
-            lat: 43.83538333
-            lng: 16.62433333
-            alt: 1013
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2082
-            time: 2018-05-26T11:12:11Z
-            lat: 43.83475
-            lng: 16.62466667
-            alt: 1197
-          - fix: 2083
-            time: 2018-05-26T11:12:12Z
-            lat: 43.83466667
-            lng: 16.62463333
-            alt: 1195
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3327
-            time: 2018-05-26T11:32:56Z
-            lat: 43.81703333
-            lng: 16.65746667
-            alt: 792
-          - fix: 3328
-            time: 2018-05-26T11:32:57Z
-            lat: 43.81711667
-            lng: 16.65738333
-            alt: 793
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3890
-            time: 2018-05-26T11:42:19Z
-            lat: 43.83573333
-            lng: 16.6242
-            alt: 907
-          - fix: 3891
-            time: 2018-05-26T11:42:20Z
-            lat: 43.83573333
-            lng: 16.62411667
-            alt: 906
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '63'
       - Marketa Tomaskova
     - zonesCrossSelected:
@@ -14236,8 +13745,34 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
+      - - crossingPair:
+          - fix: 1060
+            time: 2018-05-26T10:46:51Z
+            lat: 43.83106667
+            lng: 16.62696667
+            alt: 1027
+          - fix: 1061
+            time: 2018-05-26T10:46:52Z
+            lat: 43.831
+            lng: 16.62685
+            alt: 1025
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1129
+            time: 2018-05-26T10:48:00Z
+            lat: 43.83001667
+            lng: 16.6277
+            alt: 885
+          - fix: 1130
+            time: 2018-05-26T10:48:01Z
+            lat: 43.83005
+            lng: 16.62786667
+            alt: 882
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 2505
             time: 2018-05-26T11:10:56Z
@@ -14658,276 +14193,6 @@ crossing:
           inZone:
           - false
           - true
-      - - null
-        - null
-        - crossingPair:
-          - fix: 2537
-            time: 2018-05-26T11:11:28Z
-            lat: 43.83053333
-            lng: 16.62311667
-            alt: 1626
-          - fix: 2538
-            time: 2018-05-26T11:11:29Z
-            lat: 43.83041667
-            lng: 16.62305
-            alt: 1624
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2656
-            time: 2018-05-26T11:13:27Z
-            lat: 43.81931667
-            lng: 16.62775
-            alt: 1516
-          - fix: 2657
-            time: 2018-05-26T11:13:28Z
-            lat: 43.81925
-            lng: 16.62788333
-            alt: 1516
-          inZone:
-          - true
-          - false
-      - []
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 1060
-            time: 2018-05-26T10:46:51Z
-            lat: 43.83106667
-            lng: 16.62696667
-            alt: 1027
-          - fix: 1061
-            time: 2018-05-26T10:46:52Z
-            lat: 43.831
-            lng: 16.62685
-            alt: 1025
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1129
-            time: 2018-05-26T10:48:00Z
-            lat: 43.83001667
-            lng: 16.6277
-            alt: 885
-          - fix: 1130
-            time: 2018-05-26T10:48:01Z
-            lat: 43.83005
-            lng: 16.62786667
-            alt: 882
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2505
-            time: 2018-05-26T11:10:56Z
-            lat: 43.83438333
-            lng: 16.62491667
-            alt: 1684
-          - fix: 2506
-            time: 2018-05-26T11:10:57Z
-            lat: 43.83426667
-            lng: 16.62485
-            alt: 1683
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3392
-            time: 2018-05-26T11:25:43Z
-            lat: 43.81693333
-            lng: 16.65775
-            alt: 1181
-          - fix: 3393
-            time: 2018-05-26T11:25:44Z
-            lat: 43.81705
-            lng: 16.65785
-            alt: 1182
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3397
-            time: 2018-05-26T11:25:48Z
-            lat: 43.81703333
-            lng: 16.65846667
-            alt: 1184
-          - fix: 3398
-            time: 2018-05-26T11:25:49Z
-            lat: 43.81696667
-            lng: 16.65851667
-            alt: 1186
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3431
-            time: 2018-05-26T11:26:22Z
-            lat: 43.81693333
-            lng: 16.65876667
-            alt: 1240
-          - fix: 3432
-            time: 2018-05-26T11:26:23Z
-            lat: 43.81701667
-            lng: 16.65886667
-            alt: 1241
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3437
-            time: 2018-05-26T11:26:28Z
-            lat: 43.817
-            lng: 16.65965
-            alt: 1253
-          - fix: 3438
-            time: 2018-05-26T11:26:29Z
-            lat: 43.81695
-            lng: 16.65975
-            alt: 1256
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3450
-            time: 2018-05-26T11:26:41Z
-            lat: 43.81698333
-            lng: 16.6593
-            alt: 1273
-          - fix: 3451
-            time: 2018-05-26T11:26:42Z
-            lat: 43.81706667
-            lng: 16.65936667
-            alt: 1274
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3462
-            time: 2018-05-26T11:26:53Z
-            lat: 43.81701667
-            lng: 16.66073333
-            alt: 1290
-          - fix: 3463
-            time: 2018-05-26T11:26:54Z
-            lat: 43.81693333
-            lng: 16.66073333
-            alt: 1291
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3557
-            time: 2018-05-26T11:28:28Z
-            lat: 43.81695
-            lng: 16.65995
-            alt: 1420
-          - fix: 3558
-            time: 2018-05-26T11:28:29Z
-            lat: 43.81701667
-            lng: 16.65986667
-            alt: 1420
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3861
-            time: 2018-05-26T11:33:32Z
-            lat: 43.83321667
-            lng: 16.62556667
-            alt: 1050
-          - fix: 3862
-            time: 2018-05-26T11:33:33Z
-            lat: 43.83328333
-            lng: 16.6254
-            alt: 1049
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4160
-            time: 2018-05-26T11:38:31Z
-            lat: 43.83971667
-            lng: 16.62273333
-            alt: 1310
-          - fix: 4161
-            time: 2018-05-26T11:38:32Z
-            lat: 43.83973333
-            lng: 16.62286667
-            alt: 1311
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4173
-            time: 2018-05-26T11:38:44Z
-            lat: 43.83916667
-            lng: 16.62303333
-            alt: 1316
-          - fix: 4174
-            time: 2018-05-26T11:38:45Z
-            lat: 43.83913333
-            lng: 16.62293333
-            alt: 1317
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4191
-            time: 2018-05-26T11:39:02Z
-            lat: 43.83966667
-            lng: 16.62275
-            alt: 1317
-          - fix: 4192
-            time: 2018-05-26T11:39:03Z
-            lat: 43.83968333
-            lng: 16.62288333
-            alt: 1317
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4292
-            time: 2018-05-26T11:40:43Z
-            lat: 43.84346667
-            lng: 16.62231667
-            alt: 1370
-          - fix: 4293
-            time: 2018-05-26T11:40:44Z
-            lat: 43.84351667
-            lng: 16.62221667
-            alt: 1370
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4633
-            time: 2018-05-26T11:46:24Z
-            lat: 43.83845
-            lng: 16.6231
-            alt: 1191
-          - fix: 4634
-            time: 2018-05-26T11:46:25Z
-            lat: 43.83836667
-            lng: 16.62325
-            alt: 1189
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5435
-            time: 2018-05-26T11:59:46Z
-            lat: 43.81711667
-            lng: 16.65671667
-            alt: 1222
-          - fix: 5436
-            time: 2018-05-26T11:59:47Z
-            lat: 43.817
-            lng: 16.65671667
-            alt: 1222
-          inZone:
-          - true
-          - false
       - - crossingPair:
           - fix: 1082
             time: 2018-05-26T10:47:13Z
@@ -14984,6 +14249,8 @@ crossing:
           inZone:
           - true
           - false
+      - []
+      zonesCrossExcluded: []
   - - - '73'
       - Mitja Jug
     - zonesCrossSelected:
@@ -16798,8 +16065,34 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
+      - - crossingPair:
+          - fix: 737
+            time: 2018-05-26T10:56:48Z
+            lat: 43.82851667
+            lng: 16.6292
+            alt: 685
+          - fix: 738
+            time: 2018-05-26T10:56:49Z
+            lat: 43.82848333
+            lng: 16.6291
+            alt: 686
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 753
+            time: 2018-05-26T10:57:04Z
+            lat: 43.82776667
+            lng: 16.6299
+            alt: 680
+          - fix: 754
+            time: 2018-05-26T10:57:05Z
+            lat: 43.82775
+            lng: 16.63
+            alt: 680
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 1087
             time: 2018-05-26T11:02:38Z
@@ -17042,161 +16335,7 @@ crossing:
           - true
           - false
       - []
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 737
-            time: 2018-05-26T10:56:48Z
-            lat: 43.82851667
-            lng: 16.6292
-            alt: 685
-          - fix: 738
-            time: 2018-05-26T10:56:49Z
-            lat: 43.82848333
-            lng: 16.6291
-            alt: 686
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 753
-            time: 2018-05-26T10:57:04Z
-            lat: 43.82776667
-            lng: 16.6299
-            alt: 680
-          - fix: 754
-            time: 2018-05-26T10:57:05Z
-            lat: 43.82775
-            lng: 16.63
-            alt: 680
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1087
-            time: 2018-05-26T11:02:38Z
-            lat: 43.82923333
-            lng: 16.62856667
-            alt: 716
-          - fix: 1088
-            time: 2018-05-26T11:02:39Z
-            lat: 43.82923333
-            lng: 16.62845
-            alt: 714
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1236
-            time: 2018-05-26T11:05:07Z
-            lat: 43.83028333
-            lng: 16.62753333
-            alt: 855
-          - fix: 1237
-            time: 2018-05-26T11:05:08Z
-            lat: 43.8303
-            lng: 16.62765
-            alt: 857
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1244
-            time: 2018-05-26T11:05:15Z
-            lat: 43.83001667
-            lng: 16.62786667
-            alt: 874
-          - fix: 1245
-            time: 2018-05-26T11:05:16Z
-            lat: 43.82998333
-            lng: 16.62778333
-            alt: 877
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1255
-            time: 2018-05-26T11:05:26Z
-            lat: 43.83056667
-            lng: 16.62733333
-            alt: 893
-          - fix: 1256
-            time: 2018-05-26T11:05:27Z
-            lat: 43.83063333
-            lng: 16.62743333
-            alt: 894
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1268
-            time: 2018-05-26T11:05:39Z
-            lat: 43.8303
-            lng: 16.62763333
-            alt: 919
-          - fix: 1269
-            time: 2018-05-26T11:05:40Z
-            lat: 43.8303
-            lng: 16.62751667
-            alt: 921
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1273
-            time: 2018-05-26T11:05:44Z
-            lat: 43.83055
-            lng: 16.62726667
-            alt: 926
-          - fix: 1274
-            time: 2018-05-26T11:05:45Z
-            lat: 43.83065
-            lng: 16.62731667
-            alt: 928
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1710
-            time: 2018-05-26T11:13:01Z
-            lat: 43.83175
-            lng: 16.62648333
-            alt: 1361
-          - fix: 1711
-            time: 2018-05-26T11:13:02Z
-            lat: 43.83165
-            lng: 16.62641667
-            alt: 1360
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3591
-            time: 2018-05-26T11:44:22Z
-            lat: 43.8171
-            lng: 16.65533333
-            alt: 745
-          - fix: 3592
-            time: 2018-05-26T11:44:23Z
-            lat: 43.8172
-            lng: 16.65531667
-            alt: 745
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3956
-            time: 2018-05-26T11:50:27Z
-            lat: 43.82728333
-            lng: 16.63048333
-            alt: 658
-          - fix: 3957
-            time: 2018-05-26T11:50:28Z
-            lat: 43.82728333
-            lng: 16.63035
-            alt: 657
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '91'
       - Slava Jelić
     - null
@@ -21680,8 +20819,34 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
+      - - crossingPair:
+          - fix: 1042
+            time: 2018-05-27T10:52:15Z
+            lat: 43.8389
+            lng: 16.62301667
+            alt: 1198
+          - fix: 1043
+            time: 2018-05-27T10:52:16Z
+            lat: 43.83885
+            lng: 16.62298333
+            alt: 1198
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1081
+            time: 2018-05-27T10:52:54Z
+            lat: 43.83766667
+            lng: 16.62338333
+            alt: 1177
+          - fix: 1082
+            time: 2018-05-27T10:52:55Z
+            lat: 43.8377
+            lng: 16.62351667
+            alt: 1174
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 1579
             time: 2018-05-27T11:01:12Z
@@ -21934,105 +21099,7 @@ crossing:
           inZone:
           - false
           - true
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 1042
-            time: 2018-05-27T10:52:15Z
-            lat: 43.8389
-            lng: 16.62301667
-            alt: 1198
-          - fix: 1043
-            time: 2018-05-27T10:52:16Z
-            lat: 43.83885
-            lng: 16.62298333
-            alt: 1198
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1081
-            time: 2018-05-27T10:52:54Z
-            lat: 43.83766667
-            lng: 16.62338333
-            alt: 1177
-          - fix: 1082
-            time: 2018-05-27T10:52:55Z
-            lat: 43.8377
-            lng: 16.62351667
-            alt: 1174
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1579
-            time: 2018-05-27T11:01:12Z
-            lat: 43.83651667
-            lng: 16.62385
-            alt: 1346
-          - fix: 1580
-            time: 2018-05-27T11:01:13Z
-            lat: 43.83641667
-            lng: 16.62378333
-            alt: 1344
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2231
-            time: 2018-05-27T11:12:04Z
-            lat: 43.83506667
-            lng: 16.6244
-            alt: 1148
-          - fix: 2232
-            time: 2018-05-27T11:12:05Z
-            lat: 43.83501667
-            lng: 16.6245
-            alt: 1146
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2952
-            time: 2018-05-27T11:24:05Z
-            lat: 43.81706667
-            lng: 16.66208333
-            alt: 1024
-          - fix: 2953
-            time: 2018-05-27T11:24:06Z
-            lat: 43.81698333
-            lng: 16.66216667
-            alt: 1025
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3895
-            time: 2018-05-27T11:39:48Z
-            lat: 43.81786667
-            lng: 16.65035
-            alt: 1258
-          - fix: 3896
-            time: 2018-05-27T11:39:49Z
-            lat: 43.81793333
-            lng: 16.65021667
-            alt: 1256
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4218
-            time: 2018-05-27T11:45:11Z
-            lat: 43.83016667
-            lng: 16.62775
-            alt: 1329
-          - fix: 4219
-            time: 2018-05-27T11:45:12Z
-            lat: 43.83023333
-            lng: 16.62758333
-            alt: 1327
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '21'
       - Damir Kalinger
     - null
@@ -23350,20 +22417,202 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
+      - - crossingPair:
+          - fix: 370
+            time: 2018-05-27T10:33:56Z
+            lat: 43.83715
+            lng: 16.62408333
+            alt: 0
+          - fix: 371
+            time: 2018-05-27T10:34:01Z
+            lat: 43.8371
+            lng: 16.62356667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 449
+            time: 2018-05-27T10:39:57Z
+            lat: 43.83708333
+            lng: 16.62341667
+            alt: 0
+          - fix: 450
+            time: 2018-05-27T10:40:01Z
+            lat: 43.83745
+            lng: 16.62351667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 450
+            time: 2018-05-27T10:40:01Z
+            lat: 43.83745
+            lng: 16.62351667
+            alt: 0
+          - fix: 451
+            time: 2018-05-27T10:40:05Z
+            lat: 43.83741667
+            lng: 16.62306667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 453
+            time: 2018-05-27T10:40:15Z
+            lat: 43.8368
+            lng: 16.62366667
+            alt: 0
+          - fix: 454
+            time: 2018-05-27T10:40:20Z
+            lat: 43.83715
+            lng: 16.6241
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 454
+            time: 2018-05-27T10:40:20Z
+            lat: 43.83715
+            lng: 16.6241
+            alt: 0
+          - fix: 455
+            time: 2018-05-27T10:40:25Z
+            lat: 43.83723333
+            lng: 16.62351667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 456
+            time: 2018-05-27T10:40:29Z
+            lat: 43.83696667
+            lng: 16.62361667
+            alt: 0
+          - fix: 457
+            time: 2018-05-27T10:40:34Z
+            lat: 43.83728333
+            lng: 16.6241
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 507
+            time: 2018-05-27T10:44:20Z
+            lat: 43.83696667
+            lng: 16.624
+            alt: 0
+          - fix: 508
+            time: 2018-05-27T10:44:25Z
+            lat: 43.8367
+            lng: 16.6236
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 559
+            time: 2018-05-27T10:48:20Z
+            lat: 43.83676667
+            lng: 16.62341667
+            alt: 0
+          - fix: 560
+            time: 2018-05-27T10:48:25Z
+            lat: 43.8373
+            lng: 16.62381667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 561
+            time: 2018-05-27T10:48:29Z
+            lat: 43.83768333
+            lng: 16.62375
+            alt: 0
+          - fix: 562
+            time: 2018-05-27T10:48:33Z
+            lat: 43.83795
+            lng: 16.62328333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 567
+            time: 2018-05-27T10:48:57Z
+            lat: 43.83743333
+            lng: 16.62316667
+            alt: 0
+          - fix: 568
+            time: 2018-05-27T10:49:02Z
+            lat: 43.83768333
+            lng: 16.62383333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 626
+            time: 2018-05-27T10:53:25Z
+            lat: 43.84016667
+            lng: 16.62303333
+            alt: 0
+          - fix: 627
+            time: 2018-05-27T10:53:30Z
+            lat: 43.84021667
+            lng: 16.62258333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 647
+            time: 2018-05-27T10:55:02Z
+            lat: 43.84086667
+            lng: 16.62236667
+            alt: 0
+          - fix: 648
+            time: 2018-05-27T10:55:07Z
+            lat: 43.84085
+            lng: 16.62308333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 676
+            time: 2018-05-27T10:57:15Z
+            lat: 43.8362
+            lng: 16.62436667
+            alt: 0
+          - fix: 677
+            time: 2018-05-27T10:57:20Z
+            lat: 43.836
+            lng: 16.62385
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 686
+            time: 2018-05-27T10:57:59Z
+            lat: 43.83373333
+            lng: 16.62496667
+            alt: 0
+          - fix: 687
+            time: 2018-05-27T10:58:04Z
+            lat: 43.83358333
+            lng: 16.62548333
+            alt: 0
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 713
             time: 2018-05-27T11:00:00Z
@@ -23672,301 +22921,7 @@ crossing:
           inZone:
           - false
           - true
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 370
-            time: 2018-05-27T10:33:56Z
-            lat: 43.83715
-            lng: 16.62408333
-            alt: 0
-          - fix: 371
-            time: 2018-05-27T10:34:01Z
-            lat: 43.8371
-            lng: 16.62356667
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 449
-            time: 2018-05-27T10:39:57Z
-            lat: 43.83708333
-            lng: 16.62341667
-            alt: 0
-          - fix: 450
-            time: 2018-05-27T10:40:01Z
-            lat: 43.83745
-            lng: 16.62351667
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 450
-            time: 2018-05-27T10:40:01Z
-            lat: 43.83745
-            lng: 16.62351667
-            alt: 0
-          - fix: 451
-            time: 2018-05-27T10:40:05Z
-            lat: 43.83741667
-            lng: 16.62306667
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 453
-            time: 2018-05-27T10:40:15Z
-            lat: 43.8368
-            lng: 16.62366667
-            alt: 0
-          - fix: 454
-            time: 2018-05-27T10:40:20Z
-            lat: 43.83715
-            lng: 16.6241
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 454
-            time: 2018-05-27T10:40:20Z
-            lat: 43.83715
-            lng: 16.6241
-            alt: 0
-          - fix: 455
-            time: 2018-05-27T10:40:25Z
-            lat: 43.83723333
-            lng: 16.62351667
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 456
-            time: 2018-05-27T10:40:29Z
-            lat: 43.83696667
-            lng: 16.62361667
-            alt: 0
-          - fix: 457
-            time: 2018-05-27T10:40:34Z
-            lat: 43.83728333
-            lng: 16.6241
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 507
-            time: 2018-05-27T10:44:20Z
-            lat: 43.83696667
-            lng: 16.624
-            alt: 0
-          - fix: 508
-            time: 2018-05-27T10:44:25Z
-            lat: 43.8367
-            lng: 16.6236
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 559
-            time: 2018-05-27T10:48:20Z
-            lat: 43.83676667
-            lng: 16.62341667
-            alt: 0
-          - fix: 560
-            time: 2018-05-27T10:48:25Z
-            lat: 43.8373
-            lng: 16.62381667
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 561
-            time: 2018-05-27T10:48:29Z
-            lat: 43.83768333
-            lng: 16.62375
-            alt: 0
-          - fix: 562
-            time: 2018-05-27T10:48:33Z
-            lat: 43.83795
-            lng: 16.62328333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 567
-            time: 2018-05-27T10:48:57Z
-            lat: 43.83743333
-            lng: 16.62316667
-            alt: 0
-          - fix: 568
-            time: 2018-05-27T10:49:02Z
-            lat: 43.83768333
-            lng: 16.62383333
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 626
-            time: 2018-05-27T10:53:25Z
-            lat: 43.84016667
-            lng: 16.62303333
-            alt: 0
-          - fix: 627
-            time: 2018-05-27T10:53:30Z
-            lat: 43.84021667
-            lng: 16.62258333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 647
-            time: 2018-05-27T10:55:02Z
-            lat: 43.84086667
-            lng: 16.62236667
-            alt: 0
-          - fix: 648
-            time: 2018-05-27T10:55:07Z
-            lat: 43.84085
-            lng: 16.62308333
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 676
-            time: 2018-05-27T10:57:15Z
-            lat: 43.8362
-            lng: 16.62436667
-            alt: 0
-          - fix: 677
-            time: 2018-05-27T10:57:20Z
-            lat: 43.836
-            lng: 16.62385
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 686
-            time: 2018-05-27T10:57:59Z
-            lat: 43.83373333
-            lng: 16.62496667
-            alt: 0
-          - fix: 687
-            time: 2018-05-27T10:58:04Z
-            lat: 43.83358333
-            lng: 16.62548333
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 713
-            time: 2018-05-27T11:00:00Z
-            lat: 43.83331667
-            lng: 16.6255
-            alt: 0
-          - fix: 714
-            time: 2018-05-27T11:00:05Z
-            lat: 43.83306667
-            lng: 16.62508333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 834
-            time: 2018-05-27T11:09:08Z
-            lat: 43.83425
-            lng: 16.62471667
-            alt: 0
-          - fix: 835
-            time: 2018-05-27T11:09:12Z
-            lat: 43.83425
-            lng: 16.62521667
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1044
-            time: 2018-05-27T11:24:49Z
-            lat: 43.8171
-            lng: 16.66076667
-            alt: 0
-          - fix: 1045
-            time: 2018-05-27T11:24:54Z
-            lat: 43.81663333
-            lng: 16.66103333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1208
-            time: 2018-05-27T11:37:12Z
-            lat: 43.81663333
-            lng: 16.65913333
-            alt: 0
-          - fix: 1209
-            time: 2018-05-27T11:37:16Z
-            lat: 43.81713333
-            lng: 16.65876667
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1319
-            time: 2018-05-27T11:45:33Z
-            lat: 43.83553333
-            lng: 16.62451667
-            alt: 0
-          - fix: 1320
-            time: 2018-05-27T11:45:37Z
-            lat: 43.8354
-            lng: 16.62411667
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1425
-            time: 2018-05-27T11:53:28Z
-            lat: 43.835
-            lng: 16.62391667
-            alt: 0
-          - fix: 1426
-            time: 2018-05-27T11:53:32Z
-            lat: 43.83491667
-            lng: 16.6246
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1596
-            time: 2018-05-27T12:06:17Z
-            lat: 43.81746667
-            lng: 16.65473333
-            alt: 0
-          - fix: 1597
-            time: 2018-05-27T12:06:22Z
-            lat: 43.81693333
-            lng: 16.65475
-            alt: 0
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '37'
       - Igor Eržen
     - zonesCrossSelected:
@@ -24322,8 +23277,34 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
+      - - crossingPair:
+          - fix: 1217
+            time: 2018-05-27T10:55:01Z
+            lat: 43.83601667
+            lng: 16.62405
+            alt: 981
+          - fix: 1218
+            time: 2018-05-27T10:55:02Z
+            lat: 43.83608333
+            lng: 16.62396667
+            alt: 979
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1238
+            time: 2018-05-27T10:55:22Z
+            lat: 43.83746667
+            lng: 16.62345
+            alt: 959
+          - fix: 1239
+            time: 2018-05-27T10:55:23Z
+            lat: 43.83746667
+            lng: 16.62358333
+            alt: 958
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 1670
             time: 2018-05-27T11:02:34Z
@@ -24619,161 +23600,7 @@ crossing:
           - true
           - false
       - []
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 1217
-            time: 2018-05-27T10:55:01Z
-            lat: 43.83601667
-            lng: 16.62405
-            alt: 981
-          - fix: 1218
-            time: 2018-05-27T10:55:02Z
-            lat: 43.83608333
-            lng: 16.62396667
-            alt: 979
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1238
-            time: 2018-05-27T10:55:22Z
-            lat: 43.83746667
-            lng: 16.62345
-            alt: 959
-          - fix: 1239
-            time: 2018-05-27T10:55:23Z
-            lat: 43.83746667
-            lng: 16.62358333
-            alt: 958
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1670
-            time: 2018-05-27T11:02:34Z
-            lat: 43.83176667
-            lng: 16.62645
-            alt: 1028
-          - fix: 1671
-            time: 2018-05-27T11:02:35Z
-            lat: 43.83173333
-            lng: 16.62636667
-            alt: 1026
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2783
-            time: 2018-05-27T11:21:07Z
-            lat: 43.83945
-            lng: 16.62285
-            alt: 1264
-          - fix: 2784
-            time: 2018-05-27T11:21:08Z
-            lat: 43.8394
-            lng: 16.6229
-            alt: 1265
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2786
-            time: 2018-05-27T11:21:10Z
-            lat: 43.8393
-            lng: 16.62291667
-            alt: 1267
-          - fix: 2787
-            time: 2018-05-27T11:21:11Z
-            lat: 43.83926667
-            lng: 16.6229
-            alt: 1268
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2804
-            time: 2018-05-27T11:21:28Z
-            lat: 43.84063333
-            lng: 16.6226
-            alt: 1293
-          - fix: 2805
-            time: 2018-05-27T11:21:29Z
-            lat: 43.84071667
-            lng: 16.62271667
-            alt: 1296
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3378
-            time: 2018-05-27T11:31:02Z
-            lat: 43.81705
-            lng: 16.66116667
-            alt: 1067
-          - fix: 3379
-            time: 2018-05-27T11:31:03Z
-            lat: 43.81698333
-            lng: 16.66126667
-            alt: 1065
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4214
-            time: 2018-05-27T11:44:58Z
-            lat: 43.81711667
-            lng: 16.65596667
-            alt: 1189
-          - fix: 4215
-            time: 2018-05-27T11:44:59Z
-            lat: 43.81721667
-            lng: 16.65588333
-            alt: 1187
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4630
-            time: 2018-05-27T11:51:54Z
-            lat: 43.83995
-            lng: 16.62278333
-            alt: 1124
-          - fix: 4631
-            time: 2018-05-27T11:51:55Z
-            lat: 43.84
-            lng: 16.62263333
-            alt: 1122
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5252
-            time: 2018-05-27T12:02:16Z
-            lat: 43.84211667
-            lng: 16.6224
-            alt: 1265
-          - fix: 5253
-            time: 2018-05-27T12:02:17Z
-            lat: 43.84205
-            lng: 16.62245
-            alt: 1264
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 6045
-            time: 2018-05-27T12:15:29Z
-            lat: 43.81718333
-            lng: 16.66386667
-            alt: 1033
-          - fix: 6046
-            time: 2018-05-27T12:15:30Z
-            lat: 43.81711667
-            lng: 16.66391667
-            alt: 1032
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '40'
       - Ivica Huljek
     - zonesCrossSelected:
@@ -26199,10 +25026,62 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
-        - null
-        - null
+      - - crossingPair:
+          - fix: 831
+            time: 2018-05-27T10:32:00Z
+            lat: 43.82985
+            lng: 16.62795
+            alt: 748
+          - fix: 832
+            time: 2018-05-27T10:32:01Z
+            lat: 43.82981667
+            lng: 16.62783333
+            alt: 748
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 853
+            time: 2018-05-27T10:32:22Z
+            lat: 43.82953333
+            lng: 16.62818333
+            alt: 747
+          - fix: 854
+            time: 2018-05-27T10:32:23Z
+            lat: 43.82955
+            lng: 16.6283
+            alt: 746
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 863
+            time: 2018-05-27T10:32:32Z
+            lat: 43.8291
+            lng: 16.62866667
+            alt: 735
+          - fix: 864
+            time: 2018-05-27T10:32:33Z
+            lat: 43.82905
+            lng: 16.6286
+            alt: 733
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 935
+            time: 2018-05-27T10:33:44Z
+            lat: 43.82561667
+            lng: 16.63235
+            alt: 668
+          - fix: 936
+            time: 2018-05-27T10:33:45Z
+            lat: 43.8256
+            lng: 16.63246667
+            alt: 669
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 2559
             time: 2018-05-27T11:00:48Z
@@ -26567,217 +25446,7 @@ crossing:
           inZone:
           - false
           - true
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 831
-            time: 2018-05-27T10:32:00Z
-            lat: 43.82985
-            lng: 16.62795
-            alt: 748
-          - fix: 832
-            time: 2018-05-27T10:32:01Z
-            lat: 43.82981667
-            lng: 16.62783333
-            alt: 748
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 853
-            time: 2018-05-27T10:32:22Z
-            lat: 43.82953333
-            lng: 16.62818333
-            alt: 747
-          - fix: 854
-            time: 2018-05-27T10:32:23Z
-            lat: 43.82955
-            lng: 16.6283
-            alt: 746
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 863
-            time: 2018-05-27T10:32:32Z
-            lat: 43.8291
-            lng: 16.62866667
-            alt: 735
-          - fix: 864
-            time: 2018-05-27T10:32:33Z
-            lat: 43.82905
-            lng: 16.6286
-            alt: 733
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 935
-            time: 2018-05-27T10:33:44Z
-            lat: 43.82561667
-            lng: 16.63235
-            alt: 668
-          - fix: 936
-            time: 2018-05-27T10:33:45Z
-            lat: 43.8256
-            lng: 16.63246667
-            alt: 669
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2559
-            time: 2018-05-27T11:00:48Z
-            lat: 43.83096667
-            lng: 16.62713333
-            alt: 1121
-          - fix: 2560
-            time: 2018-05-27T11:00:49Z
-            lat: 43.83091667
-            lng: 16.62705
-            alt: 1120
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3323
-            time: 2018-05-27T11:13:32Z
-            lat: 43.83315
-            lng: 16.62546667
-            alt: 906
-          - fix: 3324
-            time: 2018-05-27T11:13:33Z
-            lat: 43.8331
-            lng: 16.6256
-            alt: 906
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3684
-            time: 2018-05-27T11:19:33Z
-            lat: 43.81741667
-            lng: 16.65348333
-            alt: 671
-          - fix: 3685
-            time: 2018-05-27T11:19:34Z
-            lat: 43.81735
-            lng: 16.65353333
-            alt: 670
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3835
-            time: 2018-05-27T11:22:04Z
-            lat: 43.81721667
-            lng: 16.65498333
-            alt: 745
-          - fix: 3836
-            time: 2018-05-27T11:22:05Z
-            lat: 43.81728333
-            lng: 16.6549
-            alt: 745
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3842
-            time: 2018-05-27T11:22:11Z
-            lat: 43.81731667
-            lng: 16.65436667
-            alt: 746
-          - fix: 3843
-            time: 2018-05-27T11:22:12Z
-            lat: 43.81728333
-            lng: 16.65428333
-            alt: 747
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5084
-            time: 2018-05-27T11:42:53Z
-            lat: 43.81725
-            lng: 16.66531667
-            alt: 1080
-          - fix: 5085
-            time: 2018-05-27T11:42:54Z
-            lat: 43.81735
-            lng: 16.66528333
-            alt: 1082
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5100
-            time: 2018-05-27T11:43:09Z
-            lat: 43.81725
-            lng: 16.66493333
-            alt: 1106
-          - fix: 5101
-            time: 2018-05-27T11:43:10Z
-            lat: 43.8172
-            lng: 16.66501667
-            alt: 1106
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5108
-            time: 2018-05-27T11:43:17Z
-            lat: 43.81728333
-            lng: 16.66595
-            alt: 1114
-          - fix: 5109
-            time: 2018-05-27T11:43:18Z
-            lat: 43.81736667
-            lng: 16.66608333
-            alt: 1116
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5138
-            time: 2018-05-27T11:43:47Z
-            lat: 43.81736667
-            lng: 16.66605
-            alt: 1146
-          - fix: 5139
-            time: 2018-05-27T11:43:48Z
-            lat: 43.8173
-            lng: 16.66606667
-            alt: 1147
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5698
-            time: 2018-05-27T11:53:07Z
-            lat: 43.81696667
-            lng: 16.65815
-            alt: 1015
-          - fix: 5699
-            time: 2018-05-27T11:53:08Z
-            lat: 43.81706667
-            lng: 16.6581
-            alt: 1014
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 6157
-            time: 2018-05-27T12:00:46Z
-            lat: 43.83876667
-            lng: 16.6231
-            alt: 979
-          - fix: 6158
-            time: 2018-05-27T12:00:47Z
-            lat: 43.8388
-            lng: 16.62296667
-            alt: 976
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '54'
       - Krešo  Kovačič
     - zonesCrossSelected:
@@ -28280,28 +26949,314 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
+      - - crossingPair:
+          - fix: 1295
+            time: 2018-05-27T10:25:00Z
+            lat: 43.83356667
+            lng: 16.62533333
+            alt: 0
+          - fix: 1296
+            time: 2018-05-27T10:25:01Z
+            lat: 43.83355
+            lng: 16.62525
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1676
+            time: 2018-05-27T10:31:21Z
+            lat: 43.8357
+            lng: 16.62415
+            alt: 0
+          - fix: 1677
+            time: 2018-05-27T10:31:22Z
+            lat: 43.83566667
+            lng: 16.62425
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1685
+            time: 2018-05-27T10:31:30Z
+            lat: 43.83525
+            lng: 16.62441667
+            alt: 0
+          - fix: 1686
+            time: 2018-05-27T10:31:31Z
+            lat: 43.83521667
+            lng: 16.62438333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1701
+            time: 2018-05-27T10:31:46Z
+            lat: 43.83605
+            lng: 16.62391667
+            alt: 0
+          - fix: 1702
+            time: 2018-05-27T10:31:47Z
+            lat: 43.83608333
+            lng: 16.62405
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1720
+            time: 2018-05-27T10:32:05Z
+            lat: 43.83568333
+            lng: 16.62418333
+            alt: 0
+          - fix: 1721
+            time: 2018-05-27T10:32:06Z
+            lat: 43.83575
+            lng: 16.62408333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1724
+            time: 2018-05-27T10:32:09Z
+            lat: 43.83601667
+            lng: 16.62396667
+            alt: 0
+          - fix: 1725
+            time: 2018-05-27T10:32:10Z
+            lat: 43.83611667
+            lng: 16.62398333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2377
+            time: 2018-05-27T10:43:02Z
+            lat: 43.83696667
+            lng: 16.62366667
+            alt: 0
+          - fix: 2378
+            time: 2018-05-27T10:43:03Z
+            lat: 43.8369
+            lng: 16.62363333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2668
+            time: 2018-05-27T10:47:53Z
+            lat: 43.83765
+            lng: 16.62336667
+            alt: 0
+          - fix: 2669
+            time: 2018-05-27T10:47:54Z
+            lat: 43.83773333
+            lng: 16.62341667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2672
+            time: 2018-05-27T10:47:57Z
+            lat: 43.83801667
+            lng: 16.62331667
+            alt: 0
+          - fix: 2673
+            time: 2018-05-27T10:47:58Z
+            lat: 43.83806667
+            lng: 16.6232
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2686
+            time: 2018-05-27T10:48:11Z
+            lat: 43.83766667
+            lng: 16.62335
+            alt: 0
+          - fix: 2687
+            time: 2018-05-27T10:48:12Z
+            lat: 43.83773333
+            lng: 16.62345
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2694
+            time: 2018-05-27T10:48:19Z
+            lat: 43.83826667
+            lng: 16.62321667
+            alt: 0
+          - fix: 2695
+            time: 2018-05-27T10:48:20Z
+            lat: 43.83825
+            lng: 16.62311667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2712
+            time: 2018-05-27T10:48:37Z
+            lat: 43.8377
+            lng: 16.62326667
+            alt: 0
+          - fix: 2713
+            time: 2018-05-27T10:48:38Z
+            lat: 43.83775
+            lng: 16.62338333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2722
+            time: 2018-05-27T10:48:47Z
+            lat: 43.83846667
+            lng: 16.62318333
+            alt: 0
+          - fix: 2723
+            time: 2018-05-27T10:48:48Z
+            lat: 43.83848333
+            lng: 16.62305
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2736
+            time: 2018-05-27T10:49:01Z
+            lat: 43.8381
+            lng: 16.62311667
+            alt: 0
+          - fix: 2737
+            time: 2018-05-27T10:49:02Z
+            lat: 43.83815
+            lng: 16.62323333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2747
+            time: 2018-05-27T10:49:12Z
+            lat: 43.83896667
+            lng: 16.62305
+            alt: 0
+          - fix: 2748
+            time: 2018-05-27T10:49:13Z
+            lat: 43.83898333
+            lng: 16.62293333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2778
+            time: 2018-05-27T10:49:43Z
+            lat: 43.83755
+            lng: 16.62338333
+            alt: 0
+          - fix: 2779
+            time: 2018-05-27T10:49:44Z
+            lat: 43.83755
+            lng: 16.62348333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3021
+            time: 2018-05-27T10:53:46Z
+            lat: 43.83628333
+            lng: 16.62396667
+            alt: 0
+          - fix: 3022
+            time: 2018-05-27T10:53:47Z
+            lat: 43.83623333
+            lng: 16.62391667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3213
+            time: 2018-05-27T10:56:58Z
+            lat: 43.83488333
+            lng: 16.6245
+            alt: 0
+          - fix: 3214
+            time: 2018-05-27T10:56:59Z
+            lat: 43.83483333
+            lng: 16.6246
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3216
+            time: 2018-05-27T10:57:01Z
+            lat: 43.8347
+            lng: 16.62465
+            alt: 0
+          - fix: 3217
+            time: 2018-05-27T10:57:02Z
+            lat: 43.83465
+            lng: 16.62465
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3233
+            time: 2018-05-27T10:57:18Z
+            lat: 43.83523333
+            lng: 16.62428333
+            alt: 0
+          - fix: 3234
+            time: 2018-05-27T10:57:19Z
+            lat: 43.83525
+            lng: 16.6244
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3245
+            time: 2018-05-27T10:57:30Z
+            lat: 43.83476667
+            lng: 16.62471667
+            alt: 0
+          - fix: 3246
+            time: 2018-05-27T10:57:31Z
+            lat: 43.83476667
+            lng: 16.62458333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3253
+            time: 2018-05-27T10:57:38Z
+            lat: 43.83535
+            lng: 16.62426667
+            alt: 0
+          - fix: 3254
+            time: 2018-05-27T10:57:39Z
+            lat: 43.83543333
+            lng: 16.62435
+            alt: 0
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 3482
             time: 2018-05-27T11:01:27Z
@@ -28722,413 +27677,7 @@ crossing:
           inZone:
           - false
           - true
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 1295
-            time: 2018-05-27T10:25:00Z
-            lat: 43.83356667
-            lng: 16.62533333
-            alt: 0
-          - fix: 1296
-            time: 2018-05-27T10:25:01Z
-            lat: 43.83355
-            lng: 16.62525
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1676
-            time: 2018-05-27T10:31:21Z
-            lat: 43.8357
-            lng: 16.62415
-            alt: 0
-          - fix: 1677
-            time: 2018-05-27T10:31:22Z
-            lat: 43.83566667
-            lng: 16.62425
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1685
-            time: 2018-05-27T10:31:30Z
-            lat: 43.83525
-            lng: 16.62441667
-            alt: 0
-          - fix: 1686
-            time: 2018-05-27T10:31:31Z
-            lat: 43.83521667
-            lng: 16.62438333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1701
-            time: 2018-05-27T10:31:46Z
-            lat: 43.83605
-            lng: 16.62391667
-            alt: 0
-          - fix: 1702
-            time: 2018-05-27T10:31:47Z
-            lat: 43.83608333
-            lng: 16.62405
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1720
-            time: 2018-05-27T10:32:05Z
-            lat: 43.83568333
-            lng: 16.62418333
-            alt: 0
-          - fix: 1721
-            time: 2018-05-27T10:32:06Z
-            lat: 43.83575
-            lng: 16.62408333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1724
-            time: 2018-05-27T10:32:09Z
-            lat: 43.83601667
-            lng: 16.62396667
-            alt: 0
-          - fix: 1725
-            time: 2018-05-27T10:32:10Z
-            lat: 43.83611667
-            lng: 16.62398333
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2377
-            time: 2018-05-27T10:43:02Z
-            lat: 43.83696667
-            lng: 16.62366667
-            alt: 0
-          - fix: 2378
-            time: 2018-05-27T10:43:03Z
-            lat: 43.8369
-            lng: 16.62363333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2668
-            time: 2018-05-27T10:47:53Z
-            lat: 43.83765
-            lng: 16.62336667
-            alt: 0
-          - fix: 2669
-            time: 2018-05-27T10:47:54Z
-            lat: 43.83773333
-            lng: 16.62341667
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2672
-            time: 2018-05-27T10:47:57Z
-            lat: 43.83801667
-            lng: 16.62331667
-            alt: 0
-          - fix: 2673
-            time: 2018-05-27T10:47:58Z
-            lat: 43.83806667
-            lng: 16.6232
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2686
-            time: 2018-05-27T10:48:11Z
-            lat: 43.83766667
-            lng: 16.62335
-            alt: 0
-          - fix: 2687
-            time: 2018-05-27T10:48:12Z
-            lat: 43.83773333
-            lng: 16.62345
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2694
-            time: 2018-05-27T10:48:19Z
-            lat: 43.83826667
-            lng: 16.62321667
-            alt: 0
-          - fix: 2695
-            time: 2018-05-27T10:48:20Z
-            lat: 43.83825
-            lng: 16.62311667
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2712
-            time: 2018-05-27T10:48:37Z
-            lat: 43.8377
-            lng: 16.62326667
-            alt: 0
-          - fix: 2713
-            time: 2018-05-27T10:48:38Z
-            lat: 43.83775
-            lng: 16.62338333
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2722
-            time: 2018-05-27T10:48:47Z
-            lat: 43.83846667
-            lng: 16.62318333
-            alt: 0
-          - fix: 2723
-            time: 2018-05-27T10:48:48Z
-            lat: 43.83848333
-            lng: 16.62305
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2736
-            time: 2018-05-27T10:49:01Z
-            lat: 43.8381
-            lng: 16.62311667
-            alt: 0
-          - fix: 2737
-            time: 2018-05-27T10:49:02Z
-            lat: 43.83815
-            lng: 16.62323333
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2747
-            time: 2018-05-27T10:49:12Z
-            lat: 43.83896667
-            lng: 16.62305
-            alt: 0
-          - fix: 2748
-            time: 2018-05-27T10:49:13Z
-            lat: 43.83898333
-            lng: 16.62293333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2778
-            time: 2018-05-27T10:49:43Z
-            lat: 43.83755
-            lng: 16.62338333
-            alt: 0
-          - fix: 2779
-            time: 2018-05-27T10:49:44Z
-            lat: 43.83755
-            lng: 16.62348333
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3021
-            time: 2018-05-27T10:53:46Z
-            lat: 43.83628333
-            lng: 16.62396667
-            alt: 0
-          - fix: 3022
-            time: 2018-05-27T10:53:47Z
-            lat: 43.83623333
-            lng: 16.62391667
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3213
-            time: 2018-05-27T10:56:58Z
-            lat: 43.83488333
-            lng: 16.6245
-            alt: 0
-          - fix: 3214
-            time: 2018-05-27T10:56:59Z
-            lat: 43.83483333
-            lng: 16.6246
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3216
-            time: 2018-05-27T10:57:01Z
-            lat: 43.8347
-            lng: 16.62465
-            alt: 0
-          - fix: 3217
-            time: 2018-05-27T10:57:02Z
-            lat: 43.83465
-            lng: 16.62465
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3233
-            time: 2018-05-27T10:57:18Z
-            lat: 43.83523333
-            lng: 16.62428333
-            alt: 0
-          - fix: 3234
-            time: 2018-05-27T10:57:19Z
-            lat: 43.83525
-            lng: 16.6244
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3245
-            time: 2018-05-27T10:57:30Z
-            lat: 43.83476667
-            lng: 16.62471667
-            alt: 0
-          - fix: 3246
-            time: 2018-05-27T10:57:31Z
-            lat: 43.83476667
-            lng: 16.62458333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3253
-            time: 2018-05-27T10:57:38Z
-            lat: 43.83535
-            lng: 16.62426667
-            alt: 0
-          - fix: 3254
-            time: 2018-05-27T10:57:39Z
-            lat: 43.83543333
-            lng: 16.62435
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3482
-            time: 2018-05-27T11:01:27Z
-            lat: 43.83383333
-            lng: 16.62518333
-            alt: 0
-          - fix: 3483
-            time: 2018-05-27T11:01:28Z
-            lat: 43.83376667
-            lng: 16.62513333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4098
-            time: 2018-05-27T11:11:43Z
-            lat: 43.83515
-            lng: 16.62435
-            alt: 0
-          - fix: 4099
-            time: 2018-05-27T11:11:44Z
-            lat: 43.8352
-            lng: 16.62446667
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4402
-            time: 2018-05-27T11:16:47Z
-            lat: 43.84075
-            lng: 16.6226
-            alt: 0
-          - fix: 4403
-            time: 2018-05-27T11:16:48Z
-            lat: 43.8408
-            lng: 16.62248333
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5292
-            time: 2018-05-27T11:31:37Z
-            lat: 43.84071667
-            lng: 16.62256667
-            alt: 0
-          - fix: 5293
-            time: 2018-05-27T11:31:38Z
-            lat: 43.84066667
-            lng: 16.62265
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 6205
-            time: 2018-05-27T11:46:50Z
-            lat: 43.81716667
-            lng: 16.66405
-            alt: 0
-          - fix: 6206
-            time: 2018-05-27T11:46:51Z
-            lat: 43.8171
-            lng: 16.66405
-            alt: 0
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 7453
-            time: 2018-05-27T12:07:38Z
-            lat: 43.81696667
-            lng: 16.65903333
-            alt: 0
-          - fix: 7454
-            time: 2018-05-27T12:07:39Z
-            lat: 43.81703333
-            lng: 16.65896667
-            alt: 0
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 8438
-            time: 2018-05-27T12:24:03Z
-            lat: 43.83761667
-            lng: 16.62341667
-            alt: 0
-          - fix: 8439
-            time: 2018-05-27T12:24:04Z
-            lat: 43.83761667
-            lng: 16.6233
-            alt: 0
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '72'
       - Mitja Jančič
     - zonesCrossSelected:
@@ -29357,10 +27906,62 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
-        - null
-        - null
+      - - crossingPair:
+          - fix: 605
+            time: 2018-05-27T10:59:12Z
+            lat: 43.8291
+            lng: 16.62861667
+            alt: 733
+          - fix: 606
+            time: 2018-05-27T10:59:13Z
+            lat: 43.82903333
+            lng: 16.62856667
+            alt: 733
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 613
+            time: 2018-05-27T10:59:20Z
+            lat: 43.82943333
+            lng: 16.62828333
+            alt: 734
+          - fix: 614
+            time: 2018-05-27T10:59:21Z
+            lat: 43.82948333
+            lng: 16.62843333
+            alt: 735
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 622
+            time: 2018-05-27T10:59:29Z
+            lat: 43.82911667
+            lng: 16.62871667
+            alt: 738
+          - fix: 623
+            time: 2018-05-27T10:59:30Z
+            lat: 43.82908333
+            lng: 16.6286
+            alt: 737
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 630
+            time: 2018-05-27T10:59:37Z
+            lat: 43.82951667
+            lng: 16.62811667
+            alt: 738
+          - fix: 631
+            time: 2018-05-27T10:59:38Z
+            lat: 43.82961667
+            lng: 16.6282
+            alt: 739
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 741
             time: 2018-05-27T11:01:28Z
@@ -29753,189 +28354,7 @@ crossing:
           inZone:
           - false
           - true
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 605
-            time: 2018-05-27T10:59:12Z
-            lat: 43.8291
-            lng: 16.62861667
-            alt: 733
-          - fix: 606
-            time: 2018-05-27T10:59:13Z
-            lat: 43.82903333
-            lng: 16.62856667
-            alt: 733
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 613
-            time: 2018-05-27T10:59:20Z
-            lat: 43.82943333
-            lng: 16.62828333
-            alt: 734
-          - fix: 614
-            time: 2018-05-27T10:59:21Z
-            lat: 43.82948333
-            lng: 16.62843333
-            alt: 735
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 622
-            time: 2018-05-27T10:59:29Z
-            lat: 43.82911667
-            lng: 16.62871667
-            alt: 738
-          - fix: 623
-            time: 2018-05-27T10:59:30Z
-            lat: 43.82908333
-            lng: 16.6286
-            alt: 737
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 630
-            time: 2018-05-27T10:59:37Z
-            lat: 43.82951667
-            lng: 16.62811667
-            alt: 738
-          - fix: 631
-            time: 2018-05-27T10:59:38Z
-            lat: 43.82961667
-            lng: 16.6282
-            alt: 739
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 741
-            time: 2018-05-27T11:01:28Z
-            lat: 43.82931667
-            lng: 16.62845
-            alt: 722
-          - fix: 742
-            time: 2018-05-27T11:01:29Z
-            lat: 43.8293
-            lng: 16.62833333
-            alt: 721
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2353
-            time: 2018-05-27T11:28:20Z
-            lat: 43.83455
-            lng: 16.6246
-            alt: 957
-          - fix: 2354
-            time: 2018-05-27T11:28:21Z
-            lat: 43.83453333
-            lng: 16.62476667
-            alt: 956
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2733
-            time: 2018-05-27T11:34:40Z
-            lat: 43.81703333
-            lng: 16.65871667
-            alt: 834
-          - fix: 2734
-            time: 2018-05-27T11:34:41Z
-            lat: 43.81695
-            lng: 16.65881667
-            alt: 833
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3808
-            time: 2018-05-27T11:52:35Z
-            lat: 43.8177
-            lng: 16.66845
-            alt: 1523
-          - fix: 3809
-            time: 2018-05-27T11:52:36Z
-            lat: 43.8178
-            lng: 16.66831667
-            alt: 1523
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4126
-            time: 2018-05-27T11:57:53Z
-            lat: 43.83845
-            lng: 16.6233
-            alt: 1048
-          - fix: 4127
-            time: 2018-05-27T11:57:54Z
-            lat: 43.8385
-            lng: 16.62311667
-            alt: 1048
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4349
-            time: 2018-05-27T12:01:36Z
-            lat: 43.84295
-            lng: 16.62231667
-            alt: 1312
-          - fix: 4350
-            time: 2018-05-27T12:01:37Z
-            lat: 43.8429
-            lng: 16.62235
-            alt: 1312
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4352
-            time: 2018-05-27T12:01:39Z
-            lat: 43.84276667
-            lng: 16.62236667
-            alt: 1312
-          - fix: 4353
-            time: 2018-05-27T12:01:40Z
-            lat: 43.84271667
-            lng: 16.62233333
-            alt: 1312
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4701
-            time: 2018-05-27T12:07:28Z
-            lat: 43.83645
-            lng: 16.62381667
-            alt: 994
-          - fix: 4702
-            time: 2018-05-27T12:07:29Z
-            lat: 43.8364
-            lng: 16.6239
-            alt: 993
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5208
-            time: 2018-05-27T12:15:55Z
-            lat: 43.81705
-            lng: 16.65978333
-            alt: 794
-          - fix: 5209
-            time: 2018-05-27T12:15:56Z
-            lat: 43.81693333
-            lng: 16.65985
-            alt: 793
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '73'
       - Mitja Jug
     - zonesCrossSelected:
@@ -31121,7 +29540,20 @@ crossing:
           inZone:
           - true
           - false
-      - - null
+      - - crossingPair:
+          - fix: 1194
+            time: 2018-05-27T10:54:55Z
+            lat: 43.83525
+            lng: 16.62443333
+            alt: 1053
+          - fix: 1195
+            time: 2018-05-27T10:54:56Z
+            lat: 43.83528333
+            lng: 16.62431667
+            alt: 1053
+          inZone:
+          - true
+          - false
         - crossingPair:
           - fix: 2130
             time: 2018-05-27T11:10:31Z
@@ -31262,7 +29694,20 @@ crossing:
           inZone:
           - true
           - false
-      - - null
+      - - crossingPair:
+          - fix: 1429
+            time: 2018-05-27T10:58:50Z
+            lat: 43.844
+            lng: 16.60591667
+            alt: 990
+          - fix: 1430
+            time: 2018-05-27T10:58:51Z
+            lat: 43.84405
+            lng: 16.60578333
+            alt: 989
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 1677
             time: 2018-05-27T11:02:58Z
@@ -31473,7 +29918,20 @@ crossing:
           inZone:
           - true
           - false
-      - - null
+      - - crossingPair:
+          - fix: 1429
+            time: 2018-05-27T10:58:50Z
+            lat: 43.844
+            lng: 16.60591667
+            alt: 990
+          - fix: 1430
+            time: 2018-05-27T10:58:51Z
+            lat: 43.84405
+            lng: 16.60578333
+            alt: 989
+          inZone:
+          - false
+          - true
         - crossingPair:
           - fix: 1677
             time: 2018-05-27T11:02:58Z
@@ -31670,497 +30128,7 @@ crossing:
           inZone:
           - false
           - true
-      zonesCrossExcluded:
-      - - crossingPair:
-          - fix: 1194
-            time: 2018-05-27T10:54:55Z
-            lat: 43.83525
-            lng: 16.62443333
-            alt: 1053
-          - fix: 1195
-            time: 2018-05-27T10:54:56Z
-            lat: 43.83528333
-            lng: 16.62431667
-            alt: 1053
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2130
-            time: 2018-05-27T11:10:31Z
-            lat: 43.83205
-            lng: 16.62616667
-            alt: 934
-          - fix: 2131
-            time: 2018-05-27T11:10:32Z
-            lat: 43.83206667
-            lng: 16.62631667
-            alt: 933
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2156
-            time: 2018-05-27T11:10:57Z
-            lat: 43.83341667
-            lng: 16.62546667
-            alt: 932
-          - fix: 2157
-            time: 2018-05-27T11:10:58Z
-            lat: 43.83343333
-            lng: 16.62533333
-            alt: 932
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 3221
-            time: 2018-05-27T11:28:42Z
-            lat: 43.83443333
-            lng: 16.62473333
-            alt: 978
-          - fix: 3222
-            time: 2018-05-27T11:28:43Z
-            lat: 43.8344
-            lng: 16.62486667
-            alt: 977
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 3790
-            time: 2018-05-27T11:38:11Z
-            lat: 43.81705
-            lng: 16.66031667
-            alt: 973
-          - fix: 3791
-            time: 2018-05-27T11:38:12Z
-            lat: 43.81698333
-            lng: 16.66041667
-            alt: 973
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 4443
-            time: 2018-05-27T11:49:04Z
-            lat: 43.81698333
-            lng: 16.65863333
-            alt: 849
-          - fix: 4444
-            time: 2018-05-27T11:49:05Z
-            lat: 43.81708333
-            lng: 16.65853333
-            alt: 848
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 4866
-            time: 2018-05-27T11:56:07Z
-            lat: 43.83325
-            lng: 16.62555
-            alt: 885
-          - fix: 4867
-            time: 2018-05-27T11:56:08Z
-            lat: 43.83325
-            lng: 16.62538333
-            alt: 884
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 1429
-            time: 2018-05-27T10:58:50Z
-            lat: 43.844
-            lng: 16.60591667
-            alt: 990
-          - fix: 1430
-            time: 2018-05-27T10:58:51Z
-            lat: 43.84405
-            lng: 16.60578333
-            alt: 989
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1677
-            time: 2018-05-27T11:02:58Z
-            lat: 43.8438
-            lng: 16.60553333
-            alt: 1011
-          - fix: 1678
-            time: 2018-05-27T11:02:59Z
-            lat: 43.84373333
-            lng: 16.60558333
-            alt: 1008
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2805
-            time: 2018-05-27T11:21:46Z
-            lat: 43.84355
-            lng: 16.60546667
-            alt: 1071
-          - fix: 2806
-            time: 2018-05-27T11:21:47Z
-            lat: 43.84358333
-            lng: 16.60535
-            alt: 1072
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2811
-            time: 2018-05-27T11:21:52Z
-            lat: 43.8434
-            lng: 16.60515
-            alt: 1075
-          - fix: 2812
-            time: 2018-05-27T11:21:53Z
-            lat: 43.84338333
-            lng: 16.60526667
-            alt: 1076
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2815
-            time: 2018-05-27T11:21:56Z
-            lat: 43.84368333
-            lng: 16.60556667
-            alt: 1080
-          - fix: 2816
-            time: 2018-05-27T11:21:57Z
-            lat: 43.8438
-            lng: 16.60556667
-            alt: 1082
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2883
-            time: 2018-05-27T11:23:04Z
-            lat: 43.84196667
-            lng: 16.60356667
-            alt: 1073
-          - fix: 2884
-            time: 2018-05-27T11:23:05Z
-            lat: 43.84188333
-            lng: 16.60355
-            alt: 1072
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5053
-            time: 2018-05-27T11:59:14Z
-            lat: 43.8392
-            lng: 16.60046667
-            alt: 801
-          - fix: 5054
-            time: 2018-05-27T11:59:15Z
-            lat: 43.83926667
-            lng: 16.60033333
-            alt: 801
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5204
-            time: 2018-05-27T12:01:45Z
-            lat: 43.83913333
-            lng: 16.60028333
-            alt: 815
-          - fix: 5205
-            time: 2018-05-27T12:01:46Z
-            lat: 43.83908333
-            lng: 16.60036667
-            alt: 815
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5228
-            time: 2018-05-27T12:02:09Z
-            lat: 43.83913333
-            lng: 16.60055
-            alt: 841
-          - fix: 5229
-            time: 2018-05-27T12:02:10Z
-            lat: 43.83925
-            lng: 16.6005
-            alt: 842
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5248
-            time: 2018-05-27T12:02:29Z
-            lat: 43.83893333
-            lng: 16.60006667
-            alt: 859
-          - fix: 5249
-            time: 2018-05-27T12:02:30Z
-            lat: 43.83895
-            lng: 16.60016667
-            alt: 860
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5250
-            time: 2018-05-27T12:02:31Z
-            lat: 43.83901667
-            lng: 16.60025
-            alt: 860
-          - fix: 5251
-            time: 2018-05-27T12:02:32Z
-            lat: 43.83911667
-            lng: 16.60033333
-            alt: 859
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5311
-            time: 2018-05-27T12:03:32Z
-            lat: 43.83893333
-            lng: 16.6
-            alt: 878
-          - fix: 5312
-            time: 2018-05-27T12:03:33Z
-            lat: 43.8389
-            lng: 16.6001
-            alt: 879
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5604
-            time: 2018-05-27T12:08:25Z
-            lat: 43.8424
-            lng: 16.60425
-            alt: 1168
-          - fix: 5605
-            time: 2018-05-27T12:08:26Z
-            lat: 43.84243333
-            lng: 16.60411667
-            alt: 1168
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5612
-            time: 2018-05-27T12:08:33Z
-            lat: 43.84203333
-            lng: 16.60363333
-            alt: 1165
-          - fix: 5613
-            time: 2018-05-27T12:08:34Z
-            lat: 43.84195
-            lng: 16.60363333
-            alt: 1164
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 1429
-            time: 2018-05-27T10:58:50Z
-            lat: 43.844
-            lng: 16.60591667
-            alt: 990
-          - fix: 1430
-            time: 2018-05-27T10:58:51Z
-            lat: 43.84405
-            lng: 16.60578333
-            alt: 989
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1677
-            time: 2018-05-27T11:02:58Z
-            lat: 43.8438
-            lng: 16.60553333
-            alt: 1011
-          - fix: 1678
-            time: 2018-05-27T11:02:59Z
-            lat: 43.84373333
-            lng: 16.60558333
-            alt: 1008
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2805
-            time: 2018-05-27T11:21:46Z
-            lat: 43.84355
-            lng: 16.60546667
-            alt: 1071
-          - fix: 2806
-            time: 2018-05-27T11:21:47Z
-            lat: 43.84358333
-            lng: 16.60535
-            alt: 1072
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2811
-            time: 2018-05-27T11:21:52Z
-            lat: 43.8434
-            lng: 16.60515
-            alt: 1075
-          - fix: 2812
-            time: 2018-05-27T11:21:53Z
-            lat: 43.84338333
-            lng: 16.60526667
-            alt: 1076
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2815
-            time: 2018-05-27T11:21:56Z
-            lat: 43.84368333
-            lng: 16.60556667
-            alt: 1080
-          - fix: 2816
-            time: 2018-05-27T11:21:57Z
-            lat: 43.8438
-            lng: 16.60556667
-            alt: 1082
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2883
-            time: 2018-05-27T11:23:04Z
-            lat: 43.84196667
-            lng: 16.60356667
-            alt: 1073
-          - fix: 2884
-            time: 2018-05-27T11:23:05Z
-            lat: 43.84188333
-            lng: 16.60355
-            alt: 1072
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5053
-            time: 2018-05-27T11:59:14Z
-            lat: 43.8392
-            lng: 16.60046667
-            alt: 801
-          - fix: 5054
-            time: 2018-05-27T11:59:15Z
-            lat: 43.83926667
-            lng: 16.60033333
-            alt: 801
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5204
-            time: 2018-05-27T12:01:45Z
-            lat: 43.83913333
-            lng: 16.60028333
-            alt: 815
-          - fix: 5205
-            time: 2018-05-27T12:01:46Z
-            lat: 43.83908333
-            lng: 16.60036667
-            alt: 815
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5228
-            time: 2018-05-27T12:02:09Z
-            lat: 43.83913333
-            lng: 16.60055
-            alt: 841
-          - fix: 5229
-            time: 2018-05-27T12:02:10Z
-            lat: 43.83925
-            lng: 16.6005
-            alt: 842
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5248
-            time: 2018-05-27T12:02:29Z
-            lat: 43.83893333
-            lng: 16.60006667
-            alt: 859
-          - fix: 5249
-            time: 2018-05-27T12:02:30Z
-            lat: 43.83895
-            lng: 16.60016667
-            alt: 860
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5250
-            time: 2018-05-27T12:02:31Z
-            lat: 43.83901667
-            lng: 16.60025
-            alt: 860
-          - fix: 5251
-            time: 2018-05-27T12:02:32Z
-            lat: 43.83911667
-            lng: 16.60033333
-            alt: 859
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5311
-            time: 2018-05-27T12:03:32Z
-            lat: 43.83893333
-            lng: 16.6
-            alt: 878
-          - fix: 5312
-            time: 2018-05-27T12:03:33Z
-            lat: 43.8389
-            lng: 16.6001
-            alt: 879
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 5604
-            time: 2018-05-27T12:08:25Z
-            lat: 43.8424
-            lng: 16.60425
-            alt: 1168
-          - fix: 5605
-            time: 2018-05-27T12:08:26Z
-            lat: 43.84243333
-            lng: 16.60411667
-            alt: 1168
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 5612
-            time: 2018-05-27T12:08:33Z
-            lat: 43.84203333
-            lng: 16.60363333
-            alt: 1165
-          - fix: 5613
-            time: 2018-05-27T12:08:34Z
-            lat: 43.84195
-            lng: 16.60363333
-            alt: 1164
-          inZone:
-          - true
-          - false
+      zonesCrossExcluded: []
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - zonesCrossSelected:
@@ -33628,305 +31596,6 @@ crossing:
           inZone:
           - true
           - false
-      - - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - null
-        - crossingPair:
-          - fix: 1301
-            time: 2018-05-27T11:01:32Z
-            lat: 43.83698333
-            lng: 16.62363333
-            alt: 1353
-          - fix: 1302
-            time: 2018-05-27T11:01:34Z
-            lat: 43.8368
-            lng: 16.62356667
-            alt: 1349
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 1638
-            time: 2018-05-27T11:12:44Z
-            lat: 43.83426667
-            lng: 16.62475
-            alt: 1146
-          - fix: 1639
-            time: 2018-05-27T11:12:46Z
-            lat: 43.83418333
-            lng: 16.625
-            alt: 1139
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2009
-            time: 2018-05-27T11:25:07Z
-            lat: 43.81715
-            lng: 16.66236667
-            alt: 1040
-          - fix: 2010
-            time: 2018-05-27T11:25:09Z
-            lat: 43.81695
-            lng: 16.66241667
-            alt: 1035
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2453
-            time: 2018-05-27T11:39:56Z
-            lat: 43.81778333
-            lng: 16.65068333
-            alt: 1235
-          - fix: 2454
-            time: 2018-05-27T11:39:58Z
-            lat: 43.81791667
-            lng: 16.65041667
-            alt: 1233
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2633
-            time: 2018-05-27T11:45:56Z
-            lat: 43.83491667
-            lng: 16.62461667
-            alt: 1280
-          - fix: 2634
-            time: 2018-05-27T11:45:58Z
-            lat: 43.83508333
-            lng: 16.62436667
-            alt: 1276
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 1360
-            time: 2018-05-27T11:03:30Z
-            lat: 43.82665
-            lng: 16.6163
-            alt: 1197
-          - fix: 1361
-            time: 2018-05-27T11:03:32Z
-            lat: 43.82646667
-            lng: 16.61621667
-            alt: 1195
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1366
-            time: 2018-05-27T11:03:41Z
-            lat: 43.82645
-            lng: 16.61525
-            alt: 1184
-          - fix: 1367
-            time: 2018-05-27T11:03:43Z
-            lat: 43.82661667
-            lng: 16.61505
-            alt: 1184
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2850
-            time: 2018-05-27T11:53:08Z
-            lat: 43.82563333
-            lng: 16.61268333
-            alt: 1036
-          - fix: 2851
-            time: 2018-05-27T11:53:10Z
-            lat: 43.82545
-            lng: 16.61271667
-            alt: 1033
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2883
-            time: 2018-05-27T11:54:14Z
-            lat: 43.8198
-            lng: 16.61396667
-            alt: 947
-          - fix: 2884
-            time: 2018-05-27T11:54:16Z
-            lat: 43.81961667
-            lng: 16.61396667
-            alt: 946
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 1449
-            time: 2018-05-27T11:06:27Z
-            lat: 43.8438
-            lng: 16.60565
-            alt: 1084
-          - fix: 1450
-            time: 2018-05-27T11:06:29Z
-            lat: 43.84398333
-            lng: 16.60546667
-            alt: 1083
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1462
-            time: 2018-05-27T11:06:51Z
-            lat: 43.8434
-            lng: 16.60505
-            alt: 1048
-          - fix: 1463
-            time: 2018-05-27T11:06:53Z
-            lat: 43.84326667
-            lng: 16.60521667
-            alt: 1046
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2732
-            time: 2018-05-27T11:49:14Z
-            lat: 43.84405
-            lng: 16.60598333
-            alt: 1389
-          - fix: 2733
-            time: 2018-05-27T11:49:16Z
-            lat: 43.84418333
-            lng: 16.60568333
-            alt: 1385
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2746
-            time: 2018-05-27T11:49:40Z
-            lat: 43.84328333
-            lng: 16.60506667
-            alt: 1348
-          - fix: 2747
-            time: 2018-05-27T11:49:42Z
-            lat: 43.84313333
-            lng: 16.60511667
-            alt: 1350
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 2334
-            time: 2018-05-27T11:35:59Z
-            lat: 43.79973333
-            lng: 16.67181667
-            alt: 1333
-          - fix: 2335
-            time: 2018-05-27T11:36:01Z
-            lat: 43.79958333
-            lng: 16.6718
-            alt: 1331
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2339
-            time: 2018-05-27T11:36:08Z
-            lat: 43.79956667
-            lng: 16.67131667
-            alt: 1333
-          - fix: 2340
-            time: 2018-05-27T11:36:10Z
-            lat: 43.79973333
-            lng: 16.67113333
-            alt: 1336
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 1449
-            time: 2018-05-27T11:06:27Z
-            lat: 43.8438
-            lng: 16.60565
-            alt: 1084
-          - fix: 1450
-            time: 2018-05-27T11:06:29Z
-            lat: 43.84398333
-            lng: 16.60546667
-            alt: 1083
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 1462
-            time: 2018-05-27T11:06:51Z
-            lat: 43.8434
-            lng: 16.60505
-            alt: 1048
-          - fix: 1463
-            time: 2018-05-27T11:06:53Z
-            lat: 43.84326667
-            lng: 16.60521667
-            alt: 1046
-          inZone:
-          - true
-          - false
-        - crossingPair:
-          - fix: 2732
-            time: 2018-05-27T11:49:14Z
-            lat: 43.84405
-            lng: 16.60598333
-            alt: 1389
-          - fix: 2733
-            time: 2018-05-27T11:49:16Z
-            lat: 43.84418333
-            lng: 16.60568333
-            alt: 1385
-          inZone:
-          - false
-          - true
-        - crossingPair:
-          - fix: 2746
-            time: 2018-05-27T11:49:40Z
-            lat: 43.84328333
-            lng: 16.60506667
-            alt: 1348
-          - fix: 2747
-            time: 2018-05-27T11:49:42Z
-            lat: 43.84313333
-            lng: 16.60511667
-            alt: 1350
-          inZone:
-          - true
-          - false
-      - - crossingPair:
-          - fix: 3265
-            time: 2018-05-27T12:06:58Z
-            lat: 43.76225
-            lng: 16.61898333
-            alt: 329
-          - fix: 3266
-            time: 2018-05-27T12:07:00Z
-            lat: 43.76206667
-            lng: 16.61903333
-            alt: 327
-          inZone:
-          - false
-          - true
-      zonesCrossExcluded:
       - - crossingPair:
           - fix: 554
             time: 2018-05-27T10:36:35Z
@@ -34249,6 +31918,217 @@ crossing:
           inZone:
           - true
           - false
+      - - crossingPair:
+          - fix: 1360
+            time: 2018-05-27T11:03:30Z
+            lat: 43.82665
+            lng: 16.6163
+            alt: 1197
+          - fix: 1361
+            time: 2018-05-27T11:03:32Z
+            lat: 43.82646667
+            lng: 16.61621667
+            alt: 1195
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1366
+            time: 2018-05-27T11:03:41Z
+            lat: 43.82645
+            lng: 16.61525
+            alt: 1184
+          - fix: 1367
+            time: 2018-05-27T11:03:43Z
+            lat: 43.82661667
+            lng: 16.61505
+            alt: 1184
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2850
+            time: 2018-05-27T11:53:08Z
+            lat: 43.82563333
+            lng: 16.61268333
+            alt: 1036
+          - fix: 2851
+            time: 2018-05-27T11:53:10Z
+            lat: 43.82545
+            lng: 16.61271667
+            alt: 1033
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2883
+            time: 2018-05-27T11:54:14Z
+            lat: 43.8198
+            lng: 16.61396667
+            alt: 947
+          - fix: 2884
+            time: 2018-05-27T11:54:16Z
+            lat: 43.81961667
+            lng: 16.61396667
+            alt: 946
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1449
+            time: 2018-05-27T11:06:27Z
+            lat: 43.8438
+            lng: 16.60565
+            alt: 1084
+          - fix: 1450
+            time: 2018-05-27T11:06:29Z
+            lat: 43.84398333
+            lng: 16.60546667
+            alt: 1083
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1462
+            time: 2018-05-27T11:06:51Z
+            lat: 43.8434
+            lng: 16.60505
+            alt: 1048
+          - fix: 1463
+            time: 2018-05-27T11:06:53Z
+            lat: 43.84326667
+            lng: 16.60521667
+            alt: 1046
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2732
+            time: 2018-05-27T11:49:14Z
+            lat: 43.84405
+            lng: 16.60598333
+            alt: 1389
+          - fix: 2733
+            time: 2018-05-27T11:49:16Z
+            lat: 43.84418333
+            lng: 16.60568333
+            alt: 1385
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2746
+            time: 2018-05-27T11:49:40Z
+            lat: 43.84328333
+            lng: 16.60506667
+            alt: 1348
+          - fix: 2747
+            time: 2018-05-27T11:49:42Z
+            lat: 43.84313333
+            lng: 16.60511667
+            alt: 1350
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2334
+            time: 2018-05-27T11:35:59Z
+            lat: 43.79973333
+            lng: 16.67181667
+            alt: 1333
+          - fix: 2335
+            time: 2018-05-27T11:36:01Z
+            lat: 43.79958333
+            lng: 16.6718
+            alt: 1331
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2339
+            time: 2018-05-27T11:36:08Z
+            lat: 43.79956667
+            lng: 16.67131667
+            alt: 1333
+          - fix: 2340
+            time: 2018-05-27T11:36:10Z
+            lat: 43.79973333
+            lng: 16.67113333
+            alt: 1336
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1449
+            time: 2018-05-27T11:06:27Z
+            lat: 43.8438
+            lng: 16.60565
+            alt: 1084
+          - fix: 1450
+            time: 2018-05-27T11:06:29Z
+            lat: 43.84398333
+            lng: 16.60546667
+            alt: 1083
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1462
+            time: 2018-05-27T11:06:51Z
+            lat: 43.8434
+            lng: 16.60505
+            alt: 1048
+          - fix: 1463
+            time: 2018-05-27T11:06:53Z
+            lat: 43.84326667
+            lng: 16.60521667
+            alt: 1046
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2732
+            time: 2018-05-27T11:49:14Z
+            lat: 43.84405
+            lng: 16.60598333
+            alt: 1389
+          - fix: 2733
+            time: 2018-05-27T11:49:16Z
+            lat: 43.84418333
+            lng: 16.60568333
+            alt: 1385
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2746
+            time: 2018-05-27T11:49:40Z
+            lat: 43.84328333
+            lng: 16.60506667
+            alt: 1348
+          - fix: 2747
+            time: 2018-05-27T11:49:42Z
+            lat: 43.84313333
+            lng: 16.60511667
+            alt: 1350
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 3265
+            time: 2018-05-27T12:06:58Z
+            lat: 43.76225
+            lng: 16.61898333
+            alt: 329
+          - fix: 3266
+            time: 2018-05-27T12:07:00Z
+            lat: 43.76206667
+            lng: 16.61903333
+            alt: 327
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
   - - - '101'
       - Tomaž Toplak
     - zonesCrossSelected:

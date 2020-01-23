@@ -164,6 +164,7 @@ tasks:
   earlyStart:
     earliest: 0 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 2
@@ -316,6 +317,7 @@ tasks:
   earlyStart:
     earliest: 0 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: Task 3
@@ -438,6 +440,7 @@ tasks:
   earlyStart:
     earliest: 0 s
     earlyPenalty: 0 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 taskFolders:
