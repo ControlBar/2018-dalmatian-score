@@ -1,6 +1,6 @@
 <Fs version="3.4">
   <FsCompetition id="12859" name="2018 XC Dalmatian Paragliding Open" location="Hrvace, Croatia" from="2018-05-24" to="2018-05-27" utc_offset="2" discipline="pg">
-    <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
+    <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
     <FsParticipants>
       <FsParticipant id="4" name="Alojz Tovornik"/>
       <FsParticipant id="9" name="Antoni Buljan"/>
@@ -36,7 +36,7 @@
     </FsParticipants>
     <FsTasks>
       <FsTask id="1" name="Task 1" tracklog_folder="Task 1">
-        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
         <FsTaskDefinition ss="2" es="7" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="GS1" lat="43.82973" lon="16.64243" altitude="849" radius="400" open="2018-05-24T12:00:00+02:00" close="2018-05-24T16:00:00+02:00"/>
           <FsTurnpoint id="G35" lat="43.84411" lon="16.6599" altitude="933" radius="3000" open="2018-05-24T12:30:00+02:00" close="2018-05-24T16:00:00+02:00"/>
@@ -258,7 +258,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="Task 2" tracklog_folder="Task 2">
-        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
         <FsTaskDefinition ss="2" es="9" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="GS1" lat="43.82973" lon="16.64243" altitude="849" radius="400" open="2018-05-26T12:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
           <FsTurnpoint id="G35" lat="43.84411" lon="16.6599" altitude="933" radius="3000" open="2018-05-26T13:00:00+02:00" close="2018-05-26T16:00:00+02:00"/>
@@ -477,7 +477,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="Task 3" tracklog_folder="Task 3">
-        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
+        <FsScoreFormula id="GAP2016" min_dist="1" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.2" jump_the_gun_factor="0" jump_the_gun_max="0" use_arrival_position_points="0" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="5" double_leading_weight="0"/>
         <FsTaskDefinition ss="2" es="7" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="GS1" lat="43.82973" lon="16.64243" altitude="849" radius="400" open="2018-05-27T11:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>
           <FsTurnpoint id="G35" lat="43.84411" lon="16.6599" altitude="933" radius="3000" open="2018-05-27T13:00:00+02:00" close="2018-05-27T16:00:00+02:00"/>

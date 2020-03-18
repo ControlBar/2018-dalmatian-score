@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: false
   arrivalTime: false
+  leadingAreaDistanceSquared: true
   leadingWeightScaling: 1
 tasks:
 - taskName: Task 1
@@ -160,6 +161,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: 1
   earlyStart:
     earliest: 0 s
@@ -313,6 +315,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: 1
   earlyStart:
     earliest: 0 s
@@ -436,6 +439,7 @@ tasks:
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: 1
   earlyStart:
     earliest: 0 s

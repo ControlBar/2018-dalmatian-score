@@ -13,9 +13,7 @@ stopWindow:
 stopFlying:
 - - - - '4'
       - Alojz Tovornik
-    - scoredFixes:
-      - 459
-      - 2236
+    - scoredFixes: null
       scoredSeconds:
       - 459
       - 2236
@@ -24,9 +22,7 @@ stopFlying:
       - 2018-05-24T10:57:12Z
   - - - '9'
       - Antoni Buljan
-    - scoredFixes:
-      - 0
-      - 581
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 581
@@ -35,9 +31,7 @@ stopFlying:
       - 2018-05-24T12:18:00Z
   - - - '13'
       - Balazs Szatmari
-    - scoredFixes:
-      - 0
-      - 4730
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 4730
@@ -46,9 +40,7 @@ stopFlying:
       - 2018-05-24T12:18:00Z
   - - - '16'
       - Bruno Matos
-    - scoredFixes:
-      - 4
-      - 3427
+    - scoredFixes: null
       scoredSeconds:
       - 4
       - 3427
@@ -57,9 +49,7 @@ stopFlying:
       - 2018-05-24T12:18:00Z
   - - - '21'
       - Damir Kalinger
-    - scoredFixes:
-      - 12
-      - 688
+    - scoredFixes: null
       scoredSeconds:
       - 13
       - 689
@@ -68,9 +58,7 @@ stopFlying:
       - 2018-05-24T11:10:50Z
   - - - '23'
       - David Šiljeg
-    - scoredFixes:
-      - 48
-      - 270
+    - scoredFixes: null
       scoredSeconds:
       - 48
       - 270
@@ -79,9 +67,7 @@ stopFlying:
       - 2018-05-24T12:18:00Z
   - - - '26'
       - Dušan Durkovič
-    - scoredFixes:
-      - 48
-      - 3024
+    - scoredFixes: null
       scoredSeconds:
       - 48
       - 3024
@@ -90,9 +76,7 @@ stopFlying:
       - 2018-05-24T11:09:54Z
   - - - '37'
       - Igor Eržen
-    - scoredFixes:
-      - 40
-      - 1323
+    - scoredFixes: null
       scoredSeconds:
       - 40
       - 1323
@@ -101,9 +85,7 @@ stopFlying:
       - 2018-05-24T11:41:11Z
   - - - '40'
       - Ivica Huljek
-    - scoredFixes:
-      - 18
-      - 435
+    - scoredFixes: null
       scoredSeconds:
       - 18
       - 435
@@ -112,9 +94,7 @@ stopFlying:
       - 2018-05-24T10:59:03Z
   - - - '41'
       - Ivo Duarte
-    - scoredFixes:
-      - 10
-      - 2108
+    - scoredFixes: null
       scoredSeconds:
       - 11
       - 2109
@@ -123,9 +103,7 @@ stopFlying:
       - 2018-05-24T11:14:51Z
   - - - '46'
       - Jerko Odžak
-    - scoredFixes:
-      - 0
-      - 768
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 785
@@ -134,9 +112,7 @@ stopFlying:
       - 2018-05-24T11:09:52Z
   - - - '114'
       - Joan Brito
-    - scoredFixes:
-      - 4
-      - 2823
+    - scoredFixes: null
       scoredSeconds:
       - 5
       - 2824
@@ -145,9 +121,7 @@ stopFlying:
       - 2018-05-24T11:26:59Z
   - - - '54'
       - Krešo  Kovačič
-    - scoredFixes:
-      - 15
-      - 338
+    - scoredFixes: null
       scoredSeconds:
       - 68
       - 1530
@@ -156,9 +130,7 @@ stopFlying:
       - 2018-05-24T11:41:18Z
   - - - '57'
       - Lara Leban
-    - scoredFixes:
-      - 48
-      - 3254
+    - scoredFixes: null
       scoredSeconds:
       - 48
       - 3254
@@ -167,9 +139,7 @@ stopFlying:
       - 2018-05-24T11:14:03Z
   - - - '63'
       - Marketa Tomaskova
-    - scoredFixes:
-      - 16
-      - 877
+    - scoredFixes: null
       scoredSeconds:
       - 16
       - 877
@@ -178,9 +148,7 @@ stopFlying:
       - 2018-05-24T12:18:00Z
   - - - '72'
       - Mitja Jančič
-    - scoredFixes:
-      - 44
-      - 4673
+    - scoredFixes: null
       scoredSeconds:
       - 44
       - 4673
@@ -189,9 +157,7 @@ stopFlying:
       - 2018-05-24T11:21:19Z
   - - - '73'
       - Mitja Jug
-    - scoredFixes:
-      - 276
-      - 1554
+    - scoredFixes: null
       scoredSeconds:
       - 276
       - 1554
@@ -200,9 +166,7 @@ stopFlying:
       - 2018-05-24T10:49:13Z
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - scoredFixes:
-      - 16
-      - 958
+    - scoredFixes: null
       scoredSeconds:
       - 17
       - 959
@@ -211,9 +175,7 @@ stopFlying:
       - 2018-05-24T11:35:49Z
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
-    - scoredFixes:
-      - 0
-      - 469
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 470
@@ -225,9 +187,7 @@ stopFlying:
     - null
   - - - '86'
       - Sandi Krč
-    - scoredFixes:
-      - 47
-      - 3176
+    - scoredFixes: null
       scoredSeconds:
       - 47
       - 3176
@@ -239,9 +199,7 @@ stopFlying:
     - null
   - - - '98'
       - Tomas Svoboda
-    - scoredFixes:
-      - 5
-      - 3135
+    - scoredFixes: null
       scoredSeconds:
       - 180
       - 6554
@@ -250,9 +208,7 @@ stopFlying:
       - 2018-05-24T12:18:00Z
   - - - '101'
       - Tomaž Toplak
-    - scoredFixes:
-      - 26
-      - 4108
+    - scoredFixes: null
       scoredSeconds:
       - 26
       - 4110
@@ -261,9 +217,7 @@ stopFlying:
       - 2018-05-24T11:35:22Z
   - - - '102'
       - Tomislav Gomerčić
-    - scoredFixes:
-      - 679
-      - 885
+    - scoredFixes: null
       scoredSeconds:
       - 3115
       - 4059
@@ -275,9 +229,7 @@ stopFlying:
     - null
 - - - - '4'
       - Alojz Tovornik
-    - scoredFixes:
-      - 456
-      - 3180
+    - scoredFixes: null
       scoredSeconds:
       - 456
       - 3180
@@ -286,9 +238,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '9'
       - Antoni Buljan
-    - scoredFixes:
-      - 47
-      - 1256
+    - scoredFixes: null
       scoredSeconds:
       - 47
       - 1256
@@ -297,9 +247,7 @@ stopFlying:
       - 2018-05-26T11:56:20Z
   - - - '13'
       - Balazs Szatmari
-    - scoredFixes:
-      - 3
-      - 3450
+    - scoredFixes: null
       scoredSeconds:
       - 3
       - 3450
@@ -308,9 +256,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '16'
       - Bruno Matos
-    - scoredFixes:
-      - 14
-      - 4115
+    - scoredFixes: null
       scoredSeconds:
       - 14
       - 4115
@@ -319,9 +265,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '21'
       - Damir Kalinger
-    - scoredFixes:
-      - 5
-      - 636
+    - scoredFixes: null
       scoredSeconds:
       - 6
       - 637
@@ -330,9 +274,7 @@ stopFlying:
       - 2018-05-26T11:32:50Z
   - - - '26'
       - Dušan Durkovič
-    - scoredFixes:
-      - 46
-      - 5573
+    - scoredFixes: null
       scoredSeconds:
       - 46
       - 5573
@@ -341,9 +283,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '37'
       - Igor Eržen
-    - scoredFixes:
-      - 47
-      - 4507
+    - scoredFixes: null
       scoredSeconds:
       - 47
       - 4507
@@ -352,9 +292,7 @@ stopFlying:
       - 2018-05-26T12:02:46Z
   - - - '40'
       - Ivica Huljek
-    - scoredFixes:
-      - 0
-      - 82
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 1117
@@ -363,9 +301,7 @@ stopFlying:
       - 2018-05-26T11:28:25Z
   - - - '41'
       - Ivo Duarte
-    - scoredFixes:
-      - 10
-      - 4194
+    - scoredFixes: null
       scoredSeconds:
       - 11
       - 4480
@@ -374,9 +310,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '46'
       - Jerko Odžak
-    - scoredFixes:
-      - 0
-      - 4287
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 4330
@@ -385,9 +319,7 @@ stopFlying:
       - 2018-05-26T12:02:55Z
   - - - '114'
       - Joan Brito
-    - scoredFixes:
-      - 11
-      - 4683
+    - scoredFixes: null
       scoredSeconds:
       - 11
       - 4683
@@ -396,9 +328,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '54'
       - Krešo  Kovačič
-    - scoredFixes:
-      - 0
-      - 503
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 4989
@@ -407,9 +337,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '57'
       - Lara Leban
-    - scoredFixes:
-      - 46
-      - 4940
+    - scoredFixes: null
       scoredSeconds:
       - 46
       - 4940
@@ -418,9 +346,7 @@ stopFlying:
       - 2018-05-26T11:59:49Z
   - - - '63'
       - Marketa Tomaskova
-    - scoredFixes:
-      - 16
-      - 3360
+    - scoredFixes: null
       scoredSeconds:
       - 16
       - 3360
@@ -429,9 +355,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '72'
       - Mitja Jančič
-    - scoredFixes:
-      - 24
-      - 5749
+    - scoredFixes: null
       scoredSeconds:
       - 24
       - 5749
@@ -440,9 +364,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '73'
       - Mitja Jug
-    - scoredFixes:
-      - 0
-      - 362
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 1956
@@ -451,9 +373,7 @@ stopFlying:
       - 2018-05-26T12:04:08Z
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
-    - scoredFixes:
-      - 14
-      - 4780
+    - scoredFixes: null
       scoredSeconds:
       - 15
       - 4781
@@ -465,9 +385,7 @@ stopFlying:
     - null
   - - - '86'
       - Sandi Krč
-    - scoredFixes:
-      - 46
-      - 4215
+    - scoredFixes: null
       scoredSeconds:
       - 46
       - 4215
@@ -479,9 +397,7 @@ stopFlying:
     - null
   - - - '95'
       - Stojan Kranjc
-    - scoredFixes:
-      - 45
-      - 4407
+    - scoredFixes: null
       scoredSeconds:
       - 45
       - 4407
@@ -490,9 +406,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '98'
       - Tomas Svoboda
-    - scoredFixes:
-      - 0
-      - 2384
+    - scoredFixes: null
       scoredSeconds:
       - 0
       - 5053
@@ -501,9 +415,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '101'
       - Tomaž Toplak
-    - scoredFixes:
-      - 22
-      - 4701
+    - scoredFixes: null
       scoredSeconds:
       - 22
       - 4704
@@ -512,9 +424,7 @@ stopFlying:
       - 2018-05-26T12:05:00Z
   - - - '113'
       - Zsolt Sandor
-    - scoredFixes:
-      - 14
-      - 3453
+    - scoredFixes: null
       scoredSeconds:
       - 14
       - 3453
