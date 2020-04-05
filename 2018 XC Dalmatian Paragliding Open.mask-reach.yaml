@@ -1,7 +1,7 @@
 bolster:
 - max: 12.025382 km
-  mean: 4.071111 km
-  stdDev: 3.387935 km
+  mean: 4.244457 km
+  stdDev: 3.400300 km
 - max: 20.365516 km
   mean: 12.267341 km
   stdDev: 7.352347 km
@@ -10,8 +10,8 @@ bolster:
   stdDev: 9.376208 km
 reach:
 - max: 12.025382 km
-  mean: 3.893261 km
-  stdDev: 3.560779 km
+  mean: 4.066607 km
+  stdDev: 3.581164 km
 - max: 20.365516 km
   mean: 12.218320 km
   stdDev: 7.429904 km
@@ -43,6 +43,10 @@ reachRank:
       - Joan Brito
     - frac: 0.64841034
       reach: 7.797382 km
+  - - - '13'
+      - Balazs Szatmari
+    - frac: 0.55327822
+      reach: 6.653382 km
   - - - '86'
       - Sandi Krč
     - frac: 0.49382065
@@ -75,10 +79,6 @@ reachRank:
       - Damir Kalinger
     - frac: 0.23137577
       reach: 2.782382 km
-  - - - '13'
-      - Balazs Szatmari
-    - frac: 0.17848764
-      reach: 2.146382 km
   - - - '73'
       - Mitja Jug
     - frac: 0.1764087
@@ -449,29 +449,29 @@ nigh:
   - - - '13'
       - Balazs Szatmari
     - togo:
-        distance: 18.390876 km
+        distance: 22.478963 km
         flipSum:
-        - 18.390876 km
-        - 16.555175 km
-        - 4.775362 km
+        - 22.478963 km
+        - 16.440803 km
+        - 4.771080 km
         legs:
-        - 1.835701 km
-        - 11.779812 km
-        - 4.775362 km
+        - 6.038160 km
+        - 11.669723 km
+        - 4.771080 km
         legsSum:
-        - 1.835701 km
-        - 13.615513 km
-        - 18.390876 km
+        - 6.038160 km
+        - 17.707884 km
+        - 22.478963 km
         waypoints:
-        - lat: 43.82191667
-          lng: 16.621
-        - lat: 43.81981217
-          lng: 16.59830564
-        - lat: 43.73442549
-          lng: 16.68515185
+        - lat: 43.78771667
+          lng: 16.65911667
+        - lat: 43.81726085
+          lng: 16.59598774
+        - lat: 43.73430077
+          lng: 16.68501023
         - lat: 43.7528687
           lng: 16.63146723
-      made: 2.146382 km
+      made: 6.653382 km
   - - - '41'
       - Ivo Duarte
     - togo:

@@ -1,7 +1,7 @@
 bolster:
 - max: 13.665382 km
-  mean: 4.990563 km
-  stdDev: 3.737018 km
+  mean: 5.138909 km
+  stdDev: 3.803363 km
 - max: 22.725516 km
   mean: 13.565450 km
   stdDev: 7.883810 km
@@ -10,8 +10,8 @@ bolster:
   stdDev: 9.376208 km
 reach:
 - max: 13.665382 km
-  mean: 4.844992 km
-  stdDev: 3.902734 km
+  mean: 4.993338 km
+  stdDev: 3.971749 km
 - max: 22.725516 km
   mean: 13.521972 km
   stdDev: 7.955419 km
@@ -39,6 +39,10 @@ reachRank:
       - Mitja Jančič
     - frac: 0.66162673
       reach: 9.041382 km
+  - - - '13'
+      - Balazs Szatmari
+    - frac: 0.63513643
+      reach: 8.679382 km
   - - - '114'
       - Joan Brito
     - frac: 0.60286511
@@ -59,10 +63,6 @@ reachRank:
       - Alojz Tovornik
     - frac: 0.40601734
       reach: 5.548382 km
-  - - - '13'
-      - Balazs Szatmari
-    - frac: 0.35289039
-      reach: 4.822382 km
   - - - '37'
       - Igor Eržen
     - frac: 0.30803252
@@ -357,12 +357,12 @@ nigh:
   - - - '13'
       - Balazs Szatmari
     - togo:
-        distance: 24.839000 km
+        distance: 20.982000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 4.822382 km
+      made: 8.679382 km
   - - - '41'
       - Ivo Duarte
     - togo:
