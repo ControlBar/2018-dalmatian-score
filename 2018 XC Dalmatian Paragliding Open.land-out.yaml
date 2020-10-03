@@ -46,7 +46,7 @@ difficulty:
       - Tomislav Gomerčić
     downward: 14
     rel: 1.333333e-2
-    frac: 3.904762e-2
+    frac: 3.90625e-2
   - chunk: 3
     startChunk: 0.3 km
     endChunk: 0.4 km
@@ -59,7 +59,7 @@ difficulty:
       - David Šiljeg
     downward: 13
     rel: 1.238095e-2
-    frac: 5.142857e-2
+    frac: 5.151367e-2
   - chunk: 5
     startChunk: 0.5 km
     endChunk: 0.6 km
@@ -75,7 +75,7 @@ difficulty:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     downward: 13
     rel: 1.238095e-2
-    frac: 7.619048e-2
+    frac: 7.617188e-2
   - chunk: 6
     startChunk: 0.6 km
     endChunk: 0.7 km
@@ -91,7 +91,7 @@ difficulty:
       - Ivica Huljek
     downward: 11
     rel: 1.047619e-2
-    frac: 8.666667e-2
+    frac: 8.666992e-2
   - chunk: 10
     startChunk: 1.0 km
     endChunk: 1.1 km
@@ -110,7 +110,7 @@ difficulty:
       - Zsolt Sandor
     downward: 9
     rel: 8.57143e-3
-    frac: 0.12095238
+    frac: 0.12084961
   - chunk: 18
     startChunk: 1.8 km
     endChunk: 1.9 km
@@ -123,7 +123,7 @@ difficulty:
       - Antoni Buljan
     downward: 6
     rel: 5.71429e-3
-    frac: 0.16666667
+    frac: 0.16674805
   - chunk: 21
     startChunk: 2.1 km
     endChunk: 2.2 km
@@ -136,7 +136,7 @@ difficulty:
       - Mitja Jug
     downward: 5
     rel: 4.7619e-3
-    frac: 0.18095238
+    frac: 0.1809082
   - chunk: 27
     startChunk: 2.7 km
     endChunk: 2.8 km
@@ -149,7 +149,7 @@ difficulty:
       - Damir Kalinger
     downward: 8
     rel: 7.61905e-3
-    frac: 0.22571429
+    frac: 0.22583008
   - chunk: 29
     startChunk: 2.9 km
     endChunk: 3.0 km
@@ -162,7 +162,7 @@ difficulty:
       - Krešo  Kovačič
     downward: 7
     rel: 6.66667e-3
-    frac: 0.23904762
+    frac: 0.23901367
   - chunk: 30
     startChunk: 3.0 km
     endChunk: 3.1 km
@@ -175,7 +175,7 @@ difficulty:
       - Nuno Filipe da Fonseca Bastos Gomes
     downward: 6
     rel: 5.71429e-3
-    frac: 0.2447619
+    frac: 0.24487305
   - chunk: 33
     startChunk: 3.3 km
     endChunk: 3.4 km
@@ -188,7 +188,7 @@ difficulty:
       - Igor Eržen
     downward: 5
     rel: 4.7619e-3
-    frac: 0.25904762
+    frac: 0.2590332
   - chunk: 51
     startChunk: 5.1 km
     endChunk: 5.2 km
@@ -207,7 +207,7 @@ difficulty:
       - Dušan Durkovič
     downward: 6
     rel: 5.71429e-3
-    frac: 0.34
+    frac: 0.34008789
   - chunk: 52
     startChunk: 5.2 km
     endChunk: 5.3 km
@@ -220,7 +220,7 @@ difficulty:
       - Ivo Duarte
     downward: 3
     rel: 2.85714e-3
-    frac: 0.34285714
+    frac: 0.34277344
   - chunk: 72
     startChunk: 7.2 km
     endChunk: 7.3 km
@@ -233,7 +233,7 @@ difficulty:
       - Balazs Szatmari
     downward: 5
     rel: 4.7619e-3
-    frac: 0.42571429
+    frac: 0.42578125
   - chunk: 77
     startChunk: 7.7 km
     endChunk: 7.8 km
@@ -246,7 +246,7 @@ difficulty:
       - Joan Brito
     downward: 4
     rel: 3.80952e-3
-    frac: 0.4447619
+    frac: 0.44482422
   - chunk: 85
     startChunk: 8.5 km
     endChunk: 8.6 km
@@ -259,7 +259,7 @@ difficulty:
       - Mitja Jančič
     downward: 3
     rel: 2.85714e-3
-    frac: 0.46761905
+    frac: 0.4675293
   - chunk: 86
     startChunk: 8.6 km
     endChunk: 8.7 km
@@ -272,7 +272,7 @@ difficulty:
       - Bruno Matos
     downward: 2
     rel: 1.90476e-3
-    frac: 0.46952381
+    frac: 0.46948242
   - chunk: 88
     startChunk: 8.8 km
     endChunk: 8.9 km
@@ -285,7 +285,7 @@ difficulty:
       - Lara Leban
     downward: 1
     rel: 9.5238e-4
-    frac: 0.47142857
+    frac: 0.47143555
   - chunk: 120
     startChunk: 12.0 km
     endChunk: 12.1 km
@@ -311,7 +311,7 @@ difficulty:
       - Antoni Buljan
     downward: 5
     rel: 5.21921e-3
-    frac: 9.39457e-3
+    frac: 9.27734e-3
   - chunk: 10
     startChunk: 1.0 km
     endChunk: 1.1 km
@@ -324,7 +324,7 @@ difficulty:
       - Slava Jelić
     downward: 4
     rel: 4.17537e-3
-    frac: 4.697286e-2
+    frac: 4.6875e-2
   - chunk: 20
     startChunk: 2.0 km
     endChunk: 2.1 km
@@ -337,7 +337,7 @@ difficulty:
       - Ivica Huljek
     downward: 4
     rel: 4.17537e-3
-    frac: 8.350731e-2
+    frac: 8.349609e-2
   - chunk: 24
     startChunk: 2.4 km
     endChunk: 2.5 km
@@ -350,7 +350,7 @@ difficulty:
       - Damir Kalinger
     downward: 3
     rel: 3.13152e-3
-    frac: 9.60334e-2
+    frac: 9.594727e-2
   - chunk: 30
     startChunk: 3.0 km
     endChunk: 3.1 km
@@ -363,7 +363,7 @@ difficulty:
       - Mitja Jug
     downward: 3
     rel: 3.13152e-3
-    frac: 0.11064718
+    frac: 0.1105957
   - chunk: 45
     startChunk: 4.5 km
     endChunk: 4.6 km
@@ -376,7 +376,7 @@ difficulty:
       - Jerko Odžak
     downward: 4
     rel: 4.17537e-3
-    frac: 0.15240084
+    frac: 0.15234375
   - chunk: 58
     startChunk: 5.8 km
     endChunk: 5.9 km
@@ -389,7 +389,7 @@ difficulty:
       - Marketa Tomaskova
     downward: 3
     rel: 3.13152e-3
-    frac: 0.19311065
+    frac: 0.19311523
   - chunk: 70
     startChunk: 7.0 km
     endChunk: 7.1 km
@@ -405,7 +405,7 @@ difficulty:
       - Zsolt Sandor
     downward: 4
     rel: 4.17537e-3
-    frac: 0.23590814
+    frac: 0.23583984
   - chunk: 89
     startChunk: 8.9 km
     endChunk: 9.0 km
@@ -418,7 +418,7 @@ difficulty:
       - Alojz Tovornik
     downward: 2
     rel: 2.08768e-3
-    frac: 0.27557411
+    frac: 0.27563477
   - chunk: 94
     startChunk: 9.4 km
     endChunk: 9.5 km
@@ -431,7 +431,7 @@ difficulty:
       - Sandi Krč
     downward: 1
     rel: 1.04384e-3
-    frac: 0.28079332
+    frac: 0.28076172
   - chunk: 159
     startChunk: 15.9 km
     endChunk: 16.0 km
@@ -444,7 +444,7 @@ difficulty:
       - Lara Leban
     downward: 5
     rel: 5.21921e-3
-    frac: 0.36951983
+    frac: 0.36962891
   - chunk: 167
     startChunk: 16.7 km
     endChunk: 16.8 km
@@ -457,7 +457,7 @@ difficulty:
       - Igor Eržen
     downward: 5
     rel: 5.21921e-3
-    frac: 0.40501044
+    frac: 0.4050293
   - chunk: 169
     startChunk: 16.9 km
     endChunk: 17.0 km
@@ -470,7 +470,7 @@ difficulty:
       - Joan Brito
     downward: 4
     rel: 4.17537e-3
-    frac: 0.41336117
+    frac: 0.41333008
   - chunk: 179
     startChunk: 17.9 km
     endChunk: 18.0 km
@@ -483,7 +483,7 @@ difficulty:
       - Bruno Matos
     downward: 4
     rel: 4.17537e-3
-    frac: 0.45407098
+    frac: 0.45410156
   - chunk: 186
     startChunk: 18.6 km
     endChunk: 18.7 km
@@ -496,7 +496,7 @@ difficulty:
       - Stojan Kranjc
     downward: 3
     rel: 3.13152e-3
-    frac: 0.47599165
+    frac: 0.47607422
   - chunk: 195
     startChunk: 19.5 km
     endChunk: 19.6 km
@@ -509,7 +509,7 @@ difficulty:
       - Ivo Duarte
     downward: 2
     rel: 2.08768e-3
-    frac: 0.49478079
+    frac: 0.49487305
   - chunk: 200
     startChunk: 20.0 km
     endChunk: 20.1 km
@@ -538,7 +538,7 @@ difficulty:
       - Ivica Huljek
     downward: 4
     rel: 4.158e-3
-    frac: 4.158e-3
+    frac: 4.15039e-3
   - chunk: 10
     startChunk: 1.0 km
     endChunk: 1.1 km
@@ -551,7 +551,7 @@ difficulty:
       - Slava Jelić
     downward: 2
     rel: 2.079e-3
-    frac: 2.494802e-2
+    frac: 2.490234e-2
   - chunk: 32
     startChunk: 3.2 km
     endChunk: 3.3 km
@@ -564,7 +564,7 @@ difficulty:
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     downward: 1
     rel: 1.0395e-3
-    frac: 4.781705e-2
+    frac: 4.785156e-2
   - chunk: 141
     startChunk: 14.1 km
     endChunk: 14.2 km
@@ -577,7 +577,7 @@ difficulty:
       - David Šiljeg
     downward: 3
     rel: 3.1185e-3
-    frac: 0.14760915
+    frac: 0.14770508
   - chunk: 220
     startChunk: 22.0 km
     endChunk: 22.1 km
@@ -590,7 +590,7 @@ difficulty:
       - Ivo Duarte
     downward: 4
     rel: 4.158e-3
-    frac: 0.45945946
+    frac: 0.45947266
   - chunk: 227
     startChunk: 22.7 km
     endChunk: 22.8 km
@@ -603,7 +603,7 @@ difficulty:
       - Lara Leban
     downward: 3
     rel: 3.1185e-3
-    frac: 0.48128898
+    frac: 0.48120117
   - chunk: 228
     startChunk: 22.8 km
     endChunk: 22.9 km
@@ -616,7 +616,7 @@ difficulty:
       - Igor Eržen
     downward: 2
     rel: 2.079e-3
-    frac: 0.48336798
+    frac: 0.48339844
   - chunk: 244
     startChunk: 24.4 km
     endChunk: 24.5 km
