@@ -20,7 +20,9 @@ stopFlying:
 - - - - '4'
       - Alojz Tovornik
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 604
+        - 2236
         racingGateSeconds:
         - 604
         - 2236
@@ -29,7 +31,9 @@ stopFlying:
         - 2018-05-24T10:57:12Z
         racingGateWindowSeconds: 1632
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1090
+        - 2236
         racingStartSeconds:
         - 1090
         - 2236
@@ -38,7 +42,9 @@ stopFlying:
         - 2018-05-24T10:57:12Z
         racingStartWindowSeconds: 1146
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 459
+        - 2236
         scoredSeconds:
         - 459
         - 2236
@@ -49,7 +55,9 @@ stopFlying:
   - - - '9'
       - Antoni Buljan
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 581
         racingGateSeconds:
         - -5899
         - 581
@@ -58,7 +66,9 @@ stopFlying:
         - 2018-05-24T12:18:00Z
         racingGateWindowSeconds: 6480
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 536
+        - 581
         racingStartSeconds:
         - 536
         - 581
@@ -67,7 +77,9 @@ stopFlying:
         - 2018-05-24T12:18:00Z
         racingStartWindowSeconds: 45
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 581
         scoredSeconds:
         - 0
         - 581
@@ -78,7 +90,9 @@ stopFlying:
   - - - '13'
       - Balazs Szatmari
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 4730
         racingGateSeconds:
         - -1750
         - 4730
@@ -87,7 +101,9 @@ stopFlying:
         - 2018-05-24T12:18:00Z
         racingGateWindowSeconds: 6480
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1699
+        - 4730
         racingStartSeconds:
         - 1698
         - 4730
@@ -96,7 +112,9 @@ stopFlying:
         - 2018-05-24T12:18:00Z
         racingStartWindowSeconds: 3032
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 4730
         scoredSeconds:
         - 0
         - 4730
@@ -107,7 +125,9 @@ stopFlying:
   - - - '16'
       - Bruno Matos
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 3427
         racingGateSeconds:
         - -3053
         - 3427
@@ -116,7 +136,9 @@ stopFlying:
         - 2018-05-24T12:18:00Z
         racingGateWindowSeconds: 6480
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 626
+        - 3427
         racingStartSeconds:
         - 626
         - 3427
@@ -125,7 +147,9 @@ stopFlying:
         - 2018-05-24T12:18:00Z
         racingStartWindowSeconds: 2801
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 4
+        - 3427
         scoredSeconds:
         - 4
         - 3427
@@ -136,7 +160,9 @@ stopFlying:
   - - - '21'
       - Damir Kalinger
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 689
         racingGateSeconds:
         - -1761
         - 689
@@ -145,7 +171,9 @@ stopFlying:
         - 2018-05-24T11:10:50Z
         racingGateWindowSeconds: 2450
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 162
+        - 689
         racingStartSeconds:
         - 162
         - 689
@@ -154,7 +182,9 @@ stopFlying:
         - 2018-05-24T11:10:50Z
         racingStartWindowSeconds: 527
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 13
+        - 689
         scoredSeconds:
         - 13
         - 689
@@ -165,7 +195,9 @@ stopFlying:
   - - - '23'
       - David Šiljeg
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 270
         racingGateSeconds:
         - -6210
         - 270
@@ -175,7 +207,9 @@ stopFlying:
         racingGateWindowSeconds: 6480
       stopRacingStart: null
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 48
+        - 270
         scoredSeconds:
         - 48
         - 270
@@ -186,7 +220,9 @@ stopFlying:
   - - - '26'
       - Dušan Durkovič
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 630
+        - 3024
         racingGateSeconds:
         - 630
         - 3024
@@ -195,7 +231,9 @@ stopFlying:
         - 2018-05-24T11:09:54Z
         racingGateWindowSeconds: 2394
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1111
+        - 3024
         racingStartSeconds:
         - 1110
         - 3024
@@ -204,7 +242,9 @@ stopFlying:
         - 2018-05-24T11:09:54Z
         racingStartWindowSeconds: 1914
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 48
+        - 3024
         scoredSeconds:
         - 48
         - 3024
@@ -215,7 +255,9 @@ stopFlying:
   - - - '37'
       - Igor Eržen
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 1323
         racingGateSeconds:
         - -2948
         - 1323
@@ -224,7 +266,9 @@ stopFlying:
         - 2018-05-24T11:41:11Z
         racingGateWindowSeconds: 4271
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 724
+        - 1323
         racingStartSeconds:
         - 724
         - 1323
@@ -233,7 +277,9 @@ stopFlying:
         - 2018-05-24T11:41:11Z
         racingStartWindowSeconds: 599
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 40
+        - 1323
         scoredSeconds:
         - 40
         - 1323
@@ -244,7 +290,9 @@ stopFlying:
   - - - '40'
       - Ivica Huljek
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 435
         racingGateSeconds:
         - -1308
         - 435
@@ -253,7 +301,9 @@ stopFlying:
         - 2018-05-24T10:59:03Z
         racingGateWindowSeconds: 1743
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 355
+        - 435
         racingStartSeconds:
         - 354
         - 435
@@ -262,7 +312,9 @@ stopFlying:
         - 2018-05-24T10:59:03Z
         racingStartWindowSeconds: 81
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 18
+        - 435
         scoredSeconds:
         - 18
         - 435
@@ -273,7 +325,9 @@ stopFlying:
   - - - '41'
       - Ivo Duarte
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 2109
         racingGateSeconds:
         - -582
         - 2109
@@ -282,7 +336,9 @@ stopFlying:
         - 2018-05-24T11:14:51Z
         racingGateWindowSeconds: 2691
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1116
+        - 2109
         racingStartSeconds:
         - 1116
         - 2109
@@ -291,7 +347,9 @@ stopFlying:
         - 2018-05-24T11:14:51Z
         racingStartWindowSeconds: 993
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 11
+        - 2109
         scoredSeconds:
         - 11
         - 2109
@@ -302,7 +360,9 @@ stopFlying:
   - - - '46'
       - Jerko Odžak
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 769
         racingGateSeconds:
         - -1607
         - 785
@@ -311,7 +371,9 @@ stopFlying:
         - 2018-05-24T11:09:52Z
         racingGateWindowSeconds: 2392
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 736
+        - 769
         racingStartSeconds:
         - 746
         - 785
@@ -320,7 +382,9 @@ stopFlying:
         - 2018-05-24T11:09:52Z
         racingStartWindowSeconds: 39
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 769
         scoredSeconds:
         - 0
         - 785
@@ -331,7 +395,9 @@ stopFlying:
   - - - '114'
       - Joan Brito
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 2824
         racingGateSeconds:
         - -595
         - 2824
@@ -340,7 +406,9 @@ stopFlying:
         - 2018-05-24T11:26:59Z
         racingGateWindowSeconds: 3419
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1286
+        - 2824
         racingStartSeconds:
         - 1285
         - 2824
@@ -349,7 +417,9 @@ stopFlying:
         - 2018-05-24T11:26:59Z
         racingStartWindowSeconds: 1539
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 5
+        - 2824
         scoredSeconds:
         - 5
         - 2824
@@ -360,7 +430,9 @@ stopFlying:
   - - - '54'
       - Krešo  Kovačič
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 338
         racingGateSeconds:
         - -2748
         - 1530
@@ -369,7 +441,9 @@ stopFlying:
         - 2018-05-24T11:41:18Z
         racingGateWindowSeconds: 4278
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 176
+        - 338
         racingStartSeconds:
         - 796
         - 1530
@@ -378,7 +452,9 @@ stopFlying:
         - 2018-05-24T11:41:18Z
         racingStartWindowSeconds: 734
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 15
+        - 338
         scoredSeconds:
         - 68
         - 1530
@@ -389,7 +465,9 @@ stopFlying:
   - - - '57'
       - Lara Leban
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 611
+        - 3254
         racingGateSeconds:
         - 611
         - 3254
@@ -398,7 +476,9 @@ stopFlying:
         - 2018-05-24T11:14:03Z
         racingGateWindowSeconds: 2643
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1022
+        - 3254
         racingStartSeconds:
         - 1022
         - 3254
@@ -407,7 +487,9 @@ stopFlying:
         - 2018-05-24T11:14:03Z
         racingStartWindowSeconds: 2232
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 48
+        - 3254
         scoredSeconds:
         - 48
         - 3254
@@ -418,7 +500,9 @@ stopFlying:
   - - - '63'
       - Marketa Tomaskova
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 877
         racingGateSeconds:
         - -5603
         - 877
@@ -428,7 +512,9 @@ stopFlying:
         racingGateWindowSeconds: 6480
       stopRacingStart: null
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 16
+        - 877
         scoredSeconds:
         - 16
         - 877
@@ -439,7 +525,9 @@ stopFlying:
   - - - '72'
       - Mitja Jančič
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 1594
+        - 4673
         racingGateSeconds:
         - 1594
         - 4673
@@ -448,7 +536,9 @@ stopFlying:
         - 2018-05-24T11:21:19Z
         racingGateWindowSeconds: 3079
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1884
+        - 4673
         racingStartSeconds:
         - 1883
         - 4673
@@ -457,7 +547,9 @@ stopFlying:
         - 2018-05-24T11:21:19Z
         racingStartWindowSeconds: 2790
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 44
+        - 4673
         scoredSeconds:
         - 44
         - 4673
@@ -468,7 +560,9 @@ stopFlying:
   - - - '73'
       - Mitja Jug
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 401
+        - 1554
         racingGateSeconds:
         - 401
         - 1554
@@ -477,7 +571,9 @@ stopFlying:
         - 2018-05-24T10:49:13Z
         racingGateWindowSeconds: 1153
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1224
+        - 1554
         racingStartSeconds:
         - 1223
         - 1554
@@ -486,7 +582,9 @@ stopFlying:
         - 2018-05-24T10:49:13Z
         racingStartWindowSeconds: 331
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 276
+        - 1554
         scoredSeconds:
         - 276
         - 1554
@@ -497,7 +595,9 @@ stopFlying:
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 959
         racingGateSeconds:
         - -2990
         - 959
@@ -506,7 +606,9 @@ stopFlying:
         - 2018-05-24T11:35:49Z
         racingGateWindowSeconds: 3949
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 637
+        - 959
         racingStartSeconds:
         - 637
         - 959
@@ -515,7 +617,9 @@ stopFlying:
         - 2018-05-24T11:35:49Z
         racingStartWindowSeconds: 322
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 17
+        - 959
         scoredSeconds:
         - 17
         - 959
@@ -526,7 +630,9 @@ stopFlying:
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 470
         racingGateSeconds:
         - -4476
         - 470
@@ -535,7 +641,9 @@ stopFlying:
         - 2018-05-24T11:52:26Z
         racingGateWindowSeconds: 4946
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 323
+        - 470
         racingStartSeconds:
         - 322
         - 470
@@ -544,7 +652,9 @@ stopFlying:
         - 2018-05-24T11:52:26Z
         racingStartWindowSeconds: 148
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 470
         scoredSeconds:
         - 0
         - 470
@@ -560,7 +670,9 @@ stopFlying:
   - - - '86'
       - Sandi Krč
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 3176
         racingGateSeconds:
         - -123
         - 3176
@@ -569,7 +681,9 @@ stopFlying:
         - 2018-05-24T11:24:59Z
         racingGateWindowSeconds: 3299
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 748
+        - 3176
         racingStartSeconds:
         - 748
         - 3176
@@ -578,7 +692,9 @@ stopFlying:
         - 2018-05-24T11:24:59Z
         racingStartWindowSeconds: 2428
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 47
+        - 3176
         scoredSeconds:
         - 47
         - 3176
@@ -594,7 +710,9 @@ stopFlying:
   - - - '98'
       - Tomas Svoboda
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 3
+        - 3136
         racingGateSeconds:
         - 74
         - 6554
@@ -603,7 +721,9 @@ stopFlying:
         - 2018-05-24T12:18:00Z
         racingGateWindowSeconds: 6480
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 760
+        - 3136
         racingStartSeconds:
         - 1798
         - 6554
@@ -612,7 +732,9 @@ stopFlying:
         - 2018-05-24T12:18:00Z
         racingStartWindowSeconds: 4756
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 6
+        - 3136
         scoredSeconds:
         - 180
         - 6554
@@ -623,7 +745,9 @@ stopFlying:
   - - - '101'
       - Tomaž Toplak
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 188
+        - 4108
         racingGateSeconds:
         - 188
         - 4110
@@ -632,7 +756,9 @@ stopFlying:
         - 2018-05-24T11:35:22Z
         racingGateWindowSeconds: 3922
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1112
+        - 4108
         racingStartSeconds:
         - 1112
         - 4110
@@ -641,7 +767,9 @@ stopFlying:
         - 2018-05-24T11:35:22Z
         racingStartWindowSeconds: 2998
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 26
+        - 4108
         scoredSeconds:
         - 26
         - 4110
@@ -652,7 +780,9 @@ stopFlying:
   - - - '102'
       - Tomislav Gomerčić
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 385
+        - 885
         racingGateSeconds:
         - 1756
         - 4059
@@ -662,7 +792,9 @@ stopFlying:
         racingGateWindowSeconds: 2303
       stopRacingStart: null
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 679
+        - 885
         scoredSeconds:
         - 3115
         - 4059
@@ -678,7 +810,9 @@ stopFlying:
 - - - - '4'
       - Alojz Tovornik
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 3180
         racingGateSeconds:
         - -720
         - 3180
@@ -687,7 +821,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1079
+        - 3180
         racingStartSeconds:
         - 1079
         - 3180
@@ -696,7 +832,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 2101
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 456
+        - 3180
         scoredSeconds:
         - 456
         - 3180
@@ -707,7 +845,9 @@ stopFlying:
   - - - '9'
       - Antoni Buljan
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 1256
         racingGateSeconds:
         - -2124
         - 1256
@@ -716,7 +856,9 @@ stopFlying:
         - 2018-05-26T11:56:20Z
         racingGateWindowSeconds: 3380
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1059
+        - 1256
         racingStartSeconds:
         - 1059
         - 1256
@@ -725,7 +867,9 @@ stopFlying:
         - 2018-05-26T11:56:20Z
         racingStartWindowSeconds: 197
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 47
+        - 1256
         scoredSeconds:
         - 47
         - 1256
@@ -736,7 +880,9 @@ stopFlying:
   - - - '13'
       - Balazs Szatmari
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 3450
         racingGateSeconds:
         - -450
         - 3450
@@ -745,7 +891,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1083
+        - 3450
         racingStartSeconds:
         - 1082
         - 3450
@@ -754,7 +902,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 2368
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 3
+        - 3450
         scoredSeconds:
         - 3
         - 3450
@@ -765,7 +915,9 @@ stopFlying:
   - - - '16'
       - Bruno Matos
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 215
+        - 4115
         racingGateSeconds:
         - 215
         - 4115
@@ -774,7 +926,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 911
+        - 4115
         racingStartSeconds:
         - 911
         - 4115
@@ -783,7 +937,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3204
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 14
+        - 4115
         scoredSeconds:
         - 14
         - 4115
@@ -794,7 +950,9 @@ stopFlying:
   - - - '21'
       - Damir Kalinger
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 637
         racingGateSeconds:
         - -1333
         - 637
@@ -803,7 +961,9 @@ stopFlying:
         - 2018-05-26T11:32:50Z
         racingGateWindowSeconds: 1970
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 153
+        - 637
         racingStartSeconds:
         - 153
         - 637
@@ -812,7 +972,9 @@ stopFlying:
         - 2018-05-26T11:32:50Z
         racingStartWindowSeconds: 484
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 6
+        - 637
         scoredSeconds:
         - 6
         - 637
@@ -823,7 +985,9 @@ stopFlying:
   - - - '26'
       - Dušan Durkovič
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 1673
+        - 5573
         racingGateSeconds:
         - 1673
         - 5573
@@ -832,7 +996,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 2310
+        - 5573
         racingStartSeconds:
         - 2310
         - 5573
@@ -841,7 +1007,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3263
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 46
+        - 5573
         scoredSeconds:
         - 46
         - 5573
@@ -852,7 +1020,9 @@ stopFlying:
   - - - '37'
       - Igor Eržen
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 741
+        - 4507
         racingGateSeconds:
         - 741
         - 4507
@@ -861,7 +1031,9 @@ stopFlying:
         - 2018-05-26T12:02:46Z
         racingGateWindowSeconds: 3766
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1407
+        - 4507
         racingStartSeconds:
         - 1406
         - 4507
@@ -870,7 +1042,9 @@ stopFlying:
         - 2018-05-26T12:02:46Z
         racingStartWindowSeconds: 3101
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 47
+        - 4507
         scoredSeconds:
         - 47
         - 4507
@@ -881,7 +1055,9 @@ stopFlying:
   - - - '40'
       - Ivica Huljek
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 82
         racingGateSeconds:
         - -588
         - 1117
@@ -890,7 +1066,9 @@ stopFlying:
         - 2018-05-26T11:28:25Z
         racingGateWindowSeconds: 1705
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 21
+        - 82
         racingStartSeconds:
         - 692
         - 1117
@@ -899,7 +1077,9 @@ stopFlying:
         - 2018-05-26T11:28:25Z
         racingStartWindowSeconds: 425
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 82
         scoredSeconds:
         - 0
         - 1117
@@ -910,7 +1090,9 @@ stopFlying:
   - - - '41'
       - Ivo Duarte
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 296
+        - 4195
         racingGateSeconds:
         - 580
         - 4480
@@ -919,7 +1101,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 990
+        - 4195
         racingStartSeconds:
         - 1274
         - 4480
@@ -928,7 +1112,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3206
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 11
+        - 4195
         scoredSeconds:
         - 11
         - 4480
@@ -939,7 +1125,9 @@ stopFlying:
   - - - '46'
       - Jerko Odžak
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 555
+        - 4288
         racingGateSeconds:
         - 555
         - 4330
@@ -948,7 +1136,9 @@ stopFlying:
         - 2018-05-26T12:02:55Z
         racingGateWindowSeconds: 3775
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 2068
+        - 4288
         racingStartSeconds:
         - 2068
         - 4330
@@ -957,7 +1147,9 @@ stopFlying:
         - 2018-05-26T12:02:55Z
         racingStartWindowSeconds: 2262
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 4288
         scoredSeconds:
         - 0
         - 4330
@@ -968,7 +1160,9 @@ stopFlying:
   - - - '114'
       - Joan Brito
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 783
+        - 4683
         racingGateSeconds:
         - 783
         - 4683
@@ -977,7 +1171,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1506
+        - 4683
         racingStartSeconds:
         - 1505
         - 4683
@@ -986,7 +1182,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3178
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 11
+        - 4683
         scoredSeconds:
         - 11
         - 4683
@@ -997,7 +1195,9 @@ stopFlying:
   - - - '54'
       - Krešo  Kovačič
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 110
+        - 504
         racingGateSeconds:
         - 1089
         - 4989
@@ -1006,7 +1206,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 152
+        - 504
         racingStartSeconds:
         - 1504
         - 4989
@@ -1015,7 +1217,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3485
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 504
         scoredSeconds:
         - 0
         - 4989
@@ -1026,7 +1230,9 @@ stopFlying:
   - - - '57'
       - Lara Leban
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 1351
+        - 4940
         racingGateSeconds:
         - 1351
         - 4940
@@ -1035,7 +1241,9 @@ stopFlying:
         - 2018-05-26T11:59:49Z
         racingGateWindowSeconds: 3589
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 2083
+        - 4940
         racingStartSeconds:
         - 2083
         - 4940
@@ -1044,7 +1252,9 @@ stopFlying:
         - 2018-05-26T11:59:49Z
         racingStartWindowSeconds: 2857
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 46
+        - 4940
         scoredSeconds:
         - 46
         - 4940
@@ -1055,7 +1265,9 @@ stopFlying:
   - - - '63'
       - Marketa Tomaskova
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 3360
         racingGateSeconds:
         - -540
         - 3360
@@ -1064,7 +1276,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1603
+        - 3360
         racingStartSeconds:
         - 1602
         - 3360
@@ -1073,7 +1287,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 1758
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 16
+        - 3360
         scoredSeconds:
         - 16
         - 3360
@@ -1084,7 +1300,9 @@ stopFlying:
   - - - '72'
       - Mitja Jančič
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 1849
+        - 5749
         racingGateSeconds:
         - 1849
         - 5749
@@ -1093,7 +1311,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 2506
+        - 5749
         racingStartSeconds:
         - 2506
         - 5749
@@ -1102,7 +1322,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3243
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 24
+        - 5749
         scoredSeconds:
         - 24
         - 5749
@@ -1113,7 +1335,9 @@ stopFlying:
   - - - '73'
       - Mitja Jug
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 362
         racingGateSeconds:
         - -1892
         - 1956
@@ -1122,7 +1346,9 @@ stopFlying:
         - 2018-05-26T12:04:08Z
         racingGateWindowSeconds: 3848
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 215
+        - 362
         racingStartSeconds:
         - 1253
         - 1956
@@ -1131,7 +1357,9 @@ stopFlying:
         - 2018-05-26T12:04:08Z
         racingStartWindowSeconds: 703
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 362
         scoredSeconds:
         - 0
         - 1956
@@ -1142,7 +1370,9 @@ stopFlying:
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 881
+        - 4781
         racingGateSeconds:
         - 881
         - 4781
@@ -1151,7 +1381,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1645
+        - 4781
         racingStartSeconds:
         - 1644
         - 4781
@@ -1160,7 +1392,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3137
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 15
+        - 4781
         scoredSeconds:
         - 15
         - 4781
@@ -1176,7 +1410,9 @@ stopFlying:
   - - - '86'
       - Sandi Krč
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 929
+        - 4215
         racingGateSeconds:
         - 929
         - 4215
@@ -1185,7 +1421,9 @@ stopFlying:
         - 2018-05-26T11:54:46Z
         racingGateWindowSeconds: 3286
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1711
+        - 4215
         racingStartSeconds:
         - 1710
         - 4215
@@ -1194,7 +1432,9 @@ stopFlying:
         - 2018-05-26T11:54:46Z
         racingStartWindowSeconds: 2505
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 46
+        - 4215
         scoredSeconds:
         - 46
         - 4215
@@ -1210,7 +1450,9 @@ stopFlying:
   - - - '95'
       - Stojan Kranjc
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 507
+        - 4407
         racingGateSeconds:
         - 507
         - 4407
@@ -1219,7 +1461,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1183
+        - 4407
         racingStartSeconds:
         - 1182
         - 4407
@@ -1228,7 +1472,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3225
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 45
+        - 4407
         scoredSeconds:
         - 45
         - 4407
@@ -1239,7 +1485,9 @@ stopFlying:
   - - - '98'
       - Tomas Svoboda
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 437
+        - 2385
         racingGateSeconds:
         - 1153
         - 5053
@@ -1248,7 +1496,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 720
+        - 2385
         racingStartSeconds:
         - 1720
         - 5053
@@ -1257,7 +1507,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3333
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 0
+        - 2385
         scoredSeconds:
         - 0
         - 5053
@@ -1268,7 +1520,9 @@ stopFlying:
   - - - '101'
       - Tomaž Toplak
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 803
+        - 4701
         racingGateSeconds:
         - 804
         - 4704
@@ -1277,7 +1531,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1341
+        - 4701
         racingStartSeconds:
         - 1343
         - 4704
@@ -1286,7 +1542,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 3361
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 22
+        - 4701
         scoredSeconds:
         - 22
         - 4704
@@ -1297,7 +1555,9 @@ stopFlying:
   - - - '113'
       - Zsolt Sandor
     - stopRacingGate:
-        racingGateFixes: null
+        racingGateFixes:
+        - 0
+        - 3453
         racingGateSeconds:
         - -447
         - 3453
@@ -1306,7 +1566,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingGateWindowSeconds: 3900
       stopRacingStart:
-        racingStartFixes: null
+        racingStartFixes:
+        - 1079
+        - 3453
         racingStartSeconds:
         - 1078
         - 3453
@@ -1315,7 +1577,9 @@ stopFlying:
         - 2018-05-26T12:05:00Z
         racingStartWindowSeconds: 2375
       stopScored:
-        scoredFixes: null
+        scoredFixes:
+        - 14
+        - 3453
         scoredSeconds:
         - 14
         - 3453

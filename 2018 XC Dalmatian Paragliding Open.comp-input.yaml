@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: false
   arrivalTime: false
+  essNotGoalScaling: 0
   leadingAreaDistanceSquared: true
   leadingWeightScaling: 1
 tasks:
@@ -158,9 +159,11 @@ tasks:
   stopped:
     announced: 2018-05-24T12:23:00Z
     retroactive: 2018-05-24T12:18:00Z
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 1
   earlyStart:
@@ -312,9 +315,11 @@ tasks:
   stopped:
     announced: 2018-05-26T12:10:00Z
     retroactive: 2018-05-26T12:05:00Z
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 1
   earlyStart:
@@ -436,9 +441,11 @@ tasks:
   startGates:
   - 2018-05-27T11:00:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: true
     leadingWeightScaling: 1
   earlyStart:

@@ -166,7 +166,17 @@ score:
       - Tomas Svoboda
     - place: '1'
       total: 142.462
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -178,8 +188,6 @@ score:
         reach: 138.797
         distance: 138.797
         leading: 3.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:58:44.139442793694Z
         gs: 2018-05-24T10:30:00Z
@@ -189,23 +197,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 13.665 km
         flown: 10.849 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 142.462
-      landedMade: 9.858 km
+      landedMade: 10.849 km
       stoppedAlt: 1291.000 m
   - - - '101'
       - Tomaž Toplak
     - place: '2'
       total: 134.709
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -217,8 +233,6 @@ score:
         reach: 127.604
         distance: 127.604
         leading: 7.1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:45:24.382423405882Z
         gs: 2018-05-24T10:30:00Z
@@ -228,23 +242,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 12.563 km
         flown: 12.025 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 134.709
-      landedMade: 12.010 km
+      landedMade: 12.025 km
       stoppedAlt: 425.000 m
   - - - '16'
       - Bruno Matos
     - place: '3'
       total: 114.247
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -256,8 +278,6 @@ score:
         reach: 112.897
         distance: 112.897
         leading: 1.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:31:18.848605147759Z
         gs: 2018-05-24T10:30:00Z
@@ -267,23 +287,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 11.115 km
         flown: 8.623 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 114.247
-      landedMade: 8.624 km
+      landedMade: 8.623 km
       stoppedAlt: 962.000 m
   - - - '57'
       - Lara Leban
     - place: 4=
       total: 98.441
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -295,8 +323,6 @@ score:
         reach: 92.664
         distance: 92.664
         leading: 5.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:36:50.622049111554Z
         gs: 2018-05-24T10:30:00Z
@@ -306,23 +332,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 9.123 km
         flown: 8.847 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 98.441
-      landedMade: 8.843 km
+      landedMade: 8.847 km
       stoppedAlt: 408.000 m
   - - - '72'
       - Mitja Jančič
     - place: 4=
       total: 97.574
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -334,8 +368,6 @@ score:
         reach: 91.832
         distance: 91.832
         leading: 5.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:34:49.279675183974Z
         gs: 2018-05-24T10:30:00Z
@@ -345,23 +377,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 9.041 km
         flown: 8.576 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 97.574
-      landedMade: 8.542 km
+      landedMade: 8.576 km
       stoppedAlt: 415.000 m
   - - - '13'
       - Balazs Szatmari
     - place: '6'
       total: 89.009
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -373,8 +413,6 @@ score:
         reach: 88.155
         distance: 88.155
         leading: 0.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:27:28.118789524388Z
         gs: 2018-05-24T10:30:00Z
@@ -384,23 +422,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 8.679 km
         flown: 6.653 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 89.009
-      landedMade: 6.557 km
+      landedMade: 6.653 km
       stoppedAlt: 826.000 m
   - - - '114'
       - Joan Brito
     - place: 7=
       total: 87.188
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -412,8 +458,6 @@ score:
         reach: 83.676
         distance: 83.676
         leading: 3.5
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:01:20.077812194767Z
         gs: 2018-05-24T10:30:00Z
@@ -423,23 +467,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 8.238 km
         flown: 7.797 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 87.188
-      landedMade: 7.734 km
+      landedMade: 7.797 km
       stoppedAlt: 427.000 m
   - - - '41'
       - Ivo Duarte
     - place: 7=
       total: 86.534
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -451,8 +503,6 @@ score:
         reach: 83.655
         distance: 83.655
         leading: 2.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:58:17.707055434784Z
         gs: 2018-05-24T10:30:00Z
@@ -462,23 +512,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 8.236 km
         flown: 5.621 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 86.534
-      landedMade: 5.299 km
+      landedMade: 5.621 km
       stoppedAlt: 866.000 m
   - - - '26'
       - Dušan Durkovič
     - place: '9'
       total: 72.668
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -490,8 +548,6 @@ score:
         reach: 69.273
         distance: 69.273
         leading: 3.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:38:00.241183100473Z
         gs: 2018-05-24T10:30:00Z
@@ -501,23 +557,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 6.820 km
         flown: 5.324 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 72.668
-      landedMade: 5.156 km
+      landedMade: 5.324 km
       stoppedAlt: 413.000 m
   - - - '86'
       - Sandi Krč
     - place: '10'
       total: 72.356
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -529,8 +593,6 @@ score:
         reach: 69.07
         distance: 69.07
         leading: 3.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:44:30.827591394762Z
         gs: 2018-05-24T10:30:00Z
@@ -540,23 +602,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 6.800 km
         flown: 5.938 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 72.356
-      landedMade: 5.126 km
+      landedMade: 5.938 km
       stoppedAlt: 421.000 m
   - - - '4'
       - Alojz Tovornik
     - place: '11'
       total: 59.677
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -568,8 +638,6 @@ score:
         reach: 56.354
         distance: 56.354
         leading: 3.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:38:05.558148119564Z
         gs: 2018-05-24T10:30:00Z
@@ -579,23 +647,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 5.548 km
         flown: 5.198 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 59.677
-      landedMade: 5.138 km
+      landedMade: 5.198 km
       stoppedAlt: 377.000 m
   - - - '37'
       - Igor Eržen
     - place: '12'
       total: 43.734
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -607,8 +683,6 @@ score:
         reach: 42.754
         distance: 42.754
         leading: 1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:31:11.50375928598Z
         gs: 2018-05-24T10:30:00Z
@@ -618,23 +692,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 4.209 km
         flown: 3.387 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 43.734
-      landedMade: 3.334 km
+      landedMade: 3.387 km
       stoppedAlt: 515.000 m
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '13'
       total: 36.932
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -646,8 +728,6 @@ score:
         reach: 35.908
         distance: 35.908
         leading: 1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:30:26.635448126802Z
         gs: 2018-05-24T10:30:00Z
@@ -657,23 +737,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.535 km
         flown: 3.085 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 36.932
-      landedMade: 3.083 km
+      landedMade: 3.085 km
       stoppedAlt: 433.000 m
   - - - '21'
       - Damir Kalinger
     - place: '14'
       total: 36.495
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -685,8 +773,6 @@ score:
         reach: 35.248
         distance: 35.248
         leading: 1.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:02:02.65829816545Z
         gs: 2018-05-24T10:30:00Z
@@ -696,23 +782,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.470 km
         flown: 2.782 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 36.495
-      landedMade: 2.784 km
+      landedMade: 2.782 km
       stoppedAlt: 511.000 m
   - - - '9'
       - Antoni Buljan
     - place: '15'
       total: 34.489
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -724,8 +818,6 @@ score:
         reach: 34.182
         distance: 34.182
         leading: 0.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T12:17:14.748476329732Z
         gs: 2018-05-24T10:30:00Z
@@ -735,23 +827,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.365 km
         flown: 1.245 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 34.489
-      landedMade: 1.246 km
+      landedMade: 1.245 km
       stoppedAlt: 869.000 m
   - - - '73'
       - Mitja Jug
     - place: '16'
       total: 32.403
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -763,8 +863,6 @@ score:
         reach: 31.338
         distance: 31.338
         leading: 1.1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:43:42.019304200383Z
         gs: 2018-05-24T10:30:00Z
@@ -774,23 +872,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.085 km
         flown: 2.121 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 32.403
-      landedMade: 2.110 km
+      landedMade: 2.121 km
       stoppedAlt: 445.000 m
   - - - '54'
       - Krešo  Kovačič
     - place: '17'
       total: 30.577
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -802,8 +908,6 @@ score:
         reach: 29.784
         distance: 29.784
         leading: 0.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:29:03.740154484125Z
         gs: 2018-05-24T10:30:00Z
@@ -813,23 +917,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.932 km
         flown: 2.932 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 30.577
-      landedMade: 2.933 km
+      landedMade: 2.932 km
       stoppedAlt: 0.000 m
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
       total: 27.592
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -841,8 +953,6 @@ score:
         reach: 27.204
         distance: 27.204
         leading: 0.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:49:58.417110292083Z
         gs: 2018-05-24T10:30:00Z
@@ -852,23 +962,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.678 km
         flown: 1.346 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 27.592
-      landedMade: 0.597 km
+      landedMade: 1.346 km
       stoppedAlt: 516.000 m
   - - - '46'
       - Jerko Odžak
     - place: 19=
       total: 23.233
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -880,8 +998,6 @@ score:
         reach: 23.233
         distance: 23.233
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:09:12.968067274239Z
         gs: 2018-05-24T10:30:00Z
@@ -891,23 +1007,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.287 km
         flown: 0.712 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 23.233
-      landedMade: 0.628 km
+      landedMade: 0.712 km
       stoppedAlt: 509.000 m
   - - - '23'
       - David Šiljeg
     - place: 19=
       total: 22.501
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -919,8 +1043,6 @@ score:
         reach: 22.501
         distance: 22.501
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -930,23 +1052,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.215 km
         flown: 0.448 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 22.501
-      landedMade: 0.359 km
+      landedMade: 0.448 km
       stoppedAlt: 756.000 m
   - - - '40'
       - Ivica Huljek
     - place: 21=
       total: 10.157
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -958,8 +1088,6 @@ score:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:57:42.132434092295Z
         gs: 2018-05-24T10:30:00Z
@@ -969,23 +1097,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 0.917 km
         flown: 0.917 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
-      landedMade: 0.630 km
+      landedMade: 0.917 km
       stoppedAlt: 0.000 m
   - - - '63'
       - Marketa Tomaskova
     - place: 21=
       total: 10.157
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -997,8 +1133,6 @@ score:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -1008,23 +1142,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 0.590 km
         flown: 0.590 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
-      landedMade: 0.591 km
+      landedMade: 0.590 km
       stoppedAlt: 0.000 m
   - - - '102'
       - Tomislav Gomerčić
     - place: 21=
       total: 10.157
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1036,8 +1178,6 @@ score:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -1047,23 +1187,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 0.707 km
         flown: 0.707 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
-      landedMade: 0.225 km
+      landedMade: 0.707 km
       stoppedAlt: 0.000 m
   - - - '82'
       - Richard Edlinger
     - place: 21=
       total: 10.157
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1075,18 +1223,14 @@ score:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
       landedMade: 0.000 km
       stoppedAlt: null
@@ -1094,7 +1238,17 @@ score:
       - Sandor Roza
     - place: 21=
       total: 10.157
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1106,18 +1260,14 @@ score:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
       landedMade: 0.000 km
       stoppedAlt: null
@@ -1125,7 +1275,17 @@ score:
       - Zsolt Sandor
     - place: 21=
       total: 10.157
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1137,18 +1297,14 @@ score:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
       landedMade: 0.000 km
       stoppedAlt: null
@@ -1156,7 +1312,17 @@ score:
       - Tomas Svoboda
     - place: '1'
       total: 526.107
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1168,8 +1334,6 @@ score:
         reach: 497.699
         distance: 497.699
         leading: 28.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:09:27.034067289698Z
         gs: 2018-05-26T11:00:00Z
@@ -1179,15 +1343,13 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.726 km
         flown: 20.366 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 526.107
       landedMade: 20.366 km
       stoppedAlt: 891.000 m
@@ -1195,7 +1357,17 @@ score:
       - Tomaž Toplak
     - place: '2'
       total: 522.897
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1207,8 +1379,6 @@ score:
         reach: 494.041
         distance: 494.041
         leading: 28.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:08:58.672135088188Z
         gs: 2018-05-26T11:00:00Z
@@ -1218,23 +1388,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.559 km
         flown: 20.200 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 522.897
-      landedMade: 20.093 km
+      landedMade: 20.200 km
       stoppedAlt: 912.000 m
   - - - '72'
       - Mitja Jančič
     - place: '3'
       total: 520.514
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1246,8 +1424,6 @@ score:
         reach: 493.669
         distance: 493.669
         leading: 26.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:10:56.825238370315Z
         gs: 2018-05-26T11:00:00Z
@@ -1257,23 +1433,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.542 km
         flown: 20.190 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 520.514
-      landedMade: 20.191 km
+      landedMade: 20.190 km
       stoppedAlt: 889.000 m
   - - - '26'
       - Dušan Durkovič
     - place: '4'
       total: 517.71
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1285,8 +1469,6 @@ score:
         reach: 490.077
         distance: 490.077
         leading: 27.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:10:36.909804582993Z
         gs: 2018-05-26T11:00:00Z
@@ -1296,15 +1478,13 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.378 km
         flown: 20.262 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 517.71
       landedMade: 20.262 km
       stoppedAlt: 830.000 m
@@ -1312,7 +1492,17 @@ score:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '5'
       total: 515.136
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1324,8 +1514,6 @@ score:
         reach: 490.384
         distance: 490.384
         leading: 24.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:12:43.04080252817Z
         gs: 2018-05-26T11:00:00Z
@@ -1335,15 +1523,13 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.392 km
         flown: 20.128 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 515.136
       landedMade: 20.128 km
       stoppedAlt: 867.000 m
@@ -1351,7 +1537,17 @@ score:
       - Krešo  Kovačič
     - place: '6'
       total: 509.195
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1363,8 +1559,6 @@ score:
         reach: 478.667
         distance: 478.667
         leading: 30.5
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:06:54.66782311728Z
         gs: 2018-05-26T11:00:00Z
@@ -1374,15 +1568,13 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 21.857 km
         flown: 19.993 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 509.195
       landedMade: 19.993 km
       stoppedAlt: 767.000 m
@@ -1390,7 +1582,17 @@ score:
       - Ivo Duarte
     - place: '7'
       total: 470.372
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1402,8 +1604,6 @@ score:
         reach: 449.78
         distance: 449.78
         leading: 20.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:11:33.943251513199Z
         gs: 2018-05-26T11:00:00Z
@@ -1413,23 +1613,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 20.538 km
         flown: 19.502 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 470.372
-      landedMade: 19.503 km
+      landedMade: 19.502 km
       stoppedAlt: 560.000 m
   - - - '16'
       - Bruno Matos
     - place: '8'
       total: 451.359
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1441,8 +1649,6 @@ score:
         reach: 433.202
         distance: 433.202
         leading: 18.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:11:35.854396985427Z
         gs: 2018-05-26T11:00:00Z
@@ -1452,23 +1658,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 19.781 km
         flown: 17.906 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 451.359
-      landedMade: 17.907 km
+      landedMade: 17.906 km
       stoppedAlt: 769.000 m
   - - - '95'
       - Stojan Kranjc
     - place: '9'
       total: 448.797
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1480,8 +1694,6 @@ score:
         reach: 430.442
         distance: 430.442
         leading: 18.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:11:15.416618918383Z
         gs: 2018-05-26T11:00:00Z
@@ -1491,15 +1703,13 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 19.655 km
         flown: 18.683 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 448.797
       landedMade: 18.683 km
       stoppedAlt: 533.000 m
@@ -1507,7 +1717,17 @@ score:
       - Joan Brito
     - place: '10'
       total: 436.926
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1519,8 +1739,6 @@ score:
         reach: 420.324
         distance: 420.324
         leading: 16.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:12:02.311844791179Z
         gs: 2018-05-26T11:00:00Z
@@ -1530,15 +1748,13 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 19.193 km
         flown: 16.999 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 436.926
       landedMade: 16.999 km
       stoppedAlt: 849.000 m
@@ -1546,7 +1762,17 @@ score:
       - Igor Eržen
     - place: '11'
       total: 393.458
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1558,8 +1784,6 @@ score:
         reach: 375.363
         distance: 375.363
         leading: 18.1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:11:05.250361013294Z
         gs: 2018-05-26T11:00:00Z
@@ -1569,23 +1793,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 17.140 km
         flown: 16.704 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 393.458
-      landedMade: 16.703 km
+      landedMade: 16.704 km
       stoppedAlt: 410.000 m
   - - - '57'
       - Lara Leban
     - place: '12'
       total: 387.486
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1597,8 +1829,6 @@ score:
         reach: 366.603
         distance: 366.603
         leading: 20.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:12:11.630326802996Z
         gs: 2018-05-26T11:00:00Z
@@ -1608,23 +1838,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 16.740 km
         flown: 15.957 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 387.486
-      landedMade: 15.958 km
+      landedMade: 15.957 km
       stoppedAlt: 487.000 m
   - - - '86'
       - Sandi Krč
     - place: '13'
       total: 281.8
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1636,8 +1874,6 @@ score:
         reach: 265.598
         distance: 265.598
         leading: 16.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:13:01.302435249005Z
         gs: 2018-05-26T11:00:00Z
@@ -1647,23 +1883,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 12.128 km
         flown: 10.756 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 281.8
-      landedMade: 9.486 km
+      landedMade: 10.756 km
       stoppedAlt: 482.000 m
   - - - '4'
       - Alojz Tovornik
     - place: '14'
       total: 225.792
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1675,8 +1919,6 @@ score:
         reach: 218.03
         distance: 218.03
         leading: 7.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:29:58.817792608133Z
         gs: 2018-05-26T11:00:00Z
@@ -1686,23 +1928,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 9.956 km
         flown: 8.980 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 225.792
-      landedMade: 8.979 km
+      landedMade: 8.980 km
       stoppedAlt: 545.000 m
   - - - '13'
       - Balazs Szatmari
     - place: '15'
       total: 212.05
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1714,8 +1964,6 @@ score:
         reach: 204.364
         distance: 204.364
         leading: 7.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:25:32.406827855698Z
         gs: 2018-05-26T11:00:00Z
@@ -1725,23 +1973,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 9.332 km
         flown: 7.096 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 212.05
-      landedMade: 7.030 km
+      landedMade: 7.096 km
       stoppedAlt: 820.000 m
   - - - '113'
       - Zsolt Sandor
     - place: '16'
       total: 163.201
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1753,8 +2009,6 @@ score:
         reach: 155.636
         distance: 155.636
         leading: 7.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:25:25.18961990413Z
         gs: 2018-05-26T11:00:00Z
@@ -1764,23 +2018,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 7.107 km
         flown: 7.107 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 163.201
-      landedMade: 7.040 km
+      landedMade: 7.107 km
       stoppedAlt: 0.000 m
   - - - '46'
       - Jerko Odžak
     - place: '17'
       total: 157.896
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1792,8 +2054,6 @@ score:
         reach: 150.445
         distance: 150.445
         leading: 7.5
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:25:12.762194022486Z
         gs: 2018-05-26T11:00:00Z
@@ -1803,23 +2063,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 6.870 km
         flown: 5.561 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 157.896
-      landedMade: 4.544 km
+      landedMade: 5.561 km
       stoppedAlt: 392.000 m
   - - - '63'
       - Marketa Tomaskova
     - place: '18'
       total: 134.131
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1831,8 +2099,6 @@ score:
         reach: 127.45
         distance: 127.45
         leading: 6.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:35:42.498038679407Z
         gs: 2018-05-26T11:00:00Z
@@ -1842,23 +2108,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 5.820 km
         flown: 5.820 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 134.131
-      landedMade: 5.858 km
+      landedMade: 5.820 km
       stoppedAlt: 0.000 m
   - - - '73'
       - Mitja Jug
     - place: '19'
       total: 103.649
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1870,8 +2144,6 @@ score:
         reach: 98.738
         distance: 98.738
         leading: 4.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:52:25.158702790045Z
         gs: 2018-05-26T11:00:00Z
@@ -1881,23 +2153,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 4.509 km
         flown: 3.545 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 103.649
-      landedMade: 3.014 km
+      landedMade: 3.545 km
       stoppedAlt: 469.000 m
   - - - '21'
       - Damir Kalinger
     - place: '20'
       total: 75.768
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1909,8 +2189,6 @@ score:
         reach: 69.742
         distance: 69.742
         leading: 6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:24:45.833420128057Z
         gs: 2018-05-26T11:00:00Z
@@ -1920,23 +2198,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.185 km
         flown: 2.381 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 75.768
-      landedMade: 2.418 km
+      landedMade: 2.381 km
       stoppedAlt: 501.000 m
   - - - '9'
       - Antoni Buljan
     - place: '21'
       total: 56.602
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1948,8 +2234,6 @@ score:
         reach: 56.602
         distance: 56.602
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:53:02.918368859509Z
         gs: 2018-05-26T11:00:00Z
@@ -1959,23 +2243,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.585 km
         flown: 0.873 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 56.602
-      landedMade: 0.125 km
+      landedMade: 0.873 km
       stoppedAlt: 472.000 m
   - - - '40'
       - Ivica Huljek
     - place: '22'
       total: 50.111
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -1987,8 +2279,6 @@ score:
         reach: 44.294
         distance: 44.294
         leading: 5.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:21:19.567852242112Z
         gs: 2018-05-26T11:00:00Z
@@ -1998,23 +2288,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.023 km
         flown: 2.023 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 50.111
-      landedMade: 2.052 km
+      landedMade: 2.023 km
       stoppedAlt: 0.000 m
   - - - '91'
       - Slava Jelić
     - place: '23'
       total: 21.9
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2026,18 +2324,14 @@ score:
         reach: 21.9
         distance: 21.9
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 21.9
       landedMade: 0.000 km
       stoppedAlt: null
@@ -2045,7 +2339,17 @@ score:
       - Bruno Matos
     - place: '1'
       total: 995.928
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2057,8 +2361,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 101.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:01:12.358070399721Z
         gs: 2018-05-27T11:00:00Z
@@ -2068,15 +2370,13 @@ score:
         gsElapsed: 1.077938 h
         ssVelocity: 24.17 km / h
         gsVelocity: 23.72 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 995.928
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2084,7 +2384,17 @@ score:
       - Tomas Svoboda
     - place: '2'
       total: 937.868
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2096,8 +2406,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 98.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:01:32.064231852284Z
         gs: 2018-05-27T11:00:00Z
@@ -2107,15 +2415,13 @@ score:
         gsElapsed: 1.116483 h
         ssVelocity: 23.44 km / h
         gsVelocity: 22.90 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 937.868
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2123,7 +2429,17 @@ score:
       - Dušan Durkovič
     - place: '3'
       total: 831.099
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2135,8 +2451,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 105.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:00:00.74855984507Z
         gs: 2018-05-27T11:00:00Z
@@ -2146,15 +2460,13 @@ score:
         gsElapsed: 1.283652 h
         ssVelocity: 19.92 km / h
         gsVelocity: 19.92 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 831.099
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2162,7 +2474,17 @@ score:
       - Alojz Tovornik
     - place: '4'
       total: 725.61
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2174,8 +2496,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 62.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:04:23.618426955689Z
         gs: 2018-05-27T11:00:00Z
@@ -2185,15 +2505,13 @@ score:
         gsElapsed: 1.407994 h
         ssVelocity: 19.15 km / h
         gsVelocity: 18.16 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 725.61
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2201,7 +2519,17 @@ score:
       - Tomaž Toplak
     - place: '5'
       total: 708.071
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2213,8 +2541,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 40
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:15:46.259148373333Z
         gs: 2018-05-27T11:00:00Z
@@ -2224,15 +2550,13 @@ score:
         gsElapsed: 1.398011 h
         ssVelocity: 22.52 km / h
         gsVelocity: 18.29 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 708.071
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2240,7 +2564,17 @@ score:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '6'
       total: 681.267
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2252,8 +2586,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 39.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:10:57.903129349333Z
         gs: 2018-05-27T11:00:00Z
@@ -2263,15 +2595,13 @@ score:
         gsElapsed: 1.454904 h
         ssVelocity: 20.10 km / h
         gsVelocity: 17.57 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 681.267
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2279,7 +2609,17 @@ score:
       - Mitja Jug
     - place: '7'
       total: 636.607
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2291,8 +2631,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 44.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:03:10.444834739651Z
         gs: 2018-05-27T11:00:00Z
@@ -2302,15 +2640,13 @@ score:
         gsElapsed: 1.571367 h
         ssVelocity: 16.84 km / h
         gsVelocity: 16.27 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 636.607
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2318,7 +2654,17 @@ score:
       - Joan Brito
     - place: '8'
       total: 628.659
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2330,8 +2676,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 60.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:00:48.924384422007Z
         gs: 2018-05-27T11:00:00Z
@@ -2341,15 +2685,13 @@ score:
         gsElapsed: 1.632090 h
         ssVelocity: 15.80 km / h
         gsVelocity: 15.67 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 628.659
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2357,7 +2699,17 @@ score:
       - Antoni Buljan
     - place: '9'
       total: 615.185
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2369,8 +2721,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 26.1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:16:11.287673388652Z
         gs: 2018-05-27T11:00:00Z
@@ -2380,15 +2730,13 @@ score:
         gsElapsed: 1.579279 h
         ssVelocity: 19.52 km / h
         gsVelocity: 16.19 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 615.185
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2396,7 +2744,17 @@ score:
       - Mitja Jančič
     - place: '10'
       total: 607.491
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2408,8 +2766,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 36.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:01:28.400642595056Z
         gs: 2018-05-27T11:00:00Z
@@ -2419,15 +2775,13 @@ score:
         gsElapsed: 1.623738 h
         ssVelocity: 15.99 km / h
         gsVelocity: 15.75 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 607.491
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2435,7 +2789,17 @@ score:
       - Stojan Kranjc
     - place: '11'
       total: 537.676
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2447,8 +2811,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 19.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:16:14.393856296097Z
         gs: 2018-05-27T11:00:00Z
@@ -2458,15 +2820,13 @@ score:
         gsElapsed: 1.763317 h
         ssVelocity: 17.13 km / h
         gsVelocity: 14.50 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 537.676
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2474,7 +2834,17 @@ score:
       - Krešo  Kovačič
     - place: '12'
       total: 427.138
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2486,8 +2856,6 @@ score:
         reach: 373.938
         distance: 373.938
         leading: 53.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:03:45.038248613704Z
         gs: 2018-05-27T11:00:00Z
@@ -2497,23 +2865,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 24.586 km
         flown: 24.586 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 427.138
-      landedMade: 24.473 km
+      landedMade: 24.586 km
       stoppedAlt: 0.000 m
   - - - '63'
       - Marketa Tomaskova
     - place: '13'
       total: 424.095
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2525,8 +2901,6 @@ score:
         reach: 398.288
         distance: 398.288
         leading: 9.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:01:27.801273966981Z
         gs: 2018-05-27T11:00:00Z
@@ -2536,15 +2910,13 @@ score:
         gsElapsed: 2.064432 h
         ssVelocity: 12.53 km / h
         gsVelocity: 12.38 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 424.095
       landedMade: 26.187 km
       stoppedAlt: null
@@ -2552,7 +2924,17 @@ score:
       - Igor Eržen
     - place: '14'
       total: 400.294
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2564,8 +2946,6 @@ score:
         reach: 348.097
         distance: 348.097
         leading: 52.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:02:34.188590596932Z
         gs: 2018-05-27T11:00:00Z
@@ -2575,23 +2955,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.887 km
         flown: 22.887 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 400.294
-      landedMade: 22.886 km
+      landedMade: 22.887 km
       stoppedAlt: 367.000 m
   - - - '41'
       - Ivo Duarte
     - place: '15'
       total: 396.031
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2603,8 +2991,6 @@ score:
         reach: 335.808
         distance: 335.808
         leading: 60.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:03:14.517056605214Z
         gs: 2018-05-27T11:00:00Z
@@ -2614,15 +3000,13 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.079 km
         flown: 22.079 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 396.031
       landedMade: 22.079 km
       stoppedAlt: 381.000 m
@@ -2630,7 +3014,17 @@ score:
       - Lara Leban
     - place: '16'
       total: 372.377
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2642,8 +3036,6 @@ score:
         reach: 346.044
         distance: 346.044
         leading: 26.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:04:21.364799444066Z
         gs: 2018-05-27T11:00:00Z
@@ -2653,15 +3045,13 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.752 km
         flown: 22.752 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 372.377
       landedMade: 22.752 km
       stoppedAlt: 380.000 m
@@ -2669,7 +3059,17 @@ score:
       - David Šiljeg
     - place: '17'
       total: 241.252
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2681,8 +3081,6 @@ score:
         reach: 241.252
         distance: 241.252
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T12:17:43.150512019617Z
         gs: 2018-05-27T11:00:00Z
@@ -2692,23 +3090,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 15.862 km
         flown: 15.862 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 241.252
-      landedMade: 14.163 km
+      landedMade: 15.862 km
       stoppedAlt: 387.000 m
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
       total: 48.216
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2720,8 +3126,6 @@ score:
         reach: 48.216
         distance: 48.216
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T13:10:42.354894765558Z
         gs: 2018-05-27T11:00:00Z
@@ -2731,23 +3135,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.170 km
         flown: 3.170 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 48.216
-      landedMade: 3.245 km
+      landedMade: 3.170 km
       stoppedAlt: 532.000 m
   - - - '46'
       - Jerko Odžak
     - place: '19'
       total: 28.961
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2759,8 +3171,6 @@ score:
         reach: 28.961
         distance: 28.961
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T12:09:12.351099931432Z
         gs: 2018-05-27T11:00:00Z
@@ -2770,23 +3180,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 1.904 km
         flown: 1.904 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 28.961
-      landedMade: 0.005 km
+      landedMade: 1.904 km
       stoppedAlt: 484.000 m
   - - - '40'
       - Ivica Huljek
     - place: 20=
       total: 15.209
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2798,8 +3216,6 @@ score:
         reach: 15.209
         distance: 15.209
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:05:17.898340694964Z
         gs: 2018-05-27T11:00:00Z
@@ -2809,23 +3225,31 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 0.200 km
         flown: 0.200 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 15.209
-      landedMade: 0.019 km
+      landedMade: 0.200 km
       stoppedAlt: 0.000 m
   - - - '91'
       - Slava Jelić
     - place: 20=
       total: 15.209
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2837,18 +3261,14 @@ score:
         reach: 15.209
         distance: 15.209
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 15.209
       landedMade: 0.000 km
       stoppedAlt: null
@@ -2857,7 +3277,17 @@ scoreDf:
       - Tomas Svoboda
     - place: '1'
       total: 142.462
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2869,8 +3299,6 @@ scoreDf:
         reach: 138.797
         distance: 138.797
         leading: 3.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:58:44.139442793694Z
         gs: 2018-05-24T10:30:00Z
@@ -2880,23 +3308,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 13.665 km
         flown: 10.849 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 142.462
-      landedMade: 9.858 km
+      landedMade: 10.849 km
       stoppedAlt: 1291.000 m
   - - - '101'
       - Tomaž Toplak
     - place: '2'
       total: 134.709
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2908,8 +3344,6 @@ scoreDf:
         reach: 127.604
         distance: 127.604
         leading: 7.1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:45:24.382423405882Z
         gs: 2018-05-24T10:30:00Z
@@ -2919,23 +3353,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 12.563 km
         flown: 12.025 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 134.709
-      landedMade: 12.010 km
+      landedMade: 12.025 km
       stoppedAlt: 425.000 m
   - - - '16'
       - Bruno Matos
     - place: '3'
       total: 114.247
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2947,8 +3389,6 @@ scoreDf:
         reach: 112.897
         distance: 112.897
         leading: 1.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:31:18.848605147759Z
         gs: 2018-05-24T10:30:00Z
@@ -2958,23 +3398,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 11.115 km
         flown: 8.623 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 114.247
-      landedMade: 8.624 km
+      landedMade: 8.623 km
       stoppedAlt: 962.000 m
   - - - '57'
       - Lara Leban
     - place: 4=
       total: 98.441
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -2986,8 +3434,6 @@ scoreDf:
         reach: 92.664
         distance: 92.664
         leading: 5.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:36:50.622049111554Z
         gs: 2018-05-24T10:30:00Z
@@ -2997,23 +3443,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 9.123 km
         flown: 8.847 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 98.441
-      landedMade: 8.843 km
+      landedMade: 8.847 km
       stoppedAlt: 408.000 m
   - - - '72'
       - Mitja Jančič
     - place: 4=
       total: 97.574
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3025,8 +3479,6 @@ scoreDf:
         reach: 91.832
         distance: 91.832
         leading: 5.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:34:49.279675183974Z
         gs: 2018-05-24T10:30:00Z
@@ -3036,23 +3488,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 9.041 km
         flown: 8.576 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 97.574
-      landedMade: 8.542 km
+      landedMade: 8.576 km
       stoppedAlt: 415.000 m
   - - - '13'
       - Balazs Szatmari
     - place: '6'
       total: 89.009
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3064,8 +3524,6 @@ scoreDf:
         reach: 88.155
         distance: 88.155
         leading: 0.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:27:28.118789524388Z
         gs: 2018-05-24T10:30:00Z
@@ -3075,23 +3533,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 8.679 km
         flown: 6.653 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 89.009
-      landedMade: 6.557 km
+      landedMade: 6.653 km
       stoppedAlt: 826.000 m
   - - - '114'
       - Joan Brito
     - place: 7=
       total: 87.188
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3103,8 +3569,6 @@ scoreDf:
         reach: 83.676
         distance: 83.676
         leading: 3.5
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:01:20.077812194767Z
         gs: 2018-05-24T10:30:00Z
@@ -3114,23 +3578,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 8.238 km
         flown: 7.797 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 87.188
-      landedMade: 7.734 km
+      landedMade: 7.797 km
       stoppedAlt: 427.000 m
   - - - '41'
       - Ivo Duarte
     - place: 7=
       total: 86.534
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3142,8 +3614,6 @@ scoreDf:
         reach: 83.655
         distance: 83.655
         leading: 2.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:58:17.707055434784Z
         gs: 2018-05-24T10:30:00Z
@@ -3153,23 +3623,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 8.236 km
         flown: 5.621 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 86.534
-      landedMade: 5.299 km
+      landedMade: 5.621 km
       stoppedAlt: 866.000 m
   - - - '26'
       - Dušan Durkovič
     - place: '9'
       total: 72.668
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3181,8 +3659,6 @@ scoreDf:
         reach: 69.273
         distance: 69.273
         leading: 3.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:38:00.241183100473Z
         gs: 2018-05-24T10:30:00Z
@@ -3192,23 +3668,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 6.820 km
         flown: 5.324 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 72.668
-      landedMade: 5.156 km
+      landedMade: 5.324 km
       stoppedAlt: 413.000 m
   - - - '86'
       - Sandi Krč
     - place: '10'
       total: 72.356
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3220,8 +3704,6 @@ scoreDf:
         reach: 69.07
         distance: 69.07
         leading: 3.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:44:30.827591394762Z
         gs: 2018-05-24T10:30:00Z
@@ -3231,23 +3713,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 6.800 km
         flown: 5.938 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 72.356
-      landedMade: 5.126 km
+      landedMade: 5.938 km
       stoppedAlt: 421.000 m
   - - - '4'
       - Alojz Tovornik
     - place: '11'
       total: 59.677
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3259,8 +3749,6 @@ scoreDf:
         reach: 56.354
         distance: 56.354
         leading: 3.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:38:05.558148119564Z
         gs: 2018-05-24T10:30:00Z
@@ -3270,23 +3758,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 5.548 km
         flown: 5.198 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 59.677
-      landedMade: 5.138 km
+      landedMade: 5.198 km
       stoppedAlt: 377.000 m
   - - - '37'
       - Igor Eržen
     - place: '12'
       total: 43.734
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3298,8 +3794,6 @@ scoreDf:
         reach: 42.754
         distance: 42.754
         leading: 1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:31:11.50375928598Z
         gs: 2018-05-24T10:30:00Z
@@ -3309,23 +3803,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 4.209 km
         flown: 3.387 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 43.734
-      landedMade: 3.334 km
+      landedMade: 3.387 km
       stoppedAlt: 515.000 m
   - - - '74'
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '13'
       total: 36.932
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3337,8 +3839,6 @@ scoreDf:
         reach: 35.908
         distance: 35.908
         leading: 1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:30:26.635448126802Z
         gs: 2018-05-24T10:30:00Z
@@ -3348,23 +3848,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.535 km
         flown: 3.085 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 36.932
-      landedMade: 3.083 km
+      landedMade: 3.085 km
       stoppedAlt: 433.000 m
   - - - '21'
       - Damir Kalinger
     - place: '14'
       total: 36.495
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3376,8 +3884,6 @@ scoreDf:
         reach: 35.248
         distance: 35.248
         leading: 1.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:02:02.65829816545Z
         gs: 2018-05-24T10:30:00Z
@@ -3387,23 +3893,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.470 km
         flown: 2.782 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 36.495
-      landedMade: 2.784 km
+      landedMade: 2.782 km
       stoppedAlt: 511.000 m
   - - - '9'
       - Antoni Buljan
     - place: '15'
       total: 34.489
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3415,8 +3929,6 @@ scoreDf:
         reach: 34.182
         distance: 34.182
         leading: 0.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T12:17:14.748476329732Z
         gs: 2018-05-24T10:30:00Z
@@ -3426,23 +3938,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.365 km
         flown: 1.245 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 34.489
-      landedMade: 1.246 km
+      landedMade: 1.245 km
       stoppedAlt: 869.000 m
   - - - '73'
       - Mitja Jug
     - place: '16'
       total: 32.403
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3454,8 +3974,6 @@ scoreDf:
         reach: 31.338
         distance: 31.338
         leading: 1.1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:43:42.019304200383Z
         gs: 2018-05-24T10:30:00Z
@@ -3465,23 +3983,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.085 km
         flown: 2.121 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 32.403
-      landedMade: 2.110 km
+      landedMade: 2.121 km
       stoppedAlt: 445.000 m
   - - - '54'
       - Krešo  Kovačič
     - place: '17'
       total: 30.577
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3493,8 +4019,6 @@ scoreDf:
         reach: 29.784
         distance: 29.784
         leading: 0.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:29:03.740154484125Z
         gs: 2018-05-24T10:30:00Z
@@ -3504,23 +4028,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.932 km
         flown: 2.932 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 30.577
-      landedMade: 2.933 km
+      landedMade: 2.932 km
       stoppedAlt: 0.000 m
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
       total: 27.592
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3532,8 +4064,6 @@ scoreDf:
         reach: 27.204
         distance: 27.204
         leading: 0.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:49:58.417110292083Z
         gs: 2018-05-24T10:30:00Z
@@ -3543,23 +4073,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.678 km
         flown: 1.346 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 27.592
-      landedMade: 0.597 km
+      landedMade: 1.346 km
       stoppedAlt: 516.000 m
   - - - '46'
       - Jerko Odžak
     - place: 19=
       total: 23.233
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3571,8 +4109,6 @@ scoreDf:
         reach: 23.233
         distance: 23.233
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T11:09:12.968067274239Z
         gs: 2018-05-24T10:30:00Z
@@ -3582,23 +4118,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.287 km
         flown: 0.712 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 23.233
-      landedMade: 0.628 km
+      landedMade: 0.712 km
       stoppedAlt: 509.000 m
   - - - '23'
       - David Šiljeg
     - place: 19=
       total: 22.501
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3610,8 +4154,6 @@ scoreDf:
         reach: 22.501
         distance: 22.501
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -3621,23 +4163,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.215 km
         flown: 0.448 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 22.501
-      landedMade: 0.359 km
+      landedMade: 0.448 km
       stoppedAlt: 756.000 m
   - - - '40'
       - Ivica Huljek
     - place: 21=
       total: 10.157
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3649,8 +4199,6 @@ scoreDf:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-24T10:57:42.132434092295Z
         gs: 2018-05-24T10:30:00Z
@@ -3660,23 +4208,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 0.917 km
         flown: 0.917 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
-      landedMade: 0.630 km
+      landedMade: 0.917 km
       stoppedAlt: 0.000 m
   - - - '63'
       - Marketa Tomaskova
     - place: 21=
       total: 10.157
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3688,8 +4244,6 @@ scoreDf:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -3699,23 +4253,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 0.590 km
         flown: 0.590 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
-      landedMade: 0.591 km
+      landedMade: 0.590 km
       stoppedAlt: 0.000 m
   - - - '102'
       - Tomislav Gomerčić
     - place: 21=
       total: 10.157
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3727,8 +4289,6 @@ scoreDf:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: null
         gs: null
@@ -3738,23 +4298,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 0.707 km
         flown: 0.707 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
-      landedMade: 0.225 km
+      landedMade: 0.707 km
       stoppedAlt: 0.000 m
 - - - - '98'
       - Tomas Svoboda
     - place: '1'
       total: 526.107
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3766,8 +4334,6 @@ scoreDf:
         reach: 497.699
         distance: 497.699
         leading: 28.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:09:27.034067289698Z
         gs: 2018-05-26T11:00:00Z
@@ -3777,15 +4343,13 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.726 km
         flown: 20.366 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 526.107
       landedMade: 20.366 km
       stoppedAlt: 891.000 m
@@ -3793,7 +4357,17 @@ scoreDf:
       - Tomaž Toplak
     - place: '2'
       total: 522.897
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3805,8 +4379,6 @@ scoreDf:
         reach: 494.041
         distance: 494.041
         leading: 28.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:08:58.672135088188Z
         gs: 2018-05-26T11:00:00Z
@@ -3816,23 +4388,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.559 km
         flown: 20.200 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 522.897
-      landedMade: 20.093 km
+      landedMade: 20.200 km
       stoppedAlt: 912.000 m
   - - - '72'
       - Mitja Jančič
     - place: '3'
       total: 520.514
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3844,8 +4424,6 @@ scoreDf:
         reach: 493.669
         distance: 493.669
         leading: 26.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:10:56.825238370315Z
         gs: 2018-05-26T11:00:00Z
@@ -3855,23 +4433,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.542 km
         flown: 20.190 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 520.514
-      landedMade: 20.191 km
+      landedMade: 20.190 km
       stoppedAlt: 889.000 m
   - - - '26'
       - Dušan Durkovič
     - place: '4'
       total: 517.71
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3883,8 +4469,6 @@ scoreDf:
         reach: 490.077
         distance: 490.077
         leading: 27.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:10:36.909804582993Z
         gs: 2018-05-26T11:00:00Z
@@ -3894,15 +4478,13 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.378 km
         flown: 20.262 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 517.71
       landedMade: 20.262 km
       stoppedAlt: 830.000 m
@@ -3910,7 +4492,17 @@ scoreDf:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '5'
       total: 515.136
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3922,8 +4514,6 @@ scoreDf:
         reach: 490.384
         distance: 490.384
         leading: 24.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:12:43.04080252817Z
         gs: 2018-05-26T11:00:00Z
@@ -3933,15 +4523,13 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.392 km
         flown: 20.128 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 515.136
       landedMade: 20.128 km
       stoppedAlt: 867.000 m
@@ -3949,7 +4537,17 @@ scoreDf:
       - Krešo  Kovačič
     - place: '6'
       total: 509.195
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -3961,8 +4559,6 @@ scoreDf:
         reach: 478.667
         distance: 478.667
         leading: 30.5
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:06:54.66782311728Z
         gs: 2018-05-26T11:00:00Z
@@ -3972,15 +4568,13 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 21.857 km
         flown: 19.993 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 509.195
       landedMade: 19.993 km
       stoppedAlt: 767.000 m
@@ -3988,7 +4582,17 @@ scoreDf:
       - Ivo Duarte
     - place: '7'
       total: 470.372
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4000,8 +4604,6 @@ scoreDf:
         reach: 449.78
         distance: 449.78
         leading: 20.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:11:33.943251513199Z
         gs: 2018-05-26T11:00:00Z
@@ -4011,23 +4613,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 20.538 km
         flown: 19.502 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 470.372
-      landedMade: 19.503 km
+      landedMade: 19.502 km
       stoppedAlt: 560.000 m
   - - - '16'
       - Bruno Matos
     - place: '8'
       total: 451.359
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4039,8 +4649,6 @@ scoreDf:
         reach: 433.202
         distance: 433.202
         leading: 18.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:11:35.854396985427Z
         gs: 2018-05-26T11:00:00Z
@@ -4050,23 +4658,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 19.781 km
         flown: 17.906 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 451.359
-      landedMade: 17.907 km
+      landedMade: 17.906 km
       stoppedAlt: 769.000 m
   - - - '95'
       - Stojan Kranjc
     - place: '9'
       total: 448.797
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4078,8 +4694,6 @@ scoreDf:
         reach: 430.442
         distance: 430.442
         leading: 18.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:11:15.416618918383Z
         gs: 2018-05-26T11:00:00Z
@@ -4089,15 +4703,13 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 19.655 km
         flown: 18.683 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 448.797
       landedMade: 18.683 km
       stoppedAlt: 533.000 m
@@ -4105,7 +4717,17 @@ scoreDf:
       - Joan Brito
     - place: '10'
       total: 436.926
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4117,8 +4739,6 @@ scoreDf:
         reach: 420.324
         distance: 420.324
         leading: 16.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:12:02.311844791179Z
         gs: 2018-05-26T11:00:00Z
@@ -4128,15 +4748,13 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 19.193 km
         flown: 16.999 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 436.926
       landedMade: 16.999 km
       stoppedAlt: 849.000 m
@@ -4144,7 +4762,17 @@ scoreDf:
       - Igor Eržen
     - place: '11'
       total: 393.458
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4156,8 +4784,6 @@ scoreDf:
         reach: 375.363
         distance: 375.363
         leading: 18.1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:11:05.250361013294Z
         gs: 2018-05-26T11:00:00Z
@@ -4167,23 +4793,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 17.140 km
         flown: 16.704 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 393.458
-      landedMade: 16.703 km
+      landedMade: 16.704 km
       stoppedAlt: 410.000 m
   - - - '57'
       - Lara Leban
     - place: '12'
       total: 387.486
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4195,8 +4829,6 @@ scoreDf:
         reach: 366.603
         distance: 366.603
         leading: 20.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:12:11.630326802996Z
         gs: 2018-05-26T11:00:00Z
@@ -4206,23 +4838,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 16.740 km
         flown: 15.957 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 387.486
-      landedMade: 15.958 km
+      landedMade: 15.957 km
       stoppedAlt: 487.000 m
   - - - '86'
       - Sandi Krč
     - place: '13'
       total: 281.8
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4234,8 +4874,6 @@ scoreDf:
         reach: 265.598
         distance: 265.598
         leading: 16.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:13:01.302435249005Z
         gs: 2018-05-26T11:00:00Z
@@ -4245,23 +4883,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 12.128 km
         flown: 10.756 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 281.8
-      landedMade: 9.486 km
+      landedMade: 10.756 km
       stoppedAlt: 482.000 m
   - - - '4'
       - Alojz Tovornik
     - place: '14'
       total: 225.792
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4273,8 +4919,6 @@ scoreDf:
         reach: 218.03
         distance: 218.03
         leading: 7.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:29:58.817792608133Z
         gs: 2018-05-26T11:00:00Z
@@ -4284,23 +4928,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 9.956 km
         flown: 8.980 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 225.792
-      landedMade: 8.979 km
+      landedMade: 8.980 km
       stoppedAlt: 545.000 m
   - - - '13'
       - Balazs Szatmari
     - place: '15'
       total: 212.05
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4312,8 +4964,6 @@ scoreDf:
         reach: 204.364
         distance: 204.364
         leading: 7.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:25:32.406827855698Z
         gs: 2018-05-26T11:00:00Z
@@ -4323,23 +4973,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 9.332 km
         flown: 7.096 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 212.05
-      landedMade: 7.030 km
+      landedMade: 7.096 km
       stoppedAlt: 820.000 m
   - - - '113'
       - Zsolt Sandor
     - place: '16'
       total: 163.201
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4351,8 +5009,6 @@ scoreDf:
         reach: 155.636
         distance: 155.636
         leading: 7.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:25:25.18961990413Z
         gs: 2018-05-26T11:00:00Z
@@ -4362,23 +5018,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 7.107 km
         flown: 7.107 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 163.201
-      landedMade: 7.040 km
+      landedMade: 7.107 km
       stoppedAlt: 0.000 m
   - - - '46'
       - Jerko Odžak
     - place: '17'
       total: 157.896
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4390,8 +5054,6 @@ scoreDf:
         reach: 150.445
         distance: 150.445
         leading: 7.5
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:25:12.762194022486Z
         gs: 2018-05-26T11:00:00Z
@@ -4401,23 +5063,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 6.870 km
         flown: 5.561 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 157.896
-      landedMade: 4.544 km
+      landedMade: 5.561 km
       stoppedAlt: 392.000 m
   - - - '63'
       - Marketa Tomaskova
     - place: '18'
       total: 134.131
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4429,8 +5099,6 @@ scoreDf:
         reach: 127.45
         distance: 127.45
         leading: 6.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:35:42.498038679407Z
         gs: 2018-05-26T11:00:00Z
@@ -4440,23 +5108,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 5.820 km
         flown: 5.820 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 134.131
-      landedMade: 5.858 km
+      landedMade: 5.820 km
       stoppedAlt: 0.000 m
   - - - '73'
       - Mitja Jug
     - place: '19'
       total: 103.649
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4468,8 +5144,6 @@ scoreDf:
         reach: 98.738
         distance: 98.738
         leading: 4.9
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:52:25.158702790045Z
         gs: 2018-05-26T11:00:00Z
@@ -4479,23 +5153,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 4.509 km
         flown: 3.545 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 103.649
-      landedMade: 3.014 km
+      landedMade: 3.545 km
       stoppedAlt: 469.000 m
   - - - '21'
       - Damir Kalinger
     - place: '20'
       total: 75.768
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4507,8 +5189,6 @@ scoreDf:
         reach: 69.742
         distance: 69.742
         leading: 6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:24:45.833420128057Z
         gs: 2018-05-26T11:00:00Z
@@ -4518,23 +5198,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.185 km
         flown: 2.381 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 75.768
-      landedMade: 2.418 km
+      landedMade: 2.381 km
       stoppedAlt: 501.000 m
   - - - '9'
       - Antoni Buljan
     - place: '21'
       total: 56.602
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4546,8 +5234,6 @@ scoreDf:
         reach: 56.602
         distance: 56.602
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:53:02.918368859509Z
         gs: 2018-05-26T11:00:00Z
@@ -4557,23 +5243,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.585 km
         flown: 0.873 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 56.602
-      landedMade: 0.125 km
+      landedMade: 0.873 km
       stoppedAlt: 472.000 m
   - - - '40'
       - Ivica Huljek
     - place: '22'
       total: 50.111
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4585,8 +5279,6 @@ scoreDf:
         reach: 44.294
         distance: 44.294
         leading: 5.8
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-26T11:21:19.567852242112Z
         gs: 2018-05-26T11:00:00Z
@@ -4596,23 +5288,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 2.023 km
         flown: 2.023 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 50.111
-      landedMade: 2.052 km
+      landedMade: 2.023 km
       stoppedAlt: 0.000 m
 - - - - '16'
       - Bruno Matos
     - place: '1'
       total: 995.928
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4624,8 +5324,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 101.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:01:12.358070399721Z
         gs: 2018-05-27T11:00:00Z
@@ -4635,15 +5333,13 @@ scoreDf:
         gsElapsed: 1.077938 h
         ssVelocity: 24.17 km / h
         gsVelocity: 23.72 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 995.928
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4651,7 +5347,17 @@ scoreDf:
       - Tomas Svoboda
     - place: '2'
       total: 937.868
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4663,8 +5369,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 98.6
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:01:32.064231852284Z
         gs: 2018-05-27T11:00:00Z
@@ -4674,15 +5378,13 @@ scoreDf:
         gsElapsed: 1.116483 h
         ssVelocity: 23.44 km / h
         gsVelocity: 22.90 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 937.868
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4690,7 +5392,17 @@ scoreDf:
       - Dušan Durkovič
     - place: '3'
       total: 831.099
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4702,8 +5414,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 105.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:00:00.74855984507Z
         gs: 2018-05-27T11:00:00Z
@@ -4713,15 +5423,13 @@ scoreDf:
         gsElapsed: 1.283652 h
         ssVelocity: 19.92 km / h
         gsVelocity: 19.92 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 831.099
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4729,7 +5437,17 @@ scoreDf:
       - Alojz Tovornik
     - place: '4'
       total: 725.61
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4741,8 +5459,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 62.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:04:23.618426955689Z
         gs: 2018-05-27T11:00:00Z
@@ -4752,15 +5468,13 @@ scoreDf:
         gsElapsed: 1.407994 h
         ssVelocity: 19.15 km / h
         gsVelocity: 18.16 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 725.61
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4768,7 +5482,17 @@ scoreDf:
       - Tomaž Toplak
     - place: '5'
       total: 708.071
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4780,8 +5504,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 40
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:15:46.259148373333Z
         gs: 2018-05-27T11:00:00Z
@@ -4791,15 +5513,13 @@ scoreDf:
         gsElapsed: 1.398011 h
         ssVelocity: 22.52 km / h
         gsVelocity: 18.29 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 708.071
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4807,7 +5527,17 @@ scoreDf:
       - Nuno Filipe da Fonseca Bastos Gomes
     - place: '6'
       total: 681.267
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4819,8 +5549,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 39.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:10:57.903129349333Z
         gs: 2018-05-27T11:00:00Z
@@ -4830,15 +5558,13 @@ scoreDf:
         gsElapsed: 1.454904 h
         ssVelocity: 20.10 km / h
         gsVelocity: 17.57 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 681.267
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4846,7 +5572,17 @@ scoreDf:
       - Mitja Jug
     - place: '7'
       total: 636.607
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4858,8 +5594,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 44.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:03:10.444834739651Z
         gs: 2018-05-27T11:00:00Z
@@ -4869,15 +5603,13 @@ scoreDf:
         gsElapsed: 1.571367 h
         ssVelocity: 16.84 km / h
         gsVelocity: 16.27 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 636.607
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4885,7 +5617,17 @@ scoreDf:
       - Joan Brito
     - place: '8'
       total: 628.659
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4897,8 +5639,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 60.7
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:00:48.924384422007Z
         gs: 2018-05-27T11:00:00Z
@@ -4908,15 +5648,13 @@ scoreDf:
         gsElapsed: 1.632090 h
         ssVelocity: 15.80 km / h
         gsVelocity: 15.67 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 628.659
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4924,7 +5662,17 @@ scoreDf:
       - Antoni Buljan
     - place: '9'
       total: 615.185
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4936,8 +5684,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 26.1
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:16:11.287673388652Z
         gs: 2018-05-27T11:00:00Z
@@ -4947,15 +5693,13 @@ scoreDf:
         gsElapsed: 1.579279 h
         ssVelocity: 19.52 km / h
         gsVelocity: 16.19 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 615.185
       landedMade: 26.187 km
       stoppedAlt: null
@@ -4963,7 +5707,17 @@ scoreDf:
       - Mitja Jančič
     - place: '10'
       total: 607.491
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -4975,8 +5729,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 36.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:01:28.400642595056Z
         gs: 2018-05-27T11:00:00Z
@@ -4986,15 +5738,13 @@ scoreDf:
         gsElapsed: 1.623738 h
         ssVelocity: 15.99 km / h
         gsVelocity: 15.75 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 607.491
       landedMade: 26.187 km
       stoppedAlt: null
@@ -5002,7 +5752,17 @@ scoreDf:
       - Stojan Kranjc
     - place: '11'
       total: 537.676
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5014,8 +5774,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 19.4
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:16:14.393856296097Z
         gs: 2018-05-27T11:00:00Z
@@ -5025,15 +5783,13 @@ scoreDf:
         gsElapsed: 1.763317 h
         ssVelocity: 17.13 km / h
         gsVelocity: 14.50 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 537.676
       landedMade: 26.187 km
       stoppedAlt: null
@@ -5041,7 +5797,17 @@ scoreDf:
       - Krešo  Kovačič
     - place: '12'
       total: 427.138
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5053,8 +5819,6 @@ scoreDf:
         reach: 373.938
         distance: 373.938
         leading: 53.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:03:45.038248613704Z
         gs: 2018-05-27T11:00:00Z
@@ -5064,23 +5828,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 24.586 km
         flown: 24.586 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 427.138
-      landedMade: 24.473 km
+      landedMade: 24.586 km
       stoppedAlt: 0.000 m
   - - - '63'
       - Marketa Tomaskova
     - place: '13'
       total: 424.095
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5092,8 +5864,6 @@ scoreDf:
         reach: 398.288
         distance: 398.288
         leading: 9.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:01:27.801273966981Z
         gs: 2018-05-27T11:00:00Z
@@ -5103,15 +5873,13 @@ scoreDf:
         gsElapsed: 2.064432 h
         ssVelocity: 12.53 km / h
         gsVelocity: 12.38 km / h
+      penaltyReason: ''
       reach:
         extra: 26.187 km
         flown: 26.187 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 424.095
       landedMade: 26.187 km
       stoppedAlt: null
@@ -5119,7 +5887,17 @@ scoreDf:
       - Igor Eržen
     - place: '14'
       total: 400.294
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5131,8 +5909,6 @@ scoreDf:
         reach: 348.097
         distance: 348.097
         leading: 52.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:02:34.188590596932Z
         gs: 2018-05-27T11:00:00Z
@@ -5142,23 +5918,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.887 km
         flown: 22.887 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 400.294
-      landedMade: 22.886 km
+      landedMade: 22.887 km
       stoppedAlt: 367.000 m
   - - - '41'
       - Ivo Duarte
     - place: '15'
       total: 396.031
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5170,8 +5954,6 @@ scoreDf:
         reach: 335.808
         distance: 335.808
         leading: 60.2
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:03:14.517056605214Z
         gs: 2018-05-27T11:00:00Z
@@ -5181,15 +5963,13 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.079 km
         flown: 22.079 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 396.031
       landedMade: 22.079 km
       stoppedAlt: 381.000 m
@@ -5197,7 +5977,17 @@ scoreDf:
       - Lara Leban
     - place: '16'
       total: 372.377
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5209,8 +5999,6 @@ scoreDf:
         reach: 346.044
         distance: 346.044
         leading: 26.3
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:04:21.364799444066Z
         gs: 2018-05-27T11:00:00Z
@@ -5220,15 +6008,13 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 22.752 km
         flown: 22.752 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 372.377
       landedMade: 22.752 km
       stoppedAlt: 380.000 m
@@ -5236,7 +6022,17 @@ scoreDf:
       - David Šiljeg
     - place: '17'
       total: 241.252
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5248,8 +6044,6 @@ scoreDf:
         reach: 241.252
         distance: 241.252
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T12:17:43.150512019617Z
         gs: 2018-05-27T11:00:00Z
@@ -5259,23 +6053,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 15.862 km
         flown: 15.862 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 241.252
-      landedMade: 14.163 km
+      landedMade: 15.862 km
       stoppedAlt: 387.000 m
   - - - '80'
       - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
     - place: '18'
       total: 48.216
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5287,8 +6089,6 @@ scoreDf:
         reach: 48.216
         distance: 48.216
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T13:10:42.354894765558Z
         gs: 2018-05-27T11:00:00Z
@@ -5298,23 +6098,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 3.170 km
         flown: 3.170 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 48.216
-      landedMade: 3.245 km
+      landedMade: 3.170 km
       stoppedAlt: 532.000 m
   - - - '46'
       - Jerko Odžak
     - place: '19'
       total: 28.961
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5326,8 +6134,6 @@ scoreDf:
         reach: 28.961
         distance: 28.961
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T12:09:12.351099931432Z
         gs: 2018-05-27T11:00:00Z
@@ -5337,23 +6143,31 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 1.904 km
         flown: 1.904 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 28.961
-      landedMade: 0.005 km
+      landedMade: 1.904 km
       stoppedAlt: 484.000 m
   - - - '40'
       - Ivica Huljek
     - place: '20'
       total: 15.209
+      essNotGoal: false
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5365,8 +6179,6 @@ scoreDf:
         reach: 15.209
         distance: 15.209
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity:
         ss: 2018-05-27T11:05:17.898340694964Z
         gs: 2018-05-27T11:00:00Z
@@ -5376,24 +6188,32 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      penaltyReason: ''
       reach:
         extra: 0.200 km
         flown: 0.200 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 15.209
-      landedMade: 0.019 km
+      landedMade: 0.200 km
       stoppedAlt: 0.000 m
 scoreDfNoTrack:
 - - - - '82'
       - Richard Edlinger
     - place: 1=
       total: 10.157
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5405,18 +6225,14 @@ scoreDfNoTrack:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
       landedMade: 0.000 km
       stoppedAlt: null
@@ -5424,7 +6240,17 @@ scoreDfNoTrack:
       - Sandor Roza
     - place: 1=
       total: 10.157
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5436,18 +6262,14 @@ scoreDfNoTrack:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
       landedMade: 0.000 km
       stoppedAlt: null
@@ -5455,7 +6277,17 @@ scoreDfNoTrack:
       - Zsolt Sandor
     - place: 1=
       total: 10.157
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5467,18 +6299,14 @@ scoreDfNoTrack:
         reach: 10.157
         distance: 10.157
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 10.157
       landedMade: 0.000 km
       stoppedAlt: null
@@ -5486,7 +6314,17 @@ scoreDfNoTrack:
       - Slava Jelić
     - place: '1'
       total: 21.9
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5498,18 +6336,14 @@ scoreDfNoTrack:
         reach: 21.9
         distance: 21.9
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 21.9
       landedMade: 0.000 km
       stoppedAlt: null
@@ -5517,7 +6351,17 @@ scoreDfNoTrack:
       - Slava Jelić
     - place: '1'
       total: 15.209
+      essNotGoal: null
+      penaltiesEssNotGoal:
+        adds: []
+        muls: []
+        resets: []
       jump: null
+      penaltiesJumpRaw: null
+      penaltiesJumpEffective:
+        adds: []
+        muls: []
+        resets: []
       penalties:
         adds: []
         muls: []
@@ -5529,18 +6373,14 @@ scoreDfNoTrack:
         reach: 15.209
         distance: 15.209
         leading: 0
-      demeritFrac: 0
-      demeritPoint: 0
       velocity: null
+      penaltyReason: ''
       reach:
         extra: 0.000 km
         flown: 0.000 km
+      demeritFrac: 0
+      demeritPoint: 0
       demeritReset: 0
-      penaltiesJump:
-        adds: []
-        muls: []
-        resets: []
-      penaltyReason: ''
       subtotal: 15.209
       landedMade: 0.000 km
       stoppedAlt: null

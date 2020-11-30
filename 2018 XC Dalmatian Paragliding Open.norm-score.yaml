@@ -78,12 +78,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 22.729000 km
-      mean: 12.836304 km
-      stdDev: 8.781710 km
+      mean: 12.301458 km
+      stdDev: 8.971318 km
     flown:
       max: 20.361000 km
-      mean: 12.165043 km
-      stdDev: 7.482929 km
+      mean: 11.658167 km
+      stdDev: 7.718185 km
   stillFlying: 15
 - flying: 21
   landed: 0
@@ -92,12 +92,12 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 26.233000 km
-      mean: 19.484286 km
-      stdDev: 10.232107 km
+      mean: 18.598636 km
+      stdDev: 10.789299 km
     flown:
       max: 26.233000 km
-      mean: 20.369952 km
-      stdDev: 9.634437 km
+      mean: 19.444045 km
+      stdDev: 10.325045 km
   stillFlying: 21
 validityWorkingTime:
 - gsBestTime: null
@@ -1445,6 +1445,33 @@ score:
       timeElapsed: null
       leadingArea: 0.0000 km^2 s
       leadingCoef: 0
+  - - - '80'
+      - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '24'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
 - - - - '16'
       - Bruno Matos
     - breakdown:
@@ -2008,6 +2035,33 @@ score:
         flown: 0.000000 km
       landedMade: 0.000000 km
       ss: 2018-05-27T11:00:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '21'
+      - Damir Kalinger
+    - breakdown:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '22'
+      total: 0
+      fractions:
+        distance: 0
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: null
       es: null
       timeElapsed: null
       leadingArea: 0.0000 km^2 s
