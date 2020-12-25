@@ -1,3 +1,5 @@
 
 *.prof
 *.fsdb
+fsdb_igc.py
+output

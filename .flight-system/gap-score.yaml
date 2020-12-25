@@ -1470,7 +1470,7 @@ score:
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: 0.0000 km^2 s
+      leadingArea: null
       leadingCoef: 0
 - - - - '16'
       - Bruno Matos
@@ -2064,5 +2064,5 @@ score:
       ss: null
       es: null
       timeElapsed: null
-      leadingArea: 0.0000 km^2 s
+      leadingArea: null
       leadingCoef: 0

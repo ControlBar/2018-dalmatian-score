@@ -1,0 +1,15 @@
+pilotsAtEss:
+- 0
+- 0
+- 2
+arrivalRank:
+- - - - '74'
+      - Nuno Filipe Da Fonseca Bastos Gomes
+    - lag: null
+      rank: '1'
+      frac: 0
+  - - - '63'
+      - Marketa Tomaskova
+    - lag: 0.60917 h
+      rank: '2'
+      frac: 0
