@@ -3,11 +3,11 @@ bestTime:
 - null
 - 1.45500 h
 validity:
-- distance: 0.07563761980611729
+- distance: 0.07668885701640053
   time: 0.5741702381523777
   launch: 1
-  stop: 0.893226758130648
-  task: 0.03879182891779769
+  stop: 0.9542031333951676
+  task: 0.04201591063204481
 - distance: 0.20691481476408313
   time: 0.9953426931999725
   launch: 1
@@ -27,7 +27,7 @@ validityWorkingDistance:
   reachMax:
     extra: 9.77508 km
     flown: 9.77508 km
-  sum: 46.13094 km
+  sum: 47.52452 km
 - area: 14.399999999999999
   flying: 24
   minimumDistance: 1.000 km
@@ -58,19 +58,19 @@ validityWorkingLaunch:
   present: 22
 validityWorkingStop:
 - flying: 26
-  landed: 19
+  landed: 20
   launchToEssDistance: 28.551 km
   pilotsAtEss: 0
   reachStats:
     extra:
       max: 9.775080 km
-      mean: 2.828643 km
-      stdDev: 2.567663 km
+      mean: 2.773448 km
+      stdDev: 2.531478 km
     flown:
       max: 8.594146 km
-      mean: 1.774267 km
-      stdDev: 2.320360 km
-  stillFlying: 7
+      mean: 1.827866 km
+      stdDev: 2.275204 km
+  stillFlying: 6
 - flying: 24
   landed: 9
   launchToEssDistance: 40.648 km
@@ -125,20 +125,20 @@ score:
 - - - - '13'
       - Balazs Szatmari
     - breakdown:
-        distance: 34.912646026017924
-        leading: 0.36974873084701804
+        distance: 37.814319568840325
+        leading: 0.4004794333809084
         arrival: 0
         time: 0
-        effort: 0.4461254977940695
+        effort: 0.4476710777753872
         reach: 0.3269895075476525
       place: '1'
-      total: 35.282394756864946
+      total: 38.214799002221234
       fractions:
         distance: 1.0
-        leading: 0.2931476794400607
+        leading: 0.29314768006707326
         arrival: 0
         time: 0.0
-        effort: 0.892250995588139
+        effort: 0.8953421555507745
         reach: 0.653979015095305
       reach:
         extra: 9.775080 km
@@ -152,20 +152,20 @@ score:
   - - - '57'
       - Lara Leban
     - breakdown:
-        distance: 30.694826815726955
-        leading: 1.2613053309965558
+        distance: 33.24594731247577
+        leading: 1.366135434840478
         arrival: 0
         time: 0
-        effort: 0.48833487500393596
+        effort: 0.4886695302292328
         reach: 0.4395946708555428
       place: '2'
-      total: 31.95613214672351
+      total: 34.61208274731625
       fractions:
-        distance: 0.8791893571416006
+        distance: 0.8791893571416005
         leading: 1.0
         arrival: 0
         time: 0.0
-        effort: 0.9766697500078719
+        effort: 0.9773390604584656
         reach: 0.8791893417110856
       reach:
         extra: 8.594146 km
@@ -175,24 +175,24 @@ score:
       es: null
       timeElapsed: null
       leadingArea: null
-      leadingCoef: 2.2218326815419416
+      leadingCoef: 2.2218326825246915
   - - - '41'
       - Ivo Duarte
     - breakdown:
-        distance: 19.15431259250255
-        leading: 0.6069331308023155
+        distance: 20.74627334045603
+        leading: 0.6573767963827614
         arrival: 0
         time: 0
-        effort: 0.43670886075949356
+        effort: 0.4385245901639343
         reach: 0.27431768193756856
       place: '3'
-      total: 19.761245723304864
+      total: 21.40365013683879
       fractions:
         distance: 0.5486353735041508
-        leading: 0.481194454575704
+        leading: 0.4811944552624261
         arrival: 0
         time: 0.0
-        effort: 0.8734177215189871
+        effort: 0.8770491803278686
         reach: 0.5486353638751371
       reach:
         extra: 5.362955 km
@@ -206,20 +206,20 @@ score:
   - - - '98'
       - Tomas Svoboda
     - breakdown:
-        distance: 18.947582948485543
-        leading: 0.612843639049257
+        distance: 20.52236190110577
+        leading: 0.663778541114368
         arrival: 0
         time: 0
-        effort: 0.19326089151816916
+        effort: 0.1990303178187184
         reach: 0.051366664169729924
       place: '4'
-      total: 19.5604265875348
+      total: 21.18614044222014
       fractions:
         distance: 0.5427140336016139
-        leading: 0.4858804795227893
+        leading: 0.4858804802115953
         arrival: 0
         time: 0.0
-        effort: 0.38652178303633833
+        effort: 0.3980606356374368
         reach: 0.10273332833945985
       reach:
         extra: 5.305073 km
@@ -233,20 +233,20 @@ score:
   - - - '16'
       - Bruno Matos
     - breakdown:
-        distance: 18.880195664702804
-        leading: 0.3571775395348424
+        distance: 20.4493738989378
+        leading: 0.38686342027811327
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.04580952504053245
       place: '5'
-      total: 19.237373204237645
+      total: 20.836237319215915
       fractions:
         distance: 0.5407838652685543
-        leading: 0.2831808688643509
+        leading: 0.28318086948918564
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.0916190500810649
       reach:
         extra: 5.286205 km
@@ -260,20 +260,20 @@ score:
   - - - '26'
       - Dušan Durkovič
     - breakdown:
-        distance: 18.091982078940642
-        leading: 0.7013364400484544
+        distance: 19.59564999619208
+        leading: 0.7596261905810924
         arrival: 0
         time: 0
-        effort: 0.4303433351726473
+        effort: 0.4323416821144156
         reach: 0.25910356018172354
       place: '6'
-      total: 18.793318518989096
+      total: 20.35527618677317
       fractions:
         distance: 0.5182071294584194
-        leading: 0.5560401774361243
+        leading: 0.5560401781612473
         arrival: 0
         time: 0.0
-        effort: 0.8606866703452946
+        effort: 0.8646833642288312
         reach: 0.5182071203634471
       reach:
         extra: 5.065516 km
@@ -287,20 +287,20 @@ score:
   - - - '4'
       - Alojz Tovornik
     - breakdown:
-        distance: 17.64187363225612
-        leading: 0.6893360594501334
+        distance: 19.108131959579254
+        leading: 0.7466284296316831
         arrival: 0
         time: 0
-        effort: 0.4257169467179026
+        effort: 0.4278480179186185
         reach: 0.25265735099939307
       place: '7'
-      total: 18.331209691706256
+      total: 19.854760389210938
       fractions:
         distance: 0.5053147108674857
-        leading: 0.5465259223993685
+        leading: 0.5465259231189373
         arrival: 0
         time: 0.0
-        effort: 0.8514338934358052
+        effort: 0.855696035837237
         reach: 0.5053147019987861
       reach:
         extra: 4.939492 km
@@ -314,20 +314,20 @@ score:
   - - - '9'
       - Antoni Buljan
     - breakdown:
-        distance: 14.612063818490698
+        distance: 15.826507403103266
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.03146700084502345
       place: '8'
-      total: 14.612063818490698
+      total: 15.826507403103266
       fractions:
         distance: 0.41853212178765714
         leading: 0.0
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.0629340016900469
       reach:
         extra: 4.091185 km
@@ -341,20 +341,20 @@ score:
   - - - '23'
       - David Šiljeg
     - breakdown:
-        distance: 11.917429005791242
+        distance: 12.907915043967733
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.010127458450603973
       place: '9'
-      total: 11.917429005791242
+      total: 12.907915043967733
       fractions:
         distance: 0.3413499222290406
         leading: 0.0
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.020254916901207946
       reach:
         extra: 3.336723 km
@@ -368,20 +368,20 @@ score:
   - - - '74'
       - Nuno Filipe Da Fonseca Bastos Gomes
     - breakdown:
-        distance: 10.094661309059884
-        leading: 0.26346605337334117
+        distance: 10.933652762827759
+        leading: 0.28536334826953375
         arrival: 0
         time: 0
-        effort: 0.29730593871448374
+        effort: 0.30312093227595344
         reach: 0.14457026723736757
       place: '10'
-      total: 10.358127362433224
+      total: 11.219016111097293
       fractions:
         distance: 0.28914053954939556
-        leading: 0.20888364371311818
+        leading: 0.20888364432392847
         arrival: 0
         time: 0.0
-        effort: 0.5946118774289675
+        effort: 0.6062418645519069
         reach: 0.28914053447473514
       reach:
         extra: 2.826372 km
@@ -395,20 +395,20 @@ score:
   - - - '73'
       - Mitja Jug
     - breakdown:
-        distance: 6.644446752397297
-        leading: 0.2711902983544993
+        distance: 7.196682619416813
+        leading: 0.29372957373341163
         arrival: 0
         time: 0
-        effort: 0.2308129961068328
+        effort: 0.23853557408737444
         reach: 0.09515816462077974
       place: '11'
-      total: 6.915637050751796
+      total: 7.490412193150225
       fractions:
         distance: 0.1903163325817717
-        leading: 0.2150076525405884
+        leading: 0.21500765315241976
         arrival: 0
         time: 0.0
-        effort: 0.4616259922136656
+        effort: 0.4770711481747489
         reach: 0.19031632924155947
       reach:
         extra: 1.860357 km
@@ -419,23 +419,50 @@ score:
       timeElapsed: null
       leadingArea: null
       leadingCoef: 3.25853437951919
+  - - - '54'
+      - Krešo  Kovačič
+    - breakdown:
+        distance: 5.3909944298616495
+        leading: 0.18537637651520034
+        arrival: 0
+        time: 0
+        effort: 0.22002390211188727
+        reach: 0.07128244533702287
+      place: '12'
+      total: 5.57637080637685
+      fractions:
+        distance: 0.14256489317617987
+        leading: 0.1356939962082504
+        arrival: 0
+        time: 0.0
+        effort: 0.44004780422377454
+        reach: 0.14256489067404574
+      reach:
+        extra: 1.393583 km
+        flown: 1.393583 km
+      landedMade: null
+      ss: '2018-05-24T10:30:00Z'
+      es: null
+      timeElapsed: null
+      leadingArea: null
+      leadingCoef: 3.419557283874244
   - - - '101'
       - Tomaž Toplak
     - breakdown:
-        distance: 4.546512803999656
-        leading: 0.16083821820343533
+        distance: 4.9243843610749245
+        leading: 0.17420586815660422
         arrival: 0
         time: 0
-        effort: 0.20666512841998894
+        effort: 0.21480346022303984
         reach: 0.06511269184261093
-      place: '12'
-      total: 4.707351022203091
+      place: '13'
+      total: 5.098590229231529
       fractions:
         distance: 0.13022538597078726
-        leading: 0.12751727456535622
+        leading: 0.12751727516455647
         arrival: 0
         time: 0.0
-        effort: 0.41333025683997787
+        effort: 0.4296069204460797
         reach: 0.13022538368522185
       reach:
         extra: 1.272964 km
@@ -449,20 +476,20 @@ score:
   - - - '102'
       - Tomislav Gomerčić
     - breakdown:
-        distance: 3.571597024143468
-        leading: 0.15626069837629988
+        distance: 3.8684409981824754
+        leading: 0.16924789970391182
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.045878862408503675
-      place: '13'
-      total: 3.7278577225197678
+      place: '14'
+      total: 4.037688897886388
       fractions:
         distance: 0.10230095483114655
-        leading: 0.12388808208147228
+        leading: 0.12388808268023199
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.09175772481700735
       reach:
         extra: 1.000000 km
@@ -476,20 +503,20 @@ score:
   - - - '72'
       - Mitja Jančič
     - breakdown:
-        distance: 3.571597024143468
-        leading: 0.15622566468273139
+        distance: 3.8684409981824754
+        leading: 0.16920995427624522
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.04039911730431425
-      place: '14'
-      total: 3.7278226888261994
+      place: '15'
+      total: 4.037650952458721
       fractions:
         distance: 0.10230095483114655
-        leading: 0.12386030633779822
+        leading: 0.1238603069365547
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.0807982346086285
       reach:
         extra: 1.000000 km
@@ -503,20 +530,20 @@ score:
   - - - '86'
       - Sandi Krč
     - breakdown:
-        distance: 3.571597024143468
-        leading: 0.15465316731199613
+        distance: 3.8684409981824754
+        leading: 0.16750676288648392
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.04698884340732681
-      place: '15'
-      total: 3.7262501914554638
+      place: '16'
+      total: 4.035947761068959
       fractions:
         distance: 0.10230095483114655
-        leading: 0.12261358412701297
+        leading: 0.12261358472561945
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.09397768681465361
       reach:
         extra: 1.000000 km
@@ -530,20 +557,20 @@ score:
   - - - '40'
       - Ivica Huljek
     - breakdown:
-        distance: 3.571597024143468
-        leading: 0.15390840184508456
+        distance: 3.8684409981824754
+        leading: 0.16670009817960332
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.03341173457803256
-      place: '16'
-      total: 3.7255054259885525
+      place: '17'
+      total: 4.035141096362079
       fractions:
         distance: 0.10230095483114655
-        leading: 0.12202311213850314
+        leading: 0.12202311273703892
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.06682346915606512
       reach:
         extra: 1.000000 km
@@ -557,20 +584,20 @@ score:
   - - - '114'
       - Joan Brito
     - breakdown:
-        distance: 3.571597024143468
-        leading: 0.15215005260220707
+        distance: 3.8684409981824754
+        leading: 0.16479560832391638
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.02234635898194739
-      place: '17'
-      total: 3.723747076745675
+      place: '18'
+      total: 4.033236606506392
       fractions:
         distance: 0.10230095483114655
-        leading: 0.12062904109189287
+        leading: 0.12062904169026212
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.04469271796389478
       reach:
         extra: 1.000000 km
@@ -584,20 +611,20 @@ score:
   - - - '46'
       - Jerko Odžak
     - breakdown:
-        distance: 3.571597024143468
-        leading: 0.1512763707359281
+        distance: 3.8684409981824754
+        leading: 0.16384931266725725
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.022908158414144574
-      place: '18'
-      total: 3.7228733948793957
+      place: '19'
+      total: 4.032290310849732
       fractions:
         distance: 0.10230095483114655
-        leading: 0.1199363603865884
+        leading: 0.11993636098487537
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.04581631682828915
       reach:
         extra: 1.000000 km
@@ -611,20 +638,20 @@ score:
   - - - '37'
       - Igor Eržen
     - breakdown:
-        distance: 3.571597024143468
-        leading: 0.14918983761347476
+        distance: 3.8684409981824754
+        leading: 0.16158936278451372
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.04714929228171973
-      place: '19'
-      total: 3.7207868617569426
+      place: '20'
+      total: 4.030030360966989
       fractions:
         distance: 0.10230095483114655
-        leading: 0.11828209549832003
+        leading: 0.11828209609641106
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.09429858456343947
       reach:
         extra: 1.000000 km
@@ -638,20 +665,20 @@ score:
   - - - '21'
       - Damir Kalinger
     - breakdown:
-        distance: 3.571597024143468
+        distance: 3.8684409981824754
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.041124520050361144
-      place: '20'
-      total: 3.571597024143468
+      place: '21'
+      total: 3.8684409981824754
       fractions:
         distance: 0.10230095483114655
         leading: 0.0
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.08224904010072229
       reach:
         extra: 1.000000 km
@@ -665,20 +692,20 @@ score:
   - - - '63'
       - Marketa Tomaskova
     - breakdown:
-        distance: 3.571597024143468
+        distance: 3.8684409981824754
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.01761600195180469
-      place: '20'
-      total: 3.571597024143468
+      place: '21'
+      total: 3.8684409981824754
       fractions:
         distance: 0.10230095483114655
         leading: 0.0
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.03523200390360938
       reach:
         extra: 1.000000 km
@@ -692,20 +719,20 @@ score:
   - - - '80'
       - Ricardo Nicolau Soares Terra De Oliveira Figueiredo
     - breakdown:
-        distance: 3.571597024143468
+        distance: 3.8684409981824754
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.04552217024091142
-      place: '20'
-      total: 3.571597024143468
+      place: '21'
+      total: 3.8684409981824754
       fractions:
         distance: 0.10230095483114655
         leading: 0.0
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.09104434048182285
       reach:
         extra: 1.000000 km
@@ -719,20 +746,20 @@ score:
   - - - '82'
       - Richard Edlinger
     - breakdown:
-        distance: 3.571597024143468
+        distance: 3.8684409981824754
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.0
-      place: '20'
-      total: 3.571597024143468
+      place: '21'
+      total: 3.8684409981824754
       fractions:
         distance: 0.10230095483114655
         leading: 0.0
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.0
       reach:
         extra: 1.000000 km
@@ -746,20 +773,20 @@ score:
   - - - '88'
       - Sandor Roza
     - breakdown:
-        distance: 3.571597024143468
+        distance: 3.8684409981824754
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.0
-      place: '20'
-      total: 3.571597024143468
+      place: '21'
+      total: 3.8684409981824754
       fractions:
         distance: 0.10230095483114655
         leading: 0.0
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.0
       reach:
         extra: 1.000000 km
@@ -773,20 +800,20 @@ score:
   - - - '113'
       - Zsolt Sandor
     - breakdown:
-        distance: 3.571597024143468
+        distance: 3.8684409981824754
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.1930379746835443
+        effort: 0.19877049180327863
         reach: 0.0
-      place: '20'
-      total: 3.571597024143468
+      place: '21'
+      total: 3.8684409981824754
       fractions:
         distance: 0.10230095483114655
         leading: 0.0
         arrival: 0
         time: 0.0
-        effort: 0.3860759493670886
+        effort: 0.39754098360655726
         reach: 0.0
       reach:
         extra: 1.000000 km
