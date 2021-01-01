@@ -1,0 +1,235 @@
+pilotGroup:
+  absent:
+  - - '13'
+    - Balazs Szatmari
+  - - '50'
+    - Josip Osmann
+  - - '53'
+    - Konstantin Rakić
+  - - '82'
+    - Richard Edlinger
+  - - '86'
+    - Sandi Krč
+  - - '88'
+    - Sandor Roza
+  - - '94'
+    - Stjepan Zjacic
+  - - '102'
+    - Tomislav Gomerčić
+  - - '113'
+    - Zsolt Sandor
+  didFlyNoTracklog:
+  - pilot:
+    - '91'
+    - Slava Jelić
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 26.232000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 26.232000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf:
+  - - '21'
+    - Damir Kalinger
+task:
+  taskName: Task 3
+  zones:
+    raw:
+    - zoneName: GS1
+      lat: 43.82973
+      lng: 16.64243
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 849.000 m
+    - zoneName: G35
+      lat: 43.84411
+      lng: 16.6599
+      radius: 3000.0 m
+      giveIn: 2985.0 m
+      giveOut: 3015.0 m
+      alt: 933.000 m
+    - zoneName: G44
+      lat: 43.82293
+      lng: 16.61629
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 567.000 m
+    - zoneName: G41
+      lat: 43.92137
+      lng: 16.46695
+      radius: 14000.0 m
+      giveIn: 13930.0 m
+      giveOut: 14070.0 m
+      alt: 388.000 m
+    - zoneName: G27
+      lat: 43.79605
+      lng: 16.67223
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 647.000 m
+    - zoneName: G41
+      lat: 43.92137
+      lng: 16.46695
+      radius: 14000.0 m
+      giveIn: 13930.0 m
+      giveOut: 14070.0 m
+      alt: 388.000 m
+    - zoneName: G39
+      lat: 43.75677
+      lng: 16.62018
+      radius: 600.0 m
+      giveIn: 597.0 m
+      giveOut: 603.0 m
+      alt: 339.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 43.82973000 deg
+          - 16.64243000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 43.84411000 deg
+          - 16.65990000 deg
+          radius: 3000.0 m
+      - cylinder:
+          center:
+          - 43.82293000 deg
+          - 16.61629000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.92137000 deg
+          - 16.46695000 deg
+          radius: 14000.0 m
+      - cylinder:
+          center:
+          - 43.79605000 deg
+          - 16.67223000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.92137000 deg
+          - 16.46695000 deg
+          radius: 14000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 43.75677000 deg
+          - 16.62018000 deg
+          radius: 600.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 7
+  zoneTimes:
+  - open: 2018-05-27T09:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  - open: 2018-05-27T11:00:00Z
+    close: 2018-05-27T14:00:00Z
+  startGates:
+  - 2018-05-27T11:00:00Z
+  stopped: null
+  cancelled: false
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    essNotGoalScaling: 0
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: 1
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolder:
+- Task 3
+pilots:
+- - - '4'
+    - Alojz Tovornik
+  - Alojz_Tovornik.20180527-104248.4376.4.igc
+- - - '9'
+    - Antoni Buljan
+  - Antoni_Buljan.20180527-152310.4203.9.igc
+- - - '16'
+    - Bruno Matos
+  - Bruno_Matos.20180527-152149.25456.16.igc
+- - - '21'
+    - Damir Kalinger
+  - null
+- - - '23'
+    - David Šiljeg
+  - David__iljeg.20180527-113456.[CIVLID].23.igc
+- - - '26'
+    - Dušan Durkovič
+  - Du_an_Durkovi_.20180527-151834.5512.26.igc
+- - - '37'
+    - Igor Eržen
+  - Igor_Er_en.20180527-103150.10699.37.igc
+- - - '40'
+    - Ivica Huljek
+  - Ivica_Huljek.20180527-151629.10107.40.igc
+- - - '41'
+    - Ivo Duarte
+  - Ivo_Duarte.20180527-152231.9281.41.igc
+- - - '46'
+    - Jerko Odžak
+  - Jerko_Od_ak.20180527-165116.12915.46.igc
+- - - '114'
+    - Joan Brito
+  - Joan_Brito.20180527-152006.71320.114.igc
+- - - '54'
+    - Krešo  Kovačič
+  - Kre_o__Kova_i_.20180527-151748.11315.54.igc
+- - - '57'
+    - Lara Leban
+  - Lara_Leban.20180527-103214.39789.57.igc
+- - - '63'
+    - Marketa Tomaskova
+  - Marketa_Tomaskova.20180527-151350.8382.63.igc
+- - - '72'
+    - Mitja Jančič
+  - Mitja_Jan_i_.20180527-152426.17659.72.igc
+- - - '73'
+    - Mitja Jug
+  - Mitja_Jug.20180527-150238.36030.73.igc
+- - - '74'
+    - Nuno Filipe da Fonseca Bastos Gomes
+  - Nuno_Filipe_da_Fonseca_Bastos_Gomes.20180527-152054.2130.74.igc
+- - - '80'
+    - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+  - Ricardo_Nicolau_Soares_Terra_de_Oliveira_Figueiredo.20180527-163705.70252.80.igc
+- - - '91'
+    - Slava Jelić
+  - null
+- - - '95'
+    - Stojan Kranjc
+  - Stojan_Kranjc.20180527-104840.748.95.igc
+- - - '98'
+    - Tomas Svoboda
+  - Tomas_Svoboda.20180527-151251.[CIVLID].98.igc
+- - - '101'
+    - Tomaž Toplak
+  - Toma__Toplak.20180527-123522.12671.101.IGC

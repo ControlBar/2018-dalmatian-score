@@ -1,0 +1,285 @@
+pilotGroup:
+  absent:
+  - - '50'
+    - Josip Osmann
+  - - '53'
+    - Konstantin Rakić
+  - - '91'
+    - Slava Jelić
+  - - '94'
+    - Stjepan Zjacic
+  - - '95'
+    - Stojan Kranjc
+  didFlyNoTracklog:
+  - pilot:
+    - '82'
+    - Richard Edlinger
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 29.668000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 29.668000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '88'
+    - Sandor Roza
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 29.668000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 29.668000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '113'
+    - Zsolt Sandor
+    awardedReach:
+      extra:
+        awardedMade: 0.000000 km
+        awardedTask: 29.668000 km
+        awardedFrac: 0
+      flown:
+        awardedMade: 0.000000 km
+        awardedTask: 29.668000 km
+        awardedFrac: 0
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []
+task:
+  taskName: Task 1
+  zones:
+    raw:
+    - zoneName: GS1
+      lat: 43.82973
+      lng: 16.64243
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 849.000 m
+    - zoneName: G35
+      lat: 43.84411
+      lng: 16.6599
+      radius: 3000.0 m
+      giveIn: 2985.0 m
+      giveOut: 3015.0 m
+      alt: 933.000 m
+    - zoneName: G44
+      lat: 43.82293
+      lng: 16.61629
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 567.000 m
+    - zoneName: G10
+      lat: 43.78045
+      lng: 16.65744
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 387.000 m
+    - zoneName: G36
+      lat: 43.82342
+      lng: 16.58682
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 431.000 m
+    - zoneName: G17
+      lat: 43.72863
+      lng: 16.69475
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 298.000 m
+    - zoneName: G39
+      lat: 43.75677
+      lng: 16.62018
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 339.000 m
+    - zoneName: G39
+      lat: 43.75677
+      lng: 16.62018
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 339.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 43.82973000 deg
+          - 16.64243000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 43.84411000 deg
+          - 16.65990000 deg
+          radius: 3000.0 m
+      - cylinder:
+          center:
+          - 43.82293000 deg
+          - 16.61629000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.78045000 deg
+          - 16.65744000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.82342000 deg
+          - 16.58682000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 43.72863000 deg
+          - 16.69475000 deg
+          radius: 1000.0 m
+      race-ess:
+        cylinder:
+          center:
+          - 43.75677000 deg
+          - 16.62018000 deg
+          radius: 1000.0 m
+      epilog: []
+      goal:
+        circle:
+          center:
+          - 43.75677000 deg
+          - 16.62018000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 7
+  zoneTimes:
+  - open: 2018-05-24T10:00:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  - open: 2018-05-24T10:30:00Z
+    close: 2018-05-24T14:00:00Z
+  startGates:
+  - 2018-05-24T10:30:00Z
+  stopped:
+    announced: 2018-05-24T12:23:00Z
+    retroactive: 2018-05-24T12:18:00Z
+  cancelled: false
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    essNotGoalScaling: 0
+    leadingAreaDistanceSquared: true
+    leadingWeightScaling: 1
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolder:
+- Task 1
+pilots:
+- - - '4'
+    - Alojz Tovornik
+  - Alojz_Tovornik.20180524-101956.4376.4.igc
+- - - '9'
+    - Antoni Buljan
+  - Antoni_Buljan.20180524-102340.4203.9.igc
+- - - '13'
+    - Balazs Szatmari
+  - Balazs_Szatmari.20180524-161022.59013.13.igc
+- - - '16'
+    - Bruno Matos
+  - Bruno_Matos.20180524-153526.25456.16.igc
+- - - '21'
+    - Damir Kalinger
+  - Damir_Kalinger.20180524-162116.52999.21.igc
+- - - '23'
+    - David Šiljeg
+  - David__iljeg.20180524-102710.[CIVLID].23.igc
+- - - '26'
+    - Dušan Durkovič
+  - Du_an_Durkovi_.20180524-091106.5512.26.igc
+- - - '37'
+    - Igor Eržen
+  - Igor_Er_en.20180524-044128.10699.37.igc
+- - - '40'
+    - Ivica Huljek
+  - Ivica_Huljek.20180524-163437.10107.40.igc
+- - - '41'
+    - Ivo Duarte
+  - Ivo_Duarte.20180524-155755.9281.41.igc
+- - - '46'
+    - Jerko Odžak
+  - Jerko_Od_ak.20180524-164140.12915.46.igc
+- - - '114'
+    - Joan Brito
+  - Juan_Britpo.20180524-160006.71320.114.igc
+- - - '54'
+    - Krešo  Kovačič
+  - Kre_o__Kova_i_.20180524-163512.11315.54.igc
+- - - '57'
+    - Lara Leban
+  - Lara_Leban.20180524-091444.39789.57.igc
+- - - '63'
+    - Marketa Tomaskova
+  - Marketa_Tomaskova.20180524-142817.8382.63.igc
+- - - '72'
+    - Mitja Jančič
+  - Mitja_Jan_i_.20180524-092120.17659.72.igc
+- - - '73'
+    - Mitja Jug
+  - Mitja_Jug.20180524-102318.36030.73.igc
+- - - '74'
+    - Nuno Filipe da Fonseca Bastos Gomes
+  - Nuno_Filipe_da_Fonseca_Bastos_Gomes.20180524-155855.2130.74.igc
+- - - '80'
+    - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+  - Ricardo_Nicolau_Soares_Terra_de_Oliveira_Figueiredo.20180524-155645.70252.80.igc
+- - - '82'
+    - Richard Edlinger
+  - null
+- - - '86'
+    - Sandi Krč
+  - Sandi_Kr_.20180524-092550.13245.86.igc
+- - - '88'
+    - Sandor Roza
+  - null
+- - - '98'
+    - Tomas Svoboda
+  - Tomas_Svoboda.20180524-161316.[CIVLID].98.igc
+- - - '101'
+    - Tomaž Toplak
+  - Toma__Toplak.20180524-114228.12671.101.IGC
+- - - '102'
+    - Tomislav Gomerčić
+  - Tomislav_Gomer_i_.20180524-163357.28441.102.igc
+- - - '113'
+    - Zsolt Sandor
+  - null
