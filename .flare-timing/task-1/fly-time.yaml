@@ -1,0 +1,379 @@
+suspectDnf: []
+flying:
+- - - '4'
+    - Alojz Tovornik
+  - loggedFixes: 2384
+    flyingFixes:
+    - 459
+    - 2236
+    loggedSeconds: 2383
+    flyingSeconds:
+    - 459
+    - 2236
+    loggedTimes:
+    - 2018-05-24T10:19:56Z
+    - 2018-05-24T10:59:39Z
+    flyingTimes:
+    - 2018-05-24T10:27:35Z
+    - 2018-05-24T10:57:12Z
+- - - '9'
+    - Antoni Buljan
+  - loggedFixes: 921
+    flyingFixes:
+    - 0
+    - 850
+    loggedSeconds: 920
+    flyingSeconds:
+    - 0
+    - 850
+    loggedTimes:
+    - 2018-05-24T12:08:19Z
+    - 2018-05-24T12:23:39Z
+    flyingTimes:
+    - 2018-05-24T12:08:19Z
+    - 2018-05-24T12:22:29Z
+- - - '13'
+    - Balazs Szatmari
+  - loggedFixes: 5580
+    flyingFixes:
+    - 0
+    - 5568
+    loggedSeconds: 5579
+    flyingSeconds:
+    - 0
+    - 5568
+    loggedTimes:
+    - 2018-05-24T10:59:10Z
+    - 2018-05-24T12:32:09Z
+    flyingTimes:
+    - 2018-05-24T10:59:10Z
+    - 2018-05-24T12:31:58Z
+- - - '16'
+    - Bruno Matos
+  - loggedFixes: 4870
+    flyingFixes:
+    - 4
+    - 4724
+    loggedSeconds: 4869
+    flyingSeconds:
+    - 4
+    - 4724
+    loggedTimes:
+    - 2018-05-24T11:20:53Z
+    - 2018-05-24T12:42:02Z
+    flyingTimes:
+    - 2018-05-24T11:20:57Z
+    - 2018-05-24T12:39:37Z
+- - - '21'
+    - Damir Kalinger
+  - loggedFixes: 1810
+    flyingFixes:
+    - 13
+    - 689
+    loggedSeconds: 1809
+    flyingSeconds:
+    - 13
+    - 689
+    loggedTimes:
+    - 2018-05-24T10:59:21Z
+    - 2018-05-24T11:29:30Z
+    flyingTimes:
+    - 2018-05-24T10:59:34Z
+    - 2018-05-24T11:10:50Z
+- - - '23'
+    - David Šiljeg
+  - loggedFixes: 821
+    flyingFixes:
+    - 48
+    - 782
+    loggedSeconds: 820
+    flyingSeconds:
+    - 48
+    - 782
+    loggedTimes:
+    - 2018-05-24T12:13:30Z
+    - 2018-05-24T12:27:10Z
+    flyingTimes:
+    - 2018-05-24T12:14:18Z
+    - 2018-05-24T12:26:32Z
+- - - '26'
+    - Dušan Durkovič
+  - loggedFixes: 3097
+    flyingFixes:
+    - 48
+    - 3024
+    loggedSeconds: 3096
+    flyingSeconds:
+    - 48
+    - 3024
+    loggedTimes:
+    - 2018-05-24T10:19:30Z
+    - 2018-05-24T11:11:06Z
+    flyingTimes:
+    - 2018-05-24T10:20:18Z
+    - 2018-05-24T11:09:54Z
+- - - '37'
+    - Igor Eržen
+  - loggedFixes: 1340
+    flyingFixes:
+    - 40
+    - 1323
+    loggedSeconds: 1339
+    flyingSeconds:
+    - 40
+    - 1323
+    loggedTimes:
+    - 2018-05-24T11:19:08Z
+    - 2018-05-24T11:41:27Z
+    flyingTimes:
+    - 2018-05-24T11:19:48Z
+    - 2018-05-24T11:41:11Z
+- - - '40'
+    - Ivica Huljek
+  - loggedFixes: 439
+    flyingFixes:
+    - 18
+    - 435
+    loggedSeconds: 438
+    flyingSeconds:
+    - 18
+    - 435
+    loggedTimes:
+    - 2018-05-24T10:51:48Z
+    - 2018-05-24T10:59:06Z
+    flyingTimes:
+    - 2018-05-24T10:52:06Z
+    - 2018-05-24T10:59:03Z
+- - - '41'
+    - Ivo Duarte
+  - loggedFixes: 2213
+    flyingFixes:
+    - 11
+    - 2109
+    loggedSeconds: 2212
+    flyingSeconds:
+    - 11
+    - 2109
+    loggedTimes:
+    - 2018-05-24T10:39:42Z
+    - 2018-05-24T11:16:34Z
+    flyingTimes:
+    - 2018-05-24T10:39:53Z
+    - 2018-05-24T11:14:51Z
+- - - '46'
+    - Jerko Odžak
+  - loggedFixes: 981
+    flyingFixes:
+    - 0
+    - 769
+    loggedSeconds: 1000
+    flyingSeconds:
+    - 0
+    - 785
+    loggedTimes:
+    - 2018-05-24T10:56:47Z
+    - 2018-05-24T11:13:27Z
+    flyingTimes:
+    - 2018-05-24T10:56:47Z
+    - 2018-05-24T11:09:52Z
+- - - '114'
+    - Joan Brito
+  - loggedFixes: 2851
+    flyingFixes:
+    - 5
+    - 2824
+    loggedSeconds: 2850
+    flyingSeconds:
+    - 5
+    - 2824
+    loggedTimes:
+    - 2018-05-24T10:39:55Z
+    - 2018-05-24T11:27:25Z
+    flyingTimes:
+    - 2018-05-24T10:40:00Z
+    - 2018-05-24T11:26:59Z
+- - - '54'
+    - Krešo  Kovačič
+  - loggedFixes: 341
+    flyingFixes:
+    - 15
+    - 338
+    loggedSeconds: 1540
+    flyingSeconds:
+    - 68
+    - 1530
+    loggedTimes:
+    - 2018-05-24T11:15:48Z
+    - 2018-05-24T11:41:28Z
+    flyingTimes:
+    - 2018-05-24T11:16:56Z
+    - 2018-05-24T11:41:18Z
+- - - '57'
+    - Lara Leban
+  - loggedFixes: 3296
+    flyingFixes:
+    - 48
+    - 3254
+    loggedSeconds: 3295
+    flyingSeconds:
+    - 48
+    - 3254
+    loggedTimes:
+    - 2018-05-24T10:19:49Z
+    - 2018-05-24T11:14:44Z
+    flyingTimes:
+    - 2018-05-24T10:20:37Z
+    - 2018-05-24T11:14:03Z
+- - - '63'
+    - Marketa Tomaskova
+  - loggedFixes: 1496
+    flyingFixes:
+    - 16
+    - 1478
+    loggedSeconds: 1495
+    flyingSeconds:
+    - 16
+    - 1478
+    loggedTimes:
+    - 2018-05-24T12:03:23Z
+    - 2018-05-24T12:28:18Z
+    flyingTimes:
+    - 2018-05-24T12:03:39Z
+    - 2018-05-24T12:28:01Z
+- - - '72'
+    - Mitja Jančič
+  - loggedFixes: 4674
+    flyingFixes:
+    - 44
+    - 4673
+    loggedSeconds: 4673
+    flyingSeconds:
+    - 44
+    - 4673
+    loggedTimes:
+    - 2018-05-24T10:03:26Z
+    - 2018-05-24T11:21:19Z
+    flyingTimes:
+    - 2018-05-24T10:04:10Z
+    - 2018-05-24T11:21:19Z
+- - - '73'
+    - Mitja Jug
+  - loggedFixes: 1578
+    flyingFixes:
+    - 276
+    - 1554
+    loggedSeconds: 1577
+    flyingSeconds:
+    - 276
+    - 1554
+    loggedTimes:
+    - 2018-05-24T10:23:19Z
+    - 2018-05-24T10:49:36Z
+    flyingTimes:
+    - 2018-05-24T10:27:55Z
+    - 2018-05-24T10:49:13Z
+- - - '74'
+    - Nuno Filipe da Fonseca Bastos Gomes
+  - loggedFixes: 1040
+    flyingFixes:
+    - 17
+    - 959
+    loggedSeconds: 1039
+    flyingSeconds:
+    - 17
+    - 959
+    loggedTimes:
+    - 2018-05-24T11:19:50Z
+    - 2018-05-24T11:37:09Z
+    flyingTimes:
+    - 2018-05-24T11:20:07Z
+    - 2018-05-24T11:35:49Z
+- - - '80'
+    - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+  - loggedFixes: 489
+    flyingFixes:
+    - 0
+    - 470
+    loggedSeconds: 488
+    flyingSeconds:
+    - 0
+    - 470
+    loggedTimes:
+    - 2018-05-24T11:44:36Z
+    - 2018-05-24T11:52:44Z
+    flyingTimes:
+    - 2018-05-24T11:44:36Z
+    - 2018-05-24T11:52:26Z
+- - - '82'
+    - Richard Edlinger
+  - null
+- - - '86'
+    - Sandi Krč
+  - loggedFixes: 3228
+    flyingFixes:
+    - 47
+    - 3176
+    loggedSeconds: 3227
+    flyingSeconds:
+    - 47
+    - 3176
+    loggedTimes:
+    - 2018-05-24T10:32:03Z
+    - 2018-05-24T11:25:50Z
+    flyingTimes:
+    - 2018-05-24T10:32:50Z
+    - 2018-05-24T11:24:59Z
+- - - '88'
+    - Sandor Roza
+  - null
+- - - '98'
+    - Tomas Svoboda
+  - loggedFixes: 4522
+    flyingFixes:
+    - 6
+    - 4508
+    loggedSeconds: 9325
+    flyingSeconds:
+    - 180
+    - 9299
+    loggedTimes:
+    - 2018-05-24T10:28:46Z
+    - 2018-05-24T13:04:11Z
+    flyingTimes:
+    - 2018-05-24T10:31:46Z
+    - 2018-05-24T13:03:45Z
+- - - '101'
+    - Tomaž Toplak
+  - loggedFixes: 4533
+    flyingFixes:
+    - 26
+    - 4108
+    loggedSeconds: 4536
+    flyingSeconds:
+    - 26
+    - 4110
+    loggedTimes:
+    - 2018-05-24T10:26:52Z
+    - 2018-05-24T11:42:28Z
+    flyingTimes:
+    - 2018-05-24T10:27:18Z
+    - 2018-05-24T11:35:22Z
+- - - '102'
+    - Tomislav Gomerčić
+  - loggedFixes: 886
+    flyingFixes:
+    - 679
+    - 885
+    loggedSeconds: 4059
+    flyingSeconds:
+    - 3115
+    - 4059
+    loggedTimes:
+    - 2018-05-24T10:00:44Z
+    - 2018-05-24T11:08:23Z
+    flyingTimes:
+    - 2018-05-24T10:52:39Z
+    - 2018-05-24T11:08:23Z
+- - - '113'
+    - Zsolt Sandor
+  - null
