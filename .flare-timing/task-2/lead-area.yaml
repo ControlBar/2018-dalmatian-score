@@ -1,0 +1,106 @@
+areas:
+- - - '4'
+    - Alojz Tovornik
+  - areaFlown: 1581496.2850 km^2 s
+    areaAfterLanding: 3610470.3470 km^2 s
+    areaBeforeStart: 2274464.9042 km^2 s
+- - - '13'
+    - Balazs Szatmari
+  - areaFlown: 1156520.5640 km^2 s
+    areaAfterLanding: 4045503.1479 km^2 s
+    areaBeforeStart: 1859522.1807 km^2 s
+- - - '16'
+    - Bruno Matos
+  - areaFlown: 2114814.2101 km^2 s
+    areaAfterLanding: 1885643.3117 km^2 s
+    areaBeforeStart: 463416.9438 km^2 s
+- - - '21'
+    - Damir Kalinger
+  - areaFlown: 180920.1649 km^2 s
+    areaAfterLanding: 5242672.9791 km^2 s
+    areaBeforeStart: 1756645.2103 km^2 s
+- - - '26'
+    - Dušan Durkovič
+  - areaFlown: 1771377.4541 km^2 s
+    areaAfterLanding: 1523011.3021 km^2 s
+    areaBeforeStart: 466005.0892 km^2 s
+- - - '37'
+    - Igor Eržen
+  - areaFlown: 1920887.1772 km^2 s
+    areaAfterLanding: 2085557.7160 km^2 s
+    areaBeforeStart: 411860.8936 km^2 s
+- - - '40'
+    - Ivica Huljek
+  - areaFlown: 112228.0383 km^2 s
+    areaAfterLanding: 5339900.7850 km^2 s
+    areaBeforeStart: 1418379.9860 km^2 s
+- - - '41'
+    - Ivo Duarte
+  - areaFlown: 2141633.9583 km^2 s
+    areaAfterLanding: 1635762.2041 km^2 s
+    areaBeforeStart: 457767.4273 km^2 s
+- - - '46'
+    - Jerko Odžak
+  - areaFlown: 814586.4586 km^2 s
+    areaAfterLanding: 4418238.5175 km^2 s
+    areaBeforeStart: 1816427.1239 km^2 s
+- - - '114'
+    - Joan Brito
+  - areaFlown: 2119627.2010 km^2 s
+    areaAfterLanding: 2035561.4006 km^2 s
+    areaBeforeStart: 524478.4492 km^2 s
+- - - '54'
+    - Krešo  Kovačič
+  - areaFlown: 1641788.7143 km^2 s
+    areaAfterLanding: 1562458.8919 km^2 s
+    areaBeforeStart: 11982.1014 km^2 s
+- - - '57'
+    - Lara Leban
+  - areaFlown: 1537434.9542 km^2 s
+    areaAfterLanding: 2214871.1885 km^2 s
+    areaBeforeStart: 608825.1446 km^2 s
+- - - '63'
+    - Marketa Tomaskova
+  - areaFlown: 981046.1570 km^2 s
+    areaAfterLanding: 4354195.2754 km^2 s
+    areaBeforeStart: 2945261.9143 km^2 s
+- - - '72'
+    - Mitja Jančič
+  - areaFlown: 1800040.4250 km^2 s
+    areaAfterLanding: 1533520.3336 km^2 s
+    areaBeforeStart: 467270.0100 km^2 s
+- - - '73'
+    - Mitja Jug
+  - areaFlown: 644163.6259 km^2 s
+    areaAfterLanding: 4932720.8707 km^2 s
+    areaBeforeStart: 4509126.9797 km^2 s
+- - - '74'
+    - Nuno Filipe da Fonseca Bastos Gomes
+  - areaFlown: 1915639.5913 km^2 s
+    areaAfterLanding: 1542598.7307 km^2 s
+    areaBeforeStart: 598322.5354 km^2 s
+- - - '86'
+    - Sandi Krč
+  - areaFlown: 973394.8236 km^2 s
+    areaAfterLanding: 3223028.7897 km^2 s
+    areaBeforeStart: 642469.3310 km^2 s
+- - - '95'
+    - Stojan Kranjc
+  - areaFlown: 2219637.5306 km^2 s
+    areaAfterLanding: 1761772.9422 km^2 s
+    areaBeforeStart: 432001.1562 km^2 s
+- - - '98'
+    - Tomas Svoboda
+  - areaFlown: 1752818.3563 km^2 s
+    areaAfterLanding: 1507895.3795 km^2 s
+    areaBeforeStart: 251068.5942 km^2 s
+- - - '101'
+    - Tomaž Toplak
+  - areaFlown: 1711739.4244 km^2 s
+    areaAfterLanding: 1532058.5852 km^2 s
+    areaBeforeStart: 205210.7969 km^2 s
+- - - '113'
+    - Zsolt Sandor
+  - areaFlown: 1174897.9757 km^2 s
+    areaAfterLanding: 4042891.3460 km^2 s
+    areaBeforeStart: 1857865.9760 km^2 s
