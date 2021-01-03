@@ -19,7 +19,7 @@ ft-unpack-track "$COMP"
 ft-peg-frame "$COMP"
 ft-align-time "$COMP"
 ft-discard-further "$COMP"
-ft-area-step "$COMP"
+ft-lead-area "$COMP"
 
 ft-mask-arrival "$COMP"
 ft-mask-bonus "$COMP"
