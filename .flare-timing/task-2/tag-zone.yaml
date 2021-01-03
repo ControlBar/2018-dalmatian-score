@@ -1,0 +1,2701 @@
+timing:
+  zonesSum:
+  - 22
+  - 22
+  - 21
+  - 16
+  - 12
+  - 6
+  - 5
+  - 0
+  - 0
+  zonesFirst:
+  - 2018-05-26T10:30:50.828362985469Z
+  - 2018-05-26T11:06:54.66782311728Z
+  - 2018-05-26T11:08:26.40497135794Z
+  - 2018-05-26T11:17:59.710982272222Z
+  - 2018-05-26T11:37:50.89379478213Z
+  - 2018-05-26T12:05:31.538915231822Z
+  - 2018-05-26T12:12:19.704476617597Z
+  - null
+  - null
+  zonesLast:
+  - 2018-05-26T11:38:43.249836314138Z
+  - 2018-05-26T11:53:02.918368859509Z
+  - 2018-05-26T11:54:44.746979225046Z
+  - 2018-05-26T11:59:21.668263560187Z
+  - 2018-05-26T11:55:57.707917147087Z
+  - 2018-05-26T12:07:31.887640729135Z
+  - 2018-05-26T12:13:33.896775652954Z
+  - null
+  - null
+  zonesRankTime:
+  - - 2018-05-26T10:30:50.828362985469Z
+    - 2018-05-26T10:33:40.200526511279Z
+    - 2018-05-26T10:39:10.719728231174Z
+    - 2018-05-26T10:48:00.633619551129Z
+    - 2018-05-26T10:48:26.373892146768Z
+    - 2018-05-26T10:48:34.14303736802Z
+    - 2018-05-26T10:48:56.145084026178Z
+    - 2018-05-26T10:49:00.428036474134Z
+    - 2018-05-26T10:49:09.751723301435Z
+    - 2018-05-26T10:49:18.869176318471Z
+    - 2018-05-26T10:51:37.889693917993Z
+    - 2018-05-26T10:54:42.654691373347Z
+    - 2018-05-26T10:54:53.290560018654Z
+    - 2018-05-26T10:58:18.742831805472Z
+    - 2018-05-26T11:08:36.955058298539Z
+    - 2018-05-26T11:08:44.622374279349Z
+    - 2018-05-26T11:10:20.961054129727Z
+    - 2018-05-26T11:20:14.708622839448Z
+    - 2018-05-26T11:20:43.50596335814Z
+    - 2018-05-26T11:23:21.727899172529Z
+    - 2018-05-26T11:37:21.4465304916Z
+    - 2018-05-26T11:38:43.249836314138Z
+  - - 2018-05-26T11:06:54.66782311728Z
+    - 2018-05-26T11:08:58.672135088188Z
+    - 2018-05-26T11:09:27.034067289698Z
+    - 2018-05-26T11:10:36.909804582993Z
+    - 2018-05-26T11:10:56.825238370315Z
+    - 2018-05-26T11:11:05.250361013294Z
+    - 2018-05-26T11:11:15.416618918383Z
+    - 2018-05-26T11:11:33.943251513199Z
+    - 2018-05-26T11:11:35.854396985427Z
+    - 2018-05-26T11:12:02.311844791179Z
+    - 2018-05-26T11:12:11.630326802996Z
+    - 2018-05-26T11:12:43.04080252817Z
+    - 2018-05-26T11:13:01.302435249005Z
+    - 2018-05-26T11:21:19.567852242112Z
+    - 2018-05-26T11:24:45.833420128057Z
+    - 2018-05-26T11:25:12.762194022486Z
+    - 2018-05-26T11:25:25.18961990413Z
+    - 2018-05-26T11:25:32.406827855698Z
+    - 2018-05-26T11:29:58.817792608133Z
+    - 2018-05-26T11:35:42.498038679407Z
+    - 2018-05-26T11:52:25.158702790045Z
+    - 2018-05-26T11:53:02.918368859509Z
+  - - 2018-05-26T11:08:26.40497135794Z
+    - 2018-05-26T11:10:05.197072320077Z
+    - 2018-05-26T11:10:37.762645731934Z
+    - 2018-05-26T11:12:15.869261584248Z
+    - 2018-05-26T11:12:19.225541418294Z
+    - 2018-05-26T11:12:39.247040852781Z
+    - 2018-05-26T11:13:03.316399566123Z
+    - 2018-05-26T11:13:18.006410180214Z
+    - 2018-05-26T11:13:25.275842867387Z
+    - 2018-05-26T11:14:05.339321637625Z
+    - 2018-05-26T11:14:19.762877359739Z
+    - 2018-05-26T11:14:31.911766813013Z
+    - 2018-05-26T11:14:58.507510175758Z
+    - 2018-05-26T11:23:16.725225118448Z
+    - 2018-05-26T11:26:54.250001342343Z
+    - 2018-05-26T11:26:56.587282212905Z
+    - 2018-05-26T11:27:07.417161969067Z
+    - 2018-05-26T11:27:10.023868228979Z
+    - 2018-05-26T11:32:20.973418282844Z
+    - 2018-05-26T11:38:05.758123490094Z
+    - 2018-05-26T11:54:44.746979225046Z
+  - - 2018-05-26T11:17:59.710982272222Z
+    - 2018-05-26T11:18:00.574441223884Z
+    - 2018-05-26T11:18:32.031849682975Z
+    - 2018-05-26T11:18:42.265109805169Z
+    - 2018-05-26T11:19:10.670717466358Z
+    - 2018-05-26T11:19:38.167303868477Z
+    - 2018-05-26T11:28:05.467859592531Z
+    - 2018-05-26T11:28:36.381052813805Z
+    - 2018-05-26T11:31:34.930459876348Z
+    - 2018-05-26T11:31:37.089553504292Z
+    - 2018-05-26T11:31:45.680249347734Z
+    - 2018-05-26T11:34:53.651889032096Z
+    - 2018-05-26T11:40:19.1064205422Z
+    - 2018-05-26T11:55:55.03764125457Z
+    - 2018-05-26T11:57:22.616925795744Z
+    - 2018-05-26T11:59:21.668263560187Z
+  - - 2018-05-26T11:37:50.89379478213Z
+    - 2018-05-26T11:41:55.19990728963Z
+    - 2018-05-26T11:41:55.863731375819Z
+    - 2018-05-26T11:42:06.423503539871Z
+    - 2018-05-26T11:42:09.82026436618Z
+    - 2018-05-26T11:42:38.618344037982Z
+    - 2018-05-26T11:47:30.049344460897Z
+    - 2018-05-26T11:47:46.30808021695Z
+    - 2018-05-26T11:52:24.628304977065Z
+    - 2018-05-26T11:55:32.495627699267Z
+    - 2018-05-26T11:55:41.82106267961Z
+    - 2018-05-26T11:55:57.707917147087Z
+  - - 2018-05-26T12:05:31.538915231822Z
+    - 2018-05-26T12:05:36.644815090768Z
+    - 2018-05-26T12:05:38.176808002843Z
+    - 2018-05-26T12:05:56.455856355661Z
+    - 2018-05-26T12:06:11.035385045648Z
+    - 2018-05-26T12:07:31.887640729135Z
+  - - 2018-05-26T12:12:19.704476617597Z
+    - 2018-05-26T12:13:04.147349494343Z
+    - 2018-05-26T12:13:14.946636591589Z
+    - 2018-05-26T12:13:25.647521823748Z
+    - 2018-05-26T12:13:33.896775652954Z
+  - []
+  - []
+  zonesRankPilot:
+  - - - '72'
+      - Mitja Jančič
+    - - '26'
+      - Dušan Durkovič
+    - - '57'
+      - Lara Leban
+    - - '114'
+      - Joan Brito
+    - - '101'
+      - Tomaž Toplak
+    - - '54'
+      - Krešo  Kovačič
+    - - '98'
+      - Tomas Svoboda
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - - '86'
+      - Sandi Krč
+    - - '37'
+      - Igor Eržen
+    - - '41'
+      - Ivo Duarte
+    - - '46'
+      - Jerko Odžak
+    - - '95'
+      - Stojan Kranjc
+    - - '16'
+      - Bruno Matos
+    - - '13'
+      - Balazs Szatmari
+    - - '113'
+      - Zsolt Sandor
+    - - '63'
+      - Marketa Tomaskova
+    - - '40'
+      - Ivica Huljek
+    - - '4'
+      - Alojz Tovornik
+    - - '21'
+      - Damir Kalinger
+    - - '73'
+      - Mitja Jug
+    - - '9'
+      - Antoni Buljan
+  - - - '54'
+      - Krešo  Kovačič
+    - - '101'
+      - Tomaž Toplak
+    - - '98'
+      - Tomas Svoboda
+    - - '26'
+      - Dušan Durkovič
+    - - '72'
+      - Mitja Jančič
+    - - '37'
+      - Igor Eržen
+    - - '95'
+      - Stojan Kranjc
+    - - '41'
+      - Ivo Duarte
+    - - '16'
+      - Bruno Matos
+    - - '114'
+      - Joan Brito
+    - - '57'
+      - Lara Leban
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - - '86'
+      - Sandi Krč
+    - - '40'
+      - Ivica Huljek
+    - - '21'
+      - Damir Kalinger
+    - - '46'
+      - Jerko Odžak
+    - - '113'
+      - Zsolt Sandor
+    - - '13'
+      - Balazs Szatmari
+    - - '4'
+      - Alojz Tovornik
+    - - '63'
+      - Marketa Tomaskova
+    - - '73'
+      - Mitja Jug
+    - - '9'
+      - Antoni Buljan
+  - - - '54'
+      - Krešo  Kovačič
+    - - '101'
+      - Tomaž Toplak
+    - - '98'
+      - Tomas Svoboda
+    - - '72'
+      - Mitja Jančič
+    - - '26'
+      - Dušan Durkovič
+    - - '37'
+      - Igor Eržen
+    - - '16'
+      - Bruno Matos
+    - - '41'
+      - Ivo Duarte
+    - - '95'
+      - Stojan Kranjc
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - - '86'
+      - Sandi Krč
+    - - '57'
+      - Lara Leban
+    - - '114'
+      - Joan Brito
+    - - '40'
+      - Ivica Huljek
+    - - '13'
+      - Balazs Szatmari
+    - - '46'
+      - Jerko Odžak
+    - - '113'
+      - Zsolt Sandor
+    - - '21'
+      - Damir Kalinger
+    - - '4'
+      - Alojz Tovornik
+    - - '63'
+      - Marketa Tomaskova
+    - - '73'
+      - Mitja Jug
+  - - - '101'
+      - Tomaž Toplak
+    - - '98'
+      - Tomas Svoboda
+    - - '72'
+      - Mitja Jančič
+    - - '26'
+      - Dušan Durkovič
+    - - '54'
+      - Krešo  Kovačič
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - - '57'
+      - Lara Leban
+    - - '41'
+      - Ivo Duarte
+    - - '37'
+      - Igor Eržen
+    - - '95'
+      - Stojan Kranjc
+    - - '16'
+      - Bruno Matos
+    - - '114'
+      - Joan Brito
+    - - '86'
+      - Sandi Krč
+    - - '13'
+      - Balazs Szatmari
+    - - '113'
+      - Zsolt Sandor
+    - - '4'
+      - Alojz Tovornik
+  - - - '54'
+      - Krešo  Kovačič
+    - - '26'
+      - Dušan Durkovič
+    - - '101'
+      - Tomaž Toplak
+    - - '72'
+      - Mitja Jančič
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - - '98'
+      - Tomas Svoboda
+    - - '57'
+      - Lara Leban
+    - - '41'
+      - Ivo Duarte
+    - - '95'
+      - Stojan Kranjc
+    - - '37'
+      - Igor Eržen
+    - - '16'
+      - Bruno Matos
+    - - '114'
+      - Joan Brito
+  - - - '98'
+      - Tomas Svoboda
+    - - '26'
+      - Dušan Durkovič
+    - - '72'
+      - Mitja Jančič
+    - - '101'
+      - Tomaž Toplak
+    - - '54'
+      - Krešo  Kovačič
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+  - - - '72'
+      - Mitja Jančič
+    - - '74'
+      - Nuno Filipe da Fonseca Bastos Gomes
+    - - '26'
+      - Dušan Durkovič
+    - - '98'
+      - Tomas Svoboda
+    - - '101'
+      - Tomaž Toplak
+  - []
+  - []
+  lastLanding: 2018-05-26T12:16:14Z
+tagging:
+- - - '4'
+    - Alojz Tovornik
+  - zonesTag:
+    - inter:
+        fixFrac: 523.5059633581408
+        time: 2018-05-26T11:20:43.50596335814Z
+        lat: 43.82659137
+        lng: 16.64491706
+        alt: 706.51
+      cross:
+        crossingPair:
+        - fix: 523
+          time: 2018-05-26T11:20:43Z
+          lat: 43.82661667
+          lng: 16.64488333
+          alt: 706
+        - fix: 524
+          time: 2018-05-26T11:20:44Z
+          lat: 43.82656667
+          lng: 16.64495
+          alt: 707
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1078.8177926081337
+        time: 2018-05-26T11:29:58.817792608133Z
+        lat: 43.83024695
+        lng: 16.627594
+        alt: 792
+      cross:
+        crossingPair:
+        - fix: 1078
+          time: 2018-05-26T11:29:58Z
+          lat: 43.83023333
+          lng: 16.62771667
+          alt: 792
+        - fix: 1079
+          time: 2018-05-26T11:29:59Z
+          lat: 43.83025
+          lng: 16.62756667
+          alt: 792
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1220.973418282844
+        time: 2018-05-26T11:32:20.973418282844Z
+        lat: 43.82611889
+        lng: 16.61865089
+        alt: 727
+      cross:
+        crossingPair:
+        - fix: 1220
+          time: 2018-05-26T11:32:20Z
+          lat: 43.8262
+          lng: 16.61868333
+          alt: 727
+        - fix: 1221
+          time: 2018-05-26T11:32:21Z
+          lat: 43.82611667
+          lng: 16.61865
+          alt: 727
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2841.668263560188
+        time: 2018-05-26T11:59:21.668263560187Z
+        lat: 43.79952764
+        lng: 16.67086114
+        alt: 690.33
+      cross:
+        crossingPair:
+        - fix: 2841
+          time: 2018-05-26T11:59:21Z
+          lat: 43.79958333
+          lng: 16.67085
+          alt: 691
+        - fix: 2842
+          time: 2018-05-26T11:59:22Z
+          lat: 43.7995
+          lng: 16.67086667
+          alt: 690
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '9'
+    - Antoni Buljan
+  - zonesTag:
+    - inter:
+        fixFrac: 199.24983631413875
+        time: 2018-05-26T11:38:43.249836314138Z
+        lat: 43.82665001
+        lng: 16.64505415
+        alt: 761.75
+      cross:
+        crossingPair:
+        - fix: 199
+          time: 2018-05-26T11:38:43Z
+          lat: 43.82666667
+          lng: 16.64503333
+          alt: 762
+        - fix: 200
+          time: 2018-05-26T11:38:44Z
+          lat: 43.8266
+          lng: 16.64511667
+          alt: 761
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1058.9183688595097
+        time: 2018-05-26T11:53:02.918368859509Z
+        lat: 43.81944013
+        lng: 16.64430274
+        alt: 610.08
+      cross:
+        crossingPair:
+        - fix: 1058
+          time: 2018-05-26T11:53:02Z
+          lat: 43.81951667
+          lng: 16.64433333
+          alt: 611
+        - fix: 1059
+          time: 2018-05-26T11:53:03Z
+          lat: 43.81943333
+          lng: 16.6443
+          alt: 610
+        inZone:
+        - true
+        - false
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '13'
+    - Balazs Szatmari
+  - zonesTag:
+    - inter:
+        fixFrac: 66.95505829853902
+        time: 2018-05-26T11:08:36.955058298539Z
+        lat: 43.82656967
+        lng: 16.64486367
+        alt: 760.04
+      cross:
+        crossingPair:
+        - fix: 66
+          time: 2018-05-26T11:08:36Z
+          lat: 43.82663333
+          lng: 16.6448
+          alt: 761
+        - fix: 67
+          time: 2018-05-26T11:08:37Z
+          lat: 43.82656667
+          lng: 16.64486667
+          alt: 760
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1082.4068278556986
+        time: 2018-05-26T11:25:32.406827855698Z
+        lat: 43.8335161
+        lng: 16.62529633
+        alt: 1471
+      cross:
+        crossingPair:
+        - fix: 1082
+          time: 2018-05-26T11:25:32Z
+          lat: 43.83355
+          lng: 16.62531667
+          alt: 1471
+        - fix: 1083
+          time: 2018-05-26T11:25:33Z
+          lat: 43.83346667
+          lng: 16.62526667
+          alt: 1471
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1164.250001342343
+        time: 2018-05-26T11:26:54.250001342343Z
+        lat: 43.8259375
+        lng: 16.61907083
+        alt: 1341.75
+      cross:
+        crossingPair:
+        - fix: 1164
+          time: 2018-05-26T11:26:54Z
+          lat: 43.82596667
+          lng: 16.61908333
+          alt: 1342
+        - fix: 1165
+          time: 2018-05-26T11:26:55Z
+          lat: 43.82585
+          lng: 16.61903333
+          alt: 1341
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2905.0376412545706
+        time: 2018-05-26T11:55:55.03764125457Z
+        lat: 43.79939624
+        lng: 16.67033396
+        alt: 797.92
+      cross:
+        crossingPair:
+        - fix: 2905
+          time: 2018-05-26T11:55:55Z
+          lat: 43.7994
+          lng: 16.67033333
+          alt: 798
+        - fix: 2906
+          time: 2018-05-26T11:55:56Z
+          lat: 43.7993
+          lng: 16.67035
+          alt: 796
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '16'
+    - Bruno Matos
+  - zonesTag:
+    - inter:
+        fixFrac: 113.74283180547265
+        time: 2018-05-26T10:58:18.742831805472Z
+        lat: 43.82651286
+        lng: 16.64471619
+        alt: 735.74
+      cross:
+        crossingPair:
+        - fix: 113
+          time: 2018-05-26T10:58:18Z
+          lat: 43.82655
+          lng: 16.64466667
+          alt: 735
+        - fix: 114
+          time: 2018-05-26T10:58:19Z
+          lat: 43.8265
+          lng: 16.64473333
+          alt: 736
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 910.8543969854272
+        time: 2018-05-26T11:11:35.854396985427Z
+        lat: 43.83111214
+        lng: 16.62690969
+        alt: 1028.15
+      cross:
+        crossingPair:
+        - fix: 910
+          time: 2018-05-26T11:11:35Z
+          lat: 43.83118333
+          lng: 16.62696667
+          alt: 1029
+        - fix: 911
+          time: 2018-05-26T11:11:36Z
+          lat: 43.8311
+          lng: 16.6269
+          alt: 1028
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 998.3163995661236
+        time: 2018-05-26T11:13:03.316399566123Z
+        lat: 43.82583503
+        lng: 16.61927278
+        alt: 960.37
+      cross:
+        crossingPair:
+        - fix: 998
+          time: 2018-05-26T11:13:03Z
+          lat: 43.82586667
+          lng: 16.61928333
+          alt: 961
+        - fix: 999
+          time: 2018-05-26T11:13:04Z
+          lat: 43.82576667
+          lng: 16.61925
+          alt: 959
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2120.6802493477344
+        time: 2018-05-26T11:31:45.680249347734Z
+        lat: 43.7992653
+        lng: 16.66994002
+        alt: 1262.32
+      cross:
+        crossingPair:
+        - fix: 2120
+          time: 2018-05-26T11:31:45Z
+          lat: 43.79933333
+          lng: 16.66988333
+          alt: 1263
+        - fix: 2121
+          time: 2018-05-26T11:31:46Z
+          lat: 43.79923333
+          lng: 16.66996667
+          alt: 1262
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3556.8210626796103
+        time: 2018-05-26T11:55:41.82106267961Z
+        lat: 43.84523807
+        lng: 16.60717684
+        alt: 1175.18
+      cross:
+        crossingPair:
+        - fix: 3556
+          time: 2018-05-26T11:55:41Z
+          lat: 43.84518333
+          lng: 16.6073
+          alt: 1176
+        - fix: 3557
+          time: 2018-05-26T11:55:42Z
+          lat: 43.84525
+          lng: 16.60715
+          alt: 1175
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+- - - '21'
+    - Damir Kalinger
+  - zonesTag:
+    - inter:
+        fixFrac: 68.72789917252975
+        time: 2018-05-26T11:23:21.727899172529Z
+        lat: 43.8299924
+        lng: 16.63743175
+        alt: 756.27
+      cross:
+        crossingPair:
+        - fix: 68
+          time: 2018-05-26T11:23:21Z
+          lat: 43.83001667
+          lng: 16.63751667
+          alt: 757
+        - fix: 69
+          time: 2018-05-26T11:23:22Z
+          lat: 43.82998333
+          lng: 16.6374
+          alt: 756
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 152.833420128058
+        time: 2018-05-26T11:24:45.833420128057Z
+        lat: 43.82937223
+        lng: 16.62834721
+        alt: 713.33
+      cross:
+        crossingPair:
+        - fix: 152
+          time: 2018-05-26T11:24:45Z
+          lat: 43.8294
+          lng: 16.62841667
+          alt: 715
+        - fix: 153
+          time: 2018-05-26T11:24:46Z
+          lat: 43.82936667
+          lng: 16.62833333
+          alt: 713
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 297.0238682289792
+        time: 2018-05-26T11:27:10.023868228979Z
+        lat: 43.8258996
+        lng: 16.61914801
+        alt: 678
+      cross:
+        crossingPair:
+        - fix: 297
+          time: 2018-05-26T11:27:10Z
+          lat: 43.8259
+          lng: 16.61915
+          alt: 678
+        - fix: 298
+          time: 2018-05-26T11:27:11Z
+          lat: 43.82588333
+          lng: 16.61906667
+          alt: 678
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '26'
+    - Dušan Durkovič
+  - zonesTag:
+    - inter:
+        fixFrac: 93.20052651127975
+        time: 2018-05-26T10:33:40.200526511279Z
+        lat: 43.82926662
+        lng: 16.63745989
+        alt: 732.2
+      cross:
+        crossingPair:
+        - fix: 93
+          time: 2018-05-26T10:33:40Z
+          lat: 43.82928333
+          lng: 16.6375
+          alt: 732
+        - fix: 94
+          time: 2018-05-26T10:33:41Z
+          lat: 43.8292
+          lng: 16.6373
+          alt: 733
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2309.9098045829933
+        time: 2018-05-26T11:10:36.909804582993Z
+        lat: 43.83746202
+        lng: 16.62345452
+        alt: 1707.09
+      cross:
+        crossingPair:
+        - fix: 2309
+          time: 2018-05-26T11:10:36Z
+          lat: 43.83758333
+          lng: 16.6235
+          alt: 1708
+        - fix: 2310
+          time: 2018-05-26T11:10:37Z
+          lat: 43.83745
+          lng: 16.62345
+          alt: 1707
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2412.2255414182946
+        time: 2018-05-26T11:12:19.225541418294Z
+        lat: 43.82474036
+        lng: 16.62062745
+        alt: 1534.77
+      cross:
+        crossingPair:
+        - fix: 2412
+          time: 2018-05-26T11:12:19Z
+          lat: 43.82476667
+          lng: 16.62065
+          alt: 1535
+        - fix: 2413
+          time: 2018-05-26T11:12:20Z
+          lat: 43.82465
+          lng: 16.62055
+          alt: 1534
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2795.2651098051697
+        time: 2018-05-26T11:18:42.265109805169Z
+        lat: 43.79884899
+        lng: 16.66905984
+        alt: 1063.73
+      cross:
+        crossingPair:
+        - fix: 2795
+          time: 2018-05-26T11:18:42Z
+          lat: 43.79886667
+          lng: 16.66903333
+          alt: 1064
+        - fix: 2796
+          time: 2018-05-26T11:18:43Z
+          lat: 43.7988
+          lng: 16.66913333
+          alt: 1063
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4188.19990728963
+        time: 2018-05-26T11:41:55.19990728963Z
+        lat: 43.84667664
+        lng: 16.60865999
+        alt: 1195.2
+      cross:
+        crossingPair:
+        - fix: 4188
+          time: 2018-05-26T11:41:55Z
+          lat: 43.84666667
+          lng: 16.60868333
+          alt: 1195
+        - fix: 4189
+          time: 2018-05-26T11:41:56Z
+          lat: 43.84671667
+          lng: 16.60856667
+          alt: 1196
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5609.644815090769
+        time: 2018-05-26T12:05:36.644815090768Z
+        lat: 43.78368552
+        lng: 16.65520592
+        alt: 785.36
+      cross:
+        crossingPair:
+        - fix: 5609
+          time: 2018-05-26T12:05:36Z
+          lat: 43.78375
+          lng: 16.65521667
+          alt: 786
+        - fix: 5610
+          time: 2018-05-26T12:05:37Z
+          lat: 43.78365
+          lng: 16.6552
+          alt: 785
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6067.94663659159
+        time: 2018-05-26T12:13:14.946636591589Z
+        lat: 43.76002112
+        lng: 16.62236934
+        alt: 378.05
+      cross:
+        crossingPair:
+        - fix: 6067
+          time: 2018-05-26T12:13:14Z
+          lat: 43.7601
+          lng: 16.62241667
+          alt: 379
+        - fix: 6068
+          time: 2018-05-26T12:13:15Z
+          lat: 43.76001667
+          lng: 16.62236667
+          alt: 378
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '37'
+    - Igor Eržen
+  - zonesTag:
+    - inter:
+        fixFrac: 99.86917631847162
+        time: 2018-05-26T10:49:18.869176318471Z
+        lat: 43.82654205
+        lng: 16.64479346
+        alt: 764
+      cross:
+        crossingPair:
+        - fix: 99
+          time: 2018-05-26T10:49:18Z
+          lat: 43.8266
+          lng: 16.64475
+          alt: 764
+        - fix: 100
+          time: 2018-05-26T10:49:19Z
+          lat: 43.82653333
+          lng: 16.6448
+          alt: 764
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1406.2503610132949
+        time: 2018-05-26T11:11:05.250361013294Z
+        lat: 43.82916249
+        lng: 16.62853746
+        alt: 1143
+      cross:
+        crossingPair:
+        - fix: 1406
+          time: 2018-05-26T11:11:05Z
+          lat: 43.82916667
+          lng: 16.62856667
+          alt: 1143
+        - fix: 1407
+          time: 2018-05-26T11:11:06Z
+          lat: 43.82915
+          lng: 16.62845
+          alt: 1143
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1500.2470408527818
+        time: 2018-05-26T11:12:39.247040852781Z
+        lat: 43.82623765
+        lng: 16.61831274
+        alt: 1105.75
+      cross:
+        crossingPair:
+        - fix: 1500
+          time: 2018-05-26T11:12:39Z
+          lat: 43.82625
+          lng: 16.61833333
+          alt: 1106
+        - fix: 1501
+          time: 2018-05-26T11:12:40Z
+          lat: 43.8262
+          lng: 16.61825
+          alt: 1105
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2635.930459876349
+        time: 2018-05-26T11:31:34.930459876348Z
+        lat: 43.79922362
+        lng: 16.66983101
+        alt: 1159.14
+      cross:
+        crossingPair:
+        - fix: 2635
+          time: 2018-05-26T11:31:34Z
+          lat: 43.79931667
+          lng: 16.6698
+          alt: 1161
+        - fix: 2636
+          time: 2018-05-26T11:31:35Z
+          lat: 43.79921667
+          lng: 16.66983333
+          alt: 1159
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4073.495627699268
+        time: 2018-05-26T11:55:32.495627699267Z
+        lat: 43.83812492
+        lng: 16.59915884
+        alt: 696
+      cross:
+        crossingPair:
+        - fix: 4073
+          time: 2018-05-26T11:55:32Z
+          lat: 43.83811667
+          lng: 16.59921667
+          alt: 696
+        - fix: 4074
+          time: 2018-05-26T11:55:33Z
+          lat: 43.83813333
+          lng: 16.5991
+          alt: 696
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+- - - '40'
+    - Ivica Huljek
+  - zonesTag:
+    - inter:
+        fixFrac: 9.677155709862795
+        time: 2018-05-26T11:20:14.708622839448Z
+        lat: 43.82692533
+        lng: 16.63926785
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 9
+          time: 2018-05-26T11:20:12Z
+          lat: 43.82708333
+          lng: 16.63955
+          alt: 0
+        - fix: 10
+          time: 2018-05-26T11:20:16Z
+          lat: 43.82685
+          lng: 16.63913333
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 20.891963060528013
+        time: 2018-05-26T11:21:19.567852242112Z
+        lat: 43.82621668
+        lng: 16.63165762
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 20
+          time: 2018-05-26T11:21:16Z
+          lat: 43.82621667
+          lng: 16.63213333
+          alt: 0
+        - fix: 21
+          time: 2018-05-26T11:21:20Z
+          lat: 43.82621667
+          lng: 16.6316
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 40.5906531398064
+        time: 2018-05-26T11:23:16.725225118448Z
+        lat: 43.82448723
+        lng: 16.62081228
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 40
+          time: 2018-05-26T11:23:12Z
+          lat: 43.82473333
+          lng: 16.62116667
+          alt: 0
+        - fix: 41
+          time: 2018-05-26T11:23:20Z
+          lat: 43.82431667
+          lng: 16.62056667
+          alt: 0
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '41'
+    - Ivo Duarte
+  - zonesTag:
+    - inter:
+        fixFrac: 77.88969391799384
+        time: 2018-05-26T10:51:37.889693917993Z
+        lat: 43.82615184
+        lng: 16.6431462
+        alt: 750
+      cross:
+        crossingPair:
+        - fix: 77
+          time: 2018-05-26T10:51:37Z
+          lat: 43.82616667
+          lng: 16.64325
+          alt: 750
+        - fix: 78
+          time: 2018-05-26T10:51:38Z
+          lat: 43.82615
+          lng: 16.64313333
+          alt: 750
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 989.9432515131991
+        time: 2018-05-26T11:11:33.943251513199Z
+        lat: 43.82903427
+        lng: 16.62865568
+        alt: 1109.06
+      cross:
+        crossingPair:
+        - fix: 989
+          time: 2018-05-26T11:11:33Z
+          lat: 43.82905
+          lng: 16.62875
+          alt: 1110
+        - fix: 990
+          time: 2018-05-26T11:11:34Z
+          lat: 43.82903333
+          lng: 16.62865
+          alt: 1109
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1094.0064101802145
+        time: 2018-05-26T11:13:18.006410180214Z
+        lat: 43.82539957
+        lng: 16.61994968
+        alt: 1067.99
+      cross:
+        crossingPair:
+        - fix: 1094
+          time: 2018-05-26T11:13:18Z
+          lat: 43.8254
+          lng: 16.61995
+          alt: 1068
+        - fix: 1095
+          time: 2018-05-26T11:13:19Z
+          lat: 43.82533333
+          lng: 16.6199
+          alt: 1067
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2012.3810528138056
+        time: 2018-05-26T11:28:36.381052813805Z
+        lat: 43.79930793
+        lng: 16.67005873
+        alt: 842.24
+      cross:
+        crossingPair:
+        - fix: 2012
+          time: 2018-05-26T11:28:36Z
+          lat: 43.79933333
+          lng: 16.67003333
+          alt: 843
+        - fix: 2013
+          time: 2018-05-26T11:28:37Z
+          lat: 43.79926667
+          lng: 16.6701
+          alt: 841
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3162.3080802169507
+        time: 2018-05-26T11:47:46.30808021695Z
+        lat: 43.83859873
+        lng: 16.59973072
+        alt: 740
+      cross:
+        crossingPair:
+        - fix: 3162
+          time: 2018-05-26T11:47:46Z
+          lat: 43.83858333
+          lng: 16.59976667
+          alt: 740
+        - fix: 3163
+          time: 2018-05-26T11:47:47Z
+          lat: 43.83863333
+          lng: 16.59965
+          alt: 740
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+- - - '46'
+    - Jerko Odžak
+  - zonesTag:
+    - inter:
+        fixFrac: 237.6546913733479
+        time: 2018-05-26T10:54:42.654691373347Z
+        lat: 43.8265506
+        lng: 16.64481547
+        alt: 765.31
+      cross:
+        crossingPair:
+        - fix: 237
+          time: 2018-05-26T10:54:42Z
+          lat: 43.82658333
+          lng: 16.64475
+          alt: 764
+        - fix: 238
+          time: 2018-05-26T10:54:43Z
+          lat: 43.82653333
+          lng: 16.64485
+          alt: 766
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2067.7621940224863
+        time: 2018-05-26T11:25:12.762194022486Z
+        lat: 43.83219521
+        lng: 16.62613253
+        alt: 1207.48
+      cross:
+        crossingPair:
+        - fix: 2067
+          time: 2018-05-26T11:25:12Z
+          lat: 43.83223333
+          lng: 16.62618333
+          alt: 1209
+        - fix: 2068
+          time: 2018-05-26T11:25:13Z
+          lat: 43.83218333
+          lng: 16.62611667
+          alt: 1207
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2171.5872822129054
+        time: 2018-05-26T11:26:56.587282212905Z
+        lat: 43.82600397
+        lng: 16.61892752
+        alt: 1137.83
+      cross:
+        crossingPair:
+        - fix: 2171
+          time: 2018-05-26T11:26:56Z
+          lat: 43.82603333
+          lng: 16.61896667
+          alt: 1139
+        - fix: 2172
+          time: 2018-05-26T11:26:57Z
+          lat: 43.82598333
+          lng: 16.6189
+          alt: 1137
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '114'
+    - Joan Brito
+  - zonesTag:
+    - inter:
+        fixFrac: 63.63361955112906
+        time: 2018-05-26T10:48:00.633619551129Z
+        lat: 43.82672443
+        lng: 16.64521501
+        alt: 790.63
+      cross:
+        crossingPair:
+        - fix: 63
+          time: 2018-05-26T10:48:00Z
+          lat: 43.82676667
+          lng: 16.64518333
+          alt: 790
+        - fix: 64
+          time: 2018-05-26T10:48:01Z
+          lat: 43.8267
+          lng: 16.64523333
+          alt: 791
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1505.311844791179
+        time: 2018-05-26T11:12:02.311844791179Z
+        lat: 43.83536254
+        lng: 16.62431774
+        alt: 1079.69
+      cross:
+        crossingPair:
+        - fix: 1505
+          time: 2018-05-26T11:12:02Z
+          lat: 43.83538333
+          lng: 16.62433333
+          alt: 1080
+        - fix: 1506
+          time: 2018-05-26T11:12:03Z
+          lat: 43.83531667
+          lng: 16.62428333
+          alt: 1079
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1681.5075101757582
+        time: 2018-05-26T11:14:58.507510175758Z
+        lat: 43.82635771
+        lng: 16.61788309
+        alt: 1007.98
+      cross:
+        crossingPair:
+        - fix: 1681
+          time: 2018-05-26T11:14:58Z
+          lat: 43.8264
+          lng: 16.6179
+          alt: 1009
+        - fix: 1682
+          time: 2018-05-26T11:14:59Z
+          lat: 43.82631667
+          lng: 16.61786667
+          alt: 1007
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2876.6518890320963
+        time: 2018-05-26T11:34:53.651889032096Z
+        lat: 43.79886234
+        lng: 16.6690826
+        alt: 1222
+      cross:
+        crossingPair:
+        - fix: 2876
+          time: 2018-05-26T11:34:53Z
+          lat: 43.79891667
+          lng: 16.66905
+          alt: 1222
+        - fix: 2877
+          time: 2018-05-26T11:34:54Z
+          lat: 43.79883333
+          lng: 16.6691
+          alt: 1222
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4140.707917147087
+        time: 2018-05-26T11:55:57.707917147087Z
+        lat: 43.84546384
+        lng: 16.60741252
+        alt: 1159.71
+      cross:
+        crossingPair:
+        - fix: 4140
+          time: 2018-05-26T11:55:57Z
+          lat: 43.84541667
+          lng: 16.60748333
+          alt: 1159
+        - fix: 4141
+          time: 2018-05-26T11:55:58Z
+          lat: 43.84548333
+          lng: 16.60738333
+          alt: 1160
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+- - - '54'
+    - Krešo  Kovačič
+  - zonesTag:
+    - inter:
+        fixFrac: 41.61430373680279
+        time: 2018-05-26T10:48:34.14303736802Z
+        lat: 43.82704308
+        lng: 16.64578287
+        alt: 828.91
+      cross:
+        crossingPair:
+        - fix: 41
+          time: 2018-05-26T10:48:28Z
+          lat: 43.82748333
+          lng: 16.64551667
+          alt: 824
+        - fix: 42
+          time: 2018-05-26T10:48:38Z
+          lat: 43.82676667
+          lng: 16.64595
+          alt: 832
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 151.26678231172838
+        time: 2018-05-26T11:06:54.66782311728Z
+        lat: 43.82895217
+        lng: 16.62873213
+        alt: 1455.13
+      cross:
+        crossingPair:
+        - fix: 151
+          time: 2018-05-26T11:06:52Z
+          lat: 43.82905
+          lng: 16.62895
+          alt: 1457
+        - fix: 152
+          time: 2018-05-26T11:07:02Z
+          lat: 43.82868333
+          lng: 16.62813333
+          alt: 1450
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 160.88099427158895
+        time: 2018-05-26T11:08:26.40497135794Z
+        lat: 43.82439642
+        lng: 16.62087022
+        alt: 1337.12
+      cross:
+        crossingPair:
+        - fix: 160
+          time: 2018-05-26T11:08:22Z
+          lat: 43.82461667
+          lng: 16.62126667
+          alt: 1338
+        - fix: 161
+          time: 2018-05-26T11:08:27Z
+          lat: 43.82436667
+          lng: 16.62081667
+          alt: 1337
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 226.67071746635884
+        time: 2018-05-26T11:19:10.670717466358Z
+        lat: 43.79854979
+        lng: 16.66861158
+        alt: 931
+      cross:
+        crossingPair:
+        - fix: 226
+          time: 2018-05-26T11:19:10Z
+          lat: 43.79858333
+          lng: 16.66853333
+          alt: 931
+        - fix: 227
+          time: 2018-05-26T11:19:11Z
+          lat: 43.79853333
+          lng: 16.66865
+          alt: 931
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 339.5893794782134
+        time: 2018-05-26T11:37:50.89379478213Z
+        lat: 43.84343402
+        lng: 16.60525382
+        alt: 1061
+      cross:
+        crossingPair:
+        - fix: 339
+          time: 2018-05-26T11:37:45Z
+          lat: 43.8431
+          lng: 16.60583333
+          alt: 1061
+        - fix: 340
+          time: 2018-05-26T11:37:55Z
+          lat: 43.84366667
+          lng: 16.60485
+          alt: 1061
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 510.87942313070675
+        time: 2018-05-26T12:06:11.035385045648Z
+        lat: 43.78371514
+        lng: 16.65529019
+        alt: 726.72
+      cross:
+        crossingPair:
+        - fix: 510
+          time: 2018-05-26T12:06:04Z
+          lat: 43.78443333
+          lng: 16.65558333
+          alt: 732
+        - fix: 511
+          time: 2018-05-26T12:06:12Z
+          lat: 43.78361667
+          lng: 16.65525
+          alt: 726
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+- - - '57'
+    - Lara Leban
+  - zonesTag:
+    - inter:
+        fixFrac: 101.71972823117491
+        time: 2018-05-26T10:39:10.719728231174Z
+        lat: 43.82653535
+        lng: 16.64477601
+        alt: 752.28
+      cross:
+        crossingPair:
+        - fix: 101
+          time: 2018-05-26T10:39:10Z
+          lat: 43.82658333
+          lng: 16.6448
+          alt: 753
+        - fix: 102
+          time: 2018-05-26T10:39:11Z
+          lat: 43.82651667
+          lng: 16.64476667
+          alt: 752
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2082.6303268029965
+        time: 2018-05-26T11:12:11.630326802996Z
+        lat: 43.83469747
+        lng: 16.62464567
+        alt: 1195.74
+      cross:
+        crossingPair:
+        - fix: 2082
+          time: 2018-05-26T11:12:11Z
+          lat: 43.83475
+          lng: 16.62466667
+          alt: 1197
+        - fix: 2083
+          time: 2018-05-26T11:12:12Z
+          lat: 43.83466667
+          lng: 16.62463333
+          alt: 1195
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2222.9117668130134
+        time: 2018-05-26T11:14:31.911766813013Z
+        lat: 43.82378921
+        lng: 16.62115735
+        alt: 1102.09
+      cross:
+        crossingPair:
+        - fix: 2222
+          time: 2018-05-26T11:14:31Z
+          lat: 43.82385
+          lng: 16.62123333
+          alt: 1103
+        - fix: 2223
+          time: 2018-05-26T11:14:32Z
+          lat: 43.82378333
+          lng: 16.62115
+          alt: 1102
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3036.4678595925316
+        time: 2018-05-26T11:28:05.467859592531Z
+        lat: 43.79915214
+        lng: 16.6696578
+        alt: 835.06
+      cross:
+        crossingPair:
+        - fix: 3036
+          time: 2018-05-26T11:28:05Z
+          lat: 43.79918333
+          lng: 16.66965
+          alt: 836
+        - fix: 3037
+          time: 2018-05-26T11:28:06Z
+          lat: 43.79911667
+          lng: 16.66966667
+          alt: 834
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4201.049344460897
+        time: 2018-05-26T11:47:30.049344460897Z
+        lat: 43.83858497
+        lng: 16.5997142
+        alt: 736
+      cross:
+        crossingPair:
+        - fix: 4201
+          time: 2018-05-26T11:47:30Z
+          lat: 43.83858333
+          lng: 16.59971667
+          alt: 736
+        - fix: 4202
+          time: 2018-05-26T11:47:31Z
+          lat: 43.83861667
+          lng: 16.59966667
+          alt: 736
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+- - - '63'
+    - Marketa Tomaskova
+  - zonesTag:
+    - inter:
+        fixFrac: 80.961054129728
+        time: 2018-05-26T11:10:20.961054129727Z
+        lat: 43.82635195
+        lng: 16.64421537
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 80
+          time: 2018-05-26T11:10:20Z
+          lat: 43.8264
+          lng: 16.64418333
+          alt: 0
+        - fix: 81
+          time: 2018-05-26T11:10:21Z
+          lat: 43.82635
+          lng: 16.64421667
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1602.4980386794077
+        time: 2018-05-26T11:35:42.498038679407Z
+        lat: 43.83443347
+        lng: 16.6247834
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1602
+          time: 2018-05-26T11:35:42Z
+          lat: 43.83446667
+          lng: 16.6248
+          alt: 0
+        - fix: 1603
+          time: 2018-05-26T11:35:43Z
+          lat: 43.8344
+          lng: 16.62476667
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1745.758123490094
+        time: 2018-05-26T11:38:05.758123490094Z
+        lat: 43.82538683
+        lng: 16.61996612
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1745
+          time: 2018-05-26T11:38:05Z
+          lat: 43.82545
+          lng: 16.62001667
+          alt: 0
+        - fix: 1746
+          time: 2018-05-26T11:38:06Z
+          lat: 43.82536667
+          lng: 16.61995
+          alt: 0
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '72'
+    - Mitja Jančič
+  - zonesTag:
+    - inter:
+        fixFrac: 99.82836298546903
+        time: 2018-05-26T10:30:50.828362985469Z
+        lat: 43.82644477
+        lng: 16.64452189
+        alt: 735.34
+      cross:
+        crossingPair:
+        - fix: 99
+          time: 2018-05-26T10:30:50Z
+          lat: 43.8265
+          lng: 16.64446667
+          alt: 737
+        - fix: 100
+          time: 2018-05-26T10:30:51Z
+          lat: 43.82643333
+          lng: 16.64453333
+          alt: 735
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2505.825238370315
+        time: 2018-05-26T11:10:56.825238370315Z
+        lat: 43.83428705
+        lng: 16.62486166
+        alt: 1683.17
+      cross:
+        crossingPair:
+        - fix: 2505
+          time: 2018-05-26T11:10:56Z
+          lat: 43.83438333
+          lng: 16.62491667
+          alt: 1684
+        - fix: 2506
+          time: 2018-05-26T11:10:57Z
+          lat: 43.83426667
+          lng: 16.62485
+          alt: 1683
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 2584.8692615842483
+        time: 2018-05-26T11:12:15.869261584248Z
+        lat: 43.82479858
+        lng: 16.62057975
+        alt: 1549.13
+      cross:
+        crossingPair:
+        - fix: 2584
+          time: 2018-05-26T11:12:15Z
+          lat: 43.8249
+          lng: 16.62066667
+          alt: 1550
+        - fix: 2585
+          time: 2018-05-26T11:12:16Z
+          lat: 43.82478333
+          lng: 16.62056667
+          alt: 1549
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2961.031849682976
+        time: 2018-05-26T11:18:32.031849682975Z
+        lat: 43.79873174
+        lng: 16.66887092
+        alt: 1117
+      cross:
+        crossingPair:
+        - fix: 2961
+          time: 2018-05-26T11:18:32Z
+          lat: 43.79873333
+          lng: 16.66886667
+          alt: 1117
+        - fix: 2962
+          time: 2018-05-26T11:18:33Z
+          lat: 43.79868333
+          lng: 16.669
+          alt: 1117
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4375.4235035398715
+        time: 2018-05-26T11:42:06.423503539871Z
+        lat: 43.84763784
+        lng: 16.60962686
+        alt: 1253.42
+      cross:
+        crossingPair:
+        - fix: 4375
+          time: 2018-05-26T11:42:06Z
+          lat: 43.84761667
+          lng: 16.60968333
+          alt: 1253
+        - fix: 4376
+          time: 2018-05-26T11:42:07Z
+          lat: 43.84766667
+          lng: 16.60955
+          alt: 1254
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5787.176808002844
+        time: 2018-05-26T12:05:38.176808002843Z
+        lat: 43.78368232
+        lng: 16.65519705
+        alt: 825.82
+      cross:
+        crossingPair:
+        - fix: 5787
+          time: 2018-05-26T12:05:38Z
+          lat: 43.7837
+          lng: 16.6552
+          alt: 826
+        - fix: 5788
+          time: 2018-05-26T12:05:39Z
+          lat: 43.7836
+          lng: 16.65518333
+          alt: 825
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 6188.704476617597
+        time: 2018-05-26T12:12:19.704476617597Z
+        lat: 43.76006288
+        lng: 16.62224622
+        alt: 424
+      cross:
+        crossingPair:
+        - fix: 6188
+          time: 2018-05-26T12:12:19Z
+          lat: 43.76013333
+          lng: 16.62231667
+          alt: 424
+        - fix: 6189
+          time: 2018-05-26T12:12:20Z
+          lat: 43.76003333
+          lng: 16.62221667
+          alt: 424
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '73'
+    - Mitja Jug
+  - zonesTag:
+    - inter:
+        fixFrac: 27.689306098320955
+        time: 2018-05-26T11:37:21.4465304916Z
+        lat: 43.82664839
+        lng: 16.64505048
+        alt: 802.07
+      cross:
+        crossingPair:
+        - fix: 27
+          time: 2018-05-26T11:37:18Z
+          lat: 43.82686667
+          lng: 16.64486667
+          alt: 800
+        - fix: 28
+          time: 2018-05-26T11:37:23Z
+          lat: 43.82655
+          lng: 16.64513333
+          alt: 803
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 214.43174055800966
+        time: 2018-05-26T11:52:25.158702790045Z
+        lat: 43.83024698
+        lng: 16.62759398
+        alt: 807.98
+      cross:
+        crossingPair:
+        - fix: 214
+          time: 2018-05-26T11:52:23Z
+          lat: 43.83033333
+          lng: 16.62776667
+          alt: 811
+        - fix: 215
+          time: 2018-05-26T11:52:28Z
+          lat: 43.83013333
+          lng: 16.62736667
+          alt: 804
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 242.87348961252306
+        time: 2018-05-26T11:54:44.746979225046Z
+        lat: 43.82592932
+        lng: 16.61908775
+        alt: 745.38
+      cross:
+        crossingPair:
+        - fix: 242
+          time: 2018-05-26T11:54:43Z
+          lat: 43.82601667
+          lng: 16.61923333
+          alt: 748
+        - fix: 243
+          time: 2018-05-26T11:54:45Z
+          lat: 43.82591667
+          lng: 16.61906667
+          alt: 745
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '74'
+    - Nuno Filipe da Fonseca Bastos Gomes
+  - zonesTag:
+    - inter:
+        fixFrac: 221.42803647413493
+        time: 2018-05-26T10:49:00.428036474134Z
+        lat: 43.8265548
+        lng: 16.6448262
+        alt: 780
+      cross:
+        crossingPair:
+        - fix: 221
+          time: 2018-05-26T10:49:00Z
+          lat: 43.82658333
+          lng: 16.64483333
+          alt: 780
+        - fix: 222
+          time: 2018-05-26T10:49:01Z
+          lat: 43.82651667
+          lng: 16.64481667
+          alt: 780
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1644.0408025281702
+        time: 2018-05-26T11:12:43.04080252817Z
+        lat: 43.83684456
+        lng: 16.62368197
+        alt: 1670.92
+      cross:
+        crossingPair:
+        - fix: 1644
+          time: 2018-05-26T11:12:43Z
+          lat: 43.83685
+          lng: 16.62368333
+          alt: 1671
+        - fix: 1645
+          time: 2018-05-26T11:12:44Z
+          lat: 43.83671667
+          lng: 16.62365
+          alt: 1669
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1726.3393216376255
+        time: 2018-05-26T11:14:05.339321637625Z
+        lat: 43.82502143
+        lng: 16.62037738
+        alt: 1501.98
+      cross:
+        crossingPair:
+        - fix: 1726
+          time: 2018-05-26T11:14:05Z
+          lat: 43.82506667
+          lng: 16.6204
+          alt: 1503
+        - fix: 1727
+          time: 2018-05-26T11:14:06Z
+          lat: 43.82493333
+          lng: 16.62033333
+          alt: 1500
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2059.1673038684776
+        time: 2018-05-26T11:19:38.167303868477Z
+        lat: 43.79828884
+        lng: 16.66829727
+        alt: 985.83
+      cross:
+        crossingPair:
+        - fix: 2059
+          time: 2018-05-26T11:19:38Z
+          lat: 43.7983
+          lng: 16.66828333
+          alt: 986
+        - fix: 2060
+          time: 2018-05-26T11:19:39Z
+          lat: 43.79823333
+          lng: 16.66836667
+          alt: 985
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3410.8202643661807
+        time: 2018-05-26T11:42:09.82026436618Z
+        lat: 43.84765464
+        lng: 16.60964359
+        alt: 1246
+      cross:
+        crossingPair:
+        - fix: 3410
+          time: 2018-05-26T11:42:09Z
+          lat: 43.8476
+          lng: 16.60976667
+          alt: 1246
+        - fix: 3411
+          time: 2018-05-26T11:42:10Z
+          lat: 43.84766667
+          lng: 16.60961667
+          alt: 1246
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4932.8876407291355
+        time: 2018-05-26T12:07:31.887640729135Z
+        lat: 43.78274457
+        lng: 16.65357042
+        alt: 844.11
+      cross:
+        crossingPair:
+        - fix: 4932
+          time: 2018-05-26T12:07:31Z
+          lat: 43.78283333
+          lng: 16.6536
+          alt: 845
+        - fix: 4933
+          time: 2018-05-26T12:07:32Z
+          lat: 43.78273333
+          lng: 16.65356667
+          alt: 844
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5265.147349494344
+        time: 2018-05-26T12:13:04.147349494343Z
+        lat: 43.76008772
+        lng: 16.62216859
+        alt: 472.71
+      cross:
+        crossingPair:
+        - fix: 5265
+          time: 2018-05-26T12:13:04Z
+          lat: 43.7601
+          lng: 16.62218333
+          alt: 473
+        - fix: 5266
+          time: 2018-05-26T12:13:05Z
+          lat: 43.76001667
+          lng: 16.62208333
+          alt: 471
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '80'
+    - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+  - null
+- - - '86'
+    - Sandi Krč
+  - zonesTag:
+    - inter:
+        fixFrac: 278.75172330143516
+        time: 2018-05-26T10:49:09.751723301435Z
+        lat: 43.82659988
+        lng: 16.64493759
+        alt: 800
+      cross:
+        crossingPair:
+        - fix: 278
+          time: 2018-05-26T10:49:09Z
+          lat: 43.82665
+          lng: 16.6449
+          alt: 800
+        - fix: 279
+          time: 2018-05-26T10:49:10Z
+          lat: 43.82658333
+          lng: 16.64495
+          alt: 800
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1710.302435249006
+        time: 2018-05-26T11:13:01.302435249005Z
+        lat: 43.83171976
+        lng: 16.62646317
+        alt: 1360.7
+      cross:
+        crossingPair:
+        - fix: 1710
+          time: 2018-05-26T11:13:01Z
+          lat: 43.83175
+          lng: 16.62648333
+          alt: 1361
+        - fix: 1711
+          time: 2018-05-26T11:13:02Z
+          lat: 43.83165
+          lng: 16.62641667
+          alt: 1360
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1788.7628773597392
+        time: 2018-05-26T11:14:19.762877359739Z
+        lat: 43.82457371
+        lng: 16.62075309
+        alt: 1251.47
+      cross:
+        crossingPair:
+        - fix: 1788
+          time: 2018-05-26T11:14:19Z
+          lat: 43.82465
+          lng: 16.62081667
+          alt: 1253
+        - fix: 1789
+          time: 2018-05-26T11:14:20Z
+          lat: 43.82455
+          lng: 16.62073333
+          alt: 1251
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3348.1064205422003
+        time: 2018-05-26T11:40:19.1064205422Z
+        lat: 43.79947624
+        lng: 16.67063156
+        alt: 860
+      cross:
+        crossingPair:
+        - fix: 3348
+          time: 2018-05-26T11:40:19Z
+          lat: 43.79948333
+          lng: 16.67063333
+          alt: 860
+        - fix: 3349
+          time: 2018-05-26T11:40:20Z
+          lat: 43.79941667
+          lng: 16.67061667
+          alt: 860
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
+- - - '91'
+    - Slava Jelić
+  - null
+- - - '95'
+    - Stojan Kranjc
+  - zonesTag:
+    - inter:
+        fixFrac: 200.2905600186543
+        time: 2018-05-26T10:54:53.290560018654Z
+        lat: 43.82658547
+        lng: 16.6449027
+        alt: 762.29
+      cross:
+        crossingPair:
+        - fix: 200
+          time: 2018-05-26T10:54:53Z
+          lat: 43.8266
+          lng: 16.64488333
+          alt: 762
+        - fix: 201
+          time: 2018-05-26T10:54:54Z
+          lat: 43.82655
+          lng: 16.64495
+          alt: 763
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1182.4166189183836
+        time: 2018-05-26T11:11:15.416618918383Z
+        lat: 43.8321125
+        lng: 16.62618889
+        alt: 1003.17
+      cross:
+        crossingPair:
+        - fix: 1182
+          time: 2018-05-26T11:11:15Z
+          lat: 43.83213333
+          lng: 16.62621667
+          alt: 1004
+        - fix: 1183
+          time: 2018-05-26T11:11:16Z
+          lat: 43.83208333
+          lng: 16.62615
+          alt: 1002
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1312.2758428673874
+        time: 2018-05-26T11:13:25.275842867387Z
+        lat: 43.82572701
+        lng: 16.61946494
+        alt: 897.72
+      cross:
+        crossingPair:
+        - fix: 1312
+          time: 2018-05-26T11:13:25Z
+          lat: 43.82575
+          lng: 16.61948333
+          alt: 898
+        - fix: 1313
+          time: 2018-05-26T11:13:26Z
+          lat: 43.82566667
+          lng: 16.61941667
+          alt: 897
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2404.089553504293
+        time: 2018-05-26T11:31:37.089553504292Z
+        lat: 43.79908955
+        lng: 16.66951816
+        alt: 1158.82
+      cross:
+        crossingPair:
+        - fix: 2404
+          time: 2018-05-26T11:31:37Z
+          lat: 43.7991
+          lng: 16.66951667
+          alt: 1159
+        - fix: 2405
+          time: 2018-05-26T11:31:38Z
+          lat: 43.79898333
+          lng: 16.66953333
+          alt: 1157
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3651.628304977066
+        time: 2018-05-26T11:52:24.628304977065Z
+        lat: 43.84237519
+        lng: 16.60409138
+        alt: 1125
+      cross:
+        crossingPair:
+        - fix: 3651
+          time: 2018-05-26T11:52:24Z
+          lat: 43.84233333
+          lng: 16.60413333
+          alt: 1125
+        - fix: 3652
+          time: 2018-05-26T11:52:25Z
+          lat: 43.8424
+          lng: 16.60406667
+          alt: 1125
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+- - - '98'
+    - Tomas Svoboda
+  - zonesTag:
+    - inter:
+        fixFrac: 104.57254201308993
+        time: 2018-05-26T10:48:56.145084026178Z
+        lat: 43.8269832
+        lng: 16.6456883
+        alt: 812.85
+      cross:
+        crossingPair:
+        - fix: 104
+          time: 2018-05-26T10:48:55Z
+          lat: 43.82705
+          lng: 16.64558333
+          alt: 814
+        - fix: 105
+          time: 2018-05-26T10:48:57Z
+          lat: 43.82693333
+          lng: 16.64576667
+          alt: 812
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 719.5170336448496
+        time: 2018-05-26T11:09:27.034067289698Z
+        lat: 43.82883107
+        lng: 16.62884602
+        alt: 1667.41
+      cross:
+        crossingPair:
+        - fix: 719
+          time: 2018-05-26T11:09:26Z
+          lat: 43.8289
+          lng: 16.62896667
+          alt: 1670
+        - fix: 720
+          time: 2018-05-26T11:09:28Z
+          lat: 43.82876667
+          lng: 16.62873333
+          alt: 1665
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 754.8813228659671
+        time: 2018-05-26T11:10:37.762645731934Z
+        lat: 43.82335707
+        lng: 16.62126582
+        alt: 1567.12
+      cross:
+        crossingPair:
+        - fix: 754
+          time: 2018-05-26T11:10:36Z
+          lat: 43.82353333
+          lng: 16.62138333
+          alt: 1568
+        - fix: 755
+          time: 2018-05-26T11:10:38Z
+          lat: 43.82333333
+          lng: 16.62125
+          alt: 1567
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 976.7872206119425
+        time: 2018-05-26T11:18:00.574441223884Z
+        lat: 43.79826419
+        lng: 16.66827057
+        alt: 1183.85
+      cross:
+        crossingPair:
+        - fix: 976
+          time: 2018-05-26T11:17:59Z
+          lat: 43.79831667
+          lng: 16.6681
+          alt: 1187
+        - fix: 977
+          time: 2018-05-26T11:18:01Z
+          lat: 43.79825
+          lng: 16.66831667
+          alt: 1183
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1714.3091720189918
+        time: 2018-05-26T11:42:38.618344037982Z
+        lat: 43.84796425
+        lng: 16.60995089
+        alt: 1502.69
+      cross:
+        crossingPair:
+        - fix: 1714
+          time: 2018-05-26T11:42:38Z
+          lat: 43.84793333
+          lng: 16.61003333
+          alt: 1503
+        - fix: 1715
+          time: 2018-05-26T11:42:40Z
+          lat: 43.84803333
+          lng: 16.60976667
+          alt: 1502
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2400.7694576159115
+        time: 2018-05-26T12:05:31.538915231822Z
+        lat: 43.78380125
+        lng: 16.65556153
+        alt: 855.69
+      cross:
+        crossingPair:
+        - fix: 2400
+          time: 2018-05-26T12:05:30Z
+          lat: 43.78391667
+          lng: 16.6556
+          alt: 858
+        - fix: 2401
+          time: 2018-05-26T12:05:32Z
+          lat: 43.78376667
+          lng: 16.65555
+          alt: 855
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2638.6475218237483
+        time: 2018-05-26T12:13:25.647521823748Z
+        lat: 43.76032937
+        lng: 16.62105683
+        alt: 413.35
+      cross:
+        crossingPair:
+        - fix: 2638
+          time: 2018-05-26T12:13:25Z
+          lat: 43.76038333
+          lng: 16.6211
+          alt: 414
+        - fix: 2639
+          time: 2018-05-26T12:13:26Z
+          lat: 43.7603
+          lng: 16.62103333
+          alt: 413
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '101'
+    - Tomaž Toplak
+  - zonesTag:
+    - inter:
+        fixFrac: 109.37389214676845
+        time: 2018-05-26T10:48:26.373892146768Z
+        lat: 43.82655841
+        lng: 16.64483537
+        alt: 744.63
+      cross:
+        crossingPair:
+        - fix: 109
+          time: 2018-05-26T10:48:26Z
+          lat: 43.82658333
+          lng: 16.64481667
+          alt: 745
+        - fix: 110
+          time: 2018-05-26T10:48:27Z
+          lat: 43.82651667
+          lng: 16.64486667
+          alt: 744
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1340.336067544094
+        time: 2018-05-26T11:08:58.672135088188Z
+        lat: 43.82892187
+        lng: 16.62876051
+        alt: 1614.66
+      cross:
+        crossingPair:
+        - fix: 1340
+          time: 2018-05-26T11:08:58Z
+          lat: 43.82896667
+          lng: 16.62883333
+          alt: 1616
+        - fix: 1341
+          time: 2018-05-26T11:09:00Z
+          lat: 43.82883333
+          lng: 16.62861667
+          alt: 1612
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1406.1970723200773
+        time: 2018-05-26T11:10:05.197072320077Z
+        lat: 43.82406691
+        lng: 16.62104671
+        alt: 1531.61
+      cross:
+        crossingPair:
+        - fix: 1406
+          time: 2018-05-26T11:10:05Z
+          lat: 43.82408333
+          lng: 16.62105
+          alt: 1532
+        - fix: 1407
+          time: 2018-05-26T11:10:06Z
+          lat: 43.824
+          lng: 16.62103333
+          alt: 1530
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 1880.7109822722223
+        time: 2018-05-26T11:17:59.710982272222Z
+        lat: 43.79836927
+        lng: 16.66838777
+        alt: 1180.29
+      cross:
+        crossingPair:
+        - fix: 1880
+          time: 2018-05-26T11:17:59Z
+          lat: 43.79841667
+          lng: 16.66831667
+          alt: 1181
+        - fix: 1881
+          time: 2018-05-26T11:18:00Z
+          lat: 43.79835
+          lng: 16.66841667
+          alt: 1180
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 3316.8637313758195
+        time: 2018-05-26T11:41:55.863731375819Z
+        lat: 43.84739318
+        lng: 16.60938257
+        alt: 1228.86
+      cross:
+        crossingPair:
+        - fix: 3316
+          time: 2018-05-26T11:41:55Z
+          lat: 43.84735
+          lng: 16.60948333
+          alt: 1228
+        - fix: 3317
+          time: 2018-05-26T11:41:56Z
+          lat: 43.8474
+          lng: 16.60936667
+          alt: 1229
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 4757.455856355661
+        time: 2018-05-26T12:05:56.455856355661Z
+        lat: 43.78364682
+        lng: 16.65510147
+        alt: 840.18
+      cross:
+        crossingPair:
+        - fix: 4757
+          time: 2018-05-26T12:05:56Z
+          lat: 43.7837
+          lng: 16.65511667
+          alt: 842
+        - fix: 4758
+          time: 2018-05-26T12:05:57Z
+          lat: 43.78358333
+          lng: 16.65508333
+          alt: 838
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 5214.896775652955
+        time: 2018-05-26T12:13:33.896775652954Z
+        lat: 43.76028849
+        lng: 16.62133043
+        alt: 361.1
+      cross:
+        crossingPair:
+        - fix: 5214
+          time: 2018-05-26T12:13:33Z
+          lat: 43.76033333
+          lng: 16.62145
+          alt: 362
+        - fix: 5215
+          time: 2018-05-26T12:13:34Z
+          lat: 43.76028333
+          lng: 16.62131667
+          alt: 361
+        inZone:
+        - false
+        - true
+    - null
+    - null
+- - - '113'
+    - Zsolt Sandor
+  - zonesTag:
+    - inter:
+        fixFrac: 77.62237427934937
+        time: 2018-05-26T11:08:44.622374279349Z
+        lat: 43.82660851
+        lng: 16.64495816
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 77
+          time: 2018-05-26T11:08:44Z
+          lat: 43.82665
+          lng: 16.64491667
+          alt: 0
+        - fix: 78
+          time: 2018-05-26T11:08:45Z
+          lat: 43.82658333
+          lng: 16.64498333
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1078.1896199041307
+        time: 2018-05-26T11:25:25.18961990413Z
+        lat: 43.83468736
+        lng: 16.62465086
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1078
+          time: 2018-05-26T11:25:25Z
+          lat: 43.8347
+          lng: 16.62466667
+          alt: 0
+        - fix: 1079
+          time: 2018-05-26T11:25:26Z
+          lat: 43.83463333
+          lng: 16.62458333
+          alt: 0
+        inZone:
+        - true
+        - false
+    - inter:
+        fixFrac: 1180.4171619690671
+        time: 2018-05-26T11:27:07.417161969067Z
+        lat: 43.82580828
+        lng: 16.61932219
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 1180
+          time: 2018-05-26T11:27:07Z
+          lat: 43.82585
+          lng: 16.61935
+          alt: 0
+        - fix: 1181
+          time: 2018-05-26T11:27:08Z
+          lat: 43.82575
+          lng: 16.61928333
+          alt: 0
+        inZone:
+        - false
+        - true
+    - inter:
+        fixFrac: 2995.6169257957445
+        time: 2018-05-26T11:57:22.616925795744Z
+        lat: 43.79966525
+        lng: 16.67221417
+        alt: 0
+      cross:
+        crossingPair:
+        - fix: 2995
+          time: 2018-05-26T11:57:22Z
+          lat: 43.79971667
+          lng: 16.67218333
+          alt: 0
+        - fix: 2996
+          time: 2018-05-26T11:57:23Z
+          lat: 43.79963333
+          lng: 16.67223333
+          alt: 0
+        inZone:
+        - false
+        - true
+    - null
+    - null
+    - null
+    - null
+    - null
