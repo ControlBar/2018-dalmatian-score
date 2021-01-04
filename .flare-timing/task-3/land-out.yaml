@@ -1,0 +1,120 @@
+minDistance: 1.000 km
+bestDistance: 26.187198 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 271
+  - 27.1 km
+  sumOf: 481
+landout: 9
+lookahead: 87
+difficulty:
+- chunk: 0
+  startChunk: 0.0 km
+  endChunk: 0.1 km
+  endAhead: 8.8 km
+  down: 2
+  downs:
+  - 0.005 km
+  - 0.019 km
+  downers:
+  - - '46'
+    - Jerko Odžak
+  - - '40'
+    - Ivica Huljek
+  downward: 4
+  rel: 4.158e-3
+  frac: 4.15039e-3
+- chunk: 10
+  startChunk: 1.0 km
+  endChunk: 1.1 km
+  endAhead: 9.8 km
+  down: 1
+  downs:
+  - 1.000 km
+  downers:
+  - - '91'
+    - Slava Jelić
+  downward: 2
+  rel: 2.079e-3
+  frac: 2.490234e-2
+- chunk: 32
+  startChunk: 3.2 km
+  endChunk: 3.3 km
+  endAhead: 12.0 km
+  down: 1
+  downs:
+  - 3.245 km
+  downers:
+  - - '80'
+    - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+  downward: 1
+  rel: 1.0395e-3
+  frac: 4.785156e-2
+- chunk: 141
+  startChunk: 14.1 km
+  endChunk: 14.2 km
+  endAhead: 22.9 km
+  down: 1
+  downs:
+  - 14.163 km
+  downers:
+  - - '23'
+    - David Šiljeg
+  downward: 3
+  rel: 3.1185e-3
+  frac: 0.14770508
+- chunk: 220
+  startChunk: 22.0 km
+  endChunk: 22.1 km
+  endAhead: 30.8 km
+  down: 1
+  downs:
+  - 22.079 km
+  downers:
+  - - '41'
+    - Ivo Duarte
+  downward: 4
+  rel: 4.158e-3
+  frac: 0.45947266
+- chunk: 227
+  startChunk: 22.7 km
+  endChunk: 22.8 km
+  endAhead: 31.5 km
+  down: 1
+  downs:
+  - 22.752 km
+  downers:
+  - - '57'
+    - Lara Leban
+  downward: 3
+  rel: 3.1185e-3
+  frac: 0.48120117
+- chunk: 228
+  startChunk: 22.8 km
+  endChunk: 22.9 km
+  endAhead: 31.6 km
+  down: 1
+  downs:
+  - 22.886 km
+  downers:
+  - - '37'
+    - Igor Eržen
+  downward: 2
+  rel: 2.079e-3
+  frac: 0.48339844
+- chunk: 244
+  startChunk: 24.4 km
+  endChunk: 24.5 km
+  endAhead: 33.2 km
+  down: 1
+  downs:
+  - 24.473 km
+  downers:
+  - - '54'
+    - Krešo  Kovačič
+  downward: 1
+  rel: 1.0395e-3
+  frac: 0.5

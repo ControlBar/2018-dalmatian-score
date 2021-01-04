@@ -1,0 +1,130 @@
+minDistance: 1.000 km
+bestDistance: 26.187198 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 271
+  - 27.1 km
+  sumOf: 501
+landout: 9
+lookahead: 87
+difficulty:
+- chunk: 2
+  startChunk: 0.2 km
+  endChunk: 0.3 km
+  endAhead: 9.0 km
+  down: 1
+  downs:
+  - 0.200 km
+  downers:
+  - - '40'
+    - Ivica Huljek
+  downward: 4
+  rel: 3.99202e-3
+  frac: 1.196289e-2
+- chunk: 10
+  startChunk: 1.0 km
+  endChunk: 1.1 km
+  endAhead: 9.8 km
+  down: 1
+  downs:
+  - 1.000 km
+  downers:
+  - - '91'
+    - Slava Jelić
+  downward: 3
+  rel: 2.99401e-3
+  frac: 3.588867e-2
+- chunk: 19
+  startChunk: 1.9 km
+  endChunk: 2.0 km
+  endAhead: 10.7 km
+  down: 1
+  downs:
+  - 1.904 km
+  downers:
+  - - '46'
+    - Jerko Odžak
+  downward: 2
+  rel: 1.99601e-3
+  frac: 5.395508e-2
+- chunk: 31
+  startChunk: 3.1 km
+  endChunk: 3.2 km
+  endAhead: 11.9 km
+  down: 1
+  downs:
+  - 3.170 km
+  downers:
+  - - '80'
+    - Ricardo Nicolau Soares Terra de Oliveira Figueiredo
+  downward: 1
+  rel: 9.98e-4
+  frac: 6.591797e-2
+- chunk: 158
+  startChunk: 15.8 km
+  endChunk: 15.9 km
+  endAhead: 24.6 km
+  down: 1
+  downs:
+  - 15.862 km
+  downers:
+  - - '23'
+    - David Šiljeg
+  downward: 4
+  rel: 3.99202e-3
+  frac: 0.21264648
+- chunk: 220
+  startChunk: 22.0 km
+  endChunk: 22.1 km
+  endAhead: 30.8 km
+  down: 1
+  downs:
+  - 22.079 km
+  downers:
+  - - '41'
+    - Ivo Duarte
+  downward: 4
+  rel: 3.99202e-3
+  frac: 0.45996094
+- chunk: 227
+  startChunk: 22.7 km
+  endChunk: 22.8 km
+  endAhead: 31.5 km
+  down: 1
+  downs:
+  - 22.752 km
+  downers:
+  - - '57'
+    - Lara Leban
+  downward: 3
+  rel: 2.99401e-3
+  frac: 0.48095703
+- chunk: 228
+  startChunk: 22.8 km
+  endChunk: 22.9 km
+  endAhead: 31.6 km
+  down: 1
+  downs:
+  - 22.887 km
+  downers:
+  - - '37'
+    - Igor Eržen
+  downward: 2
+  rel: 1.99601e-3
+  frac: 0.4831543
+- chunk: 245
+  startChunk: 24.5 km
+  endChunk: 24.6 km
+  endAhead: 33.3 km
+  down: 1
+  downs:
+  - 24.586 km
+  downers:
+  - - '54'
+    - Krešo  Kovačič
+  downward: 1
+  rel: 9.98e-4
+  frac: 0.5
