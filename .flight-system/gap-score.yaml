@@ -131,7 +131,8 @@ score:
         time: 0
         effort: 0
         reach: 104.54
-      place: '1'
+      placeTaken: '1'
+      placeGiven: '1'
       total: 109
       fractions:
         distance: 1
@@ -158,7 +159,8 @@ score:
         time: 0
         effort: 0
         reach: 93.77
-      place: '2'
+      placeTaken: '2'
+      placeGiven: '2'
       total: 96
       fractions:
         distance: 0.89760766
@@ -185,7 +187,8 @@ score:
         time: 0
         effort: 0
         reach: 75.4
-      place: '3'
+      placeTaken: '3'
+      placeGiven: '3'
       total: 79
       fractions:
         distance: 0.7215311
@@ -212,7 +215,8 @@ score:
         time: 0
         effort: 0
         reach: 72.92
-      place: '4'
+      placeTaken: '4'
+      placeGiven: '4'
       total: 77
       fractions:
         distance: 0.69760766
@@ -239,7 +243,8 @@ score:
         time: 0
         effort: 0
         reach: 73.28
-      place: '5'
+      placeTaken: '5'
+      placeGiven: '5'
       total: 74
       fractions:
         distance: 0.70143541
@@ -266,7 +271,8 @@ score:
         time: 0
         effort: 0
         reach: 65.79
-      place: '6'
+      placeTaken: '6'
+      placeGiven: '6'
       total: 68
       fractions:
         distance: 0.62966507
@@ -293,7 +299,8 @@ score:
         time: 0
         effort: 0
         reach: 55.26
-      place: '7'
+      placeTaken: '7'
+      placeGiven: '7'
       total: 56
       fractions:
         distance: 0.5291866
@@ -320,7 +327,8 @@ score:
         time: 0
         effort: 0
         reach: 48.7
-      place: '8'
+      placeTaken: '8'
+      placeGiven: '8'
       total: 51
       fractions:
         distance: 0.46602871
@@ -347,7 +355,8 @@ score:
         time: 0
         effort: 0
         reach: 45.79
-      place: '9'
+      placeTaken: '9'
+      placeGiven: '9'
       total: 48
       fractions:
         distance: 0.43827751
@@ -374,7 +383,8 @@ score:
         time: 0
         effort: 0
         reach: 43.08
-      place: '10'
+      placeTaken: '10'
+      placeGiven: '10'
       total: 45
       fractions:
         distance: 0.41244019
@@ -401,7 +411,8 @@ score:
         time: 0
         effort: 0
         reach: 41.92
-      place: '11'
+      placeTaken: '11'
+      placeGiven: '11'
       total: 44
       fractions:
         distance: 0.40095694
@@ -428,7 +439,8 @@ score:
         time: 0
         effort: 0
         reach: 24.25
-      place: '12'
+      placeTaken: 12=
+      placeGiven: '12'
       total: 26
       fractions:
         distance: 0.23253589
@@ -455,7 +467,8 @@ score:
         time: 0
         effort: 0
         reach: 25.32
-      place: '12'
+      placeTaken: 12=
+      placeGiven: '12'
       total: 26
       fractions:
         distance: 0.24210526
@@ -482,7 +495,8 @@ score:
         time: 0
         effort: 0
         reach: 22.59
-      place: '14'
+      placeTaken: '14'
+      placeGiven: '14'
       total: 23
       fractions:
         distance: 0.21626794
@@ -509,7 +523,8 @@ score:
         time: 0
         effort: 0
         reach: 21.14
-      place: '15'
+      placeTaken: '15'
+      placeGiven: '15'
       total: 22
       fractions:
         distance: 0.20191388
@@ -536,7 +551,8 @@ score:
         time: 0
         effort: 0
         reach: 20.27
-      place: '16'
+      placeTaken: '16'
+      placeGiven: '16'
       total: 21
       fractions:
         distance: 0.19425837
@@ -563,7 +579,8 @@ score:
         time: 0
         effort: 0
         reach: 13.71
-      place: '17'
+      placeTaken: '17'
+      placeGiven: '17'
       total: 14
       fractions:
         distance: 0.13110048
@@ -590,7 +607,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -617,7 +635,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -644,7 +663,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -671,7 +691,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -698,7 +719,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -725,7 +747,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -752,7 +775,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -779,7 +803,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -806,7 +831,8 @@ score:
         time: 0
         effort: 0
         reach: 9.17
-      place: '18'
+      placeTaken: 18=
+      placeGiven: '18'
       total: 9
       fractions:
         distance: 8.803828e-2
@@ -833,7 +859,8 @@ score:
         time: 0
         effort: 0
         reach: 497.53
-      place: '1'
+      placeTaken: '1'
+      placeGiven: '1'
       total: 526
       fractions:
         distance: 1
@@ -860,7 +887,8 @@ score:
         time: 0
         effort: 0
         reach: 494.08
-      place: '2'
+      placeTaken: '2'
+      placeGiven: '2'
       total: 523
       fractions:
         distance: 0.99316583
@@ -887,7 +915,8 @@ score:
         time: 0
         effort: 0
         reach: 493.57
-      place: '3'
+      placeTaken: '3'
+      placeGiven: '3'
       total: 520
       fractions:
         distance: 0.9921608
@@ -914,7 +943,8 @@ score:
         time: 0
         effort: 0
         reach: 490.07
-      place: '4'
+      placeTaken: '4'
+      placeGiven: '4'
       total: 518
       fractions:
         distance: 0.98512563
@@ -941,7 +971,8 @@ score:
         time: 0
         effort: 0
         reach: 490.24
-      place: '5'
+      placeTaken: '5'
+      placeGiven: '5'
       total: 515
       fractions:
         distance: 0.98532663
@@ -968,7 +999,8 @@ score:
         time: 0
         effort: 0
         reach: 478.71
-      place: '6'
+      placeTaken: '6'
+      placeGiven: '6'
       total: 509
       fractions:
         distance: 0.96221106
@@ -995,7 +1027,8 @@ score:
         time: 0
         effort: 0
         reach: 449.6
-      place: '7'
+      placeTaken: '7'
+      placeGiven: '7'
       total: 470
       fractions:
         distance: 0.90371859
@@ -1022,7 +1055,8 @@ score:
         time: 0
         effort: 0
         reach: 433.24
-      place: '8'
+      placeTaken: '8'
+      placeGiven: '8'
       total: 451
       fractions:
         distance: 0.87075377
@@ -1049,7 +1083,8 @@ score:
         time: 0
         effort: 0
         reach: 430.46
-      place: '9'
+      placeTaken: '9'
+      placeGiven: '9'
       total: 449
       fractions:
         distance: 0.86532663
@@ -1076,7 +1111,8 @@ score:
         time: 0
         effort: 0
         reach: 420.37
-      place: '10'
+      placeTaken: '10'
+      placeGiven: '10'
       total: 437
       fractions:
         distance: 0.84502513
@@ -1103,7 +1139,8 @@ score:
         time: 0
         effort: 0
         reach: 365.84
-      place: '11'
+      placeTaken: '11'
+      placeGiven: '11'
       total: 384
       fractions:
         distance: 0.73527638
@@ -1130,7 +1167,8 @@ score:
         time: 0
         effort: 0
         reach: 349.52
-      place: '12'
+      placeTaken: '12'
+      placeGiven: '12'
       total: 370
       fractions:
         distance: 0.70251256
@@ -1157,7 +1195,8 @@ score:
         time: 0
         effort: 0
         reach: 232.1
-      place: '13'
+      placeTaken: '13'
+      placeGiven: '13'
       total: 248
       fractions:
         distance: 0.46653266
@@ -1184,7 +1223,8 @@ score:
         time: 0
         effort: 0
         reach: 214.32
-      place: '14'
+      placeTaken: '14'
+      placeGiven: '14'
       total: 222
       fractions:
         distance: 0.43075377
@@ -1211,7 +1251,8 @@ score:
         time: 0
         effort: 0
         reach: 201.3
-      place: '15'
+      placeTaken: '15'
+      placeGiven: '15'
       total: 209
       fractions:
         distance: 0.40462312
@@ -1238,7 +1279,8 @@ score:
         time: 0
         effort: 0
         reach: 152.64
-      place: '16'
+      placeTaken: '16'
+      placeGiven: '16'
       total: 160
       fractions:
         distance: 0.30673367
@@ -1265,7 +1307,8 @@ score:
         time: 0
         effort: 0
         reach: 124.77
-      place: '17'
+      placeTaken: '17'
+      placeGiven: '17'
       total: 131
       fractions:
         distance: 0.25085427
@@ -1292,7 +1335,8 @@ score:
         time: 0
         effort: 0
         reach: 119.02
-      place: '18'
+      placeTaken: '18'
+      placeGiven: '18'
       total: 127
       fractions:
         distance: 0.23919598
@@ -1319,7 +1363,8 @@ score:
         time: 0
         effort: 0
         reach: 75.02
-      place: '19'
+      placeTaken: '19'
+      placeGiven: '19'
       total: 80
       fractions:
         distance: 0.15075377
@@ -1346,7 +1391,8 @@ score:
         time: 0
         effort: 0
         reach: 49.58
-      place: '20'
+      placeTaken: '20'
+      placeGiven: '20'
       total: 55
       fractions:
         distance: 9.969849e-2
@@ -1373,7 +1419,8 @@ score:
         time: 0
         effort: 0
         reach: 41.55
-      place: '21'
+      placeTaken: '21'
+      placeGiven: '21'
       total: 47
       fractions:
         distance: 8.341709e-2
@@ -1400,7 +1447,8 @@ score:
         time: 0
         effort: 0
         reach: 21.89
-      place: '22'
+      placeTaken: '22'
+      placeGiven: '22'
       total: 26
       fractions:
         distance: 4.40201e-2
@@ -1427,7 +1475,8 @@ score:
         time: 0
         effort: 0
         reach: 21.89
-      place: '23'
+      placeTaken: '23'
+      placeGiven: '23'
       total: 22
       fractions:
         distance: 4.40201e-2
@@ -1454,7 +1503,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '24'
+      placeTaken: '24'
+      placeGiven: '24'
       total: 0
       fractions:
         distance: 0
@@ -1481,7 +1531,8 @@ score:
         time: 496.3
         effort: 0
         reach: 398.39
-      place: '1'
+      placeTaken: '1'
+      placeGiven: '1'
       total: 996
       fractions:
         distance: 1
@@ -1508,7 +1559,8 @@ score:
         time: 441
         effort: 0
         reach: 398.39
-      place: '2'
+      placeTaken: '2'
+      placeGiven: '2'
       total: 938
       fractions:
         distance: 1
@@ -1535,7 +1587,8 @@ score:
         time: 327.6
         effort: 0
         reach: 398.39
-      place: '3'
+      placeTaken: '3'
+      placeGiven: '3'
       total: 831
       fractions:
         distance: 1
@@ -1562,7 +1615,8 @@ score:
         time: 265
         effort: 0
         reach: 398.39
-      place: '4'
+      placeTaken: '4'
+      placeGiven: '4'
       total: 725
       fractions:
         distance: 1
@@ -1589,7 +1643,8 @@ score:
         time: 269.7
         effort: 0
         reach: 398.39
-      place: '5'
+      placeTaken: '5'
+      placeGiven: '5'
       total: 707
       fractions:
         distance: 1
@@ -1616,7 +1671,8 @@ score:
         time: 243.5
         effort: 0
         reach: 398.39
-      place: '6'
+      placeTaken: '6'
+      placeGiven: '6'
       total: 679
       fractions:
         distance: 1
@@ -1643,7 +1699,8 @@ score:
         time: 194
         effort: 0
         reach: 398.39
-      place: '7'
+      placeTaken: '7'
+      placeGiven: '7'
       total: 636
       fractions:
         distance: 1
@@ -1670,7 +1727,8 @@ score:
         time: 169.5
         effort: 0
         reach: 398.39
-      place: '8'
+      placeTaken: '8'
+      placeGiven: '8'
       total: 628
       fractions:
         distance: 1
@@ -1697,7 +1755,8 @@ score:
         time: 190.8
         effort: 0
         reach: 398.39
-      place: '9'
+      placeTaken: '9'
+      placeGiven: '9'
       total: 615
       fractions:
         distance: 1
@@ -1724,7 +1783,8 @@ score:
         time: 172.9
         effort: 0
         reach: 398.39
-      place: '10'
+      placeTaken: '10'
+      placeGiven: '10'
       total: 607
       fractions:
         distance: 1
@@ -1751,7 +1811,8 @@ score:
         time: 120
         effort: 0
         reach: 398.39
-      place: '11'
+      placeTaken: '11'
+      placeGiven: '11'
       total: 537
       fractions:
         distance: 1
@@ -1778,7 +1839,8 @@ score:
         time: 0
         effort: 0
         reach: 374.05
-      place: '12'
+      placeTaken: '12'
+      placeGiven: '12'
       total: 427
       fractions:
         distance: 0.93875502
@@ -1805,7 +1867,8 @@ score:
         time: 16.6
         effort: 0
         reach: 398.39
-      place: '13'
+      placeTaken: '13'
+      placeGiven: '13'
       total: 423
       fractions:
         distance: 1
@@ -1832,7 +1895,8 @@ score:
         time: 0
         effort: 0
         reach: 348.24
-      place: '14'
+      placeTaken: '14'
+      placeGiven: '14'
       total: 400
       fractions:
         distance: 0.87399598
@@ -1859,7 +1923,8 @@ score:
         time: 0
         effort: 0
         reach: 337.1
-      place: '15'
+      placeTaken: '15'
+      placeGiven: '15'
       total: 397
       fractions:
         distance: 0.84613454
@@ -1886,7 +1951,8 @@ score:
         time: 0
         effort: 0
         reach: 346.19
-      place: '16'
+      placeTaken: '16'
+      placeGiven: '16'
       total: 372
       fractions:
         distance: 0.8689759
@@ -1913,7 +1979,8 @@ score:
         time: 0
         effort: 0
         reach: 239.41
-      place: '17'
+      placeTaken: '17'
+      placeGiven: '17'
       total: 239
       fractions:
         distance: 0.60090361
@@ -1940,7 +2007,8 @@ score:
         time: 0
         effort: 0
         reach: 45.32
-      place: '18'
+      placeTaken: '18'
+      placeGiven: '18'
       total: 45
       fractions:
         distance: 0.11370482
@@ -1967,7 +2035,8 @@ score:
         time: 0
         effort: 0
         reach: 25.44
-      place: '19'
+      placeTaken: '19'
+      placeGiven: '19'
       total: 25
       fractions:
         distance: 6.375502e-2
@@ -1994,7 +2063,8 @@ score:
         time: 0
         effort: 0
         reach: 15.19
-      place: '20'
+      placeTaken: 20=
+      placeGiven: '20'
       total: 15
       fractions:
         distance: 3.815261e-2
@@ -2021,7 +2091,8 @@ score:
         time: 0
         effort: 0
         reach: 15.19
-      place: '20'
+      placeTaken: 20=
+      placeGiven: '20'
       total: 15
       fractions:
         distance: 3.815261e-2
@@ -2048,7 +2119,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '22'
+      placeTaken: '22'
+      placeGiven: '22'
       total: 0
       fractions:
         distance: 0
