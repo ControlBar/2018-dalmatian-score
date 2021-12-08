@@ -27,6 +27,7 @@ compTweak:
   essNotGoalScaling: 0
   leadingAreaDistanceSquared: true
   leadingWeightScaling: 1
+  timePowerExponent: 0.66666667
 pilots:
 - - '4'
   - Alojz Tovornik
